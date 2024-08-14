@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  programmes:
     output: true
     order:
       - folder-page.md
