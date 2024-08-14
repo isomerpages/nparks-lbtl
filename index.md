@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Lights by the Lake at Jurong Lake Gardens
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
