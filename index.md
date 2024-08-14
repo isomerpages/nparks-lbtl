@@ -4,10 +4,10 @@ title: Lights by the Lake at Jurong Lake Gardens
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      background: /images/LBTL_JLG_KV_Horizontal.png
+      background: /images/LBTL_JLG_KV__Email_Banner.png
       key_highlights:
         - title: Highlights
           description: ""
