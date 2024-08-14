@@ -21,9 +21,9 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Be Enchanted this Mid-Autumn Festival!
+      subtitle: Lights by the lake 2024
+      description: Plan a trip to Jurong Lake Gardens!
+      button: Check it out!
+      url: /highlights/
 ---
