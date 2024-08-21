@@ -21,7 +21,6 @@ sections:
   - infobar:
       title: Be Enchanted this Mid-Autumn Festival!
       subtitle: Lights by the lake 2024
-      description: Plan a trip to Jurong Lake Gardens!
-      button: Check it out!
+      button: Find out more
       url: /highlights/
 ---
