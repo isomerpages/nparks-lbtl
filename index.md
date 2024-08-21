@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/LBTL_JLG_KV_Horizontal.png
+      background: /images/LBTL_JLG_KV_800x450_v2.png
       key_highlights:
         - title: Highlights
           description: ""
