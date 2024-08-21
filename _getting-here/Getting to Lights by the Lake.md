@@ -214,5 +214,15 @@ Clusia Cove</p>
 <p><em>For further information, please contact Times24 Parking at <a href="tel:6592 2705" rel="noopener noreferrer nofollow" target="_blank">6592 2705</a>.&nbsp;</em>
 </p>
 <p></p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>By MRT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Nearest MRT station: Lakeside (EW26)</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ja8JB2vCY80?si=IGx4FQlCpZqe_eOl"></iframe>
+</div>
+</div>
+</details>
+</div>
 <p></p>
