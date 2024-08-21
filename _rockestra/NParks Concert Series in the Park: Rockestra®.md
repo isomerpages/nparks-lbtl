@@ -16,4 +16,4 @@ in singing&nbsp;and dancing the night away!</p>
 <p><strong>Date: </strong>14 September 2024
 <br><strong>Time: </strong>6:30pm till late
 <br><strong>Location: </strong>The Oval, Jurong Lake Gardens</p>
-<p>For more information on getting to the venue, click here.</p>
+<p>For more information on getting to the venue, click <a href="/getting-here/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
