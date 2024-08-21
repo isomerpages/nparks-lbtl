@@ -11,11 +11,11 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: ""
-        - title: Programmes
-          description: ""
-          url: ""
+          url: /highlights/
         - title: Getting Here
+          description: ""
+          url: /getting-here/
+        - title: Our Partners
           description: ""
           url: ""
   - infobar:
