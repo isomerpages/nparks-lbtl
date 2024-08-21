@@ -17,7 +17,10 @@ sections:
           url: /getting-here/
         - title: Our Partners
           description: ""
-          url: ""
+          url: /our-partners/
+        - title: Rockestra®
+          description: ""
+          url: /rockestra/
   - infobar:
       title: Be Enchanted this Mid-Autumn Festival!
       subtitle: Lights by the lake 2024
