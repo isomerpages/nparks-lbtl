@@ -35,4 +35,6 @@ sections:
         and English songs!
       image: /images/NParks_Rockestra.jpg
       alt: Image alt text
+      url: /rockestra/
+      button: read more
 ---
