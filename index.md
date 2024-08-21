@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Lights by the Lake at Jurong Lake Gardens
+title: Lights by the Lake 2024
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
