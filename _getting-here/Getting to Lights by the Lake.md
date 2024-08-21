@@ -4,12 +4,20 @@ permalink: /getting-to-lights-by-the-lake/
 variant: tiptap
 description: ""
 ---
-<h4><strong>By MRT</strong></h4>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>By MRT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Nearest MRT station: Lakeside (EW26)</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ja8JB2vCY80?si=IGx4FQlCpZqe_eOl"></iframe>
 </div>
-<h4><strong>By Bus</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>By Bus</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,8 +61,12 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>By Car or Taxi</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>By Car or Taxi</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_Carparks.png">
 </div>
@@ -209,19 +221,11 @@ Clusia Cove</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><em>For any parking session between 10.30pm to 7.00am the following day, per minute charging will apply subject to a maximum parking charge of $5.00</em>
 </p>
 <p><em>For further information, please contact Times24 Parking at <a href="tel:6592 2705" rel="noopener noreferrer nofollow" target="_blank">6592 2705</a>.&nbsp;</em>
 </p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>By MRT</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Nearest MRT station: Lakeside (EW26)</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ja8JB2vCY80?si=IGx4FQlCpZqe_eOl"></iframe>
-</div>
 </div>
 </details>
 </div>
