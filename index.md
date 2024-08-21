@@ -14,7 +14,7 @@ sections:
           url: ""
         - title: Programmes
           description: ""
-          url: https://gmail.com
+          url: ""
         - title: Getting Here
           description: ""
           url: ""
