@@ -1,4 +1,5 @@
 collections:
   rockestra:
     output: true
-    order: []
+    order:
+      - Rockestra.md
