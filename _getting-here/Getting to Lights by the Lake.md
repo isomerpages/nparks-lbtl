@@ -27,7 +27,6 @@ description: ""
 <details class="isomer-details">
 <summary>By Car or Taxi</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_Carparks.png">
 </div>
@@ -74,8 +73,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parking_charges.png">
 </div>
-<p><em>For any parking session between 10.30pm to 7.00am the following day, per minute charging will apply subject to a maximum parking charge of $5.00</em>
+<p><em>For any parking session between 10.30pm to 7.00am the following day, per minute charging will apply subject to a maximum parking charge of $5.00.</em>
 </p>
+<p></p>
 <p><em>For further information, please contact Times24 Parking at <a href="tel:6592 2705" rel="noopener noreferrer nofollow" target="_blank">6592 2705</a>.&nbsp;</em>
 </p>
 </div>
