@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Programmes
-    collection: programmes
+  - title: Highlights
+    url: /highlights/
   - title: Getting Here
     url: /getting-here/
-  - title: Contact Us
-    url: /contact-us/
+  - title: Rockestra®
+    url: /rockestra/
