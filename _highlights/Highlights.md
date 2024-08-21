@@ -25,12 +25,12 @@ Music and Drama Company and our local buskers!</p>
 Lake Gardens</p>
 <p></p>
 <h4><strong>NParks Concert Series in the Park: Rockestra®</strong></h4>
-<p>Mark your calendars for the 21<sup>st</sup> edition of Rockestra<strong><u>®</u></strong>!
-In line with the Mid-Autumn festivities, our incredible line-up of local
-artistes will perform ‘Moonlit Melodies’, which feature a selection of
-Mandarin and English songs.</p>
-<p>Join Yokez, Jumpstart, and Juni and Khim from Music &amp; Drama Company
-in singing&nbsp;and dancing the night away!</p>
+<p>Mark your calendars for the 21<sup>st</sup> edition of Rockestra<strong><u>®</u></strong>!</p>
+<p>In line with the Mid-Autumn festivities, the concert is themed ‘Moonlit
+Melodies’ and will feature a spectacular line-up of local artistes performing
+a selection of popular Mandarin and English songs.</p>
+<p>Join Yokez, The Jumpstart, and Juni and Khim from Music &amp; Drama Company
+in singing and dancing the night away!</p>
 <p><strong>Date: </strong>14 September 2024
 <br><strong>Time: </strong>6:30pm
 <br><strong>Location: </strong>The Oval, Jurong Lake Gardens</p>
