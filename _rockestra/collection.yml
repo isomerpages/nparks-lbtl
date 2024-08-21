@@ -2,4 +2,4 @@ collections:
   rockestra:
     output: true
     order:
-      - Rockestra.md
+      - "NParks Concert Series in the Park: Rockestra®.md"
