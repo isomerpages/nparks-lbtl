@@ -8,19 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/LBTL_JLG_KV_800x450_v2.png
-      key_highlights:
-        - title: Highlights
-          description: ""
-          url: /highlights/
-        - title: Getting Here
-          description: ""
-          url: /getting-here/
-        - title: Our Partners
-          description: ""
-          url: /our-partners/
-        - title: Rockestra®
-          description: ""
-          url: /rockestra/
   - infobar:
       title: Be Enchanted this Mid-Autumn Festival!
       subtitle: Lights by the lake 2024
