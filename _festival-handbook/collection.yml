@@ -1,4 +1,5 @@
 collections:
   festival-handbook:
     output: true
-    order: []
+    order:
+      - Festival Handbook.md
