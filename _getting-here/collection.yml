@@ -1,0 +1,5 @@
+collections:
+  getting-here:
+    output: true
+    order:
+      - Getting to Lights by the Lake.md

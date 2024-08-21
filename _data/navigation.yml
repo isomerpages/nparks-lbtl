@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/NParks_logo_tagline.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Highlights
+    url: /highlights/
+  - title: Getting Here
+    url: /getting-here/
+  - title: Rockestra®
+    url: /rockestra/
+  - title: Our Partners
+    url: /our-partners/

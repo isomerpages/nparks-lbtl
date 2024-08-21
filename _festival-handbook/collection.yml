@@ -1,0 +1,5 @@
+collections:
+  festival-handbook:
+    output: true
+    order:
+      - Festival Handbook.md

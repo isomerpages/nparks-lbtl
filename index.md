@@ -1,32 +1,40 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Lights by the Lake 2024
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/LBTL_JLG_KV_800x450_v2.png
+  - infobar:
+      title: Be Enchanted this Mid-Autumn Festival!
+      subtitle: Lights by the lake 2024
+      button: Find out more
+      url: /highlights/
+  - infopic:
+      title: Lantern Displays
+      id: infopic
+      description: Look forward to beautiful lantern displays that showcase the
+        biodiversity and iconic buildings of Jurong Lake Gardens!
+      image: /images/LBTL_lanterns_resized.jpg
+      alt: Image alt text
+  - infopic:
+      title: Cultural Showcases and Music Performances
+      id: infopic
+      description: From traditional dances to contemporary musical expressions, each
+        showcase promises to be a celebration of artistry and cultural heritage.
+      image: /images/LBTL_performances.jpg
+      alt: Image alt text
+  - infopic:
+      title: "NParks Concert Series in the Park: Rockestra®"
+      id: infopic
+      description: Join Yokez, The Jumpstart, and Juni and Khim from Music & Drama
+        Company in singing and dancing the night away to a selection of Mandarin
+        and English songs!
+      image: /images/NParks_Rockestra.jpg
+      alt: Image alt text
+      url: /rockestra/
+      button: read more
 ---
-
