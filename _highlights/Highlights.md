@@ -509,4 +509,38 @@ to fitness and fun!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Guided Tours of Chinese and Japanese Gardens (from 8 Sep)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Immerse yourself in the rich history and serene beauty of the newly opened
+Japanese and Chinese Gardens. Join our guided tours to explore the intricately
+designed landscapes, vibrant flora, and traditional architectural marvels.</p>
+<p></p>
+<p><em>In the case of light rain, participants can proceed with the guided tour using umbrellas or ponchos. In the case of heavy rain, the tour will be rescheduled/cancelled.</em>
+</p>
+<p></p>
+<p><strong>Date: </strong>14 and 21 September 2024
+<br><strong>Time: </strong>5pm- 7pm
+<br><strong>Location: </strong>Chinese Garden and Japanese Garden</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Light and Projection Shows (from 8 Sep)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Witness the enchanting transformation of the Chinese Gardens as they come
+alive with vibrant colors and dynamic projections! Experience the magic
+as the Cloud Pagoda illuminates the night sky and marvel at the Grand Arch
+as it becomes a canvas for breathtaking projection shows, showcasing a
+fusion of tradition and innovation in a mesmerizing display.</p>
+<p></p>
+<p><strong>Date: </strong>8 - 22 September 2024
+<br><strong>Time:</strong> 7:30pm – 9:30pm daily
+<br><strong>Location: &nbsp;</strong>Grand Arch and Cloud Pagoda, Chinese
+Gardens</p>
+</div>
+</details>
+</div>
 <p></p>
