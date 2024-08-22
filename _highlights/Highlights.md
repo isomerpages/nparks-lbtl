@@ -10,6 +10,9 @@ description: ""
 <summary><strong>Lantern Displays</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_lanterns_resized.jpg">
+</div>
 <p>Look forward to beautiful lantern displays that showcase the biodiversity
 and iconic buildings of Jurong Lake Gardens!&nbsp;The displays will feature
 lanterns meticulously crafted by professional lantern artisans, as well
@@ -26,6 +29,9 @@ visitors many photo-taking opportunities. &nbsp;</p>
 <summary><strong>Cultural Showcases and Music Performances</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_performances.jpg">
+</div>
 <p>From traditional dances to contemporary musical expressions, each showcase
 promises to be a celebration of artistry and cultural heritage. Don't miss
 this opportunity to catch performances by Yuan Ching Secondary School,
@@ -41,6 +47,9 @@ Lake Gardens</p>
 <summary><strong>NParks Concert Series in the Park: Rockestra®</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NParks_Rockestra.jpg">
+</div>
 <p>Mark your calendars for the 21<sup>st</sup> edition of Rockestra<strong>®</strong>!</p>
 <p>In line with the Mid-Autumn festivities, the concert is themed ‘Moonlit
 Melodies’ and will feature a spectacular line-up of local artistes performing
