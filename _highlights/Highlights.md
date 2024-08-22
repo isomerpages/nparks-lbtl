@@ -65,6 +65,11 @@ in singing and dancing the night away!</p>
 <summary><strong>Movie Screenings</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Movie_screening.jpg">
+</div>
 <p>Don’t miss our upcoming movie screenings! Bring your friends and family
 for an evening of entertainment and relaxation. Stay tuned for more details!</p>
 <p></p>
@@ -76,6 +81,10 @@ for an evening of entertainment and relaxation. Stay tuned for more details!</p>
 <summary><strong>Lantern Riddles</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_Lantern_Riddle_2.jpg">
+</div>
 <p>Join us for an evening of delightful puzzlement and cultural celebration
 under the soft glow of lanterns. Test your wit and wisdom as you unravel
 the charm of traditional riddles in a joyous gathering of family and friends.</p>
@@ -89,6 +98,9 @@ the charm of traditional riddles in a joyous gathering of family and friends.</p
 <summary><strong>President’s Challenge 2024 Activity Booths</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/President_s_Challenge___Water_Lanterns_2.jpg">
+</div>
 <p>In support of the President’s Challenge 2024, there will be fun activity
 booths where visitors may support the Challenge by purchasing 3D-printed
 souvenirs, floating water lanterns and solar-powered tulips. There will
