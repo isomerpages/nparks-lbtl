@@ -41,7 +41,7 @@ Lake Gardens</p>
 <summary><strong>NParks Concert Series in the Park: Rockestra®</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Mark your calendars for the 21<sup>st</sup> edition of Rockestra<strong><u>®</u></strong>!</p>
+<p>Mark your calendars for the 21<sup>st</sup> edition of Rockestra<strong>®</strong>!</p>
 <p>In line with the Mid-Autumn festivities, the concert is themed ‘Moonlit
 Melodies’ and will feature a spectacular line-up of local artistes performing
 a selection of popular Mandarin and English songs.</p>
