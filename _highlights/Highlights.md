@@ -297,6 +297,9 @@ to fitness and fun!</p>
 <summary><strong>Guided Tours of Chinese and Japanese Gardens (from 8 Sep)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_Guided_walk.png">
+</div>
 <p>Immerse yourself in the rich history and serene beauty of the newly opened
 Japanese and Chinese Gardens. Join our guided tours to explore the intricately
 designed landscapes, vibrant flora, and traditional architectural marvels.</p>
@@ -326,4 +329,5 @@ Gardens</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
