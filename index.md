@@ -2,7 +2,7 @@
 layout: homepage
 title: Lights by the Lake 2024
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/LBTL_JLG_KV_800x450_v2.png
 permalink: /
 notification: ""
 sections:
