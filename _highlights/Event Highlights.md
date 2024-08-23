@@ -35,12 +35,12 @@ visitors many photo-taking opportunities. &nbsp;</p>
 <p>From traditional dances to contemporary musical expressions, each showcase
 promises to be a celebration of artistry and cultural heritage. Don't miss
 this opportunity to catch performances by Yuan Ching Secondary School,
-Music and Drama Company and our local buskers!</p>
+Music and Drama Company and other local musicians!</p>
 <p></p>
-<p><strong>Date: </strong>8, 13 – 15, 17, 20 – 22 September 2024
-<br><strong>Time: </strong>6:30pm – 9:30pm
-<br><strong>Location: </strong>&nbsp;Wave Plaza and Viewing Deck,<strong> </strong>Jurong
-Lake Gardens</p>
+<p><strong>Date: </strong>8, 13 – 15, 17, 20 – 22 September 2024</p>
+<p><strong>Time: </strong>6:30pm – 9:30pm</p>
+<p><strong>Location: &nbsp;</strong>Wave Plaza,<strong> </strong>Jurong Lake
+Gardens</p>
 </div>
 </details>
 <details class="isomer-details">
