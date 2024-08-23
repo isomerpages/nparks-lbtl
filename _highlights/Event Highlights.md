@@ -304,7 +304,8 @@ to fitness and fun!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Roving Art Truck by National Gallery Singapore</summary>
+<summary><strong>Roving Art Truck by National Gallery Singapore</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9356.jpg">
