@@ -13,7 +13,7 @@ crowd-favourite NParks Concert Series in the Park: Rockestra<strong>®</strong>,
 captivating lantern riddles, a food street featuring mouthwatering F&amp;B
 to exciting partner programmes, be enchanted this Mid-Autumn Festival at
 Lights by the Lake 2024!</p>
-<p>Click on the tabs below to find out more about the event highlights!</p>
+<p>Click on the tabs below to find out more about the event highlights.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Lantern Displays</strong>
