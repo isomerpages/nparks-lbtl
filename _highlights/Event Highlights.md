@@ -306,7 +306,14 @@ to fitness and fun!</p>
 <details class="isomer-details">
 <summary>Roving Art Truck by National Gallery Singapore</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>GBeep beep! The Roving Art Truck is here! Explore fascinating artworks
+from the National Collection and join in free activities for some family
+fun! Inspired by Georgette Chen's Still Life (Moon Festival Table), create
+your own masterpiece using mooncake stamps to decorate your very own paper
+fan.</p>
+<p>Date: 13 - 15, 20 - 22 September 2024</p>
+<p>Time: 6:30pm - 10pm daily</p>
+<p>Location: Wave Plaza, Lakeside Gardens, Jurong Lake Gardens</p>
 </div>
 </details>
 </div>
