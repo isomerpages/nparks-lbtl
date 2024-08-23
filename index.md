@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/LBTL_JLG_KV_800x450_v2.png
+      background: /images/LBTL_JLG_KV_Isomer_Hero.png
   - infobar:
       title: Be Enchanted this Mid-Autumn Festival!
       subtitle: Lights by the lake 2024
