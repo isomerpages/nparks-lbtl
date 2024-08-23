@@ -31,10 +31,10 @@ for some family-friendly fun. You can also catch a free movie screening
 while relishing in a delectable selection of street food!</p>
 <p>Lights by the Lake 2024 is organised by National Parks Board, with special
 thanks to our event partners, A-Smart Media Pte Ltd, AUX Media Pte. Ltd,
-Nanyang Inc., Music &amp; Drama Company, People’s Association, National
-Arts Council and South West Community Development Council. We are also
-grateful for the support of PAssion Wave, ActiveSG, Hipster Inc, Yuan Ching
-Secondary School, Jack Neo, Singapore Red Cross, and Sony. &nbsp;</p>
+Music &amp; Drama Company, Nanyang Inc., National Arts Council, People’s
+Association, and South West Community Development Council. We are also
+grateful for the support of ActiveSG, Hipster Inc, Jack Neo, PAssion Wave,
+Singapore Red Cross, Sony, and Yuan Ching Secondary School.</p>
 <p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
 Nodes Network.</p>
 <p>Please note that Jurong Lake Gardens is a smoke-free garden. Visitors
