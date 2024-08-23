@@ -306,6 +306,10 @@ to fitness and fun!</p>
 <details class="isomer-details">
 <summary>Roving Art Truck by National Gallery Singapore</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9356.jpg">
+</div>
 <p>Beep beep! The Roving Art Truck is here! Explore fascinating artworks
 from the National Collection and join in free activities for some family
 fun! Inspired by Georgette Chen's Still Life (Moon Festival Table), create
