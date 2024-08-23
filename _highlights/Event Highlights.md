@@ -316,9 +316,9 @@ fun! Inspired by Georgette Chen's Still Life (Moon Festival Table), create
 your own masterpiece using mooncake stamps to decorate your very own paper
 fan.</p>
 <p></p>
-<p>Date: 13 - 15, 20 - 22 September 2024</p>
-<p>Time: 6:30pm - 10pm daily</p>
-<p>Location: Wave Plaza, Lakeside Gardens, Jurong Lake Gardens</p>
+<p><strong>Date</strong>: 13 - 15, 20 - 22 September 2024</p>
+<p><strong>Time</strong>: 6:30pm - 10pm daily</p>
+<p><strong>Location</strong>: Wave Plaza, Lakeside Gardens, Jurong Lake Gardens</p>
 </div>
 </details>
 </div>
