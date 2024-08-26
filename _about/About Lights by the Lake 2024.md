@@ -42,5 +42,5 @@ Nodes Network.</p>
 <p>Please note that Jurong Lake Gardens is a smoke-free garden. Visitors
 to Lights by the Lake 2024 are reminded that open flames such as candlelit
 lanterns and sparklers are not permitted in the Gardens. Additionally,
-visitors are encouraged to go car-lite and travel to the garden via <a href="/getting-to-lights-by-the-lake/" rel="noopener noreferrer nofollow" target="_blank">public transport</a>.</p>
+visitors are encouraged to go car-lite and travel to the garden via <a href="/getting-here/" rel="noopener nofollow" target="_blank">public transport</a>.</p>
 <p></p>
