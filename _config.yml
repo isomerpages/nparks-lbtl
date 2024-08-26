@@ -3,7 +3,7 @@ url: https://lightsbythelake.nparks.gov.sg
 favicon: /images/NParks_JLG_logos.png
 colors:
   primary-color: "#c05131"
-  secondary-color: "#215732"
+  secondary-color: "#a54570"
   media-colors:
     - title: media-color-one
       color: "#af272f"
