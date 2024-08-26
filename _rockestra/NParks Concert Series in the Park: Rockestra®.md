@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rock_14_Sep_2024_Poster_shadow.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Rock_14_Sep_2024_Poster_shadow.jpg">
 </div>
 <p>Mark your calendars for the 21<sup>st</sup> edition of Rockestra<strong>®</strong>!</p>
 <p>Music lovers, you’re in for a treat! In line with the Mid-Autumn festivities,
@@ -23,6 +23,6 @@ in singing and dancing the night away!</p>
 <p>For more information on getting to the venue, click <a href="/getting-here/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><strong>Official Radio Station</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/883JIA__Rock_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/883JIA__Rock_.png">
 </div>
 <p></p>
