@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/LBTL_JLG_KV_Isomer_Hero.png
+      background: /images/Key Visuals/LBTL_JLG_KV_Isomer_Hero.png
       title: LIGHTS BY THE LAKE
       subtitle: Be enchanted this Mid-Autumn Festival!
       button: find out more
