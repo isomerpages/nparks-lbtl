@@ -18,7 +18,7 @@ sections:
       id: infopic
       description: Look forward to beautiful lantern displays that showcase the
         biodiversity and iconic buildings of Jurong Lake Gardens!
-      image: /images/LBTL_lanterns_resized.jpg
+      image: /images/Lantern_montage.png
       alt: Image alt text
   - infopic:
       title: Cultural Showcases and Music Performances
