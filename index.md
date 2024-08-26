@@ -17,14 +17,14 @@ sections:
       id: infopic
       description: Look forward to beautiful lantern displays that showcase the
         biodiversity and iconic buildings of Jurong Lake Gardens!
-      image: /images/Lantern_montage.png
+      image: /images/Activites/Lantern_montage.png
       alt: Image alt text
   - infopic:
       title: Cultural Showcases and Music Performances
       id: infopic
       description: From traditional dances to contemporary musical expressions, each
         showcase promises to be a celebration of artistry and cultural heritage.
-      image: /images/LBTL_performances.jpg
+      image: /images/Activites/LBTL_performances.jpg
       alt: Image alt text
   - infopic:
       title: "NParks Concert Series in the Park: Rockestra®"
