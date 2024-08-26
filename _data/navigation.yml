@@ -1,4 +1,4 @@
-logo: /images/NParks_JLG_logos.png
+logo: /images/Logos/NParks_JLG_logos_2.png
 links:
   - title: About
     url: /about
@@ -10,3 +10,5 @@ links:
     url: /our-partners/
   - title: Getting Here
     url: /getting-here/
+  - title: Notices
+    url: /notices
