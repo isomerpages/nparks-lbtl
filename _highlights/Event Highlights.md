@@ -325,4 +325,3 @@ fan.</p>
 <p></p>
 <p><strong>Watch this space for more information on Lights By The Lake 2024 @ Jurong Lake Gardens!</strong>
 </p>
-<p></p>
