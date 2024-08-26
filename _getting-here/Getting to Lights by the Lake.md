@@ -19,7 +19,7 @@ description: ""
 <summary>By Bus</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting Here/Buses.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Getting Here/Buses.png">
 </div>
 </div>
 </details>
@@ -63,12 +63,12 @@ description: ""
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting Here/Carparks.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Getting Here/Carparks.png">
 </div>
 <p><strong><u>Parking charges</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting Here/Parking_charges.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Getting Here/Parking_charges.png">
 </div>
 <p><em>For any parking session between 10.30pm to 7.00am the following day, per minute charging will apply subject to a maximum parking charge of $5.00.</em>
 </p>
