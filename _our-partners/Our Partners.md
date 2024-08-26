@@ -14,7 +14,6 @@ Singapore Red Cross, Sony, and Yuan Ching Secondary School.</p>
 Songs.</p>
 <p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
 Nodes Network.</p>
-<p></p>
 <h4><strong>Event Partner</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event_Partner.png">
