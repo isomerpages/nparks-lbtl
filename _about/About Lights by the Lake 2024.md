@@ -35,6 +35,8 @@ Music &amp; Drama Company, Nanyang Inc., National Arts Council, People’s
 Association, and South West Community Development Council. We are also
 grateful for the support of ActiveSG, Hipster Inc, Jack Neo, PAssion Wave,
 Singapore Red Cross, Sony, and Yuan Ching Secondary School.</p>
+<p>The official radio station for Lights by the Lake 2024 is Power98 Love
+Songs.</p>
 <p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
 Nodes Network.</p>
 <p>Please note that Jurong Lake Gardens is a smoke-free garden. Visitors

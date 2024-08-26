@@ -20,7 +20,7 @@ Lights by the Lake 2024!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_lanterns_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_Lanterns_3.jpg">
 </div>
 <p>Look forward to beautiful lantern displays that showcase the biodiversity
 and iconic buildings of Jurong Lake Gardens!&nbsp;The displays will feature
@@ -159,7 +159,6 @@ to fitness and fun!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Registration is on a first-come first-served basis.</p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -197,10 +196,9 @@ to fitness and fun!</p>
 <p>2pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlkayak" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlkayak</u></a>&nbsp;</p>
-<p><a href="https://go.gov.sg/lbtldb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtldb</u></a>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtldb</a>
 </p>
-<p><a href="https://go.gov.sg/lbtlpb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlpb</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlpb</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -213,7 +211,7 @@ to fitness and fun!</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlnagomi" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlnagomi</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlnagomi</a>
 </p>
 </td>
 </tr>
@@ -236,6 +234,8 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
+</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -250,10 +250,10 @@ to fitness and fun!</p>
 <p>2pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlkayak" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlkayak</u></a>&nbsp;</p>
-<p><a href="https://go.gov.sg/lbtldb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtldb</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlkayak</a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtldb</a>
 </p>
-<p><a href="https://go.gov.sg/lbtlpb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlpb</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlpb</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -266,7 +266,7 @@ to fitness and fun!</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlzentangle" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlzentangle</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlzentangle</a>
 </p>
 </td>
 </tr>
@@ -278,7 +278,7 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlwalk" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlwalk</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -294,7 +294,7 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlwalk" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlwalk</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -316,49 +316,13 @@ fun! Inspired by Georgette Chen's Still Life (Moon Festival Table), create
 your own masterpiece using mooncake stamps to decorate your very own paper
 fan.</p>
 <p></p>
-<p><strong>Date</strong>: 13 - 15, 20 - 22 September 2024</p>
-<p><strong>Time</strong>: 6:30pm - 10pm daily</p>
-<p><strong>Location</strong>: Wave Plaza, Lakeside Gardens, Jurong Lake Gardens</p>
+<p><strong>Date</strong>: 13 - 15, 20 - 22 September 2024
+<br><strong>Time</strong>: 6:30pm - 10pm daily
+<br><strong>Location</strong>: Wave Plaza, Lakeside Gardens, Jurong Lake Gardens</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Guided Tours of Chinese and Japanese Gardens (from 8 Sep)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_Guided_walk.png">
-</div>
-<p>Immerse yourself in the rich history and serene beauty of the newly opened
-Japanese and Chinese Gardens. Join our guided tours to explore the intricately
-designed landscapes, vibrant flora, and traditional architectural marvels.</p>
 <p></p>
-<p><em>In the case of light rain, participants can proceed with the guided tour using umbrellas or ponchos. In the case of heavy rain, the tour will be rescheduled/cancelled.</em>
+<p><strong>Watch this space for more information on Lights By The Lake 2024 @ Jurong Lake Gardens!</strong>
 </p>
-<p></p>
-<p><strong>Date: </strong>14 and 21 September 2024
-<br><strong>Time: </strong>5pm- 7pm
-<br><strong>Location: </strong>Chinese Garden and Japanese Garden</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Light and Projection Shows (from 8 Sep)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Witness the enchanting transformation of the Chinese Gardens as they come
-alive with vibrant colors and dynamic projections! Experience the magic
-as the Cloud Pagoda illuminates the night sky and marvel at the Grand Arch
-as it becomes a canvas for breathtaking projection shows, showcasing a
-fusion of tradition and innovation in a mesmerizing display.</p>
-<p></p>
-<p><strong>Date: </strong>8 - 22 September 2024
-<br><strong>Time:</strong> 7:30pm – 9:30pm daily
-<br><strong>Location: &nbsp;</strong>Grand Arch and Cloud Pagoda, Chinese
-Gardens</p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
 <p></p>
