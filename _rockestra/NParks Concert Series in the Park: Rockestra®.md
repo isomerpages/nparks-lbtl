@@ -4,8 +4,9 @@ permalink: /rockestra/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rock_14_Sep_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rock_14_Sep_2024_Poster_shadow.jpg">
 </div>
 <p>Mark your calendars for the 21<sup>st</sup> edition of Rockestra<strong>®</strong>!</p>
 <p>Music lovers, you’re in for a treat! In line with the Mid-Autumn festivities,
