@@ -159,7 +159,6 @@ to fitness and fun!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Registration is on a first-come first-served basis.</p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -197,10 +196,9 @@ to fitness and fun!</p>
 <p>2pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlkayak" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlkayak</u></a>&nbsp;</p>
-<p><a href="https://go.gov.sg/lbtldb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtldb</u></a>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtldb</a>
 </p>
-<p><a href="https://go.gov.sg/lbtlpb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlpb</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlpb</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -213,7 +211,7 @@ to fitness and fun!</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlnagomi" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlnagomi</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlnagomi</a>
 </p>
 </td>
 </tr>
@@ -236,6 +234,8 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
+</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -250,10 +250,10 @@ to fitness and fun!</p>
 <p>2pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlkayak" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlkayak</u></a>&nbsp;</p>
-<p><a href="https://go.gov.sg/lbtldb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtldb</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlkayak</a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtldb</a>
 </p>
-<p><a href="https://go.gov.sg/lbtlpb" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlpb</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlpb</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -266,7 +266,7 @@ to fitness and fun!</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlzentangle" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlzentangle</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlzentangle</a>
 </p>
 </td>
 </tr>
@@ -278,7 +278,7 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlwalk" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlwalk</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -294,7 +294,7 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lbtlwalk" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/lbtlwalk</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -323,5 +323,6 @@ fan.</p>
 </details>
 </div>
 <p></p>
-<p></p>
+<p><strong>Watch this space for more information on Lights By The Lake 2024 @ Jurong Lake Gardens!</strong>
+</p>
 <p></p>
