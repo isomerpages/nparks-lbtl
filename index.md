@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: From traditional dances to contemporary musical expressions, each
         showcase promises to be a celebration of artistry and cultural heritage.
-      image: /images/Activites/LBTL_performances.jpg
+      image: /images/Activites/Cultural_activities_montage.png
       alt: Image alt text
   - infopic:
       title: "NParks Concert Series in the Park: Rockestra®"
@@ -32,7 +32,7 @@ sections:
       description: Join Yokez, The Jumpstart, and Juni and Khim from Music & Drama
         Company in singing and dancing the night away to a selection of Mandarin
         and English songs!
-      image: /images/NParks_Rockestra.jpg
+      image: /images/Activites/NParks_Rockestra.jpg
       alt: Image alt text
       url: /rockestra/
       button: read more
