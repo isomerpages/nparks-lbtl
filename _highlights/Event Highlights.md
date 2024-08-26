@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_montage_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/LBTL_montage_2.png">
 </div>
 <p>From spectacular lantern displays, electrifying cultural &amp; music performances,
 crowd-favourite NParks Concert Series in the Park: Rockestra<strong>®</strong>,
@@ -20,7 +20,7 @@ Lights by the Lake 2024!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_Lanterns_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Lantern_montage.png">
 </div>
 <p>Look forward to beautiful lantern displays that showcase the biodiversity
 and iconic buildings of Jurong Lake Gardens!&nbsp;The displays will feature
@@ -39,7 +39,7 @@ visitors many photo-taking opportunities. &nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_performances.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Cultural_activities_montage.png">
 </div>
 <p>From traditional dances to contemporary musical expressions, each showcase
 promises to be a celebration of artistry and cultural heritage. Don't miss
@@ -57,7 +57,7 @@ Gardens</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NParks_Rockestra.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/NParks_Rockestra.jpg">
 </div>
 <p>Mark your calendars for the 21<sup>st</sup> edition of Rockestra<strong>®</strong>!</p>
 <p>In line with the Mid-Autumn festivities, the concert is themed ‘Moonlit
@@ -74,10 +74,8 @@ in singing and dancing the night away!</p>
 <summary><strong>Movie Screenings</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Movie_screening.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Movie_screening.jpg">
 </div>
 <p>Don’t miss our upcoming movie screenings! Bring your friends and family
 for an evening of entertainment and relaxation. Stay tuned for more details!</p>
@@ -90,9 +88,8 @@ for an evening of entertainment and relaxation. Stay tuned for more details!</p>
 <summary><strong>Lantern Riddles</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_Lantern_Riddle_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/LBTL_Lantern_Riddle_2.jpg">
 </div>
 <p>Join us for an evening of delightful puzzlement and cultural celebration
 under the soft glow of lanterns. Test your wit and wisdom as you unravel
@@ -108,7 +105,7 @@ the charm of traditional riddles in a joyous gathering of family and friends.</p
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/President_s_Challenge___Water_Lanterns_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/President_s_Challenge___Water_Lanterns.jpg">
 </div>
 <p>In support of the President’s Challenge 2024, there will be fun activity
 booths where visitors may support the Challenge by purchasing 3D-printed
@@ -143,7 +140,7 @@ a night of laughter and joy for the whole family!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workout_activities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Workout_activities.png">
 </div>
 <p>Get ready to move and groove with a Dance of the Nation Workout, followed
 by an exhilarating Zumba Workout! Let's sweat, smile, and dance our way
@@ -308,7 +305,7 @@ to fitness and fun!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9356.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/IMG_9356.jpg">
 </div>
 <p>Beep beep! The Roving Art Truck is here! Explore fascinating artworks
 from the National Collection and join in free activities for some family
