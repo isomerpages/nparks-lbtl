@@ -19,6 +19,8 @@ sections:
         biodiversity and iconic buildings of Jurong Lake Gardens!
       image: /images/Activities/Lantern_montage.png
       alt: Image alt text
+      url: /highlights/
+      button: read more
   - infopic:
       title: Cultural Showcases and Music Performances
       id: infopic
@@ -26,6 +28,8 @@ sections:
         showcase promises to be a celebration of artistry and cultural heritage.
       image: /images/Activities/Cultural_activities_montage.png
       alt: Image alt text
+      url: /highlights/
+      button: read more
   - infopic:
       title: "NParks Concert Series in the Park: Rockestra®"
       id: infopic
