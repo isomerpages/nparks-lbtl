@@ -104,6 +104,9 @@ the charm of traditional riddles in a joyous gathering of family and friends.</p
 <summary><strong>President’s Challenge 2024 Activity Booths</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/President_s_Challenge_montage_jpeg.png">
+</div>
 <p>In support of the President’s Challenge 2024, there will be fun activity
 booths where visitors may support the Challenge by purchasing 3D-printed
 souvenirs, floating water lanterns and solar-powered tulips. There will
