@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Lights by the Lake 2024
-description: Be enchanted this Mid-Autumn at Lights by the Lake 2024!
+description: Be enchanted this Mid-Autumn Festival at Lights by the Lake 2024!
 image: /images/LBTL_JLG_KV_800x450_v2.png
 permalink: /
 notification: ""
