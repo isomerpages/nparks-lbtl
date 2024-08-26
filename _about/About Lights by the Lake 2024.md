@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_JLG_KV_Horizontal.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_JLG_KV_800x450_shadow.png">
 </div>
 <h2><strong>LIGHTS BY THE LAKE 2024</strong></h2>
 <p><strong>Dates</strong>: 8 September - 22 September 2024
