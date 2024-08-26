@@ -12,11 +12,6 @@ sections:
       subtitle: Be enchanted this Mid-Autumn Festival!
       button: find out more
       url: /about/
-  - infobar:
-      title: Be Enchanted this Mid-Autumn Festival!
-      subtitle: Lights by the lake 2024
-      button: Find out more
-      url: /highlights/
   - infopic:
       title: Lantern Displays
       id: infopic
