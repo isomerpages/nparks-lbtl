@@ -20,7 +20,7 @@ Lights by the Lake 2024!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_lanterns_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_Lanterns_3.jpg">
 </div>
 <p>Look forward to beautiful lantern displays that showcase the biodiversity
 and iconic buildings of Jurong Lake Gardens!&nbsp;The displays will feature
