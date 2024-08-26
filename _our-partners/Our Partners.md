@@ -16,14 +16,14 @@ Songs.</p>
 Nodes Network.</p>
 <h4><strong>Event Partners</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Event_Partner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/Event_Partner.png">
 </div>
 <h4><strong>Supported by</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Supported_by.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/Supported_by.png">
 </div>
 <h4><strong>Official Radio Station</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Power98__LBTL_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/Power98__LBTL_.png">
 </div>
 <p></p>
