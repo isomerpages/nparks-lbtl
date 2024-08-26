@@ -15,6 +15,8 @@ line-up of local artistes performing a selection of popular Mandarin and
 English songs.&nbsp;</p>
 <p>Join Yokez, The Jumpstart, and Juni and Khim from Music &amp; Drama Company
 in singing and dancing the night away!</p>
+<p>The official radio station for NParks Concert Series in the Park: Rockestra<strong>® </strong>is
+883JIA.</p>
 <p><strong>Date: </strong>14 September 2024
 <br><strong>Time: </strong>6:30pm till late
 <br><strong>Location: </strong>The Oval, Jurong Lake Gardens</p>
