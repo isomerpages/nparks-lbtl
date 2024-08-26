@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/LBTL_JLG_KV_Isomer_Hero.png
-      title: Lights by the Lake 2024
+      title: LIGHTS BY THE LAKE 2024
       subtitle: Be enchanted this Mid-Autumn Festival!
       button: find out more
       url: /about/
