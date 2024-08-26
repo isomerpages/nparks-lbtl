@@ -1,6 +1,6 @@
 title: Lights by the Lake 2024
 url: https://lightsbythelake.nparks.gov.sg
-favicon: /images/Logos/JLG_Secondary_Logo.png
+favicon: /images/Partners & Logos/JLG_Secondary_Logo.png
 colors:
   primary-color: "#c05131"
   secondary-color: "#a54570"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dh4suconcwaup.amplifyapp.com
 prod: https://master.d2lywj1j8vbmkv.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/LBTL_JLG_KV_800x450_v2.png
+shareicon: /images/Key Visuals/LBTL_JLG_KV_800x450_v2.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
