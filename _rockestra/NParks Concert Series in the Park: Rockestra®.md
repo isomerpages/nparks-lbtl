@@ -21,3 +21,8 @@ in singing and dancing the night away!</p>
 <br><strong>Time: </strong>6:30pm till late
 <br><strong>Location: </strong>The Oval, Jurong Lake Gardens</p>
 <p>For more information on getting to the venue, click <a href="/getting-here/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4><strong>Official Radio Station</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/883JIA__Rock_.png">
+</div>
+<p></p>
