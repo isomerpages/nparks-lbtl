@@ -1,0 +1,4 @@
+collections:
+  photo-competition:
+    output: true
+    order: []
