@@ -1,0 +1,5 @@
+collections:
+  photo-competition:
+    output: true
+    order:
+      - Photo Competitions.md
