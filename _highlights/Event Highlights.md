@@ -193,11 +193,8 @@ to fitness and fun!</p>
 <p>2pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtldb</a>
+<p><a href="https://go.gov.sg/lbtldb" rel="noopener nofollow" target="_blank">https://go.gov.sg/lbtldb</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlpb</a>
-</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +205,7 @@ to fitness and fun!</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlnagomi</a>
+<p><a href="https://go.gov.sg/lbtlnagomi" rel="noopener nofollow" target="_blank">https://go.gov.sg/lbtlnagomi</a>
 </p>
 </td>
 </tr>
@@ -220,7 +217,7 @@ to fitness and fun!</p>
 <p>4pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -231,9 +228,7 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
-</p>
-<p>&nbsp;</p>
+<p><a href="https://go.gov.sg/lbtlwalk" rel="noopener nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -247,12 +242,7 @@ to fitness and fun!</p>
 <p>2pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlkayak</a>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtldb</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlpb</a>
-</p>
-<p>&nbsp;</p>
+<p><a href="https://go.gov.sg/lbtlkayak" rel="noopener nofollow" target="_blank">https://go.gov.sg/lbtlkayak</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +253,7 @@ to fitness and fun!</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlzentangle</a>
+<p><a href="https://go.gov.sg/lbtlzentangle" rel="noopener nofollow" target="_blank">https://go.gov.sg/lbtlzentangle</a>
 </p>
 </td>
 </tr>
@@ -275,7 +265,7 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
+<p><a href="https://go.gov.sg/lbtlwalk" rel="noopener nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -291,7 +281,7 @@ to fitness and fun!</p>
 <p>4.30pm to 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
+<p><a href="https://go.gov.sg/lbtlwalk" rel="noopener nofollow" target="_blank">https://go.gov.sg/lbtlwalk</a>
 </p>
 <p>&nbsp;</p>
 </td>
