@@ -30,16 +30,39 @@ Lake Gardens for the event!
 <p>17. ⁠Kung Fu Squid</p>
 <p>18. Ice Cream Counter</p>
 <p></p>
-<p>Other options in Jurong Lake Gardens!
-<br>
-<br><strong>At Lakeside Garden:</strong>
+<h4>Other options in Jurong Lake Gardens! </h4>
+<p><strong>At Lakeside Garden:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Starbucks</p>
+<p>Starbucks (near Lakeside Plaza)</p>
 </li>
 <li>
-<p>Fusion Spoon</p>
+<p>Fusion Spoon (near Eco Pond)
+<br>
+<br><strong>At Chinese Garden:</strong>
+</p>
+</li>
+<li>
+<p>Canopy (at Grand Arch)</p>
+</li>
+<li>
+<p>Eden (at Pagoda Plaza)
+<br>
+<br><strong>At Japanese Garden:</strong>
+</p>
+</li>
+<li>
+<p>Ice Cream Man and Friends, The Garden Cafe (at Sunken Garden)</p>
 </li>
 </ul>
 <p></p>
+<p>
+<br>
+<br>
+<br>
+</p>
+<p></p>
+<p>
+<br>
+</p>
