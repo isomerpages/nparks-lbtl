@@ -12,10 +12,15 @@ stand to win exciting prizes!</p>
 <p>by clicking the links on the left!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wings of Wonder: Lights by the Lake Photo Quest</p>
+<p><strong>Wings of Wonder: Lights by the Lake Photo Quest</strong>
+<br>Competiton Dates: 8 – 22 September 2024
+<br>
+</p>
 </li>
 <li>
-<p>Sony Jurong Lake Gardens Photo Competition</p>
+<p><strong>Sony Jurong Lake Gardens Photo Competition</strong>
+</p>
+<p>Competition Dates: 8 – 18 September 2024</p>
 </li>
 </ul>
 <p></p>
