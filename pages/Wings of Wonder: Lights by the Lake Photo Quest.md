@@ -7,7 +7,7 @@ description: ""
 <p>Embark on an enchanting quest at Lights by the Lake 2024 and discover
 the mesmerizing Garden Wings scattered across the gardens.
 <br>
-<br>How to participate:
+<br><strong><u>How to participate: </u></strong>
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seek out the Garden Wings at Lights by
 the Lake 2024.
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take photos with the wings. Be creative
