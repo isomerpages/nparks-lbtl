@@ -4,7 +4,7 @@ permalink: /photo-competitions/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Embark on enchanting quests at Jurong Lake Gardens !</strong></h4>
+<h4><strong>Embark on enchanting quests at Jurong Lake Gardens!</strong></h4>
 <p></p>
 <p>Capture and share your favourite moments at Lights by the Lake 2024 and
 stand to win exciting prizes!</p>
