@@ -9,11 +9,11 @@ description: ""
 <p>Capture and share your favourite moments at Lights by the Lake 2024 and
 stand to win exciting prizes!</p>
 <p></p>
-<p>by clicking the links on the left!</p>
+<p>Click on the links on the left to find out more:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Wings of Wonder: Lights by the Lake Photo Quest</strong>
-<br>Competiton Dates: 8 – 22 September 2024
+<br>Competition Dates: 8 – 22 September 2024
 <br>
 </p>
 </li>
