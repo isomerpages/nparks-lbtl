@@ -2,4 +2,5 @@ collections:
   photo-competition:
     output: true
     order:
+      - "Wings of Wonder: Lights by the Lake Photo Quest.md"
       - Photo Competitions.md
