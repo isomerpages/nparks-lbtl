@@ -22,3 +22,7 @@ also be displayed in the Gardens.</p>
 and win amazing prizes!</p>
 <p>&nbsp;Winners will be contacted after 18 September, and prizes will be
 presented on 22 September 2024, 9pm at Wave Plaza.</p>
+<p></p>
+<p><strong>Competition dates: 8 - 18 September 2024</strong>
+</p>
+<p></p>
