@@ -1,0 +1,4 @@
+collections:
+  lantern-displays:
+    output: true
+    order: []
