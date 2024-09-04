@@ -1,5 +1,5 @@
 collections:
-  highlights:
+  programmes:
     output: true
     order:
       - Event Highlights.md
