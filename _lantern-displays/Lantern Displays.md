@@ -10,6 +10,7 @@ description: ""
 <summary><strong>Reflections of Twilight (荷塘月夜)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Relflections_of_Twilight.png">
 </div>
