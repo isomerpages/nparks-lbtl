@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - "NParks Concert Series in the Park: Rockestra®.md"
       - Uncle Ringo Carnival Rides & Games.md
       - Roving Art Truck by National Gallery Singapore.md
       - Lantern Riddles.md
