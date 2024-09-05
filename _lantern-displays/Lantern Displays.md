@@ -13,10 +13,10 @@ biodiversity of the Gardens, the Gardens’ iconic buildings and cultural
 heritage of the Mid-Autumn celebrations! Not only will the ever-popular
 floating lanterns return to our waters, but there will also be new designs
 inspired by origami.</p>
-<p>Click on the tabs below to find out more about the lantern displays.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Lantern_locations_LAKESIDE.png">
 </div>
+<p>Click on the tabs below to find out more about the lantern displays.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Reflections of Twilight (荷塘月夜)</strong>
