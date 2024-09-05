@@ -2,6 +2,6 @@ collections:
   notices:
     output: true
     order:
+      - Notices.md
       - Advisories.md
       - Feedback.md
-      - Notices.md
