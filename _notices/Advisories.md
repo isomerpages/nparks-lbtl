@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Smoking in the Gardens</strong></h4>
-<p>Please note that Jurong Lake Gardens is a smoke-free garden.
-<br>Smoking is prohibited in the Gardens to safeguard air quality and protect
+<p>Please note that Jurong Lake Gardens is a smoke-free garden.</p>
+<p>Smoking is prohibited in the Gardens to safeguard air quality and protect
 the health and well-being of all visitors.</p>
 <h4><strong>During hot and dry weather</strong></h4>
 <p>There is a risk of vegetation fire during extreme hot and dry weather.</p>
@@ -21,8 +21,7 @@ at designated barbecue pits. You should dispose of flammable items responsibly.<
 either park their bicycles at the designated areas, or dismount and push.</p>
 <h4><strong>During bad weather</strong></h4>
 <p>Seek shelter during bad weather. Do not enter forested areas during and
-immediately after bad weather.
-<br><a href="http://www.weather.gov.sg/home/" rel="noopener noreferrer" target="_blank"><u>Check the weather forecast</u></a> before
+immediately after bad weather. <a href="http://www.weather.gov.sg/home/" rel="noopener noreferrer" target="_blank"><u>Check the weather forecast</u></a> before
 visiting.</p>
 <h4><strong>Moving around in parks and park connectors</strong></h4>
 <p>To ensure a safe and pleasant experience in our parks and park connector
