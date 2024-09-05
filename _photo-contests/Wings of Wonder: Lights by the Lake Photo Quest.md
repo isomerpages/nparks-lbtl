@@ -4,6 +4,10 @@ permalink: /lbtl-2024-wings/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Photo_competitions.jpg">
+</div>
 <p>Embark on an enchanting quest at Lights by the Lake 2024 and discover
 the mesmerizing Garden Wings scattered across the gardens.
 <br>
