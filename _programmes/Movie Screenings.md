@@ -11,6 +11,9 @@ description: ""
 evening of movies on the big screen!</p>
 <p>Please note that there will be free outdoor seating, attendees are encouraged
 to bring their own mats.</p>
+<p><strong>Date: </strong>15 – 22 September 2024
+<br><strong>Time: </strong>7pm (Mon – Thu) | 7:30pm (Fri – Sun)
+<br><strong>Location: </strong>The Oval, Jurong Lake Gardens</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -29,7 +32,7 @@ to bring their own mats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Sep (Sun)</p>
+<p>15 Sep (Sun), 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shang-Chi and the Legend of the Ten Rings</p>
@@ -37,7 +40,7 @@ to bring their own mats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Sep (Mon</p>
+<p>16 Sep (Mon), 7pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kung Fu Panda 4</p>
@@ -45,7 +48,7 @@ to bring their own mats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Sep (Tue</p>
+<p>17 Sep (Tue), 7pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ah Boys to Men 4</p>
@@ -53,7 +56,7 @@ to bring their own mats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Sep (Wed)</p>
+<p>18 Sep (Wed), 7pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shaolin Soccer</p>
@@ -61,7 +64,7 @@ to bring their own mats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Sep (Thu)</p>
+<p>19 Sep (Thu), 7pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Battleship</p>
@@ -69,7 +72,7 @@ to bring their own mats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Sep (Fri)</p>
+<p>20 Sep (Fri), 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pacific Rim Uprising</p>
@@ -77,7 +80,7 @@ to bring their own mats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Sep (Sat)</p>
+<p>21 Sep (Sat), 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Long Long Time Ago 1</p>
@@ -85,7 +88,7 @@ to bring their own mats.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 Sep (Sun)</p>
+<p>22 Sep (Sun), 7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Long Long Time Ago 2</p>
