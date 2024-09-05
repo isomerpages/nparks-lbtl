@@ -1,5 +1,5 @@
 collections:
-  photo-competitions:
+  photo-contests:
     output: true
     order:
       - Photo Competitions.md
