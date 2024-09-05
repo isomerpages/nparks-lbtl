@@ -4,6 +4,10 @@ permalink: /cultural-showcases-and-music-performances/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Performances_montage.png">
+</div>
 <p>Immerse yourself in a vibrant showcase of multicultural performances at
 Lights by the Lake 2024!</p>
 <p>Be captivated by an original dance musical by the <strong>Brahmastra </strong>Ensemble,
