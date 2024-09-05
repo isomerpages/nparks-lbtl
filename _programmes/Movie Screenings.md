@@ -9,6 +9,8 @@ description: ""
 </div>
 <p>Calling all movie junkies! Bring some popcorn and settle in for a relaxing
 evening of movies on the big screen!</p>
+<p>Please note that there will be free outdoor seating, attendees are encouraged
+to bring their own mats.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
