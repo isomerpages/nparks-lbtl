@@ -6,13 +6,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/LBTL_montage_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Prog_montage.png">
 </div>
 <p>From spectacular lantern displays, electrifying cultural &amp; music performances,
 crowd-favourite NParks Concert Series in the Park: Rockestra<strong>®</strong>,
-captivating lantern riddles, a food street featuring mouthwatering F&amp;B
-to exciting partner programmes, be enchanted this Mid-Autumn Festival at
-Lights by the Lake 2024!</p>
+captivating lantern riddles, a food street featurindelectable F&amp;B to
+exciting partner programmes, be enchanted this Mid-Autumn Festival at Lights
+by the Lake 2024!</p>
 <p>Click on the tabs below to find out more about the event highlights.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
