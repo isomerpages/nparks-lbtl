@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Movie Screenings.md
       - Programmmes.md
