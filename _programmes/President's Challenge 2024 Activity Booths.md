@@ -15,8 +15,10 @@ where visitors can contribute to the initiative by purchasing <strong>floating w
 by the diverse wildlife found in Jurong Lake Gardens, and <strong>solar-powered tulips </strong>that
 light up with a gentle, ambient glow. Additionally, there will be <strong>photo opportunities with various festive backdrops</strong>,
 transforming ordinary snapshots into extraordinary adventures.&nbsp;</p>
-<p><em>The President’s Challenge 2024 activities are jointly organised by National Parks Board, South West Community Development Council (South West CDC), and A-Smart Media Pte Ltd.  All proceeds from the sale of items at the activity booths will go to the President’s Challenge Charity Fund.&nbsp;</em>
-</p>
+<p>The President’s Challenge 2024 activities are jointly organised by National
+Parks Board, South West Community Development Council (South West CDC),
+and A-Smart Media Pte Ltd.  All proceeds from the sale of items at the
+activity booths will go to the President’s Challenge Charity Fund.&nbsp;</p>
 <p><strong>Date:&nbsp;</strong>8 - 22 September 2024
 <br><strong>Time:</strong>&nbsp;6:30pm – 10pm daily
 <br><strong>Location:</strong>&nbsp;Lakeside Field, Jurong Lake Gardens</p>
