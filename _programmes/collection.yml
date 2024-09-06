@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Programmes/President's Challenge 2024 Activity Booths.md
       - Programmes/Lantern Riddles.md
       - Programmes/Cultural Showcases and Music Performances.md
       - Programmes/Movie Screenings.md
