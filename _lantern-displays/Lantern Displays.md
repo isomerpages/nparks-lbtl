@@ -8,11 +8,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Lanterns_montage_2.png">
 </div>
-<p>Be awed by this year’s lantern displays, which beautifully showcase the
-biodiversity of the Gardens, the Gardens’ iconic buildings and cultural
-heritage of the Mid-Autumn celebrations! Not only will the ever-popular
-floating lanterns return to our waters, but there will also be new designs
-inspired by origami.</p>
+<p>Look forward to beautiful lantern displays that showcase the biodiversity
+and iconic buildings of Jurong Lake Gardens! The displays will feature
+lanterns meticulously crafted by professional lantern artisans, as well
+as the ever-popular floating lanterns, and new designs inspired by origami.
+Roving actors will be dressed up in traditional garments too, offering
+visitors many photo-taking opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Lantern_locations_LAKESIDE.png">
 </div>
