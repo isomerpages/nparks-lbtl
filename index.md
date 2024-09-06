@@ -41,16 +41,8 @@ sections:
       alt: Image alt text
       url: /rockestra/
       button: read more
-  - textcards:
+  - resources:
       title: Updates
-      id: textcards
-      cards:
-        - title: Notices
-          description: Card description
-          linktext: /notices/
-          url: ""
-        - title: Advisories
-          description: Read up about the dos and don'ts in the Gardens
-          linktext: Learn more
-          url: /advisories
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
