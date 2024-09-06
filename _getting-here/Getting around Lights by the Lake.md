@@ -13,7 +13,7 @@ a Route (NEAR) mobile app, NParks’ innovative augmented reality (AR)-enabled
 mobile application, enhancing the C2C Trail, the Round Island Route (RIR),
 and the Park Connector Network (PCN) for an interactive curated walking
 experience across the island.</p>
-<p>Stay informed about the captivating Lights by the Lake 2024 event from
-8 to 22 September.</p>
+<p>Explore the exciting programmes at Lights by the Lake 2024 within Jurong
+Lake Gardens!</p>
 <p><strong><a href="https://near.nparks.gov.sg/" rel="noopener nofollow" target="_blank">Download the app</a></strong> now
 and embark on your adventure at Jurong Lake Gardens!</p>
