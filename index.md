@@ -40,4 +40,22 @@ sections:
       alt: Image alt text
       url: /rockestra/
       button: read more
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Notices
+          description: Card description
+          linktext: /notices/
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
