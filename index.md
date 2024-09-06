@@ -27,7 +27,7 @@ sections:
       description: From movie screenings, cultural showcases, music performances,
         lantern riddles, carnival rides, arts and sports activities, there's
         plenty to do for everyone!
-      image: /images/Activities/Cultural_activities_montage.png
+      image: /images/Activities/Prog_montage_2.png
       alt: Image alt text
       url: /programmes
       button: read more
