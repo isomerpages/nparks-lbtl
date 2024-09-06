@@ -19,7 +19,7 @@ sections:
         biodiversity and iconic buildings of Jurong Lake Gardens!
       image: /images/Activities/Lantern_montage.png
       alt: Image alt text
-      url: /highlights/
+      url: /lantern-displays/
       button: read more
   - infopic:
       title: Cultural Showcases and Music Performances
