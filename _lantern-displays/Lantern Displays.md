@@ -14,6 +14,9 @@ lanterns meticulously crafted by professional lantern artisans, as well
 as the ever-popular floating lanterns, and new designs inspired by origami.
 Roving actors will be dressed up in traditional garments too, offering
 visitors many photo-taking opportunities.</p>
+<p><strong>Date:&nbsp;</strong>8 - 22 September 2024
+<br><strong>Time:</strong>&nbsp;6:30pm – 10pm daily
+<br><strong>Location:</strong>&nbsp;Various Locations, Jurong Lake Gardens</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Lantern_locations_LAKESIDE.png">
 </div>
