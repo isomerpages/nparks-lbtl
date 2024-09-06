@@ -8,9 +8,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/456301891_926952506139074_4623296239022583263_n.jpg">
 </div>
-<p>Want to get your steps in? Join Jack Neo’s ‘Lao Peng You Pa Pa Zao’ (老朋友趴趴走)
-mass walk on Sat, 21 Sep, as they journey through the Gardens.</p>
-<p>Don’t forget to catch a screening of his iconic movies at The Oval too!</p>
+<p>Want to get your steps in? Join local film-maker Jack Neo’s ‘Lao Peng
+You Pa Pa Zao’ (老朋友趴趴走) mass walk on Sat, 21 Sep, as they journey through
+the Gardens.</p>
+<p>Don’t forget to catch a screening of his iconic movies at The Oval after!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
