@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Uncle Ringo Carnival Rides, Games & Snacks.md
       - "NParks Concert Series in the Park: Rockestra®.md"
       - Programmes.md
       - Programmes/Programmes at PAssionWave@Jurong Lake Gardens.md
