@@ -51,11 +51,7 @@ sections:
           linktext: /notices/
           url: ""
         - title: Advisories
-          description: Card description
+          description: Read up about the dos and don'ts in
           linktext: Learn more
           url: /advisories
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
