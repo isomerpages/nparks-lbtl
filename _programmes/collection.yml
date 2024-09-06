@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Programmes.md
       - Cultural Showcases and Music Performances.md
       - "NParks Concert Series in the Park: Rockestra®.md"
       - Movie Screenings.md
