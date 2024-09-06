@@ -58,6 +58,6 @@ a night of laughter and joy for the whole family!</p>
 <p>White Carousel</p>
 </li>
 </ul>
-<p><strong>Date:&nbsp;</strong>8 - 22 September 2024
+<p><strong>Date:&nbsp;</strong>8 – 22 September 2024
 <br><strong>Time:</strong>&nbsp;6:30pm – 10pm daily
 <br><strong>Location:</strong>&nbsp;Butterfly Field, Jurong Lake Gardens</p>
