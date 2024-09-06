@@ -22,13 +22,14 @@ sections:
       url: /lantern-displays/
       button: read more
   - infopic:
-      title: Cultural Showcases and Music Performances
+      title: Programmes
       id: infopic
-      description: From traditional dances to contemporary musical expressions, each
-        showcase promises to be a celebration of artistry and cultural heritage.
+      description: From movie screenings, cultural showcases, music performances,
+        lantern riddles, carnival rides, arts and sports activities, there's
+        plenty to do for everyone!
       image: /images/Activities/Cultural_activities_montage.png
       alt: Image alt text
-      url: /cultural-showcases-and-music-performances/
+      url: /programmes
       button: read more
   - infopic:
       title: "NParks Concert Series in the Park: Rockestra®"
