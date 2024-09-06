@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Lantern Riddles.md
       - President's Challenge 2024 Activity Booths.md
       - Roving Art Truck by National Gallery Singapore.md
       - Workout with ActiveSG!.md
