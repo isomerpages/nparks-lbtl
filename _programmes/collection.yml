@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Workout with ActiveSG!.md
       - Lao Peng You Pa Pa Zao.md
       - Programmes at PAssionWave@Jurong Lake Gardens.md
       - Uncle Ringo Carnival Rides, Games & Snacks.md
