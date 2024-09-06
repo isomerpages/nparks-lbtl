@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Programmes/Roving Art Truck by National Gallery Singapore.md
       - Programmes/President's Challenge 2024 Activity Booths.md
       - Programmes/Lantern Riddles.md
       - Programmes/Cultural Showcases and Music Performances.md
