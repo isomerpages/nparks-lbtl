@@ -42,17 +42,15 @@ sections:
       url: /rockestra/
       button: read more
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Updates
       id: textcards
-      description: Text card description
       cards:
         - title: Notices
           description: Card description
           linktext: /notices/
           url: ""
         - title: Advisories
-          description: Read up about the dos and don'ts in
+          description: Read up about the dos and don'ts in the Gardens
           linktext: Learn more
           url: /advisories
 ---
