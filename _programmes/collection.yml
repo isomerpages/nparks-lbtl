@@ -2,14 +2,14 @@ collections:
   programmes:
     output: true
     order:
-      - Movie Screenings.md
-      - Cultural Showcases and Music Performances.md
-      - Lantern Riddles.md
-      - President's Challenge 2024 Activity Booths.md
-      - Roving Art Truck by National Gallery Singapore.md
-      - Workout with ActiveSG!.md
-      - Lao Peng You Pa Pa Zao.md
-      - Programmes at PAssionWave@Jurong Lake Gardens.md
-      - Uncle Ringo Carnival Rides, Games & Snacks.md
-      - "NParks Concert Series in the Park: Rockestra®.md"
       - Programmes.md
+      - Cultural Showcases and Music Performances.md
+      - "NParks Concert Series in the Park: Rockestra®.md"
+      - Lantern Riddles.md
+      - Movie Screenings.md
+      - President's Challenge 2024 Activity Booths.md
+      - Uncle Ringo Carnival Rides, Games & Snacks.md
+      - Programmes at PAssionWave@Jurong Lake Gardens.md
+      - Workout with ActiveSG!.md
+      - Roving Art Truck by National Gallery Singapore.md
+      - Lao Peng You Pa Pa Zao.md
