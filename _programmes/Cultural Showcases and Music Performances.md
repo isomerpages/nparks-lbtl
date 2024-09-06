@@ -18,12 +18,7 @@ performances by the <strong>Music and Dance Company's Fusion Ensemble</strong>.<
 <p>That's not all – don't miss the engaging workshops in store for you! Create
 your own paper tanjak (Malay headgear) or experience the fun rhythmic patterns
 in a percussion workshop.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/IMG_9356.jpg">
-</div>
-<p>Be sure to also keep an eye out for the roving art exhibition brought
-to you by the <strong>National Gallery Singapore</strong>! Unleash your
-creativity by creating your own masterpiece using mooncake stamps to decorate
-your very own paper fan.</p>
-<p>Join us and immerse in performances and activities that are rich in cultural
-and artistic impression!</p>
+<p><strong>Date: </strong>8, 13 – 15, 17, 20 – 22 September 2024
+<br><strong>Time: </strong>6:30pm – 9:30pm
+<br><strong>Location: &nbsp;</strong>Wave Plaza,<strong> </strong>Jurong Lake
+Gardens</p>
