@@ -3,3 +3,5 @@ collections:
     output: true
     order:
       - Notices.md
+      - Advisories.md
+      - Feedback.md

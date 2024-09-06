@@ -1,6 +1,6 @@
 ---
-title: Photo Competitions
-permalink: /photo-competitions/
+title: Photo Contests
+permalink: /photo-contests/
 variant: tiptap
 description: ""
 ---

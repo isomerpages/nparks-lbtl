@@ -1,5 +1,0 @@
-collections:
-  highlights:
-    output: true
-    order:
-      - Event Highlights.md

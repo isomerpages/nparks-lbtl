@@ -2,15 +2,17 @@ logo: /images/Partners & Logos/NParks_JLG_logos_2.png
 links:
   - title: About
     url: /about/
-  - title: Highlights
-    url: /highlights/
+  - title: Programmes
+    collection: programmes
   - title: Rockestra®
     url: /rockestra/
-  - title: Photo Competitions
-    url: /photo-competitions
+  - title: F&B
+    url: /fnb/
+  - title: Photo Contests
+    collection: photo-contests
+  - title: Getting Here
+    collection: getting-here
   - title: Our Partners
     url: /our-partners/
-  - title: Getting Here
-    url: /getting-here/
   - title: Notices
     url: /notices
