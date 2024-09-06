@@ -43,6 +43,5 @@ sections:
       button: read more
   - resources:
       title: Updates
-      subtitle: Add a preview and link to your Resource Room
       id: resources
 ---
