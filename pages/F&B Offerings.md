@@ -69,4 +69,17 @@ more culinary delights!</p>
 <p>Thai Milk Tea</p>
 </li>
 </ul>
-<p>Find out more about the dining options at Jurong Lake Gardens <a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/dining" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4>Other F&amp;B options in Jurong Lake Gardens</h4>
+<p><strong>At Lakeside Garden:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/dining/starbucks" rel="noopener nofollow" target="_blank">Starbucks (near Lakeside Plaza)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/dining/fusion-spoon" rel="noopener nofollow" target="_blank">Fusion Spoon (near Eco Pond)</a> 
+</p>
+</li>
+</ul>
+<p></p>
