@@ -50,10 +50,10 @@ sections:
           description: Card description
           linktext: /notices/
           url: ""
-        - title: Card
+        - title: Advisories
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /advisories
         - title: Card
           description: Card description
           linktext: Learn more
