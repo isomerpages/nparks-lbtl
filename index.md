@@ -28,7 +28,7 @@ sections:
         showcase promises to be a celebration of artistry and cultural heritage.
       image: /images/Activities/Cultural_activities_montage.png
       alt: Image alt text
-      url: /programmes/
+      url: /cultural-showcases-and-music-performances/
       button: read more
   - infopic:
       title: "NParks Concert Series in the Park: Rockestra®"
