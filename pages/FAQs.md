@@ -4,10 +4,50 @@ permalink: /faq/
 variant: tiptap
 description: ""
 ---
-### **FAQ**
-
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
-
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+<p><strong>Do I need a ticket for this festival?​</strong>
+<br>Tickets are not required as this festival is a free event.​</p>
+<p><strong>How long is the festival?​</strong>
+<br>The festival will take place across fifteen days: 8 to 22 September 2024,
+with various timings for each programme.</p>
+<p><strong>Are there any concerts/performances during this festival?​</strong>
+<br>The NParks Concert Series in the Park: Rockestra® will take place on 14
+September at The Oval, with cultural showcases and music performances taking
+place on 8, 13 – 15, 17 and 20 – 22 September at Wave Plaza.</p>
+<p><strong>Are there movie screenings? Do I need a ticket?​</strong>
+<br>The screenings will take place nightly from 15 – 22 September at The Oval.
+It is free outdoor seating, and visitors are encouraged to bring their
+own mats.​</p>
+<p><strong>Are there kid-friendly/family-friendly activities?​</strong>
+<br>Families can look forward to:
+<br>– Cultural showcases and music performances at Wave Plaza (8, 13 – 15,
+17 and 20 – 22 Sep)
+<br>– NParks Concert Series in the Park: Rockestra® at The Oval (14 Sep)
+<br>– Movie screenings at The Oval (15 – 22 Sep)
+<br>– Uncle Ringo Carnival Rides, Games &amp; Snack at Butterfly Field (8
+– 22 Sep)
+<br>– Programmes by PAssionWave @ Jurong Lake Gardens (8, 15 &amp; 22 Sep)
+<br>– Roving Art Truck by National Gallery Singapore at Wave Plaza (13 – 15,
+20 – 22 Sep)</p>
+<p><strong>What are the different types of activities taking place during the festival?​</strong>
+<br>Visitors can expect a wide range of activities such as movie screenings,
+tours, a Mandopop &amp; English-themed concert, cultural showcases and
+music performances, lantern riddles, art workshops, sports activities,
+carnival rides, and more!</p>
+<p><strong>Will there be any food and/or drinks sold at the festival?​</strong>
+<br>Festival F&amp;B options include:
+<br>– Food Street at ​Lakeside Field (Muslim-owned stalls available) (8 –
+22 Sep)
+<br>– The Travelling Cow and Frozt (14 Sep – part of NParks Concert Series
+in the Park: Rockestra®)
+<br>
+</p>
+<p>Our tenants in the Gardens:
+<br>– Fusion Spoon (Halal-certified) – Ecopond (Lakeside Garden)
+<br>– Starbucks – near Lakeside Plaza (Lakeside Garden)</p>
+<p><strong>Are there any cruiser services available?​</strong>
+<br>No cruiser services will be available during the festival.​</p>
+<p><strong>Where can I provide feedback?​</strong>
+<br>For feedback on Lights by the Lake 2024, click <a href="https://go.gov.sg/lbtl2024-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>For feedback on NParks Concert Series in the Park: Rockestra®, click
+<a href="https://go.gov.sg/rocksep24-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>For feedback related to parks, greenery, plants or animals, click <a href="https://www.nparks.gov.sg/feedback-and-enquiry" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
