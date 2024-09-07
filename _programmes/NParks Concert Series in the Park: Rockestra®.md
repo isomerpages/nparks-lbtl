@@ -15,6 +15,8 @@ line-up of local artistes performing a selection of popular Mandarin and
 English songs.&nbsp;</p>
 <p>Join Yokez, The Jumpstart, and Juni and Khim from Music &amp; Drama Company
 in singing and dancing the night away!</p>
+<p>Visitors can also look forward to mouth-watering F&amp;B from The Travelling
+Cow and Frozt during the concert.</p>
 <p>The official radio station for NParks Concert Series in the Park: Rockestra<strong>® </strong>is
 883JIA.</p>
 <p><strong>Date: </strong>14 September 2024
