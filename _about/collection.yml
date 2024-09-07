@@ -2,4 +2,5 @@ collections:
   about:
     output: true
     order:
+      - Our Partners.md
       - About Lights by the Lake 2024.md
