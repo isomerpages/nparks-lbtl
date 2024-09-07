@@ -11,7 +11,10 @@ description: ""
 <p>Hungry? Treat yourself with the delectable selection at the Food Street,
 or explore the diverse F&amp;B outlets around Jurong Lake Gardens for even
 more culinary delights!</p>
-<p><strong>Food Street stalls</strong>
+<p><strong>Date: </strong>8 – 22 September 2024
+<br><strong>Time: </strong>6:30pm – 10pm
+<br><strong>Location: </strong>Lakeside Field, Jurong Lake Gardens</p>
+<p><strong>Food Street stalls </strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -78,7 +81,7 @@ more culinary delights!</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/dining/fusion-spoon" rel="noopener nofollow" target="_blank">Fusion Spoon (near Eco Pond)</a> 
+<p><a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/dining/fusion-spoon" rel="noopener nofollow" target="_blank">Fusion Spoon (near Eco Pond)</a>
 </p>
 </li>
 </ul>
