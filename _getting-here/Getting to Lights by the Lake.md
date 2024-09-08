@@ -6,8 +6,10 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting Here/Lakeside_Garden_Map.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting Here/JLG_LBTL_Map.png">
 </div>
+<p><em>Click <a href="/files/JLG_LBTL_Map.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view an enlarged version of the map.</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>By MRT</summary>
