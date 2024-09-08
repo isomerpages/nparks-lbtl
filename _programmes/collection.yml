@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Lakeside Garden/Cultural Showcases and Music Performances.md
       - Lakeside Garden/Movie Screenings.md
       - Lakeside Garden/Lantern Riddles.md
       - "Lakeside Garden/NParks Concert Series in the Park: Rockestra®.md"
