@@ -1,4 +1,5 @@
 collections:
   garden-tours:
     output: true
-    order: []
+    order:
+      - Guided Tours of Chinese and Japanese Gardens.md
