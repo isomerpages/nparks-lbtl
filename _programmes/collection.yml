@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Light and Projection Shows.md
       - Lakeside Garden/.keep
       - Lakeside Garden/Roving Art Truck by National Gallery Singapore.md
       - Lakeside Garden/Workout with ActiveSG!.md
