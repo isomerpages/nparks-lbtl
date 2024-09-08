@@ -2,12 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - "Japanese Garden/Sensory Experience: Everglow.md"
-      - Japanese Garden/.keep
-      - Chinese Garden/.keep
-      - Chinese Garden/Lion and Dragon Dance Performances.md
-      - Chinese Garden/Light and Projection Shows.md
-      - Chinese Garden/Lao Peng You Pa Pa Zao (老朋友趴趴走).md
+      - Programmes.md
       - Lakeside Garden/.keep
       - Lakeside Garden/Roving Art Truck by National Gallery Singapore.md
       - Lakeside Garden/Workout with ActiveSG!.md
@@ -18,7 +13,12 @@ collections:
       - Lakeside Garden/Movie Screenings.md
       - Lakeside Garden/Lantern Riddles.md
       - "Lakeside Garden/NParks Concert Series in the Park: Rockestra®.md"
+      - Japanese Garden/.keep
+      - "Japanese Garden/Sensory Experience: Everglow.md"
+      - Chinese Garden/.keep
+      - Chinese Garden/Lion and Dragon Dance Performances.md
+      - Chinese Garden/Light and Projection Shows.md
+      - Chinese Garden/Lao Peng You Pa Pa Zao (老朋友趴趴走).md
       - Garden Tours/.keep
       - Garden Tours/Guided Tours of Chinese and Japanese Gardens.md
       - Garden Tours/(DIY Guide) Explore Jurong Lake Gardens!.md
-      - Programmes.md
