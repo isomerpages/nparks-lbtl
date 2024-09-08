@@ -1,5 +1,4 @@
 collections:
   garden-tours:
     output: true
-    order:
-      - (DIY Guide) Explore Jurong Lake Gardens!.md
+    order: []
