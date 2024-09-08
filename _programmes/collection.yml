@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Garden Tours.md
       - Lakeside Garden/Roving Art Truck by National Gallery Singapore.md
       - Lakeside Garden/Workout with ActiveSG!.md
       - Lakeside Garden/Uncle Ringo Carnival Rides, Games & Snacks.md
