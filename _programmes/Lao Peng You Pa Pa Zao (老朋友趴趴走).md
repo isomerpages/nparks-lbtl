@@ -11,6 +11,9 @@ description: ""
 <p>Want to get your steps in? Join local film-maker Jack Neo’s ‘Lao Peng
 You Pa Pa Zao’ (老朋友趴趴走) mass walk on Sat, 21 Sep, as they journey through
 the Gardens.</p>
+<p><strong>Date:&nbsp;</strong>21 September 2024
+<br><strong>Time:</strong>&nbsp; 6pm
+<br><strong>Location:</strong>&nbsp; Start at Chinese Garden MRT Exit C</p>
 <p>Don’t forget to catch a screening of his iconic movies at The Oval after!</p>
 <table style="minWidth: 50px">
 <colgroup>
