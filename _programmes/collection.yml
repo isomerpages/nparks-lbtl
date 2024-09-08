@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Chinese Garden/.keep
       - Light and Projection Shows.md
       - Lakeside Garden/.keep
       - Lakeside Garden/Roving Art Truck by National Gallery Singapore.md
