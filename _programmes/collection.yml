@@ -2,9 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - Garden Tours/(DIY Guide) Explore Jurong Lake Gardens!.md
-      - Garden Tours/Guided Tours of Chinese and Japanese Gardens.md
-      - Garden Tours/.keep
+      - Lakeside Garden/.keep
       - Lakeside Garden/Roving Art Truck by National Gallery Singapore.md
       - Lakeside Garden/Workout with ActiveSG!.md
       - Lakeside Garden/Uncle Ringo Carnival Rides, Games & Snacks.md
@@ -14,7 +12,9 @@ collections:
       - Lakeside Garden/Movie Screenings.md
       - Lakeside Garden/Lantern Riddles.md
       - "Lakeside Garden/NParks Concert Series in the Park: Rockestra®.md"
-      - Lakeside Garden/.keep
+      - Garden Tours/.keep
+      - Garden Tours/(DIY Guide) Explore Jurong Lake Gardens!.md
+      - Garden Tours/Guided Tours of Chinese and Japanese Gardens.md
       - "Sensory Experience: Everglow.md"
       - Programmes.md
       - Lao Peng You Pa Pa Zao (老朋友趴趴走).md
