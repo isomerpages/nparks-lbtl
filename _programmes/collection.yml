@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Garden Tours/Guided Tours of Chinese and Japanese Gardens.md
       - Garden Tours/.keep
       - Lakeside Garden/Roving Art Truck by National Gallery Singapore.md
       - Lakeside Garden/Workout with ActiveSG!.md
