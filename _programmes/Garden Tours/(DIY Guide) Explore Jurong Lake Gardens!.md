@@ -37,10 +37,12 @@ the tranquility of Jurong Lake Gardens.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/DIY_CHINESE_GARDEN_GUIDE.pdf" rel="noopener nofollow" target="_blank">DIY Chinese Garden Guide</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/DIY_JAPANESE_GARDEN_GUIDE.pdf" rel="noopener nofollow" target="_blank">DIY Japanese Garden Guide</a>
+</p>
 </td>
 </tr>
 </tbody>
