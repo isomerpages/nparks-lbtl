@@ -2,5 +2,4 @@ collections:
   garden-tours:
     output: true
     order:
-      - Guided Tours of Chinese and Japanese Gardens.md
       - (DIY Guide) Explore Jurong Lake Gardens!.md
