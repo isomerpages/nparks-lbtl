@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - "Japanese Garden/Sensory Experience: Everglow.md"
       - Japanese Garden/.keep
       - Chinese Garden/Light and Projection Shows.md
       - Chinese Garden/.keep
