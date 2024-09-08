@@ -14,7 +14,7 @@ more culinary delights!</p>
 <p><strong>Date: </strong>8 – 22 September 2024
 <br><strong>Time: </strong>6:30pm – 10pm
 <br><strong>Location: </strong>Lakeside Field, Jurong Lake Gardens</p>
-<p><strong>Food Street stalls </strong>
+<p><strong>Food Street stalls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -73,7 +73,7 @@ more culinary delights!</p>
 </li>
 </ul>
 <h4>Other F&amp;B options in Jurong Lake Gardens</h4>
-<p><strong>At Lakeside Garden:</strong>
+<p><u>Lakeside Garden</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -85,4 +85,16 @@ more culinary delights!</p>
 </p>
 </li>
 </ul>
+<p><u>Chinese Garden</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Canopy (Grand Arch)</p>
+</li>
+<li>
+<p>The Eden<strong> </strong>(Pagoda Plaza)</p>
+</li>
+</ul>
+<p><u>Japanese Garden</u>
+<br>Ice Cream Man and Friends (Sunken Garden)</p>
 <p></p>
