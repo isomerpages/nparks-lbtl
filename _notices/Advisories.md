@@ -11,8 +11,8 @@ the health and well-being of all visitors.</p>
 <h4><strong>During hot and dry weather</strong></h4>
 <p>There is a risk of vegetation fire during extreme hot and dry weather.</p>
 <p>Visitors to Lights by the Lake 2024 are reminded that open flames such
-as candlelit lanterns and sparklers are not permitted in the Gardens except
-at designated barbecue pits. You should dispose of flammable items responsibly.</p>
+as candlelit lanterns and sparklers are not permitted in the Gardens. You
+should dispose of flammable items responsibly.</p>
 <h4><strong>Going car-lite</strong></h4>
 <p>Visitors are encouraged to go car-lite and travel to the Gardens via
 <a href="/getting-here/" rel="noopener nofollow" target="_blank">public transport</a>.</p>
