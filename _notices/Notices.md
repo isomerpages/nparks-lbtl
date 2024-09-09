@@ -36,19 +36,27 @@ the gardens too!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Open Flames</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>As we celebrate the joyous occasion of the Mid-Autumn festivities, we
+kindly ask for your cooperation in refraining from lighting candles or
+open fires. This small gesture helps to ensure the safety of all visitors
+and preserves the beauty of our natural heritage.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Let's enjoy the festivities in a safe and environmentally friendly manner!</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
+<h4>Dos and Don'ts</h4>
 <p>Visitors are advised to refer to the Advisories tab for the dos and don'ts
 in our Gardens for the conservation of the flora and fauna in our Gardens,
 and to ensure you and other visitors have a safe and enjoyable experience.</p>
