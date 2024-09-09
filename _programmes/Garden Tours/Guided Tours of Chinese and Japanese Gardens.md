@@ -14,24 +14,14 @@ Japanese and Chinese Gardens. Join our guided tours to explore the intricately
 designed landscapes, vibrant flora, and traditional architectural marvels.</p>
 <p><em>Participants are advised to bring umbrellas or ponchos in the event of light rain as thr tour will still proceed. However, in the case of heavy rain, the tour will be cancelled.</em>
 </p>
-<p>Click on the links below to register:</p>
-<p><strong>Chinese Garden Guided Tour (Sat, 14 Sep)</strong>
+<p></p>
+<p><u>Chinese Garden Guided Tours (14 &amp; 21 Sep)</u>
+<br>Session 1 (5pm to 6:30pm) <strong>[Fully subscribed]</strong>
+<br>Session 2 (5pm to 6:30pm) <strong>[Fully subscribed]</strong>
 </p>
-<p><a href="https://go.gov.sg/cgtour-14sep-session1" rel="noopener nofollow" target="_blank">Session 1 (5pm to 6:30pm)</a>
-<br><a href="https://go.gov.sg/cgtour-14sep-session2" rel="noopener nofollow" target="_blank">Session 2 (5pm to 6:30pm)</a>
+<p></p>
+<p><u>Japanese Garden Guided Tours (14 &amp; 21 Sep)</u>
+<br>Session 1 (5pm to 6:30pm) <strong>[Fully subscribed]</strong>
+<br>Session 2 (5pm to 6:30pm) <strong>[Fully subscribed]</strong>
 </p>
-<p><strong>Chinese Garden Guided Tour (Sat, 21 Sep)</strong>
-</p>
-<p><a href="https://go.gov.sg/cgtour-21sep-session1" rel="noopener nofollow" target="_blank">Session 1 (5pm to 6:30pm)</a>
-<br><a href="https://go.gov.sg/cgtour-21sep-session2" rel="noopener nofollow" target="_blank">Session 2 (5pm to 6:30pm)</a>
-</p>
-<p><strong>Japanese Garden Guided Tour (Sat, 14 Sep)</strong>
-</p>
-<p><a href="https://go.gov.sg/jgtour-14sep-session1" rel="noopener nofollow" target="_blank">Session 1 (5pm to 6:30pm)</a>
-<br><a href="https://go.gov.sg/jgtour-14sep-session2" rel="noopener nofollow" target="_blank">Session 2 (5pm to 6:30pm)</a>
-</p>
-<p><strong>Japanese Garden Guided Tour (Sat, 21 Sep)</strong>
-</p>
-<p><a href="https://go.gov.sg/jgtour-21sep-session1" rel="noopener nofollow" target="_blank">Session 1 (5pm to 6:30pm)</a>
-<br><a href="https://go.gov.sg/jgtour-21sep-session2" rel="noopener nofollow" target="_blank">Session 2 (5pm to 6:30pm)</a>
-</p>
+<p></p>
