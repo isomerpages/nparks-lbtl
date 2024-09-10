@@ -7,10 +7,8 @@ third_nav_title: Garden Tours
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cover Page DIY Guide" src="/images/DIY_Guide_Cover.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/JLG_cover_shadow.jpg">
 </div>
-<p></p>
-<p></p>
 <h4>Explore the natural beauty of Jurong Lake Gardens with our DIY guides</h4>
 <p>Immerse yourself in lush greenery, serene waters, and vibrant flora as
 you wander through the various themed gardens. Whether you're a nature
@@ -19,7 +17,6 @@ guides will help you uncover the hidden gems and unique features of this
 picturesque oasis.</p>
 <p>Embark on a self-guided adventure and create unforgettable memories amidst
 the tranquility of Jurong Lake Gardens.</p>
-<p></p>
 <p>Download a copy below!</p>
 <table style="minWidth: 50px">
 <colgroup>
