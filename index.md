@@ -4,8 +4,7 @@ title: Lights by the Lake 2024
 description: Be enchanted this Mid-Autumn Festival at Lights by the Lake 2024!
 image: /images/Key Visuals/LBTL_JLG_KV_800x450_v2.png
 permalink: /
-notification: Rain has cleared. Activities will proceed as planned. Thank you
-  for embracing a car-lite approach when visiting the gardens.
+notification: ""
 sections:
   - hero:
       background: /images/Key Visuals/LBTL_JLG_KV_Isomer_Hero.png
