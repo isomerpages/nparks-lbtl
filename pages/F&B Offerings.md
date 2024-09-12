@@ -96,5 +96,10 @@ more culinary delights!</p>
 </li>
 </ul>
 <p><u>Japanese Garden</u>
-<br>Ice Cream Man and Friends (Sunken Garden)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ice Cream Man and Friends (Sunken Garden)</p>
+</li>
+</ul>
 <p></p>

@@ -25,7 +25,7 @@ To ensure the safety and enjoyment of all visitors, please take note of
 the designated 'No Cycling Zones' within the gardens.</p>
 <p></p>
 <p>As you explore the gardens, we kindly encourage you to dismount and push
-your bicycles along these areas. should you need to park your bicylcles,
+your bicycles along these areas. Should you need to park your bicycles,
 we appreciate your cooperation in doing so neatly and considerately. Do
 not obstruct any pathways and keep a look out for other users exploring
 the gardens too!</p>
