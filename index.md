@@ -4,7 +4,7 @@ title: Lights by the Lake 2024
 description: Be enchanted this Mid-Autumn Festival at Lights by the Lake 2024!
 image: /images/Key Visuals/LBTL_JLG_KV_800x450_v2.png
 permalink: /
-notification: "Update (as on 5:30pm): North Carpark is full. Please park at
+notification: "Update (as of 5:30pm): North Carpark is full. Please park at
   South Carpark or nearby HDB carparks."
 sections:
   - hero:
