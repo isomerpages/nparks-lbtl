@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Lights by the Lake 2024
+title: National Parks Board
 description: Be enchanted this Mid-Autumn Festival at Lights by the Lake 2024!
 image: /images/Key Visuals/LBTL_JLG_KV_800x450_v2.png
 permalink: /
