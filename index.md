@@ -12,10 +12,4 @@ sections:
       subtitle: Be enchanted this Mid-Autumn Festival!
       button: read more
       url: /about/
-  - infopic:
-      title: Lantern Displays
-      id: infopic
-      description: Look forward to beautiful lantern displays!
-      image: /images/Activities/Lantern_montage.png
-      alt: Image alt text
 ---
