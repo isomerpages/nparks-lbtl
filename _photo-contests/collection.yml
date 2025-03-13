@@ -1,7 +1,0 @@
-collections:
-  photo-contests:
-    output: true
-    order:
-      - Photo Contests.md
-      - "Wings of Wonder: Lights by the Lake Photo Quest.md"
-      - Sony Jurong Lake Gardens Photo Contest.md
