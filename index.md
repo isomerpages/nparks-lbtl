@@ -18,12 +18,4 @@ sections:
       description: Look forward to beautiful lantern displays!
       image: /images/Activities/Lantern_montage.png
       alt: Image alt text
-  - infopic:
-      title: Programmes
-      id: infopic
-      description: From cultural showcases, music performances to lantern riddles,
-        there's plenty to do for everyone!
-      image: /images/Activities/Prog_montage_2.png
-      alt: Image alt text
-      url: /programmes
 ---
