@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Lantern_montage.png">
+</div>
 <h2><strong>LIGHTS BY THE LAKE</strong></h2>
-<p></p>
 <p>A signature annual event at Jurong Lake Gardens, Lights by the Lake presents
 a captivating gala of lights, music, and cultural delights in celebration
 of the Mid-Autumn Festival.</p>
