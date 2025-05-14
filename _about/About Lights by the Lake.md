@@ -9,13 +9,14 @@ description: ""
 </div>
 <p>Highlights of Lights by the Lake 2024</p>
 <h2><strong>LIGHTS BY THE LAKE</strong></h2>
-<p>Launched in 2019, Lights by the Lake has grown to be a marquee event celebrating
-the Mid-Autumn Festival in the Jurong Lake District.</p>
-<p>In 2024, the 15-day event saw 280,000 visitors bask in the festive atmosphere
-throughout the Gardens.</p>
-<p>Be awed by a captivating gala of lights, music, and cultural delights!</p>
+<p>Since 2019, Lights by the Lake has enchanted visitors as a signature Mid-Autumn
+Festival celebration in the Jurong Lake District.</p>
+<p>Last year's festivities drew an impressive 280,000 visitors who experienced
+the magical atmosphere at the Gardens.</p>
+<p>Get ready to be mesmerised by a spectacular fusion of lights, music, and
+cultural experiences at this marquee event.</p>
 <p>Lights by the Lake is organised by National Parks Board.</p>
 <p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
 Nodes Network.</p>
-<p>Stay tuned for more information on 2025's edition!</p>
+<p>Watch this space for exciting updates about our 2025 edition!</p>
 <p></p>
