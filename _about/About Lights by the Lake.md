@@ -22,3 +22,10 @@ Nodes Network.</p>
 <p>This year's edition will take place from 27 September to 12 October 2025.</p>
 <p>Watch this space for more exciting updates!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_2024_Sony_Photo_Contest_montage.png">
+</div>
+<p>Submissions from the Sony Jurong Lake Gardens Photo Contest 2024 (A: Lim
+Jia Hao, B: Chester Chen, C: Charmaine Yap, D: Samsudin Azhar, E: Kam Li
+Zhe, F: Chew Jia Hao, G: Goh En Xuan, H: Lui Yong Sheng, I: Jeffrey Loek,
+J: Anup Pereira)</p>
