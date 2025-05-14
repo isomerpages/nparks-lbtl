@@ -4,16 +4,16 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Lantern_montage.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_2024_montage_MAIN.png">
 </div>
+<p>Highlights of Lights by the Lake 2024</p>
 <h2><strong>LIGHTS BY THE LAKE</strong></h2>
-<p>A signature annual event at Jurong Lake Gardens, Lights by the Lake presents
-a captivating gala of lights, music, and cultural delights in celebration
-of the Mid-Autumn Festival.</p>
-<p>Be awed by the larger-than-life lantern displays, cultural showcases and
-music performances, and more!</p>
+<p>Launched in 2019, Lights by the Lake has grown to be a marquee event celebrating
+the Mid-Autumn Festival in the Jurong Lake District.</p>
+<p>In 2024, the 15-day event saw 280,000 visitors bask in the festive atmosphere
+throughout the Gardens.</p>
+<p>Be awed by a captivating gala of lights, music, and cultural delights!</p>
 <p>Lights by the Lake is organised by National Parks Board.</p>
 <p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
 Nodes Network.</p>
