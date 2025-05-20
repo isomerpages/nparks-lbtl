@@ -23,6 +23,9 @@ Nodes Network.</p>
 <p>This year's edition will take place from 27 September to 12 October 2025,
 and is held in conjunction with SG60.</p>
 <p>Watch this space for more exciting updates!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/in_conjunction_with_SG60_logo.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LBTL_2024_Sony_Photo_Contest_montage.png">
