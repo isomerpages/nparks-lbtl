@@ -20,7 +20,8 @@ cultural experiences at this marquee event.</p>
 <p>Lights by the Lake is organised by National Parks Board.</p>
 <p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
 Nodes Network.</p>
-<p>This year's edition will take place from 27 September to 12 October 2025.</p>
+<p>This year's edition will take place from 27 September to 12 October 2025,
+and is held in conjunction with SG60.</p>
 <p>Watch this space for more exciting updates!</p>
 <p></p>
 <div class="isomer-image-wrapper">
