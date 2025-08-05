@@ -2,4 +2,4 @@ collections:
   faqs:
     output: true
     order:
-      - FAQs.md
+      - Frequently Asked Questions.md
