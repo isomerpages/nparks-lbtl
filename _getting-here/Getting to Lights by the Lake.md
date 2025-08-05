@@ -4,14 +4,12 @@ permalink: /getting-to-lights-by-the-lake/
 variant: tiptap
 description: ""
 ---
-<p>📍 Lake GadensThe Plaza, National Library Building (100 Victoria Street,
-Singapore 188064)Jurong</p>
+<p>📍 Jurong Lake Gardens</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4726.234154027589!2d103.72359917568048!3d1.3358996986514537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0ffd28f00259%3A0x6f21e436ac8c03f8!2sJurong%20Lake%20Gardens!5e1!3m2!1sen!2ssg!4v1754386264163!5m2!1sen!2ssg"></iframe>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting Here/JLG_LBTL_Map.png">
-</div>
+<p></p>
+<p></p>
 <p><em>Click <a href="/files/JLG_LBTL_Map.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view an enlarged version of the map.</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -87,4 +85,8 @@ Singapore 188064)Jurong</p>
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>By Public Transport</strong></h4>
+<p></p>
+<h4><strong>By Private Transport</strong></h4>
 <p></p>
