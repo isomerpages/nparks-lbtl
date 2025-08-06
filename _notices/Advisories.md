@@ -4,7 +4,7 @@ permalink: /advisories/
 variant: tiptap
 description: ""
 ---
-<p>Stay informed on road closures and updates for Lights by the Lake 2025.</p>
+<h4>Stay informed on road closures and updates for Lights by the Lake 2025.</h4>
 <h4><strong>Before You Arrive</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -17,7 +17,8 @@ and healthier lifestyle this World Car-Free Day!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Cycling in Jurong Lake Gardens</summary>
+<summary><strong>Cycling in Jurong Lake Gardens</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Thank you for going car-lite at Jurong Lake Gardens! For everyone's safety,
 please:</p>
@@ -100,17 +101,8 @@ find out more about the regulations regarding the use of public paths.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h4><strong>Weather Advisories</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 <details class="isomer-details">
 <summary><strong>During Hot and Dry Weather</strong>
 </summary>
@@ -123,30 +115,12 @@ should dispose of flammable items responsibly.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>During Bad Weather</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Seek shelter during bad weather. Do not enter forested areas during and
 immediately after bad weather. <a href="http://www.weather.gov.sg/home/" rel="noopener noreferrer" target="_blank"><u>Check the weather forecast</u></a> before
 visiting.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
