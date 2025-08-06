@@ -108,8 +108,8 @@ find more about the dining options within the Gardens.</p>
 <h4><strong>Organised/Group Activities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Do I need a permit to conduct group activities during Lights by the Lake
-2025?</summary>
+<summary><strong>Do I need a permit to conduct group activities during Lights by the Lake 2025?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4><strong><u>Use of the Gardens for Organised/Group Activities</u></strong></h4>
