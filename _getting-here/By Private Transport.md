@@ -24,13 +24,13 @@ nearby carparks.</p>
 <details class="isomer-details">
 <summary>North Carpark</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>📍 North Carpark</strong></h4>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1168.572777268844!2d103.72388665566321!3d1.3392625689550774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0f005063dc43%3A0x1fab928ffc8d911e!2sNorth%20Carpark!5e1!3m2!1sen!2ssg!4v1754472304966!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -39,9 +39,6 @@ nearby carparks.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Address</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Directions</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Parking Lots</p>
@@ -57,9 +54,6 @@ nearby carparks.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Turn in at Chinese Garden Road</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Car Lots: 173</p>
 <p>Handicap Lots: 2</p>
 <p>Motorcycle Lots: 15</p>
@@ -70,7 +64,7 @@ nearby carparks.</p>
 </tr>
 </tbody>
 </table>
-<p>d</p>
+<p></p>
 <p>Pick-up and Drop-off Points in Jurong Lake Gardens</p>
 <p>Nearest Pick-up, drop-off point: Coach Bay at Jurong Lake Gardens.</p>
 <p><a href="https://maps.app.goo.gl/LUXGCGyBvajC7ivC7" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/LUXGCGyBvajC7ivC7</a>
