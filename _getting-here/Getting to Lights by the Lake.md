@@ -63,7 +63,36 @@ description: ""
 <details class="isomer-details">
 <summary>Nearest Bus Stops</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Along Yuan Ching Road</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Chinese Gdn (21659)</strong>: Services 154, 154B, 246</p>
+</li>
+<li>
+<p><strong>Opp Chinese Gdn (21651)</strong>: Services 154, 154A, 246</p>
+</li>
+<li>
+<p><strong>Opp Blk 115 (21639)</strong>: Services 49, 154, 154B</p>
+</li>
+<li>
+<p><strong>Blk 115 (21631)</strong>: Services 49, 154, 154A</p>
+</li>
+</ul>
+</li>
+<li>
+<p><u>Along Boon Lay Way</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Chinese Gdn Stn (28341)</strong>: Services 180, 335</p>
 <p></p>
+</li>
+</ul>
+</li>
+</ul>
 </div>
 </details>
 </div>
