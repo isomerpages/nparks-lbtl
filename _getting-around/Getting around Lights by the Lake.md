@@ -4,7 +4,7 @@ permalink: /getting-around-lights-by-the-lake/
 variant: tiptap
 description: ""
 ---
-<p>NEAR APP</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Activities/NEAR_app.png">
 </div>
