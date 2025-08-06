@@ -4,6 +4,69 @@ permalink: /advisories/
 variant: tiptap
 description: ""
 ---
+<p>Stay informed on road closures and updates for Lights by the Lake 2025.</p>
+<h4><strong>Before You Arrive</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Going Car-lite</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Walk, cycle, or hop on <a href="/getting-here/" rel="noopener nofollow" target="_blank">public transport</a> to
+explore Jurong Lake Gardens! Let’s choose active commutes for a greener
+and healthier lifestyle this World Car-Free Day!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Cycling in Jurong Lake Gardens</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Thank you for going car-lite at Jurong Lake Gardens! For everyone's safety,
+please:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dismount and push bikes in 'No Cycling Zones'</p>
+</li>
+<li>
+<p>Park bicycles neatly</p>
+</li>
+<li>
+<p>Keep paths clear and watch out for other visitors</p>
+</li>
+</ul>
+<p></p>
+<p>Click <a href="/files/JLG_No_Cycling_Zones.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on No Cycling Zones within Jurong Lake Gardens.</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>Dos and Don'ts: Enjoying Lights by the Lake 2025 Responsibly</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Open Flames</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As we celebrate the joyous occasion of the Mid-Autumn festivities, we
+kindly ask for your cooperation in refraining from lighting candles or
+open fires. This small gesture helps to ensure the safety of all visitors
+and preserves the beauty of our natural heritage.</p>
+<p></p>
+<p>Let's enjoy the festivities in a safe and environmentally friendly manner!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Visitor Guidelines</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Visitors are advised to refer to the <a href="https://juronglakegardens.nparks.gov.sg/visitor-guidelines/" rel="noopener nofollow" target="_blank">Visitor Guidelines</a> for
+the conservation of the flora and fauna in the Gardens, and to ensure you
+and other visitors have a safe and enjoyable experience.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p>During the Event</p>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -28,12 +91,9 @@ should dispose of flammable items responsibly.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Going Car-lite</strong>
-</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Walk, cycle, or hop on <a href="/getting-here/" rel="noopener nofollow" target="_blank">public transport</a> to
-explore Jurong Lake Gardens! Let’s choose active commutes for a greener
-and healthier lifestyle this World Car-Free Day!</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -71,4 +131,6 @@ find out more about the regulations regarding the use of public paths.</p>
 </div>
 </details>
 </div>
+<p><sup>Last updated 6 Aug 2025.</sup>
+</p>
 <p></p>
