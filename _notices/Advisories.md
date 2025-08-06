@@ -64,12 +64,6 @@ the conservation of the flora and fauna in the Gardens, and to ensure you
 and other visitors have a safe and enjoyable experience.</p>
 </div>
 </details>
-</div>
-<p></p>
-<p>During the Event</p>
-<p></p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Smoking in the Gardens</strong>
 </summary>
@@ -78,6 +72,18 @@ and other visitors have a safe and enjoyable experience.</p>
 <p></p>
 <p>Smoking is prohibited in the Gardens to safeguard air quality and protect
 the health and well-being of all visitors.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p>During the Event</p>
+<p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
