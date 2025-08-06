@@ -51,7 +51,7 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 <h4><strong>Nearest Attractions</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lantern Displays</p>
+<p>Lantern Displays at Lakeside Field</p>
 </li>
 <li>
 <p>Stage Performances at Wave Plaza</p>
@@ -74,98 +74,29 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1994.3702737450085!2d103.72589450508943!3d1.331786067506568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fac25608e2d%3A0x2967c06a2a23b3c1!2sSouth%20Carpark!5e0!3m2!1sen!2ssg!4v1754472751407!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
-<h4><strong>Picking up and Dropping off Point at North Carpark</strong></h4>
-<p>📍 Coach Bay at Jurong Lake Gardens.</p>
-<p></p>
-<p>Please click <a href="https://maps.app.goo.gl/LUXGCGyBvajC7ivC7" rel="noopener nofollow" target="_blank">here</a> for
-the directions to coach bay and follow the instructions of personnel onsite.</p>
-<p></p>
 <h4><strong>Carpark Details</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Car Lots: 173</p>
+<p>Car Lots: 171</p>
 </li>
 <li>
-<p>Handicap Lots: 2</p>
+<p>Handicap Lots: 4</p>
 </li>
 <li>
-<p>Motorcycle Lots: 15</p>
+<p>Motorcycle Lots: 11</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Nearest Attractions</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lantern Displays</p>
+<p>Lantern Displays at Butterfly Field</p>
 </li>
 <li>
-<p>Stage Performances at Wave Plaza</p>
-</li>
-<li>
-<p>Food Street</p>
-</li>
-<li>
-<p>Chinese Garden</p>
+<p>Japanese Garden</p>
 </li>
 </ul>
 <p></p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Location</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Directions</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Parking Lots</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Nearest Attractions</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Turn in at Chinese Garden Road</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Car Lots: 173</p>
-<p>Handicap Lots: 2</p>
-<p>Motorcycle Lots: 15</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lantern Displays, Wave Plaza, Food Street, Chinese Garden</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Turn in at Japanese Garden Road</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Car Lots: 171</p>
-<p>Handicap Lots: 4</p>
-<p>Motorcycle Lots: 11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Japanese Garden</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>e</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -228,6 +159,7 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><em>For any parking session between 10.30pm to 7.00am the following day, per minute charging will apply subject to a maximum parking charge of $5.00.</em>
 </p>
 <p></p>
