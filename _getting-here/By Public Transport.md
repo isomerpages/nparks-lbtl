@@ -54,12 +54,25 @@ description: ""
 </div>
 </details>
 </div>
-<p></p>
+<h3><strong>Nearest Bus Stops</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>Along Yuan Ching Road</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Chinese Gdn (21659)</strong>: Services 154, 154B, 246</p>
+</li>
+<li>
+<p><strong>Opp Chinese Gdn (21651)</strong>: Services 154, 154A, 246</p>
+</li>
+<li>
+<p><strong>Opp Blk 115 (21639)</strong>: Services 49, 154, 154B</p>
+</li>
+<li>
+<p><strong>Blk 115 (21631)</strong>: Services 49, 154, 154A</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
