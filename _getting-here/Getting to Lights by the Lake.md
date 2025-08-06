@@ -147,13 +147,16 @@ description: ""
 </li>
 </ol>
 <h3></h3>
+<p>For cars entering North Carpark</p>
+<p></p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Carparks in Jurong Lake Gardens</summary>
+<summary>Parking</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h3><strong>Carparks</strong></h3>
+<h3><strong>Carparks in Jurong Lake Gardens</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -274,10 +277,12 @@ description: ""
 <p><em>For further information, please contact Times24 Parking at <a href="tel:6592 2705" rel="noopener noreferrer nofollow" target="_blank">6592 2705</a>.</em>
 </p>
 <p></p>
-<h4>Notice</h4>
+<h3><strong>Notice</strong></h3>
 <p>Entry into the carparks will not be allowed when the carparks are full.
 please follow the instructions of our personnel on site and park at the
-nearby carparks:</p>
+nearby carparks.</p>
+<p></p>
+<p>Alternative Parking Locations</p>
 <p></p>
 <p></p>
 </div>
@@ -286,6 +291,15 @@ nearby carparks:</p>
 <summary>Pick-up and Drop-off Points in Jurong Lake Gardens</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nearest Pick-up, drop-off point: Coach Bay at Jurong Lake Gardens.</p>
+<p></p>
+<p><a href="https://maps.app.goo.gl/LUXGCGyBvajC7ivC7" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/LUXGCGyBvajC7ivC7</a> 
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Road Closure</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
