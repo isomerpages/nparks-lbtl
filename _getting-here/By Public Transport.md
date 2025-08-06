@@ -4,3 +4,114 @@ permalink: /by-public-transport/
 variant: tiptap
 description: ""
 ---
+<h1>Getting to Lights by the Lake by Public Transport</h1>
+<h3><strong>Nearest MRT Stations</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Lakeside MRT (EW26)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>To entrance at Lakeside Plaza (3-min walk)</p>
+</li>
+<li>
+<p>To information counter at Entrance Pavilion (12-min walk)</p>
+</li>
+</ul>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="962" width="1912" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ja8JB2vCY80"></iframe>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Chinese Garden MRT (EW25)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>To entrance at Chinese Garden Bridge (5-min walk)</p>
+</li>
+<li>
+<p>To information counter at Pagoda Plaza (8-min walk)</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Jurong East MRT (NS1/EW24)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>To entrance at Japanese Garden Bridge (20-min walk)</p>
+</li>
+<li>
+<p>To information counter at Water Lily Pavilion (23-min walk)</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Nearest Bus Stops</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Along Yuan Ching Road</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Chinese Gdn (21659)</strong>: Services 154, 154B, 246</p>
+</li>
+<li>
+<p><strong>Opp Chinese Gdn (21651)</strong>: Services 154, 154A, 246</p>
+</li>
+<li>
+<p><strong>Opp Blk 115 (21639)</strong>: Services 49, 154, 154B</p>
+</li>
+<li>
+<p><strong>Blk 115 (21631)</strong>: Services 49, 154, 154A</p>
+</li>
+</ul>
+</li>
+<li>
+<p><u>Along Boon Lay Way</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Chinese Gdn Stn (28341)</strong>: Services 180, 335</p>
+</li>
+<li>
+<p><strong>Opp Chinese Gdn Stn (28349)</strong>: Services 180, 180A, 335</p>
+</li>
+</ul>
+</li>
+<li>
+<p><u>Along Jurong Town Hall Road</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Aft S'pore Science Ctr (28261)</strong>: Services 66, 178, 198,
+335</p>
+</li>
+<li>
+<p><strong>Blk 118 (28269)</strong>: Services 66, 178, 198, 335</p>
+<p></p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
