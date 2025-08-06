@@ -123,7 +123,7 @@ in the Park: Rockestra®)</p>
 <h4><strong><u>Use of the Gardens for Organised/Group Activities</u></strong></h4>
 <p>In the interest of public safety and enhancing visitor experience, please
 note that group activity permits would be required for any organised trips
-(E.g., Group Activities, Learning Journeys, Tours, Pre-school Visits etc)
+(E.g., group activities, learning journeys, tours, pre-school visits etc)
 to Jurong Lake Gardens.</p>
 <p></p>
 <p>Jurong Lake Gardens is a public garden for the enjoyment of all. Any form
