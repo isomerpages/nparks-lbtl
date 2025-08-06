@@ -72,7 +72,64 @@ nearby carparks.</p>
 <details class="isomer-details">
 <summary>South Carpark</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>s</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Directions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Parking Lots</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Nearest Attractions</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Turn in at Chinese Garden Road</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Car Lots: 173</p>
+<p>Handicap Lots: 2</p>
+<p>Motorcycle Lots: 15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lantern Displays, Wave Plaza, Food Street, Chinese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Turn in at Japanese Garden Road</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Car Lots: 171</p>
+<p>Handicap Lots: 4</p>
+<p>Motorcycle Lots: 11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japanese Garden</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>e</p>
 </div>
 </details>
 </div>
@@ -81,7 +138,7 @@ nearby carparks.</p>
 <summary>Parking in Jurong Lake Gardens</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>Carparks</strong> </h4>
+<h4><strong>Carparks</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
