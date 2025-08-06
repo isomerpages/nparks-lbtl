@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>Getting to Lights by the Lake<strong> </strong>by <strong>Private Transport</strong></h1>
-<h3><strong>Notice </strong></h3>
+<h3><strong>Notice</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Road Closure and Diversion Notice (North Carpark, Chinese Garden Road)</summary>
@@ -24,7 +24,7 @@ will be redirected to enter via the Yuan Ching Road Slip Road.</p>
 </div>
 <p></p>
 <h3><strong>Parking</strong></h3>
-<h4>Carparks</h4>
+<h4>Carparks in Jurong Lake Gardens</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>North Carpark</summary>
