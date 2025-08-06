@@ -25,7 +25,8 @@ description: ""
 <h4><strong>Directions</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>How do I get to Lights by the Lake 2025?</summary>
+<summary><strong>How do I get to Lights by the Lake 2025?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For directions on getting to the event, click here.</p>
 </div>
@@ -85,7 +86,7 @@ own mats.​</p>
 </div>
 </details>
 </div>
-<h4><br><strong>F&amp;B</strong></h4>
+<h4><strong>F&amp;B</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Will there be any food and/or drinks sold at the festival?​</strong>
