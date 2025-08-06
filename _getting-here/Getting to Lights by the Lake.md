@@ -113,10 +113,8 @@ description: ""
 <h4><strong>By Private Transport</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>By Private Car</summary>
+<summary>Directions</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h3><strong>Directions</strong></h3>
 <h4>From Pan Island Expressway (PIE) towards Jurong</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -148,6 +146,12 @@ description: ""
 <p>Turn left onto Yuan Ching Road</p>
 </li>
 </ol>
+<h3></h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Carparks in Jurong Lake Gardens</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h3><strong>Carparks</strong></h3>
 <table style="minWidth: 100px">
@@ -185,7 +189,7 @@ description: ""
 <p>Motorcycle Lots: 15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Forest Ramble, Clusia Cove. Chinese Garden</p>
+<p>Forest Ramble, Clusia Cove, Chinese Garden</p>
 </td>
 </tr>
 <tr>
@@ -269,12 +273,23 @@ description: ""
 <p></p>
 <p><em>For further information, please contact Times24 Parking at <a href="tel:6592 2705" rel="noopener noreferrer nofollow" target="_blank">6592 2705</a>.</em>
 </p>
+<p></p>
+<p>Notice</p>
+<p>Entry into the carparks will not be allowed when the carparks are full.
+please follow the instructions of our personnel on site and park at the
+nearby carparks</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>By Taxi or Private Hire Vehicles</summary>
+<summary>Alternative Parking Locations</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Pick-up and Drop-off Points in Jurong Lake Gardens</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Nearest Pick-up, drop-off point: Coach Bay at Jurong Lake Gardens.</p>
 </div>
 </details>
 </div>
