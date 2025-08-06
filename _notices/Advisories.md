@@ -138,6 +138,16 @@ visiting.</p>
 </div>
 </details>
 </div>
+<h4><strong>Group Activities</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Organised Group Activity Permits</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>[link to LBTL permit application]</p>
+</div>
+</details>
+</div>
 <p><sup>Last updated 6 Aug 2025.</sup>
 </p>
 <p></p>
