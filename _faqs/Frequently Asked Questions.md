@@ -10,13 +10,17 @@ description: ""
 <summary><strong>Do I need a ticket for this festival?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tickets are not required as this festival is a free event.​</p>
+<p></p>
+<h4><strong><u>Ticketing for Lights by the Lake 2025</u></strong></h4>
+<p>Tickets are not required – admission is free for Lights by the Lake 2025.​</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>How long is the festival?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong><u>Festival Duration</u></strong></h4>
 <p>The festival will take place across 16 days: 27 September to 12 October
 2025, with various timings for each programme.</p>
 </div>
