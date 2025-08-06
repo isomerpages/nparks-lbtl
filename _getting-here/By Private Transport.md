@@ -22,18 +22,7 @@ will be redirected to enter via the Yuan Ching Road Slip Road.</p>
 </div>
 </details>
 </div>
-<p>Road closure at Chinese Garden Road</p>
-<p>Carpark closure (when carparks are full)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Entry into the carparks will not be allowed when the carparks are full.
-please follow the instructions of our personnel on site and park at the
-nearby carparks.</p>
-</li>
-<li>
-<p>Alternative Parking Locations</p>
-</li>
-</ul>
+<p></p>
 <h3><strong>Parking</strong></h3>
 <h4>Carparks in Jurong Lake Gardens</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -187,6 +176,12 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 <h4>Alternative Parking</h4>
 <p>In the event both North and South Carparks are full, please park at the
 following carparks.</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Entry into the carparks will not be allowed when the carparks are full.
+please follow the instructions of our personnel on site and park at the
+nearby carparks.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
