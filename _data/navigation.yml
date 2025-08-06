@@ -9,6 +9,6 @@ links:
   - title: Getting Around
     collection: getting-around
   - title: Notices
-    url: /news-announcements/
+    collection: notices
   - title: FAQs
     collection: faqs
