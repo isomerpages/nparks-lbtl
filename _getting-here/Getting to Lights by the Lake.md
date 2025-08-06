@@ -86,9 +86,8 @@ description: ""
 </details>
 </div>
 <p></p>
-<h3><strong>By Public Transport</strong></h3>
-<h4>Nearest MRT Stations</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<h4><strong>By Public Transport</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Nearest MRT Stations</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -138,11 +137,66 @@ description: ""
 </ul>
 </div>
 </details>
-</div>
-<ul data-tight="true" class="tight">
-<li>
+<details class="isomer-details">
+<summary>Nearest Bus Stops</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4>By Private Transport</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>By Car</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>From Pan Island Expressway (PIE) towards Jurong</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Take Exit 31</p>
 </li>
-</ul>
-<h4><strong>By Private Transport</strong></h4>
+<li>
+<p>Turn left onto Jurong Town Hall Road</p>
+</li>
+<li>
+<p>Turn right onto Boon Lay Way</p>
+</li>
+<li>
+<p>Turn left onto Yuan Ching Road</p>
+</li>
+</ol>
+<p><strong><u>From Ayer Rajah Expressway (AYE) towards Jurong</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Take Exit 15A onto Jalan Ahmad Ibrahim</p>
+</li>
+<li>
+<p>Turn right onto Corporation Road</p>
+</li>
+<li>
+<p>Turn right onto Jalan Ahmad Ibrahim</p>
+</li>
+<li>
+<p>Turn left onto Yuan Ching Road</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Getting Here/Carparks.png">
+</div>
+<p><strong><u>Parking charges</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Getting Here/Parking_charges.png">
+</div>
+<p><em>For any parking session between 10.30pm to 7.00am the following day, per minute charging will apply subject to a maximum parking charge of $5.00.</em>
+</p>
+<p></p>
+<p><em>For further information, please contact Times24 Parking at <a href="tel:6592 2705" rel="noopener noreferrer nofollow" target="_blank">6592 2705</a>.</em>
+</p>
+</div>
+</details>
+</div>
 <p></p>
