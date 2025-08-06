@@ -11,7 +11,7 @@ description: ""
 <summary><strong>Going Car-lite</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Walk, cycle, or hop on <a href="/getting-here/" rel="noopener nofollow" target="_blank">public transport</a> to
+<p>Walk, cycle, or hop on <a href="/by-public-transport/" rel="noopener nofollow" target="_blank">public transport</a> to
 explore Jurong Lake Gardens! Let’s choose active commutes for a greener
 and healthier lifestyle this World Car-Free Day!</p>
 </div>
@@ -37,6 +37,20 @@ please:</p>
 <p></p>
 <p>Click <a href="/files/JLG_No_Cycling_Zones.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on No Cycling Zones within Jurong Lake Gardens.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Road Closures</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Parking</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>/by-private-transport/</p>
 </div>
 </details>
 </div>
@@ -82,7 +96,7 @@ the health and well-being of all visitors.</p>
 <p>As large numbers of pedestrians are expected, cyclists are advised to
 either park their bicycles at the designated areas, or dismount and push.</p>
 <p></p>
-<p>For more information on designated bike parking areas, click here.</p>
+<p>For more information on designated bike parking areas, click <a href="/cycling-in-jlg" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -119,7 +133,7 @@ should dispose of flammable items responsibly.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Seek shelter during bad weather. Do not enter forested areas during and
-immediately after bad weather. <a href="http://www.weather.gov.sg/home/" rel="noopener noreferrer" target="_blank"><u>Check the weather forecast</u></a> before
+immediately after bad weather. <a href="https://www.weather.gov.sg/home/" rel="noopener noreferrer" target="_blank"><u>Check the weather forecast</u></a> before
 visiting.</p>
 </div>
 </details>
