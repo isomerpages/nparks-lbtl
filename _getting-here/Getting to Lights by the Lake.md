@@ -74,8 +74,8 @@ description: ""
 <summary>By Car</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong><u>From Pan Island Expressway (PIE) towards Jurong</u></strong>
-</p>
+<h3><strong>Directions</strong></h3>
+<h4>From Pan Island Expressway (PIE) towards Jurong</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Take Exit 31</p>
@@ -91,8 +91,7 @@ description: ""
 <p></p>
 </li>
 </ol>
-<p><strong><u>From Ayer Rajah Expressway (AYE) towards Jurong</u></strong>
-</p>
+<h4>From Ayer Rajah Expressway (AYE) towards Jurong</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Take Exit 15A onto Jalan Ahmad Ibrahim</p>
@@ -108,14 +107,121 @@ description: ""
 </li>
 </ol>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Getting Here/Carparks.png">
-</div>
-<p><strong><u>Parking charges</u></strong>
+<h3><strong>Carparks</strong></h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Carpark</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Directions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Parking Lots</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Nearest Attractions</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Turn in at Chinese Garden Road</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Car Lots: 173</p>
+<p>Handicap Lots: 2</p>
+<p>Motorcycle Lots: 15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Forest Ramble, Clusia Cove. Chinese Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South Carpark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Turn in at Japanese Garden Road</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Car Lots: 171</p>
+<p>Handicap Lots: 4</p>
+<p>Motorcycle Lots: 11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ActiveSG, Grasslands, Japanese Garden</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Parking charges</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Timings</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Charges</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Monday to Friday</u>
+<br>8.30am to 12pm</p>
+<p>2pm to 5am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.60 per 30 minutes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Saturday to Sunday</u>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Getting Here/Parking_charges.png">
-</div>
+<p>8.30am to 5am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.60 per 30 minutes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Monday to Sunday</u>
+</p>
+<p>5am to 8.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Monday to Friday</u>
+</p>
+<p>12pm to 2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><em>For any parking session between 10.30pm to 7.00am the following day, per minute charging will apply subject to a maximum parking charge of $5.00.</em>
 </p>
 <p></p>
