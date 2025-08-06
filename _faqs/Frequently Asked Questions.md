@@ -92,24 +92,16 @@ own mats.​</p>
 <summary><strong>Will there be any food and/or drinks sold at the festival?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Festival F&amp;B options include:
-<br>– Food Street at ​Lakeside Field (Muslim-owned stalls available) (8 –
+<p></p>
+<h4><strong><u>Festival F&amp;B options</u></strong></h4>
+<p>– Food Street at ​Lakeside Field (Muslim-owned stalls available) (8 –
 22 Sep)
 <br>– The Travelling Cow and Frozt (14 Sep – part of NParks Concert Series
 in the Park: Rockestra®)</p>
 <p></p>
-<p>Our tenants in the Gardens:
-<br><strong>Lakeside Garden</strong>
-</p>
-<p></p>
-<p><strong>Chinese Garden</strong>
-</p>
-<p></p>
-<p><strong>Japanese Garden</strong>
-</p>
-<p></p>
-<p>– Fusion Spoon (Halal-certified) – Ecopond (Lakeside Garden)
-<br>– Starbucks – near Lakeside Plaza (Lakeside Garden)</p>
+<h4><strong><u>Dining options within the Gardens</u></strong></h4>
+<p>Click <a href="https://juronglakegardens.nparks.gov.sg/dining/" rel="noopener nofollow" target="_blank">here</a> to
+find more about the tenants in the Gardens.</p>
 </div>
 </details>
 </div>
