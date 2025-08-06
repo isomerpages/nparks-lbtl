@@ -91,7 +91,19 @@ description: ""
 </li>
 <li>
 <p><strong>Opp Chinese Gdn Stn (28349)</strong>: Services 180, 180A, 335</p>
-<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><u>Along Jurong Town Hall Road</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>S'pore Science Ctr (28251)</strong>: Services 66, 178, 198, 335</p>
+</li>
+<li>
+<p><strong>Opp S'pore Science Ctr (28259)</strong>: Services 66, 178, 198,
+335</p>
 <p></p>
 </li>
 </ul>
