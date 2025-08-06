@@ -274,15 +274,11 @@ description: ""
 <p><em>For further information, please contact Times24 Parking at <a href="tel:6592 2705" rel="noopener noreferrer nofollow" target="_blank">6592 2705</a>.</em>
 </p>
 <p></p>
-<p>Notice</p>
+<h4>Notice</h4>
 <p>Entry into the carparks will not be allowed when the carparks are full.
 please follow the instructions of our personnel on site and park at the
-nearby carparks</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Alternative Parking Locations</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+nearby carparks:</p>
+<p></p>
 <p></p>
 </div>
 </details>
