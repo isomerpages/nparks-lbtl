@@ -2,5 +2,13 @@ logo: /images/Partners & Logos/NParks_JLG_logos_2.png
 links:
   - title: About
     url: /about
+  - title: Highlights
+    collection: highlights
+  - title: Getting Here
+    collection: getting-here
+  - title: Getting Around
+    collection: getting-around
   - title: Notices
     url: /news-announcements/
+  - title: FAQs
+    collection: faqs
