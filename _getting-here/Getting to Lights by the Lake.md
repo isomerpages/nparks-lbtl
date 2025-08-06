@@ -99,9 +99,8 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Aft S'pore Science Ctr</strong>
-</p>
-<p><strong>(28261)</strong>: Services 66, 178, 198, 335</p>
+<p><strong>Aft S'pore Science Ctr (28261)</strong>: Services 66, 178, 198,
+335</p>
 </li>
 <li>
 <p><strong>Blk 118 (28269)</strong>: Services 66, 178, 198, 335</p>
