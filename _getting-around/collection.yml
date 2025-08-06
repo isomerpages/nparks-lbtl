@@ -2,4 +2,5 @@ collections:
   getting-around:
     output: true
     order:
+      - Cycling in Jurong Lake Gardens.md
       - Getting around Lights by the Lake.md
