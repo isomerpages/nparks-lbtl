@@ -76,30 +76,8 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>Nearest Bus Stops</summary>
+<summary>Along Boon Lay Way</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><u>Along Yuan Ching Road</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Chinese Gdn (21659)</strong>: Services 154, 154B, 246</p>
-</li>
-<li>
-<p><strong>Opp Chinese Gdn (21651)</strong>: Services 154, 154A, 246</p>
-</li>
-<li>
-<p><strong>Opp Blk 115 (21639)</strong>: Services 49, 154, 154B</p>
-</li>
-<li>
-<p><strong>Blk 115 (21631)</strong>: Services 49, 154, 154A</p>
-</li>
-</ul>
-</li>
-<li>
-<p><u>Along Boon Lay Way</u>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Chinese Gdn Stn (28341)</strong>: Services 180, 335</p>
@@ -108,10 +86,11 @@ description: ""
 <p><strong>Opp Chinese Gdn Stn (28349)</strong>: Services 180, 180A, 335</p>
 </li>
 </ul>
-</li>
-<li>
-<p><u>Along Jurong Town Hall Road</u>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Along Jurong Town Hall Road</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Aft S'pore Science Ctr (28261)</strong>: Services 66, 178, 198,
@@ -119,9 +98,6 @@ description: ""
 </li>
 <li>
 <p><strong>Blk 118 (28269)</strong>: Services 66, 178, 198, 335</p>
-<p></p>
-</li>
-</ul>
 </li>
 </ul>
 </div>
