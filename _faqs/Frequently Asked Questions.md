@@ -101,7 +101,7 @@ in the Park: Rockestra®)</p>
 <p></p>
 <h4><strong><u>Dining options within the Gardens</u></strong></h4>
 <p>Click <a href="https://juronglakegardens.nparks.gov.sg/dining/" rel="noopener nofollow" target="_blank">here</a> to
-find more about the tenants in the Gardens.</p>
+find more about the dining options within the Gardens.</p>
 </div>
 </details>
 </div>
