@@ -88,16 +88,31 @@ description: ""
 <p></p>
 <h3><strong>By Public Transport</strong></h3>
 <h4>Nearest MRT Stations</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Nearest MRT Stations</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lakeside MRT (EW26):</strong> Exit the MRT and head toward Lakeside
-Garden</p>
+<p><strong>Lakeside MRT (EW26)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exit the MRT and head toward Lakeside Garden.</p>
 </li>
 <li>
-<p></p>
-<p></p>
-<p></p>
-<p><strong><u>From Chinese Garden MRT Station (EW25)</u></strong>
+<p>To entrance at Lakeside Plaza (3-min walk)</p>
+</li>
+<li>
+<p>To information counter at Entrance Pavilion (12-min walk)</p>
+</li>
+<li>
+<p>More information can be found <a href="https://www.youtube.com/embed/ja8JB2vCY80?si=aAb0shh5w6f6MCNp" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Chinese Garden MRT (EW25)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,8 +122,9 @@ Garden</p>
 <p>To information counter at Pagoda Plaza (8-min walk)</p>
 </li>
 </ul>
-<p></p>
-<p><strong><u>From Jurong East MRT Station (NS1/EW24)</u></strong>
+</li>
+<li>
+<p><strong>Jurong East MRT (NS1/EW24)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -118,6 +134,14 @@ Garden</p>
 <p>To information counter at Water Lily Pavilion (23-min walk)</p>
 </li>
 </ul>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
 </li>
 </ul>
 <h4><strong>By Private Transport</strong></h4>
