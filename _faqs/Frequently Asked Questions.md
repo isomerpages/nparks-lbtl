@@ -28,13 +28,21 @@ description: ""
 <summary><strong>How do I get to Lights by the Lake 2025?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For directions on getting to the event, click here.</p>
+<p></p>
+<h4><strong><u>Getting to Lights by the Lake 2025</u></strong></h4>
+<p>Walk, cycle, or hop on <a href="https://cms.isomer.gov.sg/by-public-transport/" rel="noopener nofollow" target="_blank"><u>public transport</u></a> to
+explore Jurong Lake Gardens! Let’s choose active commutes for a greener
+and healthier lifestyle this World Car-Free Day!</p>
+<p></p>
+<p>Getting here by private transport? Click <a href="/by-private-transport/" rel="noopener nofollow" target="_blank">here</a> for more information.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Are there any cruiser services available?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong><u>Cruiser Services during Lights by the Lake 2025</u></strong></h4>
 <p>No cruiser services will be available during the festival.​</p>
 </div>
 </details>
@@ -45,6 +53,8 @@ description: ""
 <summary><strong>What are the different types of activities taking place during the festival?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong><u>Festival Programmes</u></strong></h4>
 <p>Visitors can expect a wide range of activities such as movie screenings,
 tours, a Mandopop &amp; English-themed concert, cultural showcases and
 music performances, lantern riddles, art workshops, sports activities,
@@ -55,16 +65,25 @@ carnival rides, and more!</p>
 <summary><strong>Are there kid-friendly/family-friendly activities?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Families can look forward to:
-<br>– Cultural showcases and music performances at Wave Plaza (8, 13 – 15,
-17 and 20 – 22 Sep)
-<br>– NParks Concert Series in the Park: Rockestra® at The Oval (14 Sep)
-<br>– Movie screenings at The Oval (15 – 22 Sep)
-<br>– Uncle Ringo Carnival Rides, Games &amp; Snack at Butterfly Field (8
-– 22 Sep)
-<br>– Programmes by PAssionWave @ Jurong Lake Gardens (8, 15 &amp; 22 Sep)
-<br>– Roving Art Truck by National Gallery Singapore at Wave Plaza (13 – 15,
+<p></p>
+<h4><strong><u>Kid-friendly/Family-friendly Activities</u></strong></h4>
+<p>Families can look forward to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cultural showcases and music performances at Wave Plaza (8, 13 – 15, 17
+and 20 – 22 Sep)</p>
+</li>
+<li>
+<p>NParks Concert Series in the Park: Rockestra® at The Oval (14 Sep)</p>
+</li>
+<li>
+<p>Programmes by PAssionWave @ Jurong Lake Gardens (8, 15 &amp; 22 Sep)</p>
+</li>
+<li>
+<p>Roving Art Truck by National Gallery Singapore at Wave Plaza (13 – 15,
 20 – 22 Sep)</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
