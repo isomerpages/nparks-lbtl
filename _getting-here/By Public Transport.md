@@ -8,8 +8,7 @@ description: ""
 <h3><strong>Nearest MRT Stations</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Lakeside MRT (EW26)</strong>
-</summary>
+<summary>Lakeside MRT (EW26)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -26,8 +25,7 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Chinese Garden MRT (EW25)</strong>
-</summary>
+<summary>Chinese Garden MRT (EW25)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -40,8 +38,7 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Jurong East MRT (NS1/EW24)</strong>
-</summary>
+<summary>Jurong East MRT (NS1/EW24)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
