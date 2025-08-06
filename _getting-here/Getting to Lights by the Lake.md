@@ -71,7 +71,7 @@ description: ""
 <h4><strong>By Private Transport</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>By Car</summary>
+<summary>By Private Car</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h3><strong>Directions</strong></h3>
