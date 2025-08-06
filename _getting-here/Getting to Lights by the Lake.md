@@ -20,9 +20,6 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Exit the MRT and head toward Lakeside Garden.</p>
-</li>
-<li>
 <p>To entrance at Lakeside Plaza (3-min walk)</p>
 </li>
 <li>
