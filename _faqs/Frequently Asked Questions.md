@@ -99,17 +99,38 @@ own mats.​</p>
 in the Park: Rockestra®)</p>
 <p></p>
 <p>Our tenants in the Gardens:
-<br>– Fusion Spoon (Halal-certified) – Ecopond (Lakeside Garden)
+<br><strong>Lakeside Garden</strong>
+</p>
+<p></p>
+<p><strong>Chinese Garden</strong>
+</p>
+<p></p>
+<p><strong>Japanese Garden</strong>
+</p>
+<p></p>
+<p>– Fusion Spoon (Halal-certified) – Ecopond (Lakeside Garden)
 <br>– Starbucks – near Lakeside Plaza (Lakeside Garden)</p>
 </div>
 </details>
 </div>
-<h4><strong>Group Activities</strong></h4>
+<h4><strong>Organised/Group Activities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Organised Group Activity Permits</strong>
-</summary>
+<summary>Do I need a permit to conduct group activities during Lights by the Lake
+2025?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong><u>Use of the Gardens for Organised/Group Activities</u></strong></h4>
+<p>In the interest of public safety and enhancing visitor experience, please
+note that group activity permits would be required for any organised trips
+(E.g., Group Activities, Learning Journeys, Tours, Pre-school Visits etc)
+to Jurong Lake Gardens.</p>
+<p></p>
+<p>Jurong Lake Gardens is a public garden for the enjoyment of all. Any form
+of set-up, structure, equipment etc. is not permitted without prior approval
+of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
+or cause discomfort to other visitors will not be permitted.&nbsp;</p>
+<p></p>
 <p>[link to LBTL permit application]</p>
 </div>
 </details>
@@ -120,6 +141,9 @@ in the Park: Rockestra®)</p>
 <summary><strong>Where can I provide feedback?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Where can I provide feedback?</strong>
+</p>
 <p>For feedback on Lights by the Lake 2025, click <a href="https://go.gov.sg/lbtl2024-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>For feedback on NParks Concert Series in the Park: Rockestra®, click
 <a href="https://go.gov.sg/rocksep24-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
