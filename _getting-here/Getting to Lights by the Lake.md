@@ -189,7 +189,7 @@ description: ""
 <p>Motorcycle Lots: 15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Forest Ramble, Clusia Cove, Chinese Garden</p>
+<p>Lantern Displays, Wave Plaza, Food Street, Chinese Garden</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ description: ""
 <p>Motorcycle Lots: 11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ActiveSG, Grasslands, Japanese Garden</p>
+<p>Japanese Garden</p>
 </td>
 </tr>
 </tbody>
