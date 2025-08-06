@@ -4,113 +4,8 @@ permalink: /getting-to-lights-by-the-lake/
 variant: tiptap
 description: ""
 ---
-<h4>📍 Jurong Lake Gardens</h4>
-<div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4726.234154027589!2d103.72359917568048!3d1.3358996986514537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0ffd28f00259%3A0x6f21e436ac8c03f8!2sJurong%20Lake%20Gardens!5e1!3m2!1sen!2ssg!4v1754386264163!5m2!1sen!2ssg"></iframe>
-</div>
+<h1>Getting to Lights by the Lake<strong> </strong>by <strong>Private Transport</strong></h1>
 <p></p>
-<h4><strong>By Public Transport</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Nearest MRT Stations</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Lakeside MRT (EW26)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To entrance at Lakeside Plaza (3-min walk)</p>
-</li>
-<li>
-<p>To information counter at Entrance Pavilion (12-min walk)</p>
-</li>
-<li>
-<p>More information can be found <a href="https://www.youtube.com/embed/ja8JB2vCY80?si=aAb0shh5w6f6MCNp" rel="noopener nofollow" target="_blank">here</a>.</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Chinese Garden MRT (EW25)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To entrance at Chinese Garden Bridge (5-min walk)</p>
-</li>
-<li>
-<p>To information counter at Pagoda Plaza (8-min walk)</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Jurong East MRT (NS1/EW24)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To entrance at Japanese Garden Bridge (20-min walk)</p>
-</li>
-<li>
-<p>To information counter at Water Lily Pavilion (23-min walk)</p>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Nearest Bus Stops</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><u>Along Yuan Ching Road</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Chinese Gdn (21659)</strong>: Services 154, 154B, 246</p>
-</li>
-<li>
-<p><strong>Opp Chinese Gdn (21651)</strong>: Services 154, 154A, 246</p>
-</li>
-<li>
-<p><strong>Opp Blk 115 (21639)</strong>: Services 49, 154, 154B</p>
-</li>
-<li>
-<p><strong>Blk 115 (21631)</strong>: Services 49, 154, 154A</p>
-</li>
-</ul>
-</li>
-<li>
-<p><u>Along Boon Lay Way</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Chinese Gdn Stn (28341)</strong>: Services 180, 335</p>
-</li>
-<li>
-<p><strong>Opp Chinese Gdn Stn (28349)</strong>: Services 180, 180A, 335</p>
-</li>
-</ul>
-</li>
-<li>
-<p><u>Along Jurong Town Hall Road</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Aft S'pore Science Ctr (28261)</strong>: Services 66, 178, 198,
-335</p>
-</li>
-<li>
-<p><strong>Blk 118 (28269)</strong>: Services 66, 178, 198, 335</p>
-<p></p>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<p></p>
-<h4><strong>By Private Transport</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Directions</summary>
@@ -292,12 +187,18 @@ nearby carparks.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nearest Pick-up, drop-off point: Coach Bay at Jurong Lake Gardens.</p>
 <p></p>
-<p><a href="https://maps.app.goo.gl/LUXGCGyBvajC7ivC7" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/LUXGCGyBvajC7ivC7</a> 
+<p><a href="https://maps.app.goo.gl/LUXGCGyBvajC7ivC7" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/LUXGCGyBvajC7ivC7</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Road Closure</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
