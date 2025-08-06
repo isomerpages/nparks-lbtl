@@ -6,6 +6,22 @@ description: ""
 ---
 <h1>Getting to Lights by the Lake<strong> </strong>by <strong>Private Transport</strong></h1>
 <h3><strong>Notice</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Road Closure and Diversion Notice (North Carpark, Chinese Garden Road)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>To ease traffic congestion, vehicle access to our North Carpark will be
+limited to those entering via the Yuan Ching Road Slip Road.</p>
+<p></p>
+<p>Vehicles from Tah Ching Road and the northbound lane of Yuan Ching Road
+will be redirected to enter via the Yuan Ching Road Slip Road.</p>
+<p></p>
+<p>Please refer to the image below for more details.</p>
+<p></p>
+</div>
+</details>
+</div>
 <p>Road closure at Chinese Garden Road</p>
 <p>Carpark closure (when carparks are full)</p>
 <ul data-tight="true" class="tight">
