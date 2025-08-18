@@ -39,19 +39,19 @@ atmosphere.</p>
 <h4><strong>Special Highlights</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Theatre of Moon by Arts Fission: A mesmerising 30-minute wellness performance
-at the Japanese Garden's Reflection Pond, where dance episodes unfold along
-waterside boardwalks</p>
+<p><strong>Theatre of Moon by Arts Fission</strong>
+<br>A mesmerising 30-minute wellness performance at the Japanese Garden's
+Reflection Pond, where dance episodes unfold along waterside boardwalks</p>
 </li>
 <li>
-<p>Science Centre Singapore's Astronomy Open House: Observe celestial bodies
-through telescopes and experience an immersive Moon exploration in the
-Omni-Theatre</p>
+<p><strong>Science Centre Singapore's Astronomy Open House</strong>
+<br>Observe celestial bodies through telescopes and experience an immersive
+Moon exploration in the Omni-Theatre</p>
 </li>
 <li>
-<p>National Gallery Singapore's cultural activities: Create art with traditional
-mooncake stamps and explore a miniature kampong installation inspired by
-Liu Kang's Life by the River</p>
+<p><strong>National Gallery Singapore's cultural activities</strong>
+<br>Create art with traditional mooncake stamps and explore a miniature kampong
+installation inspired by Liu Kang's Life by the River</p>
 </li>
 </ul>
 <p>Beyond the main attractions, visitors can explore other enchanting displays
