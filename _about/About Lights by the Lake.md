@@ -21,19 +21,21 @@ where visitors can walk amongst intricate lantern displays depicting the
 legendary tales of Sun Wukong, Tang Sanzang, and their companions. From
 the dramatic Five Elements Mountain to the mystical Spider Demon Cave,
 each installation tells a chapter of this beloved story through stunning
-craftsmanship and innovative lighting design. Enhance your adventure by
-joining our Lantern Exploration Quest on the NEAR app – capture photos
-with all five Sun Wukong lanterns across the gardens to redeem an exclusive
-Jurong Lake Gardens pin (while stocks last)! Wheelchair-accessible paths
-are available at selected areas, and guided tours with sign language interpreters
-are available, making the magical experience more inclusive for all visitors.</p>
+craftsmanship and innovative lighting design.</p>
+<p>Enhance your adventure by joining our Lantern Exploration Quest on the
+NEAR app – capture photos with all five Sun Wukong lanterns across the
+gardens to redeem an exclusive Jurong Lake Gardens pin (while stocks last)!
+Wheelchair-accessible paths are available at selected areas, and guided
+tours with sign language interpreters are available, making the magical
+experience more inclusive for all visitors.</p>
 <p>The beloved NParks Concert Series in the Park: Rockestra® returns to a
 new venue at Ficus Lawn in Chinese Garden, promising evenings of musical
-excellence under the stars. In celebration of inclusive arts, the festival
-features captivating performances by talented artists from ART:DIS, alongside
-cultural showcases by ArtsEverywhere@CDC. The collaboration with PAssionArts
-Festival brings additional vibrancy to the celebrations, while traditional
-lantern riddles add to the festive atmosphere.</p>
+excellence under the stars.</p>
+<p>In celebration of inclusive arts, the festival features captivating performances
+by talented artists from ART:DIS, alongside cultural showcases by ArtsEverywhere@CDC.
+The collaboration with PAssionArts Festival brings additional vibrancy
+to the celebrations, while traditional lantern riddles add to the festive
+atmosphere.</p>
 <h4><strong>Special Highlights</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
