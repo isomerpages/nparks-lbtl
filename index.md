@@ -10,4 +10,5 @@ sections:
       background: /images/Key Visuals/LBTL_2025_Final.jpg
       button: read more
       url: /about/
+      variant: image
 ---
