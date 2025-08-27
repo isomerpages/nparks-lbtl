@@ -72,5 +72,4 @@ Nodes Network.</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/in_conjunction_with_SG60_logo.png">
 </div>
 <p></p>
-<p><em>Sw Jia Hao, G: Goh En Xuan, H: Lui Yong Sheng, I: Jeffrey Loek, J: Anup Pereira)</em>
-</p>
+<p></p>
