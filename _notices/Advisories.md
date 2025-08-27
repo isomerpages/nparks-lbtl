@@ -101,7 +101,7 @@ either park their bicycles at the designated areas, or dismount and push.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Moving Around in Parks and Park Connnectors</strong>
+<summary><strong>Moving Around in Parks and Park Connectors</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To ensure a safe and pleasant experience in our parks and park connector
@@ -145,7 +145,17 @@ visiting.</p>
 <summary><strong>Organised Group Activity Permits</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>[link to LBTL permit application]</p>
+<p>In the interest of public safety and enhancing visitor experience, please
+note that group activity permits would be required for any organised trips
+to Jurong Lake Gardens.</p>
+<p></p>
+<p>Kindly note that we will assess the request based on factors including
+but not limited to location, timing, and set-ups.</p>
+<p></p>
+<p>Please also note that open flames (e.g. candles, candle lit lanterns,
+sparklers, etc.) are not allowed within our Garden premises.</p>
+<p></p>
+<p>Apply for a permit <a href="https://form.gov.sg/685e1f27deb0de5628f6637e" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
