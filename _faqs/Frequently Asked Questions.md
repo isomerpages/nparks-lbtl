@@ -108,10 +108,7 @@ performances at Wave Plaza.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4><strong><u>Festival F&amp;B options</u></strong></h4>
-<p>– Food Street at ​Lakeside Field (Muslim-owned stalls available) (8 –
-22 Sep)
-<br>– The Travelling Cow and Frozt (14 Sep – part of NParks Concert Series
-in the Park: Rockestra®)</p>
+<p>– Food Street at ​Lakeside Field (Muslim-owned stalls available)</p>
 <p></p>
 <h4><strong><u>Dining options within the Gardens</u></strong></h4>
 <p>Click <a href="https://juronglakegardens.nparks.gov.sg/dining/" rel="noopener nofollow" target="_blank">here</a> to
@@ -136,8 +133,6 @@ to Jurong Lake Gardens.</p>
 of set-up, structure, equipment etc. is not permitted without prior approval
 of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
-<p></p>
-<p>[link to LBTL permit application]</p>
 </div>
 </details>
 </div>
