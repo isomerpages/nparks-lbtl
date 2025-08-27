@@ -43,14 +43,15 @@ more information on No Cycling Zones within Jurong Lake Gardens.</p>
 <summary><strong>Road Closures</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>More details to come!</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Parking</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>/by-private-transport/</p>
+<p>Please refer to <a href="https://lightsbythelake.nparks.gov.sg/by-private-transport/" rel="noopener nofollow" target="_blank">this link</a> for
+more information.</p>
 </div>
 </details>
 </div>
