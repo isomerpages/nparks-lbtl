@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Key Visuals/LBTL_JLG_KV_Isomer_Hero.png
-      title: LIGHTS BY THE LAKE
-      subtitle: Be enchanted this Mid-Autumn Festival from 27 Sep to 12 October 2025!
+      background: /images/Key Visuals/LBTL_2025_Final.jpg
       button: read more
       url: /about/
 ---
