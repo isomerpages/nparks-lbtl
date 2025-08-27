@@ -59,10 +59,9 @@ and healthier lifestyle this World Car-Free Day!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4><strong><u>Festival Programmes</u></strong></h4>
-<p>Visitors can expect a wide range of activities such as movie screenings,
-tours, a Mandopop &amp; English-themed concert, cultural showcases and
-music performances, lantern riddles, art workshops, sports activities,
-carnival rides, and more!</p>
+<p>Visitors can expect a wide range of activities such as lantern displays,
+guided tours, a Mandopop &amp; English-themed concert, cultural showcases
+and music performances, lantern riddles, light shows, and more!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -74,18 +73,19 @@ carnival rides, and more!</p>
 <p>Families can look forward to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cultural showcases and music performances at Wave Plaza (8, 13 – 15, 17
-and 20 – 22 Sep)</p>
+<p>Cultural showcases and music performances at Wave Plaza</p>
 </li>
 <li>
-<p>NParks Concert Series in the Park: Rockestra® at The Oval (14 Sep)</p>
+<p>NParks Concert Series in the Park: Rockestra® at Ficus Lawn (Chinese Garden)</p>
 </li>
 <li>
-<p>Programmes by PAssionWave @ Jurong Lake Gardens (8, 15 &amp; 22 Sep)</p>
+<p>Programmes by PAssionWave @ Jurong Lake Gardens</p>
 </li>
 <li>
-<p>Roving Art Truck by National Gallery Singapore at Wave Plaza (13 – 15,
-20 – 22 Sep)</p>
+<p>Roving Art Truck by National Gallery Singapore at Wave Plaza</p>
+</li>
+<li>
+<p>Astronomy Open House by Science Centre Singapore</p>
 </li>
 </ul>
 </div>
@@ -94,18 +94,9 @@ and 20 – 22 Sep)</p>
 <summary><strong>Are there any concerts/performances during this festival?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NParks Concert Series in the Park: Rockestra® will take place on 14
-September at The Oval, with cultural showcases and music performances taking
-place on 8, 13 – 15, 17 and 20 – 22 September at Wave Plaza.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Are there movie screenings? Do I need a ticket?​</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The screenings will take place nightly from 15 – 22 September at The Oval.
-It is free outdoor seating, and visitors are encouraged to bring their
-own mats.​</p>
+<p>NParks Concert Series in the Park: Rockestra® will take place on 11 October
+at Ficus Lawn (Chinese Garden), alongside cultural showcases and music
+performances at Wave Plaza.</p>
 </div>
 </details>
 </div>
