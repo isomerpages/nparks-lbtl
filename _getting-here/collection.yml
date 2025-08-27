@@ -1,0 +1,6 @@
+collections:
+  getting-here:
+    output: true
+    order:
+      - By Public Transport.md
+      - By Private Transport.md
