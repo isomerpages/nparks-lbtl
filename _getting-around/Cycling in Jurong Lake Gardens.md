@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <details class="isomer-details">
-<summary></summary>
+<summary>Cycling in Jurong Lake Gardens</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Thank you for going car-lite at Jurong Lake Gardens! For everyone's safety,
 please:</p>
