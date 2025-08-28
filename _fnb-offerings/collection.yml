@@ -1,0 +1,4 @@
+collections:
+  fnb-offerings:
+    output: true
+    order: []
