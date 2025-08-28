@@ -7,10 +7,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2025_Final.jpg">
 </div>
-<h2><strong>LIGHTS BY THE LAKE 2025</strong></h2>
-<p>📆 <strong>Date</strong>: 27 September to 12 October 2025
-<br>⏰<strong>Time</strong>: 6:30pm – 10.30pm daily
-<br>📍<strong>Venue</strong>: Jurong Lake Gardens</p>
+<h3><strong>LIGHTS BY THE LAKE 2025</strong></h3>
+<p><strong>📆: 27 September to 12 October 2025 <br>⏰: 6:30pm – 10.30pm daily <br>📍: Jurong Lake Gardens</strong>
+</p>
 <h4><strong>About the Event</strong></h4>
 <p>Journey into a world of enchanting illuminations at Jurong Lake Gardens
 from 27 September to 12 October 2025. As twilight descends each evening
