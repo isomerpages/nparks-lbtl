@@ -11,8 +11,7 @@ along the boardwalks by the water like the footpath of a kabuki stage.</p>
 as flashes of lyrical impressions -- much like a garden rendezvous.&nbsp;</p>
 <p>The short 30-min performance offers the audience a calm moment of intimate
 reprieve through the wellness of arts encounters.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Date: </strong>26 and 27 Sep 2025
 <br><strong>Time:</strong> 6.30pm-7.00pm | 8.00pm-8.30pm (two sessions each
 night)
