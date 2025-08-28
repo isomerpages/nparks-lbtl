@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Lantern Riddles.md
       - Sunken Garden Illumination.md
       - Cloud Pagoda Light Show.md
       - Guided Tours of Chinese Garden.md
