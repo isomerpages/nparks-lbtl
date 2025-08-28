@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Activities/NEAR_app.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/NEAR_app.png">
 </div>
 <p>Discover Jurong Lake Gardens in a whole new way with the NParks Explore
 a Route (NEAR) mobile app, NParks’ innovative augmented reality (AR)-enabled
