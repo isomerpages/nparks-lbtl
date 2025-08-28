@@ -2,6 +2,9 @@ collections:
   programmes:
     output: true
     order:
+      - Programmes.md
+      - Lantern Displays.md
+      - Cultural Showcases and Music Performances.md
       - Lantern Riddles.md
       - Sunken Garden Illumination.md
       - Cloud Pagoda Light Show.md
@@ -9,6 +12,3 @@ collections:
       - Roving Art Studio by National Gallery Singapore.md
       - "月光剧场之: 灯火阑珊处 Theatre of Moon by Arts Fission.md"
       - Astronomy Open House by Science Centre Singapore.md
-      - Cultural Showcases and Music Performances.md
-      - Programmes.md
-      - Lantern Displays.md
