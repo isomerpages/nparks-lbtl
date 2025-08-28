@@ -7,9 +7,9 @@ links:
   - title: Programmes
     collection: programmes
   - title: Rockestra®
-    url: /permalink
+    collection: rockestra
   - title: F&B Offerings
-    url: /permalink
+    collection: fnb-offerings
   - title: Getting Here
     collection: getting-here
   - title: Getting Around
