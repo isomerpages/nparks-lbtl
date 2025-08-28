@@ -2,8 +2,14 @@ logo: /images/Partners & Logos/NParks_JLG_logos_2.png
 links:
   - title: About
     url: /about
+  - title: At a Glance
+    url: /permalink
   - title: Programmes
     collection: programmes
+  - title: Rockestra®
+    url: /permalink
+  - title: F&B Offerings
+    url: /permalink
   - title: Getting Here
     collection: getting-here
   - title: Getting Around
