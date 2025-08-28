@@ -2,5 +2,5 @@ collections:
   fnb-offerings:
     output: true
     order:
-      - Promotions.md
       - F&B Offerings.md
+      - Promotions.md
