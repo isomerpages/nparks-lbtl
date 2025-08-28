@@ -1,4 +1,5 @@
 collections:
   fnb-offerings:
     output: true
-    order: []
+    order:
+      - F&B Offerings.md
