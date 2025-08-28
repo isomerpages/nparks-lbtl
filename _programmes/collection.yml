@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Astronomy Open House by Science Centre Singapore.md
       - Cultural Showcases and Music Performances.md
       - Programmes.md
       - Lantern Displays.md
