@@ -1,4 +1,5 @@
 collections:
   rockestra:
     output: true
-    order: []
+    order:
+      - "NParks Concert Series in the Park: Rockestra®.md"
