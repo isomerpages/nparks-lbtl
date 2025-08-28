@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Cultural Showcases and Music Performances.md
       - Programmes.md
       - Lantern Displays.md
