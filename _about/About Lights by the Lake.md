@@ -57,14 +57,13 @@ installation inspired by Liu Kang's Life by the River</p>
 including Chang'e's Moonlit Garden at the Stone Boat (Chinese Garden),
 the touching story of Little Mei at Resthouse Pond (Japanese Garden), and
 the serene Blossoms Beneath the Moon installation at the Floral Garden
-(Japanese Garden).&nbsp;</p>
-<p>Complete your evening with delectable treats at our Food Market while
-taking in the spectacular light shows that illuminate the gardens.&nbsp;</p>
+(Japanese Garden).&nbsp;Complete your evening with delectable treats at
+our Food Market while taking in the spectacular light shows that illuminate
+the gardens.&nbsp;</p>
 <p>Don't miss this extraordinary celebration of culture, art, and community
 under the autumn moon at Jurong Lake Gardens!</p>
-<p>Lights by the Lake is organised by National Parks Board.</p>
-<p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
-Nodes Network.</p>
+<p>Lights by the Lake is organised by National Parks Board. Jurong Lake Gardens
+is part of the National Arts Council's Arts and Culture Nodes Network.</p>
 <p><em>Watch this space for more exciting updates!</em>
 </p>
 <div class="isomer-image-wrapper">
