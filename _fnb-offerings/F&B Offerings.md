@@ -11,69 +11,14 @@ description: ""
 <p>Hungry? Treat yourself with the delectable selection at the Food Market,
 or explore the diverse F&amp;B outlets around Jurong Lake Gardens for even
 more culinary delights!</p>
+<p><em>More details coming your way soon.</em>
+</p>
 <p>📆 <strong>Date</strong>: 27 September to 12 October 2025
 <br>⏰<strong>Time</strong>: 5pm – 10.30pm daily
 <br>📍<strong>Venue</strong>: Jurong Lake Gardens</p>
-<p><strong>Food Markstalls</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Air Balang (Muslim-owned)</p>
-</li>
-<li>
-<p>Bakso (Muslim-owned)</p>
-</li>
-<li>
-<p>Beef Cube</p>
-</li>
-<li>
-<p>Exploding Tofu</p>
-</li>
-<li>
-<p>Explosive Lemonade</p>
-</li>
-<li>
-<p>Fried Food</p>
-</li>
-<li>
-<p>Games</p>
-</li>
-<li>
-<p>Ice Cream</p>
-</li>
-<li>
-<p>Iron Plate Tofu</p>
-</li>
-<li>
-<p>Kebab (Muslim-owned)</p>
-</li>
-<li>
-<p>Kung Fu Squid</p>
-</li>
-<li>
-<p>LED Lanterns</p>
-</li>
-<li>
-<p>Oyster Cake</p>
-</li>
-<li>
-<p>Shanghai Jianbing Guozi</p>
-</li>
-<li>
-<p>Sugarcane</p>
-</li>
-<li>
-<p>Takoyaki</p>
-</li>
-<li>
-<p>Thai Fried Banana</p>
-</li>
-<li>
-<p>Thai Milk Tea</p>
-</li>
-</ul>
-<h4>Other F&amp;B options in Jurong Lake Gardens</h4>
-<p><u>Lakeside Garden</u>
+<p></p>
+<h4><strong>Other F&amp;B options in Jurong Lake Gardens</strong></h4>
+<p><strong>Lakeside Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -85,21 +30,24 @@ more culinary delights!</p>
 </p>
 </li>
 </ul>
-<p><u>Chinese Garden</u>
+<p><strong>Chinese Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Canopy (Grand Arch)</p>
+<p><a href="https://juronglakegardens.nparks.gov.sg/canopy/" rel="noopener nofollow" target="_blank">Canopy (Grand Arc</a>
+</p>
 </li>
 <li>
-<p>The Eden<strong> </strong>(Pagoda Plaza)</p>
+<p><a href="https://juronglakegardens.nparks.gov.sg/eden/" rel="noopener nofollow" target="_blank">Edem (Pagoda Plaza)</a>
+</p>
 </li>
 </ul>
-<p><u>Japanese Garden</u>
+<p><strong>Japanese Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ice Cream Man and Friends (Sunken Garden)</p>
+<p><a href="https://juronglakegardens.nparks.gov.sg/ice-cream-man-and-friends/" rel="noopener nofollow" target="_blank">Ice Cream Man and Friends (Sunken Garden)</a>
+</p>
 </li>
 </ul>
 <p></p>
