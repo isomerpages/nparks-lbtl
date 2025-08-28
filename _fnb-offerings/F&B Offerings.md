@@ -15,7 +15,7 @@ more culinary delights!</p>
 </p>
 <p>📆 <strong>Date</strong>: 27 September to 12 October 2025
 <br>⏰<strong>Time</strong>: 5pm – 10.30pm daily
-<br>📍<strong>Venue</strong>: Jurong Lake Gardens</p>
+<br>📍<strong>Venue</strong>: Lakeside Field, Lakeside Garden</p>
 <p></p>
 <h4><strong>Other F&amp;B options in Jurong Lake Gardens</strong></h4>
 <p><strong>Lakeside Garden</strong>
