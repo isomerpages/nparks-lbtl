@@ -8,10 +8,16 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/NEAR_app.png">
 </div>
-<p>Discover Jurong Lake Gardens in a whole new way with the NParks Explore
-a Route (NEAR) mobile app, NParks’ innovative augmented reality (AR)-enabled
-mobile application, enhancing the C2C Trail, the Round Island Route (RIR),
-and the Park Connector Network (PCN) for an interactive curated walking
-experience across the island.</p>
-<p>Explore the exciting programmes at Lights by the Lake 2025 – <strong><a href="https://near.nparks.gov.sg/" rel="noopener nofollow" target="_blank">download the app</a></strong> now
-and embark on your adventure at Jurong Lake Gardens!</p>
+<p>Make the most of your Lights by the Lake experience <strong><a href="https://near.nparks.gov.sg/" rel="noopener nofollow" target="_blank">download the NEAR app</a></strong> now
+and embark on your adventure! Access essential event information including
+points of interest, food vendors, key details, and helpful wayfinding to
+car parks and MRT stations.</p>
+<p>Don't miss our exciting <strong>Lantern Exploration Quest</strong> – find
+all five Sun Wukong lanterns at Lakeside Gardens and capture memorable
+photos with each one. Check in at each location and share your discoveries
+on the app's community page, or post your favourite shots on social media
+to spread the magic. Complete the quest, then visit any of our Visitor
+Services counters to scan a QR code and redeem your exclusive Jurong Lake
+Gardens pin (while stocks last)!</p>
+<hr>
+<p></p>
