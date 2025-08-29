@@ -4,6 +4,10 @@ permalink: /astronomy-open-house-by-science-centre-singapore/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OT2.jpg">
+</div>
 <p>Step into the Water Lily Pavilion and craft your very own lantern, inspired
 by the dazzling constellations that light up our night sky! While you’re
 here, don’t miss the radiant “Sun” and uncover the ever-changing phases
