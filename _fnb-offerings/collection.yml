@@ -1,0 +1,6 @@
+collections:
+  fnb-offerings:
+    output: true
+    order:
+      - F&B Offerings.md
+      - Promotions.md

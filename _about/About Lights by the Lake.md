@@ -7,10 +7,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2025_Final.jpg">
 </div>
-<h2><strong>LIGHTS BY THE LAKE 2025</strong></h2>
-<p>📆 <strong>Date</strong>: 27 September to 12 October 2025
-<br>⏰<strong>Time</strong>: 6:30pm – 10.30pm daily
-<br>📍<strong>Venue</strong>: Jurong Lake Gardens</p>
+<h3><strong>LIGHTS BY THE LAKE 2025</strong></h3>
+<p><strong>📆: 27 September to 12 October 2025 <br>⏰: 6:30pm – 10.30pm daily <br>📍: Jurong Lake Gardens</strong>
+</p>
 <h4><strong>About the Event</strong></h4>
 <p>Journey into a world of enchanting illuminations at Jurong Lake Gardens
 from 27 September to 12 October 2025. As twilight descends each evening
@@ -58,14 +57,13 @@ installation inspired by Liu Kang's Life by the River</p>
 including Chang'e's Moonlit Garden at the Stone Boat (Chinese Garden),
 the touching story of Little Mei at Resthouse Pond (Japanese Garden), and
 the serene Blossoms Beneath the Moon installation at the Floral Garden
-(Japanese Garden).&nbsp;</p>
-<p>Complete your evening with delectable treats at our Food Market while
-taking in the spectacular light shows that illuminate the gardens.&nbsp;</p>
+(Japanese Garden).&nbsp;Complete your evening with delectable treats at
+our Food Market while taking in the spectacular light shows that illuminate
+the gardens.&nbsp;</p>
 <p>Don't miss this extraordinary celebration of culture, art, and community
 under the autumn moon at Jurong Lake Gardens!</p>
-<p>Lights by the Lake is organised by National Parks Board.</p>
-<p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
-Nodes Network.</p>
+<p>Lights by the Lake is organised by National Parks Board. Jurong Lake Gardens
+is part of the National Arts Council's Arts and Culture Nodes Network.</p>
 <p><em>Watch this space for more exciting updates!</em>
 </p>
 <div class="isomer-image-wrapper">
