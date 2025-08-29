@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eden_Cafe_Image___Landscape_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Eden_Cafe_Image___Landscape_1.jpg">
 </div>
 <p><strong><u>Eden</u></strong>
 </p>
@@ -15,7 +15,7 @@ description: ""
 <p>Valid from 27 Sep to 12 Oct 2025. Find out more at: <a rel="noopener noreferrer nofollow" target="_blank">https://edencafe.sg/pages/promotion</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fusion_Spoon_Food___Npark_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Fusion_Spoon_Food___Npark_1.jpg">
 </div>
 <p><strong><u>Fusion Spoon</u></strong>
 </p>
@@ -50,7 +50,7 @@ description: ""
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Starbucks_Mooncakes_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Starbucks_Mooncakes_1.jpg">
 </div>
 <p><strong><u>Starbucks Coffee (Jurong Lake Gardens)</u></strong>
 </p>
