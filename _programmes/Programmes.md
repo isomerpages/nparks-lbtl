@@ -12,7 +12,6 @@ description: ""
 music performances (including crowd-favourite Rockestra<strong>®</strong>!),
 captivating lantern riddles, a food street featuring delectable F&amp;B
 to exciting partner programmes, be enchanted this Mid-Autumn Festival at
-Lights by the Lake 2024!</p>
-<p>Click on the tabs to the left to find out more.</p>
+Lights by the Lake 2025!</p>
 <p><em>Please note that all activities, unless otherwise stated, are rain or shine.</em>
 </p>
