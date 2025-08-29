@@ -4,6 +4,10 @@ permalink: /theatre-of-moon-by-arts-fission/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Theatre_of_Moon_EDM2.jpg">
+</div>
 <p>Theatre of Moon is a wellness performance that takes place in the Reflection
 Pond of the serene Japanese Garden. Short episodes of dance magically unfolding
 along the boardwalks by the water like the footpath of a kabuki stage.</p>
