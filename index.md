@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/LTBL_2025_KV_Web_Banner_V2.png
+      background: /images/Key Visuals/LTBL_2025_KV_Web_Banner_V2_resized.png
       button: read more
       url: /about/
       variant: image
