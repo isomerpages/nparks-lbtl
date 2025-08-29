@@ -10,5 +10,5 @@ sections:
       background: /images/Key Visuals/LTBL_2025_KV_Web_Banner_V2_resized.png
       button: read more
       url: /about/
-      variant: image
+      variant: center
 ---
