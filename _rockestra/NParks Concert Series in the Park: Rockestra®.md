@@ -62,4 +62,3 @@ of lanterns and the festive atmosphere of the gardens.&nbsp;
 60 BONUS STARS per box from 3rd box and more.&nbsp;</p>
 <p>While stocks last. T&amp;Cs apply. Find out more <a href="https://www.starbucks.com.sg/menu/food/mid-autumn-moments" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p></p>
