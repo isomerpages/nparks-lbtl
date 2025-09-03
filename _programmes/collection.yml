@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Wings of Light.md
       - Programmes.md
       - Lantern Displays.md
       - Cultural Showcases and Music Performances.md
