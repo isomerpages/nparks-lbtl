@@ -62,15 +62,14 @@ our Food Market while taking in the spectacular light shows that illuminate
 the gardens.&nbsp;</p>
 <p>Don't miss this extraordinary celebration of culture, art, and community
 under the autumn moon at Jurong Lake Gardens!</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Lights</a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[ZG1]</a>&nbsp;
-<a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[ZG2]</a>&nbsp; by the Lake 2025 is organised by National Parks Board,
-with special thanks to our event partners, AUX Media Pte. Ltd, Nanyang
-Inc., National Arts Council, National Gallery Singapore, People’s Association,
-and Science Centre Singapore. We are also grateful for the support of Hipster
-Inc, People’s Assocation, PAssion Wave@Jurong Lake Gardens, Singapore Red
-Cross, Taman Jurong C2E, and Southwest CDC. LOVE972 is the official radio
-station for this year's festival. Jurong Lake Gardens is part of the National
-Arts Council's Arts and Culture Nodes Network.</p>
+<p>Lights by the Lake 2025 is organised by National Parks Board, with special
+thanks to our event partners, AUX Media Pte. Ltd, Nanyang Inc., National
+Arts Council, National Gallery Singapore, People’s Association, and Science
+Centre Singapore. We are also grateful for the support of Hipster Inc,
+People’s Assocation, PAssion Wave@Jurong Lake Gardens, Singapore Red Cross,
+Taman Jurong C2E, and Southwest CDC. LOVE972 is the official radio station
+for this year's festival. Jurong Lake Gardens is part of the National Arts
+Council's Arts and Culture Nodes Network.</p>
 <p><em>Watch this space for more exciting updates!</em>
 </p>
 <div class="isomer-image-wrapper">
