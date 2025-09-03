@@ -72,8 +72,21 @@ for this year's festival. Jurong Lake Gardens is part of the National Arts
 Council's Arts and Culture Nodes Network.</p>
 <p><em>Watch this space for more exciting updates!</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/in_conjunction_with_SG60_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organized_By.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/01_Supported_By.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/02_Official_Radio_Partner.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/03_In_Partnership_With.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/04_In_Conjunction_With.png">
+</div>
 <p></p>
