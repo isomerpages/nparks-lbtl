@@ -4,7 +4,9 @@ permalink: /programmes-at-passionwave-jurong-lake-gardens/
 variant: tiptap
 description: ""
 ---
-<p>Registration is on a first-come first-served basis.</p>
+<p>Join these exciting activities happening before Lights by the Lake opens
+each evening, then continue your magical journey through our illuminated
+gardens thereafter! Registration is on a first-come first-served basis.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
