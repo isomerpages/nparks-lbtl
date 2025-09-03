@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/OT2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Omni_Theatre___Father_and_Boy.jpg">
 </div>
 <p>Step into the Water Lily Pavilion and craft your very own lantern, inspired
 by the dazzling constellations that light up our night sky! While you’re
