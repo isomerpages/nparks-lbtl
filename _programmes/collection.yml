@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Performing Artists.md
       - Programmes.md
       - Wings of Light.md
       - Lantern Displays.md
