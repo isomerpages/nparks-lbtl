@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Programmes/.keep
       - Wings of Light.md
       - Programmes.md
       - Lantern Displays.md
