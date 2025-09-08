@@ -83,9 +83,8 @@ Council's Arts and Culture Nodes Network.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/02_Official_Radio_Partner.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/03_In_Partnership_With.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/03_In_Partnership_With_v2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/04_In_Conjunction_With.png">
 </div>
