@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Taman Jurong PAssionArts Festival.md
       - Programmes.md
       - Wings of Light.md
       - Lantern Displays.md
       - Cultural Showcases and Music Performances.md
+      - Taman Jurong PAssionArts Festival.md
       - Lantern Riddles.md
       - Sunken Garden Illumination.md
       - Cloud Pagoda Light Show.md
