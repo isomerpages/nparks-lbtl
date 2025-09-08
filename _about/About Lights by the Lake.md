@@ -74,7 +74,7 @@ Council's Arts and Culture Nodes Network.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organized_By.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/01_Supported_By.png">
@@ -84,8 +84,5 @@ Council's Arts and Culture Nodes Network.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/03_In_Partnership_With_v2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/04_In_Conjunction_With.png">
 </div>
 <p></p>
