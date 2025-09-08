@@ -115,7 +115,6 @@ meet a masked musician who becomes your musical reflection. As you grasp
 a specially crafted prop that mirrors their instrument, discover three
 simple techniques that transform your gestures into music. Watch as your
 movements inspire the musician to create a spontaneous piece.</p>
-<p>&nbsp;</p>
 <p><strong>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra</strong>
 </p>
 <p>The Asian Cultural Symphony Orchestra (ACSO) is a Singaporean-based orchestra
@@ -123,9 +122,7 @@ established in 2016 with the aim of championing the unique blend of Asian
 cultural music and symphonic works, celebrating its depth and artistry.
 The ACSO showcases the nation’s multicultural heritage through its innovative
 fusion of Eastern and Western musical traditions, fostering a global appreciation
-for the arts.</p>
-<p><strong>&nbsp;</strong>
-</p>
+for the art</p>
 <p><strong>ArtsEverywhere@CDC: Singapore Chinese Dance Theatre</strong>
 </p>
 <p>Established in 2014 under the artistic direction of Jenny Neo, SCDT is
@@ -133,13 +130,39 @@ a performing arts organisation that maintains a strong international presence,
 performing across Asia and North America to critical acclaim, while working
 to make Chinese dance more accessible to the wider public and nurturing
 emerging dancers.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Kyla and Yixin</strong>
 </p>
 <p>Kyla &amp; Yixin have spent the past few years sharing their love for
 Mandopop through numerous performances at various gigs. With every show,
 they strive to connect with the audience and bring the music they cherish
 to life. They’re excited to carry that same passion and energy into this
-performance!</p>
+performanc</p>
+<p><strong>Daniel Ng</strong>
+</p>
+<p>Daniel is a self-taught musician and singer with more than 30 years of
+experience, including his time in the White Cane band and Sunsets Crew.
+His guitar holds great significance to him as it reminds him of a good
+friend, who continues to inspire him to play music till this day. Daniel
+specialised in Pop and evergreen oldies that will engage audiences of all
+ages.</p>
+<p><strong>Salleh</strong>
+</p>
+<p>Salleh, affectionately known as the "One-Leg Man Busker," is a wheelchair
+user and talented musician who brightens the streets of Singapore with
+his music. Specialising in classic oldies and popular songs, Salleh performs
+in multiple languages including English, Chinese, Malay, and various dialects.
+As a skilled keyboardist and vocalist, his soulful renditions resonate
+deeply with passersby. While he's a familiar face in Singapore's neighbourhood
+busking scene, Salleh has also showcased his talent at numerous corporate
+events, captivating audiences with his unique blend of music and heartwarming
+spirit</p>
+<p><strong>Ivni and Wai Yee (Strawberry Story)</strong>
+</p>
+<p>StrawberryStory is a two-piece band who has been making music on streets,
+in ballrooms, at parties and on stages across Singapore. They are formed
+by two visually impaired artists, Ivni – instrumentalist and Wai Yee –
+vocalist. Known for their busking experience, StrawberryStory never fails
+to amaze its audiences of all ages with their classical and pop rendition
+of music. Join ART:DIS Singapore in empowering Strawberry Story, as they
+delight us with their rendition of our favourite songs.</p>
 <p>&nbsp;</p>
