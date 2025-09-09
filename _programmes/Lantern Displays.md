@@ -11,7 +11,7 @@ unfolding beneath the same moon that guides families together during their
 autumn reunions. As you journey through these illuminated installations,
 each step reveals how the Monkey King's path of perseverance mirrors our
 own devotion to those we cherish.</p>
-<p><strong>Date:&nbsp;</strong>27 Sep to 12 Oct 2025
+<p><strong>Date:&nbsp;</strong>27 Sep – 12 Oct 2025
 <br><strong>Time:</strong>&nbsp;6:30pm – 10:30pm daily
 <br><strong>Locations:</strong>&nbsp;
 <br>Lakeside Field, Butterfly Field (Lakeside Garden)
