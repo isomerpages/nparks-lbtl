@@ -15,4 +15,5 @@ from our Deaf and hard of hearing community members.</p>
 searching ‘LBTL 2025’ and selecting your desired session!</p>
 <p><strong>Date</strong>: 27, 28 Sep, and 3, 4, 5, 10, 11, 12 Oct 2025
 <br><strong>Time: </strong>5pm – 6:30pm
-<br><strong>Location: </strong>Chinese Garden</p>
+<br><strong>Location: </strong>Chinese Garden (meeting point: Entrance Pavilion,
+Lakeside Garden)</p>
