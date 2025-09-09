@@ -12,4 +12,4 @@ to be won for correct answers!</p>
 <p><strong>Date: </strong>29 Sep – 2 Oct, 6 – 9 Oct 2025 (Mon – Thu)
 <br><strong>Time: </strong>7:30pm – 9:30pm
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
-landmarl: PAssionWave@Jurong Lake Gardens)</p>
+landmark: PAssionWave@Jurong Lake Gardens)</p>
