@@ -15,10 +15,9 @@ DIY shrink art, badge-making, punch needling, zine creation, and screenprinting.
 creativity and celebrate the Taman Jurong community spirit!</p>
 <p><strong>Date: </strong>27 Sep, 3, 4, and 5 Oct 2025
 <br><strong>Time: </strong>7pm – 9pm&nbsp;
-<br><strong>Location: &nbsp;Wave Plaza (Lakeside Garden)</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
+landmark: PAssionWave@Jurong Lake Gardens)</p>
+<p></p>
 <p><u>Booths</u>
 </p>
 <p><strong>DIY Shrink Art Keychain</strong>

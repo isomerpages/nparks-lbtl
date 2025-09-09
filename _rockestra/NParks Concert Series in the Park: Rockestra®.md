@@ -16,7 +16,7 @@ both English and Mandarin hits that will have you swaying under the stars.</p>
 <p>Hosted by Mediacorp personality Lee Lian, join us for an enchanting evening
 where contemporary beats meet timeless melodies in the garden's natural
 amphitheatre.&nbsp;</p>
-<p><strong>📆: 11 October 2025 (Sat)<br>⏰: 6:30pm till late<br>📍: Ficus Lawn (Chinese Garden), Jurong Lake Gardens</strong>
+<p><strong>📆: 11 October 2025 (Sat)<br>⏰: 6:30pm till late<br>📍: Ficus Lawn , Chinese Garden (nearest MRT: Chinese Garden)</strong>
 <br>
 <br>This edition of NParks Concert Series in the Park: Rockestra® is held
 in conjunction with SG60.

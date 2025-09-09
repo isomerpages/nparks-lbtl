@@ -7,6 +7,8 @@ description: ""
 <p>Join these exciting activities happening before Lights by the Lake opens
 each evening, then continue your magical journey through our illuminated
 gardens thereafter! Registration is on a first-come first-served basis.</p>
+<p><strong>Dates:</strong> 27 and 28 Sep, 4, 5, 11, and 12 Oct 2025
+<br><strong>Location: </strong>PAssionWave@Jurong Lake Gardens</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
