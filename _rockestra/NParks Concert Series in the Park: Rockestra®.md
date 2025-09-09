@@ -4,18 +4,18 @@ permalink: /nparks-concert-series-in-the-park-rockestra/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/NParks_Rockestra.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockestra_KV_8_Sept.jpg">
 </div>
+<p></p>
 <h4><strong>Dancing in the Moonlight 🌕&nbsp;</strong></h4>
 <p>The 24th edition of NParks Concert Series in the Park: Rockestra® moves
 to a stunning new venue at Ficus Lawn in Chinese Garden. Themed 'Dancing
 in the Moonlight', this year's showcase features local talents performing
 both English and Mandarin hits that will have you swaying under the stars.</p>
-<p>Hosted by popular LOVE972 presenter Lee Lian, join us for an enchanting
-evening where contemporary beats meet timeless melodies in the garden's
-natural amphitheatre.&nbsp;</p>
+<p>Hosted by Mediacorp personality Lee Lian, join us for an enchanting evening
+where contemporary beats meet timeless melodies in the garden's natural
+amphitheatre.&nbsp;</p>
 <p><strong>📆: 11 October 2025 (Sat)<br>⏰: 6:30pm till late<br>📍: Ficus Lawn (Chinese Garden), Jurong Lake Gardens</strong>
 <br>
 <br>This edition of NParks Concert Series in the Park: Rockestra® is held
