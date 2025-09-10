@@ -51,6 +51,6 @@ sections:
         Mandarin hits!"
       button: READ MORE
       url: nparks-concert-series-in-the-park-rockestra/
-      image: /images/Activities/NParks_Rockestra.jpg
+      image: /images/Rockestra/NParks_Rockestra.jpg
       alt: Image alt text
 ---
