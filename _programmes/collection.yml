@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Programmes.md
-      - Wings of Light.md
       - Lantern Displays.md
       - Cultural Showcases and Music Performances.md
-      - Taman Jurong PAssionArts Festival.md
-      - Lantern Riddles.md
-      - Sunken Garden Illumination.md
       - Cloud Pagoda Light Show.md
+      - Sunken Garden Illumination.md
+      - Lantern Riddles.md
       - Guided Tours of Chinese Garden.md
+      - Wings of Light.md
       - Roving Art Studio by National Gallery Singapore.md
+      - Taman Jurong PAssionArts Festival.md
       - "月光剧场之: 灯火阑珊处 Theatre of Moon by Arts Fission.md"
       - Astronomy Open House by Science Centre Singapore.md
       - "Deliciously Singaporean: An Exhibition by National Heritage Board.md"
