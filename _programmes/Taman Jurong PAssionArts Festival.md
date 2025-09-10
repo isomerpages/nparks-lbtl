@@ -4,9 +4,8 @@ permalink: /taman-jurong-passionarts-festival/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/passionarts_festival.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Montages/passionarts_festival.png">
 </div>
 <p>Join us for a vibrant celebration featuring New Gen Wind Symphony performing
 the joyful "Feng Shou Zhi Ge" (丰收之歌), plus hands-on workshops including
