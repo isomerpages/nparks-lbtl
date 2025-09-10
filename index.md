@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Key Visuals/LBTL_2025_graphics_only.png
+      background: /images/Key Visuals/LBTL_2025_Email_Banner_without_graphics.png
       button: FIND OUT MORE
       url: /about/
       variant: center
