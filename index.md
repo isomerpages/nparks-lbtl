@@ -22,7 +22,7 @@ sections:
         together during the Mid-Autumn.
       button: READ MORE
       url: /lantern-displays/
-      image: /images/Lanterns/Lanterns_night_montage.jpg
+      image: /images/Lanterns/485857155_1080553877445602_3028540348761698823_n.jpg
       alt: Image alt text
   - infopic:
       title: Light Shows
@@ -31,7 +31,7 @@ sections:
         into a spectacular canvas of light and mesmerising patterns!"
       button: READ MORE
       url: /cloud-pagoda-light-show/
-      image: /images/Activities/Cloud_Pagoda_light_show.jpg
+      image: /images/Activities/Light Shows/Cloud_pagoda_lights.jpg
       alt: Image alt text
   - infopic:
       title: Cultural Showcases & Music Performances
