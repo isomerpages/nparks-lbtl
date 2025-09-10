@@ -12,6 +12,6 @@ description: ""
 hawker beginnings to today's world-famous culinary scene! This exhibition
 celebrates Singapore’s love for food by taking you through the stories,
 photographs, and items behind iconic local dishes and our unique food heritage.</p>
-<p><strong>Date: </strong>6 to 20 Oct 2025
+<p><strong>Date: </strong>6 - 20 Oct 2025
 <br><strong>Time:</strong> All Day
 <br><strong>Location: </strong>Water Lily Pavilion (Japanese Garden)</p>
