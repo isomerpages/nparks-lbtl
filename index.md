@@ -15,16 +15,6 @@ sections:
       subtitle: 27 September – 12 October 2025 • 6:30pm – 10.30pm daily • Jurong Lake
         Gardens
   - infopic:
-      title: "NParks Concert Series in the Park: Rockestra®"
-      id: infopic
-      description: "The 24th edition of Rockestra® moves to a new venue: Ficus Lawn
-        (Chinese Garden). Themed 'Dancing in the Moonlight', groove to English &
-        Mandarin hits!"
-      button: READ MORE
-      url: nparks-concert-series-in-the-park-rockestra/
-      image: /images/Activities/NParks_Rockestra.jpg
-      alt: Image alt text
-  - infopic:
       title: Lantern Displays
       id: infopic
       description: Walk amongst scenes of Sun Wukong's tale of loyalty &
@@ -42,5 +32,25 @@ sections:
       button: READ MORE
       url: /cloud-pagoda-light-show/
       image: /images/Activities/Cloud_Pagoda_light_show.jpg
+      alt: Image alt text
+  - infopic:
+      title: Cultural Showcases & Music Performances
+      id: infopic
+      description: Immerse yourself in captivating performances by talented local
+        artists and vibrant cultural showcases celebrating our community's
+        creativity.
+      button: READ MORE
+      url: /cultural-showcases-and-music-performances/
+      image: /images/Activities/OSP4_ArtsHouseLimited.jpg
+      alt: Image alt text
+  - infopic:
+      title: "NParks Concert Series in the Park: Rockestra®"
+      id: infopic
+      description: "The 24th edition of Rockestra® moves to a new venue: Ficus Lawn
+        (Chinese Garden). Themed 'Dancing in the Moonlight', groove to English &
+        Mandarin hits!"
+      button: READ MORE
+      url: nparks-concert-series-in-the-park-rockestra/
+      image: /images/Activities/NParks_Rockestra.jpg
       alt: Image alt text
 ---
