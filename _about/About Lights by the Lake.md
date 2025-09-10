@@ -52,6 +52,11 @@ radiant "Sun" and uncover the ever-changing phases of the Moon.</p>
 <br>Create art with traditional mooncake stamps and explore a miniature kampong
 installation inspired by Liu Kang's Life by the River</p>
 </li>
+<li>
+<p><strong>Deliciously Singaporean – An Exhibition by National Heritage Board</strong> Discover
+the incredible journey of Singapore's street food - from humble hawker
+beginnings to today's world-famous culinary scene!</p>
+</li>
 </ul>
 <p>Beyond the main attractions, visitors can explore other enchanting displays
 including Chang'e's Moonlit Garden at the Stone Boat (Chinese Garden),
@@ -64,12 +69,12 @@ the gardens.&nbsp;</p>
 under the autumn moon at Jurong Lake Gardens!</p>
 <p>Lights by the Lake 2025 is organised by National Parks Board, with special
 thanks to our event partners, AUX Media Pte. Ltd, Nanyang Inc., National
-Arts Council, National Gallery Singapore, People’s Association, and Science
-Centre Singapore. We are also grateful for the support of Hipster Inc,
-People’s Assocation, PAssion Wave@Jurong Lake Gardens, Singapore Red Cross,
-Taman Jurong C2E, and Southwest CDC. LOVE972 is the official radio station
-for this year's festival. Jurong Lake Gardens is part of the National Arts
-Council's Arts and Culture Nodes Network.</p>
+Arts Council, National Gallery Singapore, National Heritage Board, People’s
+Association, and Science Centre Singapore. We are also grateful for the
+support of Hipster Inc, People’s Assocation, PAssion Wave@Jurong Lake Gardens,
+Singapore Red Cross, Taman Jurong C2E, and Southwest CDC. LOVE972 is the
+official radio station for this year's festival. Jurong Lake Gardens is
+part of the National Arts Council's Arts and Culture Nodes Network.</p>
 <p><em>Watch this space for more exciting updates!</em>
 </p>
 <p></p>
