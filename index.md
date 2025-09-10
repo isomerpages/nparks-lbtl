@@ -24,4 +24,14 @@ sections:
       url: nparks-concert-series-in-the-park-rockestra/
       image: /images/Activities/NParks_Rockestra.jpg
       alt: Image alt text
+  - infopic:
+      title: Lantern Displays
+      id: infopic
+      description: Walk amongst scenes of Sun Wukong's tale of loyalty &
+        transformation, unfolding beneath the same moon that guides families
+        together during the Mid-Autumn.
+      button: READ MORE
+      url: /lantern-displays/
+      image: /images/Lanterns/Lanterns_night_montage.jpg
+      alt: Image alt text
 ---
