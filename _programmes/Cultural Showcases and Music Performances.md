@@ -9,11 +9,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/OSP4_ArtsHouseLimited.jpg">
 </div>
 <p>Immerse yourself in captivating performances by talented local artists
-and vibrant cultural showcases ceebrating our community's creativity. With
-fringe activities happening on selected nights, let the rhythm and energy
-of diverse musical traditions enhance your magical evening under the lanterns.</p>
+and vibrant cultural showcases celebrating our community's creativity.
+With fringe activities happening on selected nights, let the rhythm and
+energy of diverse musical traditions enhance your magical evening under
+the lanterns.</p>
 <p><strong>Date: </strong>27 and 28 Sep, 3, 4, 5, 6, 10, 11 and 12 Oct 2025
-<br><strong>Time: </strong>7pm – 9pm &nbsp;
+<br><strong>Time: </strong>6:30pm - 9:30pm
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
 <table style="minWidth: 50px">
@@ -136,7 +137,7 @@ emerging dancers.</p>
 Mandopop through numerous performances at various gigs. With every show,
 they strive to connect with the audience and bring the music they cherish
 to life. They’re excited to carry that same passion and energy into this
-performanc</p>
+performance.</p>
 <p><strong>Daniel Ng</strong>
 </p>
 <p>Daniel is a self-taught musician and singer with more than 30 years of
