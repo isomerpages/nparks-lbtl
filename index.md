@@ -34,4 +34,13 @@ sections:
       url: /lantern-displays/
       image: /images/Lanterns/Lanterns_night_montage.jpg
       alt: Image alt text
+  - infopic:
+      title: Light Shows
+      id: infopic
+      description: "A returning crowd favourite: Watch as the Cloud Pagoda transforms
+        into a spectacular canvas of light and mesmerising patterns!"
+      button: READ MORE
+      url: /cloud-pagoda-light-show/
+      image: /images/Activities/Cloud_Pagoda_light_show.jpg
+      alt: Image alt text
 ---
