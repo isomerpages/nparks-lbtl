@@ -14,7 +14,7 @@ DIY shrink art, badge-making, punch needling, zine creation, and screenprinting.
 <p>With activities for all ages, it's the perfect opportunity to explore
 creativity and celebrate the Taman Jurong community spirit!</p>
 <p><strong>Date: </strong>27 Sep, 3, 4, and 5 Oct 2025
-<br><strong>Time: </strong>7pm – 9pm&nbsp;
+<br><strong>Time: </strong>6.30pm – 9.30pm&nbsp;
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p></p>
