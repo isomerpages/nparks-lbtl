@@ -38,7 +38,7 @@ more culinary delights!</p>
 </p>
 </li>
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/eden/" rel="noopener nofollow" target="_blank">Edem (Pagoda Plaza)</a>
+<p><a href="https://juronglakegardens.nparks.gov.sg/eden/" rel="noopener nofollow" target="_blank">Eden (Pagoda Plaza)</a>
 </p>
 </li>
 </ul>
