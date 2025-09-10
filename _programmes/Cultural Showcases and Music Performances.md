@@ -137,7 +137,7 @@ emerging dancers.</p>
 Mandopop through numerous performances at various gigs. With every show,
 they strive to connect with the audience and bring the music they cherish
 to life. They’re excited to carry that same passion and energy into this
-performanc</p>
+performance.</p>
 <p><strong>Daniel Ng</strong>
 </p>
 <p>Daniel is a self-taught musician and singer with more than 30 years of
