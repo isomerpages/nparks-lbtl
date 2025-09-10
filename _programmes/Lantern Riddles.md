@@ -4,6 +4,9 @@ permalink: /lantern-riddles/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/LBTL_Lantern_Riddle_2.jpg">
+</div>
 <p>Join us for an evening of delightful puzzlement and cultural celebration
 under the soft glow of lanterns. Test your wit and wisdom as you unravel
 the charm of traditional riddles in a joyous gathering of family and friends.
