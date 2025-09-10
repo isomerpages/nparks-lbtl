@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - "Deliciously Singaporean: An Exhibition by National Heritage Board.md"
       - Programmes.md
       - Wings of Light.md
       - Lantern Displays.md
@@ -15,4 +14,5 @@ collections:
       - Roving Art Studio by National Gallery Singapore.md
       - "月光剧场之: 灯火阑珊处 Theatre of Moon by Arts Fission.md"
       - Astronomy Open House by Science Centre Singapore.md
+      - "Deliciously Singaporean: An Exhibition by National Heritage Board.md"
       - Programmes at PAssionWave@Jurong Lake Gardens.md
