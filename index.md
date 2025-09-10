@@ -7,8 +7,21 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Key Visuals/LTBL_2025_KV_Web_Banner_V2_resized.png
-      button: read more
+      background: /images/Key Visuals/LBTL_2025_graphics_only.png
+      button: FIND OUT MORE
       url: /about/
       variant: center
+      title: Lights by the Lake 2025
+      subtitle: 27 September – 12 October 2025 • 6:30pm – 10.30pm daily • Jurong Lake
+        Gardens
+  - infopic:
+      title: "NParks Concert Series in the Park: Rockestra®"
+      id: infopic
+      description: "The 24th edition of Rockestra® moves to a new venue: Ficus Lawn
+        (Chinese Garden). Themed 'Dancing in the Moonlight', groove to English &
+        Mandarin hits!"
+      button: READ MORE
+      url: nparks-concert-series-in-the-park-rockestra/
+      image: /images/Activities/NParks_Rockestra.jpg
+      alt: Image alt text
 ---
