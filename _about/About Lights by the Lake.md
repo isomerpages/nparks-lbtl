@@ -79,15 +79,15 @@ part of the National Arts Council's Arts and Culture Nodes Network.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/01_Supported_By.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/01_Supported_By.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/02_Official_Radio_Station.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/02_Official_Radio_Station.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_In_Partnership_With_v3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/03_In_Partnership_With_v3.png">
 </div>
 <p></p>
