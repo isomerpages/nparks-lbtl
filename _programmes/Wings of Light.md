@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/LG_Wings.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/LG_Wings.jpg">
 </div>
 <p>Strike a pose with our stunning wing-shaped installations while exploring
 the enchanting lantern displays – the perfect backdrop for your magical
