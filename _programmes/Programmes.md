@@ -4,9 +4,6 @@ permalink: /programmes/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Montages/LBTL_2025_Programmes_montage.png">
-</div>
 <p>From spectacular lantern displays, electrifying cultural showcases &amp;
 music performances (including crowd-favourite Rockestra<strong>®</strong>!),
 captivating lantern riddles, a food street featuring delectable F&amp;B
