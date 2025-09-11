@@ -64,7 +64,8 @@ more information.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As we celebrate the joyous occasion of the Mid-Autumn festivities, we
 kindly ask for your cooperation in refraining from lighting candles, open
-fires or sparklers, and disposing of flammable items responsibly.</p>
+fires or sparklers, and disposing of flammable items responsibly. Battery-operated
+lanterns are available for purchase at the Food Market at Lakeside Field.</p>
 <p></p>
 <p>This small gesture helps to ensure the safety of all visitors and preserves
 the beauty of our natural heritage. Let's enjoy the festivities in a safe
