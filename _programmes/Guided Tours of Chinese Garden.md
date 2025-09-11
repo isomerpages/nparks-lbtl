@@ -4,6 +4,9 @@ permalink: /guided-tours-of-chinese-garden/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/JLG_Guided_Tours_montage.png">
+</div>
 <p>Immerse yourself in the rich history and serene beauty of the Chinese
 Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and traditional architectural marvels.</p>

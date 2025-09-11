@@ -4,6 +4,9 @@ permalink: /lantern-displays/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Lanterns/485857155_1080553877445602_3028540348761698823_n.jpg">
+</div>
 <p>This year's immersive lantern displays unite the treasured Chinese tale
 of <em>Journey to the West</em> with the beloved Mid-Autumn Festival tradition.</p>
 <p>Walk amongst glowing scenes of Sun Wukong's tale of loyalty and transformation,

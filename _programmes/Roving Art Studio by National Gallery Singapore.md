@@ -4,6 +4,9 @@ permalink: /roving-art-studio-by-national-gallery-singapore/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/NGS_Roving_Art_Truck.jpg">
+</div>
 <p><strong>Create an Artwork using Mooncake Stamps!</strong>
 </p>
 <p>Inspired by Georgette Chen’s <em>Still Life (Moon Festival Table), </em>visitors

@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockestra_KV_8_Sept.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Rockestra/Rockestra_KV_8_Sept_shadow.jpg">
 </div>
-<p></p>
 <h4><strong>Dancing in the Moonlight 🌕&nbsp;</strong></h4>
 <p>The 24th edition of NParks Concert Series in the Park: Rockestra® moves
 to a stunning new venue at Ficus Lawn in Chinese Garden. Themed 'Dancing

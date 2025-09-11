@@ -4,6 +4,9 @@ permalink: /sunken-garden-illumination/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Light Shows/IMG_9601.jpg">
+</div>
 <p>Descend into a world of vibrant wonder as the Sunken Garden comes alive
 with a stunning multicoloured light display, transforming this architectural
 gem into a glowing amphitheatre of cascading hues.</p>
