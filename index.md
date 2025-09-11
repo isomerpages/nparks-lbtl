@@ -53,4 +53,15 @@ sections:
       url: nparks-concert-series-in-the-park-rockestra/
       image: /images/Rockestra/NParks_Rockestra.jpg
       alt: Image alt text
+  - infopic:
+      title: "NEAR App: Your LBTL Guide"
+      subtitle: NEAR App
+      id: infopic
+      description: Access essential event information including points of interest,
+        food vendors, key details & helpful wayfinding to car parks and MRT
+        stations.
+      button: READ MORE
+      url: /near-app-your-lbtl-guide/
+      image: /images/Activities/NEAR_app.png
+      alt: Image alt text
 ---
