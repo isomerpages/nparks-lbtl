@@ -4,9 +4,10 @@ permalink: /singapore-community-cats-in-the-spotlight-photography-competition-sh
 variant: tiptap
 description: ""
 ---
-<p>The photography competition is organised by YSN to highlight how community
-cats positively impact our communities and demonstrate the harmonious relationship
-possible between cats and people. The competition comprises of two categories:</p>
+<p>The photography competition is organised by Youth Stewards for Nature
+(YSN) to highlight how community cats positively impact our communities
+and demonstrate the harmonious relationship possible between cats and people.
+The competition comprises of two categories:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The “Artistic and Creative Pawtraits!”
 category: Showcases professional photography skills, with winners selected
 by a judging panel for best capturing the grace and uniqueness of community
