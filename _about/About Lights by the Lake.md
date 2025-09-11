@@ -31,7 +31,7 @@ pin (while stocks last)!</p>
 new venue at Ficus Lawn in Chinese Garden, promising evenings of musical
 excellence under the stars.</p>
 <p>In celebration of inclusive arts, the festival features captivating performances
-by talented artists, alongside cultural showcases by ArtsEverywhere@CDC.
+by talented artists from ART:DIS, alongside cultural showcases by ArtsEverywhere@CDC.
 The collaboration with PAssionArts Festival brings additional vibrancy
 to the celebrations, while traditional lantern riddles add to the festive
 atmosphere.</p>
