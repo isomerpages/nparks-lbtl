@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - Programmes.md
+      - Programmes Overview.md
       - Lantern Displays.md
       - Cultural Showcases and Music Performances.md
       - Cloud Pagoda Light Show.md
