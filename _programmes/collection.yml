@@ -2,6 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - "Singapore Community Cats in the Spotlight: Photography Competition
+        Showcase.md"
       - Programmes.md
       - Lantern Displays.md
       - Cultural Showcases and Music Performances.md
