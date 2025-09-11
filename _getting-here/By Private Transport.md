@@ -163,6 +163,58 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 <summary>Parking Charges</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cars</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Motorcycles</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daily Parking Charges^</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7am to 5:59pm:</p>
+<p></p>
+<p>6pm to 6:59pm (next day):</p>
+<p></p>
+<p>$0.72 per 1/2 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.8 per entry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daily grace period* upon passing through parking gantries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 minutes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 minutes</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>^New parking session starts after 6pm.</p>
+<p>*Grace period is given to vehicles to help help facilitate passenger(s)
+drop-offs/pick-up for events and activities. Note that vehicles exceeding
+the grace period will be charged for parking accordingly.</p>
+<p></p>
 </div>
 </details>
 </div>
