@@ -4,9 +4,8 @@ permalink: /programmes/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/LBTL_2025_Programmes_montage.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Montages/LBTL_2025_Programmes_montage.png">
 </div>
 <p>From spectacular lantern displays, electrifying cultural showcases &amp;
 music performances (including crowd-favourite Rockestra<strong>®</strong>!),
