@@ -63,5 +63,5 @@ sections:
       button: READ MORE
       url: /near-app-your-lbtl-guide/
       image: /images/Activities/NEAR_app.png
-      alt: Image alt text
+      alt: NEAR app
 ---
