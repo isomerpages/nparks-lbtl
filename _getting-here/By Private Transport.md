@@ -157,7 +157,15 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </div>
 </details>
 </div>
-<h4></h4>
+<h4>Science Centre Singapore</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Parking Charges</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p><sup>Last updated: 6 August 2025</sup>
 </p>
