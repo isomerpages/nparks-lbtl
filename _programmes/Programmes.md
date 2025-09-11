@@ -56,6 +56,32 @@ Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and traditional architectural marvels.</div>
 <div class="isomer-card-link">Guided Tours of Chinese Garden</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="roving-art-studio-by-national-gallery-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Roving Art Studio by National Gallery Singapore" src="/images/Activities/IMG_9356.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roving Art Studio by National Gallery Singapore</div><div class="isomer-card-description">Inspired by Georgette Chen’s Still Life (Moon Festival Table), visitors will use actual mooncake stamps, similar to the one in the artwork, to stamp on the activity sheets.</div><div class="isomer-card-link">Roving Art Studio by National Gallery Singapore</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/taman-jurong-passionarts-festival/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Taman Jurong PAssionArts Festival" src="/images/Activities/Doodling.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Taman Jurong PAssionArts Festival</div>
+<div class="isomer-card-description">With activities for all ages, it's the perfect opportunity to explore
+creativity and celebrate the Taman Jurong community spirit!</div>
+<div class="isomer-card-link">Taman Jurong PAssionArts Festival</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/theatre-of-moon-by-arts-fission/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处 </div><div class="isomer-card-description">Theatre of Moon is a wellness performance that takes place in the Reflection Pond of the serene Japanese Garden. Short episodes of dance magically unfolding along the boardwalks by the water like the footpath of a kabuki stage.</div><div class="isomer-card-link">Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处 </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/astronomy-open-house-by-science-centre-singapore/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Astronomy Open House by Science Centre Singapore" src="/images/Activities/Omni_Theatre___Father_and_Boy.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Astronomy Open House by Science Centre Singapore</div>
+<div class="isomer-card-description">Step into the Water Lily Pavilion and craft your very own lantern, inspired
+by the dazzling constellations that light up our night sky!</div>
+<div class="isomer-card-link">Astronomy Open House by Science Centre Singapore</div>
+</div>
 </a>
 </div>
 <p></p>
