@@ -4,8 +4,9 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2025_Final.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2025_Final_V2.png">
 </div>
 <h3><strong>LIGHTS BY THE LAKE 2025</strong></h3>
 <p><strong>📆: 27 September to 12 October 2025 <br>⏰: 6:30pm – 10.30pm daily <br>📍: Jurong Lake Gardens</strong>
