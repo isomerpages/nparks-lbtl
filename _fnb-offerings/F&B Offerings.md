@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/LBTL_F_B.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/LBTL_F_B.jpg">
 </div>
 <p>Hungry? Treat yourself with the delectable selection at the Food Market,
 or explore the diverse F&amp;B outlets around Jurong Lake Gardens for even

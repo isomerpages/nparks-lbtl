@@ -4,8 +4,9 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2025_Final.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2025_Final_V2.png">
 </div>
 <h3><strong>LIGHTS BY THE LAKE 2025</strong></h3>
 <p><strong>📆: 27 September to 12 October 2025 <br>⏰: 6:30pm – 10.30pm daily <br>📍: Jurong Lake Gardens</strong>
@@ -30,7 +31,7 @@ pin (while stocks last)!</p>
 new venue at Ficus Lawn in Chinese Garden, promising evenings of musical
 excellence under the stars.</p>
 <p>In celebration of inclusive arts, the festival features captivating performances
-by talented artists, alongside cultural showcases by ArtsEverywhere@CDC.
+by talented artists from ART:DIS, alongside cultural showcases by ArtsEverywhere@CDC.
 The collaboration with PAssionArts Festival brings additional vibrancy
 to the celebrations, while traditional lantern riddles add to the festive
 atmosphere.</p>

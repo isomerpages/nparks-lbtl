@@ -12,12 +12,14 @@ description: ""
 and embark on your adventure! Access essential event information including
 points of interest, food vendors, key details, and helpful wayfinding to
 car parks and MRT stations.</p>
+<h4><strong>Lantern Exploration Quest 🔍</strong></h4>
 <p>Don't miss our exciting <strong>Lantern Exploration Quest</strong> – find
 all five Sun Wukong lanterns at Lakeside Gardens and capture memorable
-photos with each one. Check in at each location and share your discoveries
-on the app's community page, or post your favourite shots on social media
-to spread the magic. Complete the quest, then visit any of our Visitor
-Services counters to scan a QR code and redeem your exclusive Jurong Lake
-Gardens pin (while stocks last)!</p>
+photos with each one.</p>
+<p>Check in at each location and share your discoveries on the app's community
+page, or post your favourite shots on social media to spread the magic.</p>
+<p>Complete the quest, then visit any of our Visitor Services counters to
+scan a QR code and redeem your exclusive Jurong Lake Gardens pin (while
+stocks last)!</p>
 <hr>
 <p></p>

@@ -20,12 +20,12 @@ and healthier lifestyle this World Car-Free Day!</p>
 <summary><strong>Cycling in Jurong Lake Gardens</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Thank you for going car-lite at Jurong Lake Gardens! For everyone's safety,
-please:</p>
+<p>Thank you for going car-lite at Jurong Lake Gardens! Large crowds are
+expected for Lights by the Lake. For everyone's safety, please:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dismount and push bikes in 'No Cycling Zones'</p>
+<p>Dismount and push bikes in 'No Cycling Zones' and crowded areas</p>
 </li>
 <li>
 <p>Park bicycles neatly</p>
@@ -64,7 +64,8 @@ more information.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As we celebrate the joyous occasion of the Mid-Autumn festivities, we
 kindly ask for your cooperation in refraining from lighting candles, open
-fires or sparklers, and disposing of flammable items responsibly.</p>
+fires or sparklers, and disposing of flammable items responsibly. Battery-operated
+lanterns are available for purchase at the Food Market at Lakeside Field.</p>
 <p></p>
 <p>This small gesture helps to ensure the safety of all visitors and preserves
 the beauty of our natural heritage. Let's enjoy the festivities in a safe

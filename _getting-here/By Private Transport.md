@@ -157,7 +157,94 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </div>
 </details>
 </div>
-<h4></h4>
+<h4>Science Centre Singapore</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Parking Charges</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cars</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Motorcycles</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daily Parking Charges^</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7am to 5:59pm:</p>
+<p></p>
+<p>6pm to 6:59pm (next day):</p>
+<p></p>
+<p>$0.72 per 1/2 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.8 per entry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daily grace period* upon passing through parking gantries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 minutes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 minutes</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>^New parking session starts after 6pm.</p>
+<p>*Grace period is given to vehicles to help help facilitate passenger(s)
+drop-offs/pick-up for events and activities. Note that vehicles exceeding
+the grace period will be charged for parking accordingly.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Electric Vehicle Charging</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Located in front of The Annexe at Carpark Lot numbers 131 and 132.</p>
+</li>
+<li>
+<p>The charging units are of Alternating Current (AC) at 22kW/32 Amperes
+(A).</p>
+</li>
+<li>
+<p>Download the 'FastParkNCharge' app to initiate, monitor charging sessions
+and obtain assistance during charging difficulties.</p>
+</li>
+<li>
+<p>Charging rates can also be found within the 'FastParkNCharge' app.</p>
+</li>
+<li>
+<p>In the event of an emergency, the on-site charging stations have an emergency
+hotline number to contact for support.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
 <p><sup>Last updated: 6 August 2025</sup>
 </p>
+<p></p>

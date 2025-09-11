@@ -7,12 +7,12 @@ description: ""
 <details class="isomer-details">
 <summary>Cycling in Jurong Lake Gardens</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Thank you for going car-lite at Jurong Lake Gardens! For everyone's safety,
-please:</p>
+<p>Thank you for going car-lite at Jurong Lake Gardens! Large crowds are
+expected for Lights by the Lake. For everyone's safety, please:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dismount and push bikes in 'No Cycling Zones'</p>
+<p>Dismount and push bikes in 'No Cycling Zones' and crowded areas</p>
 </li>
 <li>
 <p>Park bicycles neatly</p>
