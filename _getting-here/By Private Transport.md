@@ -158,7 +158,7 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </details>
 </div>
 <h4>Science Centre Singapore</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Parking Charges</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -217,7 +217,34 @@ the grace period will be charged for parking accordingly.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Electric Vehicle Charging</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Located in front of The Annexe at Carpark Lot numbers 131 and 132.</p>
+</li>
+<li>
+<p>The charging units are of Alternating Current (AC) at 22kW/32 Amperes
+(A).</p>
+</li>
+<li>
+<p>Download the 'FastParkNCharge' app to initiate, monitor charging sessions
+and obtain assistance during charging difficulties.</p>
+</li>
+<li>
+<p>Charging rates can also be found within the 'FastParkNCharge' app.</p>
+</li>
+<li>
+<p>In the event of an emergency, the on-site charging stations have an emergency
+hotline number to contact for support.</p>
+</li>
+</ul>
+</div>
+</details>
 </div>
 <p></p>
 <p><sup>Last updated: 6 August 2025</sup>
 </p>
+<p></p>
