@@ -2,8 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - "Singapore Community Cats in the Spotlight: Photography Competition
-        Showcase.md"
       - Programmes.md
       - Lantern Displays.md
       - Cultural Showcases and Music Performances.md
@@ -18,3 +16,5 @@ collections:
       - Astronomy Open House by Science Centre Singapore.md
       - "Deliciously Singaporean: An Exhibition by National Heritage Board.md"
       - Programmes at PAssionWave@Jurong Lake Gardens.md
+      - "Singapore Community Cats in the Spotlight: Photography Competition
+        Showcase.md"
