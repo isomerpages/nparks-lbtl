@@ -19,7 +19,7 @@ Lights by the Lake 2025!</p>
 <a rel="noopener noreferrer nofollow" href="/cultural-showcases-and-music-performances/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cultural Showcases &amp; Music Performances" src="/images/Activities/Theatre_of_Moon_EDM2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Cultural Showcases &amp; Music Performances" src="/images/Activities/OSP5_ArtsHouseLimited.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -69,7 +69,7 @@ vibrant flora, and traditional architectural marvels.</div>
 creativity and celebrate the Taman Jurong community spirit!</div>
 <div class="isomer-card-link">Taman Jurong PAssionArts Festival</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/theatre-of-moon-by-arts-fission/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处 </div><div class="isomer-card-description">Theatre of Moon is a wellness performance that takes place in the Reflection Pond of the serene Japanese Garden. Short episodes of dance magically unfolding along the boardwalks by the water like the footpath of a kabuki stage.</div><div class="isomer-card-link">Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处 </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/theatre-of-moon-by-arts-fission/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处" src="/images/Activities/Theatre_of_Moon_EDM2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处</div><div class="isomer-card-description">Theatre of Moon is a wellness performance that takes place in the Reflection Pond of the serene Japanese Garden. Short episodes of dance magically unfolding along the boardwalks by the water like the footpath of a kabuki stage.</div><div class="isomer-card-link">Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/astronomy-open-house-by-science-centre-singapore/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -81,6 +81,20 @@ creativity and celebrate the Taman Jurong community spirit!</div>
 <div class="isomer-card-description">Step into the Water Lily Pavilion and craft your very own lantern, inspired
 by the dazzling constellations that light up our night sky!</div>
 <div class="isomer-card-link">Astronomy Open House by Science Centre Singapore</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/deliciously-singaporean-an-exhibition-by-national-heritage-board/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Deliciously Singaporean: An Exhibition by National Heritage Board" src="/images/Activities/SFMA1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Deliciously Singaporean: An Exhibition by National Heritage Board</div><div class="isomer-card-description">Discover the incredible journey of Singapore's street food - from humble hawker beginnings to today's world-famous culinary scene!</div><div class="isomer-card-link">Deliciously Singaporean: An Exhibition by National Heritage Board</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/programmes-at-passionwave-jurong-lake-gardens/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Programmes at PAssionWave@Jurong Lake Gardens" src="/images/Activities/PAWV___Chinese_calligraphy.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Programmes at PAssionWave@Jurong Lake Gardens</div>
+<div class="isomer-card-description">Join these exciting activities happening before Lights by the Lake opens
+each evening, then continue your magical journey through our illuminated
+gardens thereafter!</div>
+<div class="isomer-card-link">Programmes at PAssionWave@Jurong Lake Gardens</div>
 </div>
 </a>
 </div>
