@@ -8,7 +8,7 @@ description: ""
 <summary>Cycling in Jurong Lake Gardens</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Thank you for going car-lite at Jurong Lake Gardens! Large crowds are
-expected for Lights by the Lake 2025. For everyone's safety, please:</p>
+expected for Lights by the Lake. For everyone's safety, please:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
