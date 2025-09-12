@@ -55,7 +55,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Viewing Gallery</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">eventbrite.sg/e/the-pawfect-journey-mid-autumn-series-tickets-1550635124399?aff=oddtdtcreator</a>
+<p><a href="https://www.eventbrite.sg/e/the-pawfect-journey-mid-autumn-series-tickets-1550635124399?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">eventbrite.sg/e/the-pawfect-journey-mid-autumn-series-tickets-1550635124399?aff=oddtdtcreator</a>
 </p>
 </td>
 </tr>
