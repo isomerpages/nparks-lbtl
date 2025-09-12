@@ -11,8 +11,16 @@ description: ""
 <p>Hungry? Treat yourself with the delectable selection at the Food Market,
 or explore the diverse F&amp;B outlets around Jurong Lake Gardens for even
 more culinary delights!</p>
-<p><em>More details coming your way soon.</em>
+<p><strong>Food options at Food Market</strong>
 </p>
+<p>Ah Boy Takoyaki • Ah Moi Thai Tea • Bomyaki with Samyang Noodle • Coconut
+Juice • Cup Corn • Drinks • Fried Snacks • Fried Tofu with Sauce • Golden
+Sweet Potato Balls • Hand Beaten Lemon Tea • Hotdog Buns • Kebab • Korean
+Fried Chicken • Loaded Mac &amp; Cheese • Mango Sticky Rice • Mochi Croffle
+• Ramly Burger • Sugarcane Juice • Sushi Taco • Tandoori Chicken • Teochew
+Traditional Oyster Cake • Thai Fried Banana • Traditional Snacks • Tutu
+Kueh • Vadai • XXL BBQ Squid • XXL Fried Chicken Chop X Samyang Noodles
+• and more!</p>
 <p>📆 <strong>Date</strong>: 27 September to 12 October 2025
 <br>⏰<strong>Time</strong>: 5pm – 10.30pm daily
 <br>📍<strong>Venue</strong>: Lakeside Field, Lakeside Garden</p>
