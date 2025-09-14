@@ -4,15 +4,11 @@ permalink: /cycling-in-jlg/
 variant: tiptap
 description: ""
 ---
-<details class="isomer-details">
-<summary>Cycling in Jurong Lake Gardens</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Thank you for going car-lite at Jurong Lake Gardens! Large crowds are
-expected for Lights by the Lake. For everyone's safety, please:</p>
-<p></p>
+<h3><strong>Notice</strong></h3>
+<h4>Large crowds are expected for Lights by the Lake. For everyone's safety, please:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dismount and push bikes in 'No Cycling Zones' and crowded areas</p>
+<p>Dismount and push bikes in 'No Cycling Zones' and crowded event areas</p>
 </li>
 <li>
 <p>Park bicycles neatly</p>
@@ -21,9 +17,12 @@ expected for Lights by the Lake. For everyone's safety, please:</p>
 <p>Keep paths clear and watch out for other visitors</p>
 </li>
 </ul>
-<p></p>
-<p>Click <a href="/files/JLG_No_Cycling_Zones.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/JLG_No_Cycling_Zones.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information on No Cycling Zones within Jurong Lake Gardens.</p>
-</div>
-</details>
+<h4>Bicycle Parking Areas</h4>
+<p>For information on bicycle parking areas in the Gardens, please refer
+to our brochure <a href="/files/Jurong_Lake_Gardens_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please note that some parking areas will be closed during the festival
+period. You may find more details here.</p>
+<p></p>
 <p></p>
