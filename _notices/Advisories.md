@@ -4,7 +4,7 @@ permalink: /advisories/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Stay informed on road closures and updates for Lights by the Lake 2025.</strong></h4>
+<h4><strong>Stay informed on road diversions and updates for Lights by the Lake 2025.</strong></h4>
 <h4><strong>Before You Arrive</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
