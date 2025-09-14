@@ -40,10 +40,12 @@ more information on No Cycling Zones within Jurong Lake Gardens.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Road Closures</strong>
+<summary><strong>Traffic Diversions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>More details to come!</p>
+<p>Temporary diversions will be in effect during Lights by the Lake. Please
+refer to the poster <a href="/files/LBTL Traffic Management/LBTL_2025_Traffic_Advisory_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
 </div>
 </details>
 <details class="isomer-details">
