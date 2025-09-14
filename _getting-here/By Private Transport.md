@@ -6,7 +6,7 @@ description: ""
 ---
 <h1>Getting to Lights by the Lake<strong> </strong>by <strong>Private Transport</strong></h1>
 <h3><strong>Notice</strong></h3>
-<h4>Temporary diversions will be in effect during Lights by the Lake. </h4>
+<h4>Temporary diversions will be in effect during Lights by the Lake.</h4>
 <p>Please refer to the traffic advisory poster <a href="/files/LBTL Traffic Management/LBTL_2025_Traffic_Advisory_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information.</p>
 <p></p>
@@ -22,7 +22,7 @@ more information.</p>
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1168.572777268844!2d103.72388665566321!3d1.3392625689550774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0f005063dc43%3A0x1fab928ffc8d911e!2sNorth%20Carpark!5e1!3m2!1sen!2ssg!4v1754472304966!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
-<h4><strong>Picking up and Dropping off Point at North Carpark</strong></h4>
+<h4><strong>Pick-up and Drop-off Point at North Carpark</strong></h4>
 <p>📍 Coach Bay at Jurong Lake Gardens.</p>
 <p></p>
 <p>Please click <a href="https://maps.app.goo.gl/LUXGCGyBvajC7ivC7" rel="noopener nofollow" target="_blank">here</a> for
@@ -163,6 +163,9 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </details>
 </div>
 <h4>Science Centre Singapore</h4>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7385701245125!2d103.73438897567901!3d1.3330072616282687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da10046a7a1a7d%3A0x7f4ac5dbfff1dd2e!2sScience%20Centre%20Carpark!5e0!3m2!1sen!2ssg!4v1757852985978!5m2!1sen!2ssg"></iframe>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Parking Charges</summary>
