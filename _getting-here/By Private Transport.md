@@ -252,6 +252,36 @@ hotline number to contact for support.</p>
 </div>
 </details>
 </div>
+<h4>Nearby HDB Multi-Storey Carparks</h4>
+<p>In the event both North and South Carparks are full, you may park at the
+following HDB multi-storey carparks:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Blk 331A Kang Ching Rd</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.59116153320184!2d103.7228155947807!3d1.3387222685523514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0f007275e195%3A0x2842b06ff7145581!2sBlk%20331A%20Kang%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853476767!5m2!1sen!2ssg"></iframe>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Blk 337 Kang Ching Rd</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.59121660387353!2d103.72253262172963!3d1.3384514393703735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fe4851bceaf%3A0xac61d3dc9d0a0ef6!2sBlk%20337%20Kang%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853521705!5m2!1sen!2ssg"></iframe>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Blk 328A Tah Ching Rd</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.1828603558139!2d103.72261965874083!3d1.3374005960903141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fe35997ab8f%3A0xc7479a22d8f04945!2sBlk%20328A%20Tah%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853583047!5m2!1sen!2ssg"></iframe>
+</div>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <p><sup>Last updated: 15 Sep 2025</sup>
 </p>
