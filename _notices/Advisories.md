@@ -25,7 +25,7 @@ expected for Lights by the Lake. For everyone's safety, please:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dismount and push bikes in 'No Cycling Zones' and crowded areas</p>
+<p>Dismount and push bikes in 'No Cycling Zones' and crowded event areas</p>
 </li>
 <li>
 <p>Park bicycles neatly</p>
