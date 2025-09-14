@@ -10,6 +10,7 @@ description: ""
 <p>Please refer to the traffic advisory poster <a href="/files/LBTL Traffic Management/LBTL_2025_Traffic_Advisory_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
 <p></p>
+<hr>
 <h3>🅿️ <strong>Parking</strong></h3>
 <h4>Carparks in Jurong Lake Gardens</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -162,7 +163,7 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </div>
 </details>
 </div>
-<p><em>Entry into the carparks will not be allowed when the carparks are full. Please follow the instructions of our personnel onsite. </em>
+<p><em>Entry into the carparks will not be allowed when the carparks are full. Please follow the instructions of our personnel onsite.</em>
 </p>
 <h4>Science Centre Singapore</h4>
 <div class="iframe-wrapper">
