@@ -34,7 +34,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4><strong><u>Getting to Lights by the Lake 2025</u></strong></h4>
-<p>Walk, cycle, or hop on <a href="https://cms.isomer.gov.sg/by-public-transport/" rel="noopener nofollow" target="_blank"><u>public transport</u></a> to
+<p>Walk, cycle, or hop on <a href="https://lightsbythelake.nparks.gov.sg/by-public-transport/" rel="noopener nofollow" target="_blank"><u>public transport</u></a> to
 explore Jurong Lake Gardens! Let’s choose active commutes for a greener
 and healthier lifestyle this World Car-Free Day!</p>
 <p></p>
@@ -133,6 +133,8 @@ to Jurong Lake Gardens.</p>
 of set-up, structure, equipment etc. is not permitted without prior approval
 of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
+<p></p>
+<p>Apply for a permit <a href="https://form.gov.sg/685e1f27deb0de5628f6637e" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
