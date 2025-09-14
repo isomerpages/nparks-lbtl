@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h1>Getting to Lights by the Lake<strong> </strong>by <strong>Private Transport</strong></h1>
+<h3><strong>Notice</strong></h3>
+<h4>Temporary diversions will be in effect during Lights by the Lake. </h4>
+<p>Please refer to the traffic advisory poster <a href="/files/LBTL Traffic Management/LBTL_2025_Traffic_Advisory_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+more information.</p>
+<p></p>
 <h3><strong>Parking</strong></h3>
 <h4>Carparks in Jurong Lake Gardens</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -245,6 +250,6 @@ hotline number to contact for support.</p>
 </details>
 </div>
 <p></p>
-<p><sup>Last updated: 6 August 2025</sup>
+<p><sup>Last updated: 15 Sep 2025</sup>
 </p>
 <p></p>
