@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h1>Getting to Lights by the Lake by Public Transport</h1>
+<p>In conjunction with World Car-Free Day, we encourage eventgoers to walk,
+cycle, or hop on public transport to explore Jurong Lake Gardens to promote
+a greener and healthier lifestyle.</p>
 <h3><strong>Nearest MRT Stations</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
