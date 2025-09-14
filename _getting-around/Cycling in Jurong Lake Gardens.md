@@ -19,10 +19,10 @@ description: ""
 </ul>
 <p>Click <a href="/files/JLG_No_Cycling_Zones.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information on No Cycling Zones within Jurong Lake Gardens.</p>
-<h4>Bicycle Parking Areas</h4>
+<h3><strong>Bicycle Parking Areas</strong></h3>
 <p>For information on bicycle parking areas in the Gardens, please refer
 to our brochure <a href="/files/Jurong_Lake_Gardens_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Please note that some parking areas will be closed during the festival
-period. You may find more details here.</p>
+period. You may find more details <a href="/files/Closure_of_Bicycle_Racks_for_LBTL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
