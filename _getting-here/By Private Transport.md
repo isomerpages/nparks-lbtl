@@ -280,6 +280,14 @@ following HDB multi-storey carparks:</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Blk 115A Ho Ching Rd</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5923355625183!2d103.72554319454258!3d1.3329366552681294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0ffc67511257%3A0x36ff46e57f474d78!2sBlk%20115A%20Ho%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853722598!5m2!1sen!2ssg"></iframe>
+</div>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
