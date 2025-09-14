@@ -163,7 +163,7 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </div>
 </details>
 </div>
-<p><em>Entry into the carparks will not be allowed when the carparks are full. Please follow the instructions of our personnel onsite.</em>
+<p><em>Entry to the carparks will not be allowed once they are full. Please follow the instructions of our personnel onsite</em>
 </p>
 <h4>Science Centre Singapore</h4>
 <div class="iframe-wrapper">
