@@ -13,12 +13,12 @@ including DIY shrink art, badge-making, punch needling, zine creation,
 and screenprinting.</p>
 <p>With activities for all ages, it's the perfect opportunity to explore
 creativity and celebrate the Taman Jurong community spirit!</p>
-<p><strong>Date: </strong>27 Sep, 3, 4, and 5 Oct 2025
+<p><strong>Date: </strong>27 Sep, 3 – 5 Oct 2025
 <br><strong>Time: </strong>6.30pm – 9.30pm&nbsp;
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p></p>
-<p><strong>These exciting programmes listed below are happening on 27 Sep only - stay tuned for what's in store on the other festival days!</strong>
+<p><strong>These exciting programmes listed below are happening on 27 Sep only – stay tuned for what's in store on the other festival days!</strong>
 </p>
 <p><u>Booths</u>
 </p>
