@@ -31,7 +31,7 @@ landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p><strong>ArtsEverywhere@CDC: Reflection of the Artist by Open Score Project</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/OSP5_ArtsHouseLimited.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/OSP5_ArtsHouseLimited.jpg">
 </div>
 <p>Reflection of the Artist seeks to bridge the gap between cultural understanding
 and the appreciation of traditional instruments. This interactive programme
@@ -76,6 +76,9 @@ to life. They’re excited to carry that same passion and energy into this
 performance.</p>
 <p><strong>Daniel Ng</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Daniel_Ng__1.jpg">
+</div>
 <p>Daniel is a self-taught musician and singer with more than 30 years of
 experience, including his time in the White Cane band and Sunsets Crew.
 His guitar holds great significance to him as it reminds him of a good
@@ -84,6 +87,9 @@ specialised in Pop and evergreen oldies that will engage audiences of all
 ages.</p>
 <p><strong>Salleh</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Salleh__2.png">
+</div>
 <p>Salleh, affectionately known as the "One-Leg Man Busker," is a wheelchair
 user and talented musician who brightens the streets of Singapore with
 his music. Specialising in classic oldies and popular songs, Salleh performs
@@ -95,7 +101,9 @@ events, captivating audiences with his unique blend of music and heartwarming
 spirit</p>
 <p><strong>Ivni and Wai Yee (Strawberry Story)</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/StrawberryStory.jpg">
+</div>
 <p>StrawberryStory is a two-piece band who has been making music on streets,
 in ballrooms, at parties and on stages across Singapore. They are formed
 by two visually impaired artists, Ivni – instrumentalist and Wai Yee –
