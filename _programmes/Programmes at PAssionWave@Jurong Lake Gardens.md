@@ -329,7 +329,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>12 Oct (Sun)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wax Scratch Art</p>
+<p>Wax Scratch Art Try-Out</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9am – 12pm</p>
@@ -344,7 +344,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Calligraphy</p>
+<p>Chinese Calligraphy Try-Out</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2pm – 5pm</p>
@@ -352,7 +352,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Power-Up with PAssion</p>
+<p>PWJLG: Power-Up with PAssion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9:30am – 12:30pm</p>
