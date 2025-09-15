@@ -61,7 +61,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Paper Quilling, Rangoli Coaster Try Out</p>
+<p>Paper Quilling – Rangoli Coaster Try Out</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2pm – 5pm</p>
