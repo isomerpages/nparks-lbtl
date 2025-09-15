@@ -289,12 +289,12 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Personalised Mobile Chain</p>
+<p>Personalised Mobile Chain Booth by Keat Hong Tigers</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Polaroid Memories and Messages</p>
+<p>Polaroid Memories &amp; Messages by West Area Rovers</p>
 </td>
 </tr>
 <tr>
