@@ -30,6 +30,9 @@ landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p></p>
 <p><strong>ArtsEverywhere@CDC: Reflection of the Artist by Open Score Project</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/OSP5_ArtsHouseLimited.jpg">
+</div>
 <p>Reflection of the Artist seeks to bridge the gap between cultural understanding
 and the appreciation of traditional instruments. This interactive programme
 introduces audiences to the unique gestures and playing techniques of various
@@ -53,6 +56,9 @@ fusion of Eastern and Western musical traditions, fostering a global appreciatio
 for the art</p>
 <p><strong>ArtsEverywhere@CDC: Singapore Chinese Dance Theatre</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/SCDT_Image.jpg">
+</div>
 <p>Established in 2014 under the artistic direction of Jenny Neo, SCDT is
 a performing arts organisation that maintains a strong international presence,
 performing across Asia and North America to critical acclaim, while working
@@ -60,6 +66,9 @@ to make Chinese dance more accessible to the wider public and nurturing
 emerging dancers.</p>
 <p><strong>Kyla and Yixin</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/kylayixin.png">
+</div>
 <p>Kyla &amp; Yixin have spent the past few years sharing their love for
 Mandopop through numerous performances at various gigs. With every show,
 they strive to connect with the audience and bring the music they cherish
@@ -86,6 +95,7 @@ events, captivating audiences with his unique blend of music and heartwarming
 spirit</p>
 <p><strong>Ivni and Wai Yee (Strawberry Story)</strong>
 </p>
+<p></p>
 <p>StrawberryStory is a two-piece band who has been making music on streets,
 in ballrooms, at parties and on stages across Singapore. They are formed
 by two visually impaired artists, Ivni – instrumentalist and Wai Yee –
