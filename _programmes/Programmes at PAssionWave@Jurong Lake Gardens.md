@@ -110,7 +110,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lantern Craft Making</p>
+<p>Lantern Making by Sabre Shark</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>2pm – 5pm</p>
@@ -126,17 +126,17 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Polaroid Memories and Messages</p>
+<p>Polaroid Memories and Messages by West Area Rovers</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Calligraphy</p>
+<p>Chinese Calligraphy Try-Out</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Air Dry Clay Art</p>
+<p>Air Dry Clay Art Try-Out</p>
 </td>
 </tr>
 <tr>
