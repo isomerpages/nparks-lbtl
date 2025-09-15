@@ -7,7 +7,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/SFMA3.jpg">
 </div>
-<p></p>
+<p><sup>Photo: National Heritage Board</sup>
+</p>
 <p>Discover the incredible journey of Singapore's street food - from humble
 hawker beginnings to today's world-famous culinary scene! This exhibition
 celebrates Singapore’s love for food by taking you through the stories,
