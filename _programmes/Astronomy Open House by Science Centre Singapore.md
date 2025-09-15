@@ -14,7 +14,7 @@ here, don’t miss the radiant “Sun” and uncover the ever-changing phases
 of the Moon. Continue your journey with special views through telescopes
 at the Pavilion and The Observatory, Science Centre Singapore.</p>
 <p>*Please note that stargazing is subject to weather conditions.</p>
-<p><strong>Date: </strong>3 and 4 Oct 2025
+<p><strong>Date: </strong>3 – 4 Oct 2025
 <br><strong>Time:</strong> 7pm – 10pm
 <br><strong>Location: </strong>Water Lily Pavilion, Japanese Garden (nearest
 landmark: Science Centre)</p>
