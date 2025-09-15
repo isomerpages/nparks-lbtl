@@ -56,7 +56,7 @@ established in 2016 with the aim of championing the unique blend of Asian
 cultural music and symphonic works, celebrating its depth and artistry.
 The ACSO showcases the nation’s multicultural heritage through its innovative
 fusion of Eastern and Western musical traditions, fostering a global appreciation
-for the art</p>
+for the arts.</p>
 <p><strong>ArtsEverywhere@CDC: Singapore Chinese Dance Theatre</strong>
 </p>
 <div class="isomer-image-wrapper">
