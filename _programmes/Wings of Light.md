@@ -10,6 +10,6 @@ description: ""
 <p>Strike a pose with our stunning wing-shaped installations while exploring
 the enchanting lantern displays – the perfect backdrop for your magical
 evening photos!</p>
-<p><strong>Date:&nbsp;</strong>27 Sep –12 Oct 2025
+<p><strong>Date:&nbsp;</strong>27 Sep – 12 Oct 2025
 <br><strong>Time:</strong>&nbsp;6:30pm – 10:30pm daily
 <br><strong>Location:</strong> Lakeside Field, Lakeside Garden (near Food Market)</p>
