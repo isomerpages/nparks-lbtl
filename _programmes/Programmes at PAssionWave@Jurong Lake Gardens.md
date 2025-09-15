@@ -268,7 +268,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>11 Oct (Sat)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wax Scratch Art</p>
+<p>Wax Scratch Art Try-Out</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>2pm – 5pm</p>
@@ -284,7 +284,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Air Dry Clay Art</p>
+<p>Dry Clay Art Try-Out</p>
 </td>
 </tr>
 <tr>
