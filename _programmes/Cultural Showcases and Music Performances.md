@@ -13,94 +13,21 @@ and vibrant cultural showcases celebrating our community's creativity.
 With fringe activities happening on selected nights, let the rhythm and
 energy of diverse musical traditions enhance your magical evening under
 the lanterns.</p>
-<p><strong>Date: </strong>27 and 28 Sep, 3, 4, 5, 6, 10, 11 and 12 Oct 2025
-<br><strong>Time: </strong>6:30pm - 9:30pm
+<p><strong>Date: </strong>27 – 28 Sep, 3 – 6 Oct, 10 – 12 Oct 2025
+<br><strong>Time: </strong>6:30pm – 9:30pm
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>27 Sep</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Taman Jurong PAssionArts Festival</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>28 Sep</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ArtsEverywhere@CDC: Open Score Project</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3 Oct</strong>
-</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Taman Jurong PAssionArts Festival</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Oct</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Oct</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lantern Riddles</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>10 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ART:DIS + Kyla &amp; Yixin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>11 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra (ACSO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>12 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ArtsEverywhere@CDC: Singapore Chinese Dance Theatre (SCDT)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p><strong>27 Sep: </strong>Taman Jurong PAssionArts Festival
+<br><strong>28 Sep: </strong>ArtsEverywhere@CDC: Open Score Project
+<br><strong>3 – 5 Oct: </strong>Taman Jurong PAssionArts Festival
+<br><strong>6 Oct: </strong>Lantern Riddles
+<br><strong>10 Oct: </strong>ART:DIS + Kyla &amp; Yixin
+<br><strong>11 Oct: </strong>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra
+(ACSO)
+<br><strong>12 Oct</strong>: ArtsEverywhere@CDC: Singapore Chinese Dance Theatre
+(SCDT)</p>
+<p></p>
 <p><strong>ArtsEverywhere@CDC: Reflection of the Artist by Open Score Project</strong>
 </p>
 <p>Reflection of the Artist seeks to bridge the gap between cultural understanding
