@@ -4,8 +4,9 @@ permalink: /cloud-pagoda-light-show/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Activities/Cloud_pagoda_lights.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Light Shows/Cloud_pagoda_lights.jpg">
 </div>
 <p>Experience the magic that captivated audiences last year! The Cloud Pagoda
 transforms into a spectacular canvas of light, creating mesmerising patterns
