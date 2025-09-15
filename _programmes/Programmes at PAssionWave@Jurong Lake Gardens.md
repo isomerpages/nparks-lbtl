@@ -4,6 +4,9 @@ permalink: /programmes-at-passionwave-jurong-lake-gardens/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Montages/PAWV_programmes___montage.png">
+</div>
 <p>Join these exciting activities happening before Lights by the Lake opens
 each evening, then continue your magical journey through our illuminated
 gardens thereafter! Registration is on a first-come first-served basis.</p>
@@ -367,4 +370,4 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
