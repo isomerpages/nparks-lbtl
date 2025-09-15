@@ -8,6 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Omni_Theatre___Father_and_Boy.jpg">
 </div>
+<p><sup>Photo: Science Centre Singapore</sup>
+</p>
 <p>Step into the Water Lily Pavilion and craft your very own lantern, inspired
 by the dazzling constellations that light up our night sky! While you’re
 here, don’t miss the radiant “Sun” and uncover the ever-changing phases
