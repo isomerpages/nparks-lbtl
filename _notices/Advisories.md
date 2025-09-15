@@ -4,7 +4,7 @@ permalink: /advisories/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Stay informed on road closures and updates for Lights by the Lake 2025.</strong></h4>
+<h4><strong>Stay informed on road diversions and updates for Lights by the Lake 2025.</strong></h4>
 <h4><strong>Before You Arrive</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -25,7 +25,7 @@ expected for Lights by the Lake. For everyone's safety, please:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dismount and push bikes in 'No Cycling Zones' and crowded areas</p>
+<p>Dismount and push bikes in 'No Cycling Zones' and crowded event areas</p>
 </li>
 <li>
 <p>Park bicycles neatly</p>
@@ -40,10 +40,12 @@ more information on No Cycling Zones within Jurong Lake Gardens.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Road Closures</strong>
+<summary><strong>Traffic Diversions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>More details to come!</p>
+<p>Temporary diversions will be in effect during Lights by the Lake. Please
+refer to the poster <a href="/files/LBTL Traffic Management/LBTL_2025_Traffic_Advisory_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
 </div>
 </details>
 <details class="isomer-details">
