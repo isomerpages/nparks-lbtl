@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/Theatre_of_Moon_EDM2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Activities/Theatre_of_Moon_EDM2.jpg">
 </div>
 <p>Theatre of Moon is a wellness performance that takes place in the Reflection
 Pond of the serene Japanese Garden. Short episodes of dance magically unfolding
