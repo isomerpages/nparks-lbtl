@@ -213,7 +213,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>5 Oct (Sun)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fitclub Work out</p>
+<p>Ladies-Only Workout Sessions by Fitclubs Girls</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9am – 10am</p>
