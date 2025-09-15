@@ -48,6 +48,9 @@ simple techniques that transform your gestures into music. Watch as your
 movements inspire the musician to create a spontaneous piece.</p>
 <p><strong>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/DSC01127.jpg">
+</div>
 <p>The Asian Cultural Symphony Orchestra (ACSO) is a Singaporean-based orchestra
 established in 2016 with the aim of championing the unique blend of Asian
 cultural music and symphonic works, celebrating its depth and artistry.
