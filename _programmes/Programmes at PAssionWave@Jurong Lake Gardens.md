@@ -228,7 +228,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Calligraphy</p>
+<p>Chinese Calligraphy Try-Out</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>2pm – 5pm</p>
