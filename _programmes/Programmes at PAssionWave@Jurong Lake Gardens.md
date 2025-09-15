@@ -136,7 +136,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Air Dry Clay Art Try-Out</p>
+<p>Dry Clay Art Try-Out</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clay Art</p>
+<p>Dry Clay Art Try-Out</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
