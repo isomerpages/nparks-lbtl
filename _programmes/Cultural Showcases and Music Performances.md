@@ -8,6 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Activities/OSP4_ArtsHouseLimited.jpg">
 </div>
+<p><sup>Open Score Project (Photo: Arts House Limited)</sup>
+</p>
 <p>Immerse yourself in captivating performances by talented local artists
 and vibrant cultural showcases celebrating our community's creativity.
 With fringe activities happening on selected nights, let the rhythm and
