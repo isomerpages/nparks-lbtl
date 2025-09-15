@@ -49,7 +49,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Rising Beyond: The Pawfect Journey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12pm to 6pm</p>
+<p>12pm – 6pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Viewing Gallery</p>
@@ -64,7 +64,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Paper Quilling, Rangoli Coaster Try Out</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-activities-on-27-september-2025-91462834" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025, Activities on 27 September 2025</a>
@@ -76,7 +76,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Water Try-Outs (Kayaking and Pedal Boat)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boathouse</p>
@@ -94,7 +94,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Zumba®</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5pm to 6pm</p>
+<p>5pm – 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Training Rooms</p>
@@ -113,7 +113,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Lantern Craft Making</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="4" colspan="1">
@@ -144,7 +144,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Water Try-Outs (Pedal Boat only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boathouse</p>
@@ -162,7 +162,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Wax Scratch Art</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Viewing Gallery</p>
@@ -182,7 +182,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Zumba®</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5pm to 6pm</p>
+<p>5pm – 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.onepa.gov.sg/courses/zumba-fitness-healthiersg-c027169932" rel="noopener noreferrer nofollow" target="_blank">OnePA | Zumba® Fitness (HealthierSG)</a>
@@ -194,16 +194,16 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Water Try-Outs (Kayaking and Pedal Boat)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boathouse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kayaking: <a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-kayak-try-out-27-sep-4-5-oct-2025-82884644" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025 - Kayak Try Out (27 SEP, 4 &amp; 5 OCT 2025)</a>
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-kayak-try-out-27-sep-4-5-oct-2025-82884644" rel="noopener nofollow" target="_blank">Kayaking</a>
 </p>
 <p>&nbsp;</p>
-<p>Pedal Boat: <a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-4-seater-pedal-boat-try-out-27-28-sep-4-5-11-oct-2025-85936321" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025 - 4 Seater Pedal Boat Try Out (27, 28 SEP &amp; 4, 5, 11 OCT 2025)</a>
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-4-seater-pedal-boat-try-out-27-28-sep-4-5-11-oct-2025-85936321" rel="noopener nofollow" target="_blank">Pedal Boat</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -216,13 +216,13 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Fitclub Work out</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am to 10am</p>
+<p>9am – 10am</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Viewing Gallery</p>
 </td>
-<td rowspan="3" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-activities-on-5-october-2025-19106583" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025, Activities on 5 October 2025</a>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-activities-on-5-october-2025-19106583" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -231,13 +231,19 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Chinese Calligraphy</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Clay Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -245,16 +251,15 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Water Try-Outs (Kayaking and Pedal Boat)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boathouse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kayaking: <a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-kayak-try-out-27-sep-4-5-oct-2025-82884644" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025 - Kayak Try Out (27 SEP, 4 &amp; 5 OCT 2025)</a>
-</p>
-<p>&nbsp;</p>
-<p>Pedal Boat: <a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-4-seater-pedal-boat-try-out-27-28-sep-4-5-11-oct-2025-85936321" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025 - 4 Seater Pedal Boat Try Out (27, 28 SEP &amp; 4, 5, 11 OCT 2025)</a>
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-kayak-try-out-27-sep-4-5-oct-2025-82884644" rel="noopener nofollow" target="_blank">Kayaking</a>&nbsp;</p>
+<p></p>
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-4-seater-pedal-boat-try-out-27-28-sep-4-5-11-oct-2025-85936321" rel="noopener nofollow" target="_blank">Pedal Boat</a>
 </p>
 </td>
 </tr>
@@ -266,14 +271,14 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Wax Scratch Art</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Viewing Gallery</p>
 </td>
 <td rowspan="4" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-activities-on-11-october-2025-45714801" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025, Activities on 11 October 2025</a>
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-activities-on-11-october-2025-45714801" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -297,10 +302,10 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Zumba®</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5pm to 6pm</p>
+<p>5pm – 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/courses/zumba-fitness-healthiersg-c027169932" rel="noopener noreferrer nofollow" target="_blank">OnePA | Zumba® Fitness (HealthierSG)</a>
+<p><a href="https://www.onepa.gov.sg/courses/zumba-fitness-healthiersg-c027169932" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -309,13 +314,13 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Water Try-Outs (Pedal Boat only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boathouse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-4-seater-pedal-boat-try-out-27-28-sep-4-5-11-oct-2025-85936321" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025 - 4 Seater Pedal Boat Try Out (27, 28 SEP &amp; 4, 5, 11 OCT 2025)</a>
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-4-seater-pedal-boat-try-out-27-28-sep-4-5-11-oct-2025-85936321" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -327,13 +332,13 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Wax Scratch Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am to 12pm</p>
+<p>9am – 12pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Viewing Gallery</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-activities-on-12-october-2025-22065200" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks: Lights by the Lake 2025, Activities on 12 October 2025</a>
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2025-activities-on-12-october-2025-22065200" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -342,7 +347,7 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Chinese Calligraphy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm to 5pm</p>
+<p>2pm – 5pm</p>
 </td>
 </tr>
 <tr>
@@ -350,13 +355,13 @@ gardens thereafter! Registration is on a first-come first-served basis.</p>
 <p>Power-Up with PAssion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9:30am to 12:30pm</p>
+<p>9:30am – 12:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Viewing Gallery, Boathouse, Training Rooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-power-up-with-passion-12-october-2025-9-30am-12-30pm-53541531" rel="noopener noreferrer nofollow" target="_blank">OnePA | PWJLG x NParks - Power-Up with PAssion, 12 October 2025, 9.30am-12.30pm</a>
+<p><a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-power-up-with-passion-12-october-2025-9-30am-12-30pm-53541531" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
