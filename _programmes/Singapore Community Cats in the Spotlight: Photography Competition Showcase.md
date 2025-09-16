@@ -21,7 +21,7 @@ Cats being Themselves!” category: Invites everyone to capture the playful
 sides of community cats, with the top 10 chosen through public voting from
 over 700 responses.</p>
 <p>This exhibition features the top 10 photos from each category.</p>
-<p><strong>Date: </strong>22 – 29 Sep 2025
+<p><strong>Date: </strong>22 – 28 Sep 2025
 <br><strong>Time:</strong> All day
 <br><strong>Location: </strong>Water Lily Pavilion (Japanese Garden)</p>
 <p>You can also choose to take home a beautiful print of your favourite photograph
