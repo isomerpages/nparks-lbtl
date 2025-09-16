@@ -6,103 +6,35 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/OSP4_ArtsHouseLimited.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Activities/OSP4_ArtsHouseLimited.jpg">
 </div>
+<p><sup>Open Score Project (Photo: Arts House Limited)</sup>
+</p>
 <p>Immerse yourself in captivating performances by talented local artists
 and vibrant cultural showcases celebrating our community's creativity.
 With fringe activities happening on selected nights, let the rhythm and
 energy of diverse musical traditions enhance your magical evening under
 the lanterns.</p>
-<p><strong>Date: </strong>27 and 28 Sep, 3, 4, 5, 6, 10, 11 and 12 Oct 2025
-<br><strong>Time: </strong>6:30pm - 9:30pm
+<p><strong>Date: </strong>27 – 28 Sep, 3 – 6 Oct, 10 – 12 Oct 2025
+<br><strong>Time: </strong>6:30pm – 9:30pm
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>27 Sep</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Taman Jurong PAssionArts Festival</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>28 Sep</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ArtsEverywhere@CDC: Open Score Project</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3 Oct</strong>
-</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Taman Jurong PAssionArts Festival</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Oct</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Oct</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lantern Riddles</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>10 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ART:DIS + Kyla &amp; Yixin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>11 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra (ACSO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>12 Oct</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ArtsEverywhere@CDC: Singapore Chinese Dance Theatre (SCDT)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p><strong>27 Sep: </strong>Taman Jurong PAssionArts Festival
+<br><strong>28 Sep: </strong>ArtsEverywhere@CDC: Open Score Project
+<br><strong>3 – 5 Oct: </strong>Taman Jurong PAssionArts Festival
+<br><strong>6 Oct: </strong>Lantern Riddles
+<br><strong>10 Oct: </strong>ART:DIS + Kyla &amp; Yixin
+<br><strong>11 Oct: </strong>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra
+(ACSO)
+<br><strong>12 Oct</strong>: ArtsEverywhere@CDC: Singapore Chinese Dance Theatre
+(SCDT)</p>
+<p></p>
 <p><strong>ArtsEverywhere@CDC: Reflection of the Artist by Open Score Project</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/OSP5_ArtsHouseLimited.jpg">
+</div>
 <p>Reflection of the Artist seeks to bridge the gap between cultural understanding
 and the appreciation of traditional instruments. This interactive programme
 introduces audiences to the unique gestures and playing techniques of various
@@ -118,14 +50,20 @@ simple techniques that transform your gestures into music. Watch as your
 movements inspire the musician to create a spontaneous piece.</p>
 <p><strong>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/DSC01127.jpg">
+</div>
 <p>The Asian Cultural Symphony Orchestra (ACSO) is a Singaporean-based orchestra
 established in 2016 with the aim of championing the unique blend of Asian
 cultural music and symphonic works, celebrating its depth and artistry.
 The ACSO showcases the nation’s multicultural heritage through its innovative
 fusion of Eastern and Western musical traditions, fostering a global appreciation
-for the art</p>
+for the arts.</p>
 <p><strong>ArtsEverywhere@CDC: Singapore Chinese Dance Theatre</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/SCDT_Image.jpg">
+</div>
 <p>Established in 2014 under the artistic direction of Jenny Neo, SCDT is
 a performing arts organisation that maintains a strong international presence,
 performing across Asia and North America to critical acclaim, while working
@@ -133,6 +71,9 @@ to make Chinese dance more accessible to the wider public and nurturing
 emerging dancers.</p>
 <p><strong>Kyla and Yixin</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/kylayixin.png">
+</div>
 <p>Kyla &amp; Yixin have spent the past few years sharing their love for
 Mandopop through numerous performances at various gigs. With every show,
 they strive to connect with the audience and bring the music they cherish
@@ -140,6 +81,9 @@ to life. They’re excited to carry that same passion and energy into this
 performance.</p>
 <p><strong>Daniel Ng</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Daniel_Ng__1.jpg">
+</div>
 <p>Daniel is a self-taught musician and singer with more than 30 years of
 experience, including his time in the White Cane band and Sunsets Crew.
 His guitar holds great significance to him as it reminds him of a good
@@ -148,6 +92,9 @@ specialised in Pop and evergreen oldies that will engage audiences of all
 ages.</p>
 <p><strong>Salleh</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Salleh__2.png">
+</div>
 <p>Salleh, affectionately known as the "One-Leg Man Busker," is a wheelchair
 user and talented musician who brightens the streets of Singapore with
 his music. Specialising in classic oldies and popular songs, Salleh performs
@@ -159,6 +106,9 @@ events, captivating audiences with his unique blend of music and heartwarming
 spirit</p>
 <p><strong>Ivni and Wai Yee (Strawberry Story)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/StrawberryStory.jpg">
+</div>
 <p>StrawberryStory is a two-piece band who has been making music on streets,
 in ballrooms, at parties and on stages across Singapore. They are formed
 by two visually impaired artists, Ivni – instrumentalist and Wai Yee –
