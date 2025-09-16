@@ -4,7 +4,8 @@ permalink: /promotions/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p><strong><u>Bingxue</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Eden_Cafe_Image___Landscape_1.jpg">
 </div>
