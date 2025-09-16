@@ -4,22 +4,12 @@ permalink: /promotions/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Bingxue</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Eden_Cafe_Image___Landscape_1.jpg">
-</div>
-<p><strong><u>Eden</u></strong>
-</p>
-<p>Enjoy our signature dishes &amp; spend $60 to redeem an exclusive lantern
-- perfect for kids &amp; family fun!</p>
-<p>Valid from 27 Sep to 12 Oct 2025. Find out more at: <a rel="noopener noreferrer nofollow" target="_blank">https://edencafe.sg/pages/promotion</a>
+<h4><strong>Lakeside Garden</strong></h4>
+<p><strong><u>Fusion Spoon (Lakeside North)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Fusion_Spoon_Food___Npark_1.jpg">
 </div>
-<p><strong><u>Fusion Spoon</u></strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Special Festival Menu – Appetizer, Mains, Dessert</p>
@@ -47,19 +37,42 @@ description: ""
 </ul>
 </li>
 </ul>
-<p>Find out more at: <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/fusionspoon/</a>
-</p>
+<p>Find out more <a href="https://www.facebook.com/fusionspoon/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
+<p><strong><u>Starbucks Coffee (Lakeside North)</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Starbucks_Mooncakes_1.jpg">
 </div>
-<p><strong><u>Starbucks Coffee (Jurong Lake Gardens)</u></strong>
-</p>
 <p>Joyous celebrations with family and friends over Starbucks Mooncakes. <em>Available in Single and Gift Box (8pcs per box).</em>
 </p>
-<p></p>
 <p>STARBUCKS® REWARDS MEMBER EXCUSIVE: Enjoy 120 BONUS STARS when you purchase
 2 Mooncake Gift Boxes. Get additional 60 BONUS STARS per box from 3<sup>rd</sup> box
 and more.</p>
+<p><em>While stocks last. T&amp;Cs apply.</em> Find out more <a href="https://www.starbucks.com.sg/menu/food/mid-autumn-moments" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4><strong>Chinese Garden</strong></h4>
+<p><strong><u>Bingxue (Bonsai Garden)</u></strong>
+</p>
+<p>Mid-Autumn Special</p>
+<p>2 for $6 Lite Milk Tea</p>
+<p>Choose from Ruby Silk Lite Milk Tea or Oolong Lite Milk Tea (U.P $3.50
+each)</p>
+<p>Valid till 12 Oct</p>
+<p><strong><u>Eden</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Eden_Cafe_Image___Landscape_1.jpg">
+</div>
+<p>Enjoy our signature dishes &amp; spend $60 to redeem an exclusive lantern
+- perfect for kids &amp; family fun!</p>
+<p>Valid from 27 Sep to 12 Oct 2025. Find out more <a href="https://edencafe.sg/pages/promotion" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><strong>Canopy</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Chendol_Toast.png">
+</div>
+<p>One complimentary Chendol Toast with a minimum spend of $100 at our outlet</p>
+<p>Valid from 27 Sep to 12 Oct</p>
+<p>Find out more <a href="https://www.canopygardendining.com/event/celebrate-mid-autumn-with-a-treat/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4><strong>Japanese Garden</strong></h4>
 <p></p>
-<p><em>While stocks last. T&amp;Cs apply.</em> Find out more at: <a rel="noopener noreferrer nofollow" target="_blank">https://www.starbucks.com.sg/menu/food/mid-autumn-moments</a>&nbsp;&nbsp;</p>
