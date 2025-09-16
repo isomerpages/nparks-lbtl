@@ -23,7 +23,6 @@ landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p><strong>27 Sep: </strong>Taman Jurong PAssionArts Festival
 <br><strong>28 Sep: </strong>ArtsEverywhere@CDC: Open Score Project
 <br><strong>3 – 5 Oct: </strong>Taman Jurong PAssionArts Festival
-<br><strong>6 Oct: </strong>Lantern Riddles
 <br><strong>10 Oct: </strong>ART:DIS + Kyla &amp; Yixin
 <br><strong>11 Oct: </strong>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra
 (ACSO)
