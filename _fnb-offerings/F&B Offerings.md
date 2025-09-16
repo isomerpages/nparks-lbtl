@@ -42,7 +42,7 @@ Kueh • Vadai • XXL BBQ Squid • XXL Fried Chicken Chop X Samyang Noodles
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/canopy/" rel="noopener nofollow" target="_blank">Canopy (Grand Arc</a>
+<p><a href="https://juronglakegardens.nparks.gov.sg/canopy/" rel="noopener nofollow" target="_blank">Canopy (Grand Arch)</a>
 </p>
 </li>
 <li>
