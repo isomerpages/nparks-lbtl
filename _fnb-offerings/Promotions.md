@@ -53,8 +53,10 @@ and more.</p>
 <h4><strong>Chinese Garden</strong></h4>
 <p><strong><u>Bingxue (Bonsai Garden)</u></strong>
 </p>
-<p>Mid-Autumn Special</p>
-<p>2 for $6 Lite Milk Tea</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/75f61728_4c46_4673_aac9_41b3bf5ddca2.jpg">
+</div>
+<p>Mid-Autumn Special: 2 for $6 Lite Milk Tea</p>
 <p>Choose from Ruby Silk Lite Milk Tea or Oolong Lite Milk Tea (U.P $3.50
 each)</p>
 <p>Valid till 12 Oct</p>
@@ -75,4 +77,11 @@ each)</p>
 <p>Valid from 27 Sep to 12 Oct</p>
 <p>Find out more <a href="https://www.canopygardendining.com/event/celebrate-mid-autumn-with-a-treat/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Japanese Garden</strong></h4>
-<p></p>
+<p><strong>Ice Cream Man and Friends</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/WhatsApp_Image_2025_09_15_at_18_26_50.jpg">
+</div>
+<p>Celebrate this Mid-Autumn Festival with a delightful twist.</p>
+<p>Enjoy a refreshing Japanese Yuzu Sorbet at just $4.50 per scoop and the
+Peach Shaken Ice Tea for only $5.50.</p>
