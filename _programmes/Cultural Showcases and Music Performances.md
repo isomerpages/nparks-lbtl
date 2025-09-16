@@ -15,7 +15,7 @@ and vibrant cultural showcases celebrating our community's creativity.
 With fringe activities happening on selected nights, let the rhythm and
 energy of diverse musical traditions enhance your magical evening under
 the lanterns.</p>
-<p><strong>Date: </strong>27 – 28 Sep, 3 – 6 Oct, 10 – 12 Oct 2025
+<p><strong>Date: </strong>27 – 28 Sep, 3 – 5 ct, 10 – 12 Oct 2025
 <br><strong>Time: </strong>6:30pm – 9:30pm
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
