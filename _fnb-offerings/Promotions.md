@@ -51,15 +51,6 @@ description: ""
 and more.</p>
 <p><em>While stocks last. T&amp;Cs apply.</em> Find out more <a href="https://www.starbucks.com.sg/menu/food/mid-autumn-moments" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Chinese Garden</strong></h4>
-<p><strong><u>Bingxue (Bonsai Garden)</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/75f61728_4c46_4673_aac9_41b3bf5ddca2.jpg">
-</div>
-<p>Mid-Autumn Special: 2 for $6 Lite Milk Tea</p>
-<p>Choose from Ruby Silk Lite Milk Tea or Oolong Lite Milk Tea (U.P $3.50
-each)</p>
-<p>Valid till 12 Oct</p>
 <p><strong><u>Eden</u></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -84,4 +75,4 @@ each)</p>
 </div>
 <p>Celebrate this Mid-Autumn Festival with a delightful twist.</p>
 <p>Enjoy a refreshing Japanese Yuzu Sorbet at just $4.50 per scoop and the
-Peach Shaken Ice Tea for only $5.50.</p>
+Peach Shaken Ice Tea for only $5.50</p>
