@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Grand Arch Illumination.md
       - Programmes Overview.md
       - Lantern Displays.md
       - Cloud Pagoda Light Show.md
