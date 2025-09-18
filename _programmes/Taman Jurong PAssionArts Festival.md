@@ -9,10 +9,10 @@ description: ""
 </div>
 <p><sup>Photos: People's Association</sup>
 </p>
-<p>On 27 Sep, join us for a vibrant celebration featuring New Gen Wind Symphony
-performing the joyful "Feng Shou Zhi Ge" (丰收之歌), plus hands-on workshops
-including DIY shrink art, badge-making, punch needling, zine creation,
-and screenprinting.</p>
+<p>Get creative and enjoy live entertainment at our PAssionArts Festival!
+Try hands-on workshops like DIY shrink art, cyanotype printing, punch needling,
+sand art, and screenprinting, plus enjoy captivating live performances
+featuring traditional Chinese melodies and contemporary music!</p>
 <p>With activities for all ages, it's the perfect opportunity to explore
 creativity and celebrate the Taman Jurong community spirit!</p>
 <p><strong>Date: </strong>27 Sep, 3 – 5 Oct 2025
@@ -52,11 +52,13 @@ own illustrations and colour, of your choice.</p>
 <p>&nbsp;</p>
 <p><u>Performances</u>
 </p>
-<p><strong>Lakeside Primary School</strong>
+<p><strong>Lakeside Primary School Guzheng</strong>
 </p>
-<p>"Feng Shou Zhi Ge" (丰收之歌) captures the festive spirit of harvest celebrations
-and farmers' joyful mood, conveying confidence and hope for another bountiful
-year ahead.</p>
+<p>Experience the joy of harvest season an enchanting performance featuring
+traditional Chinese melodies! From the serene "Evening Song of the Fishing
+Boat" (渔舟唱晚) to the celebratory "Harvest Song," (丰收之歌) these beloved pieces
+capture the spirit of abundance and community gathering under the autumn
+moon.</p>
 <p><strong>New Gen Wind Symphony</strong>
 </p>
 <p>New Gen Wind Symphony began in November 2014 as a gathering of twelve
@@ -68,3 +70,13 @@ Culture Club as an Interest Group. Under current Music Director Mr Vincent
 Lee's guidance, the band continues to inspire young musicians and bring
 music to the community, living by their motto "Forging Friendships Through
 Music".</p>
+<p><strong>Harmon-ee Music</strong>
+</p>
+<p>Harmon-ee Music, founded in 2019 by husband-and-wife duo Jovan and Iveta,
+offers live music for events, private vocal coaching/lessons and piano
+lessons. They also write, produce, and collaborate on original music projects.</p>
+<p><strong>Bad Decision Enjoyers (BDE)</strong>
+</p>
+<p>Jesse &amp; Ching Yi are a keyboard-singer duo who met a decade ago in
+Uni Jamband. Today, they have fun busking as 'BDE' and playing at local
+events. Their aim? To have fun!</p>
