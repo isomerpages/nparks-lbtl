@@ -20,35 +20,54 @@ creativity and celebrate the Taman Jurong community spirit!</p>
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p></p>
-<p><strong>These exciting programmes listed below are happening on 27 Sep only – stay tuned for what's in store on the other festival days!</strong>
-</p>
 <p><u>Booths</u>
 </p>
-<p><strong>DIY Shrink Art Keychain</strong>
+<p><strong>DIY Shrink Art Keychain (27 Sep only)</strong>
 </p>
 <p>Create your very own miniature charms at our DIY shrink art booth. Suitable
 for all and everyone so come by and try it out!</p>
-<p><strong>Badge Making</strong>
+<p><strong>Doodling (27 Sep only)</strong>
 </p>
-<p>Get creative at our badge-making workshop! Design and craft your very
-own personalized badge using fun materials and colours.</p>
-<p><strong>Punch Needle</strong>
+<p>Tell us your story by creating your own personalised portrait. Join us
+in putting up together our very own exhibition "Portraits of Self".</p>
+<p><strong>Zine Making (27 Sep only)</strong>
+</p>
+<p>Ever wanted to make your very own zine? Drop by our booth and have a go
+at it. You might just enjoy and start crafting your own right at home!</p>
+<p><strong>Sand Art (27 Sep only)</strong>
+</p>
+<p>Add a splash of colour to your day at our Sand Art Booth! 🎨✨ Everyone
+of all ages can enjoy layering vibrant sand into fun patterns and designs.
+This hands-on activity is a playful way to celebrate creativity while bringing
+home a bright keepsake.</p>
+<p><strong>Cyanotype Printing (3 Oct only)</strong>
+</p>
+<p>Step into the world of cyanotype printing! Using pressed flowers and leaves,
+participants will create their own A6 cyanotype print. Instead of sunlight,
+special UV light will be used to reveal the striking blue-and-white patterns,
+turning nature into art.</p>
+<p><strong>Suncatcher Wind Chime (4 Oct only)</strong>
+</p>
+<p>Brighten up your day with our Suncatcher Wind Chime Art Booth! 🌞🎐 Residents
+can paint their own colourful suncatcher design and assemble it with wind
+chime accessories. A playful activity that combines light, colour, and
+sound.</p>
+<p><strong>Linocut Stamping Art (4 and 5 Oct only)</strong>
+</p>
+<p>Join artists Desiree and @/stl_archivist<strong> </strong>in exploring
+the world of stamping! 🖋️✨ Featuring @/stl_archivist’s 3D-printed stamps
+and Desiree’s hand-carved linocuts, everyone can experiment with patterns
+and designs before stamping their very own canvas drawstring pouch.</p>
+<p><strong>Punch Needle (27 Sep, 3, 4, and 5 Oct 2025)</strong>
 </p>
 <p>Discover the art of punch needling at our Taman Jurong CACC PAssionArts
 Festival Art booth! Learn how to create textured patterns and designs with
 yarn using a punch needle tool and bring home your own masterpiece!</p>
-<p><strong>Doodling</strong>
+<p><strong>Screenprinting (27 Sep, 3 and 5 Oct 2025)</strong>
 </p>
-<p>Tell us your story by creating your own personalised portrait. Join us
-in putting up together our very own exhibition "Portraits of Self".</p>
-<p><strong>Zine Making</strong>
-</p>
-<p>Ever wanted to make your very own zine? Drop by our booth and have a go
-at it. You might just enjoy and start crafting your own right at home!</p>
-<p><strong>Screenprinting</strong>
-</p>
-<p>Have a go at making your own screenprinting tile. Choose from our very
-own illustrations and colour, of your choice.</p>
+<p>Choose from a set of specially illustrated designs created in-house and
+bring them to life with your own choice of colours. A fun and creative
+way to experiment with screenprinting and take home a unique piece of art.</p>
 <p>&nbsp;</p>
 <p><u>Performances</u>
 </p>
