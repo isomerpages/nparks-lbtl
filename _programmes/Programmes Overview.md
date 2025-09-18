@@ -43,7 +43,7 @@ gem into a glowing amphitheatre of cascading hues.</div>
 <a rel="noopener noreferrer nofollow" href="/guided-tours-of-chinese-garden/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guided Tours of Chinese Garden" src="/images/Activities/Montages/JLG_Guided_Tours_montage.png">
+<img style="width: 100%" height="auto" width="100%" alt="Guided Tours of Chinese Garden" src="/images/Activities/cg_guided_tour___sk.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
