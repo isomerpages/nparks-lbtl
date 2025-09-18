@@ -69,15 +69,13 @@ yarn using a punch needle tool and bring home your own masterpiece!</p>
 bring them to life with your own choice of colours. A fun and creative
 way to experiment with screenprinting and take home a unique piece of art.</p>
 <h4><u>Performances</u></h4>
-<p><strong>Lakeside Primary School Guzheng</strong>
-</p>
+<p><strong>Lakeside Primary School Guzheng </strong>(27 Sep)</p>
 <p>Experience the joy of harvest season an enchanting performance featuring
 traditional Chinese melodies! From the serene "Evening Song of the Fishing
 Boat" (渔舟唱晚) to the celebratory "Harvest Song," (丰收之歌) these beloved pieces
 capture the spirit of abundance and community gathering under the autumn
 moon.</p>
-<p><strong>New Gen Wind Symphony</strong>
-</p>
+<p><strong>New Gen Wind Symphony </strong>(27 Sep)</p>
 <p>New Gen Wind Symphony began in November 2014 as a gathering of twelve
 passionate young musicians led by Founding President Mr Ethan Peck. Inspired
 by Founding Music Director Ms Dorean Tan's enthusiasm, the group grew from
@@ -87,13 +85,11 @@ Culture Club as an Interest Group. Under current Music Director Mr Vincent
 Lee's guidance, the band continues to inspire young musicians and bring
 music to the community, living by their motto "Forging Friendships Through
 Music".</p>
-<p><strong>Harmon-ee Music</strong>
-</p>
+<p><strong>Harmon-ee Music </strong>(27 Sep)</p>
 <p>Harmon-ee Music, founded in 2019 by husband-and-wife duo Jovan and Iveta,
 offers live music for events, private vocal coaching/lessons and piano
 lessons. They also write, produce, and collaborate on original music projects.</p>
-<p><strong>Bad Decision Enjoyers (BDE)</strong>
-</p>
+<p><strong>Bad Decision Enjoyers (BDE) </strong>(27 Sep)</p>
 <p>Jesse &amp; Ching Yi are a keyboard-singer duo who met a decade ago in
 Uni Jamband. Today, they have fun busking as 'BDE' and playing at local
 events. Their aim? To have fun!</p>
