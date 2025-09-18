@@ -20,8 +20,8 @@ creativity and celebrate the Taman Jurong community spirit!</p>
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p></p>
-<p><u>Booths</u>
-</p>
+<h4><u>Booths</u></h4>
+<p>27 Sep Only</p>
 <p><strong>DIY Shrink Art Keychain (27 Sep only)</strong>
 </p>
 <p>Create your very own miniature charms at our DIY shrink art booth. Suitable
@@ -68,9 +68,7 @@ yarn using a punch needle tool and bring home your own masterpiece!</p>
 <p>Choose from a set of specially illustrated designs created in-house and
 bring them to life with your own choice of colours. A fun and creative
 way to experiment with screenprinting and take home a unique piece of art.</p>
-<p>&nbsp;</p>
-<p><u>Performances</u>
-</p>
+<h4><u>Performances</u></h4>
 <p><strong>Lakeside Primary School Guzheng</strong>
 </p>
 <p>Experience the joy of harvest season an enchanting performance featuring
