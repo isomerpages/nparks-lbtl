@@ -29,7 +29,7 @@ Lights by the Lake 2025!</p>
 and vibrant cultural showcases celebrating our community's creativity.</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cloud-pagoda-light-show/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Light Shows" src="/images/Activities/Light Shows/Cloud_Pagoda_light_show_resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Light Shows</div><div class="isomer-card-description">A returning crowd favourite: Watch as the Cloud Pagoda transforms into a spectacular canvas of light and mesmerising patterns!</div><div class="isomer-card-link">READ MORE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cloud-pagoda-light-show/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Light Shows" src="/images/Activities/Light Shows/Cloud_Pagoda_light_show_resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cloud Pagoda Light Show</div><div class="isomer-card-description">A returning crowd favourite: Watch as the Cloud Pagoda transforms into a spectacular canvas of light and mesmerising patterns!</div><div class="isomer-card-link">READ MORE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/sunken-garden-illumination/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -57,7 +57,7 @@ Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and traditional architectural marvels.</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="roving-art-studio-by-national-gallery-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Roving Art Studio by National Gallery Singapore" src="/images/Activities/IMG_9356.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roving Art Studio by National Gallery Singapore</div><div class="isomer-card-description">Inspired by Georgette Chen’s Still Life (Moon Festival Table), visitors will use actual mooncake stamps, similar to the one in the artwork, to stamp on the activity sheets.</div><div class="isomer-card-link">READ MORE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/roving-art-studio-by-national-gallery-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Roving Art Studio by National Gallery Singapore" src="/images/Activities/IMG_9356.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roving Art Studio by National Gallery Singapore</div><div class="isomer-card-description">Inspired by Georgette Chen’s Still Life (Moon Festival Table), visitors will use actual mooncake stamps, similar to the one in the artwork, to stamp on the activity sheets.</div><div class="isomer-card-link">READ MORE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/taman-jurong-passionarts-festival/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
