@@ -33,31 +33,5 @@ of lanterns and the festive atmosphere of the gardens.&nbsp;
 <br><strong>Time</strong>: 5pm – 10:30pm&nbsp;
 <br><strong>Location</strong>: Lakeside Field (Lakeside Garden)&nbsp;
 <br>
-<br><strong><u>Tenant Promotions at Jurong Lake Gardens&nbsp;&nbsp;</u></strong>
-<br><strong>📍 Eden</strong>
-<br>Enjoy Eden's signature dishes &amp; spend $60 to redeem an exclusive lantern
-– perfect for kids &amp; family fun!&nbsp;
 <br>
-<br>Valid from 27 Sep to 12 Oct 2025. Find out more <a href="https://edencafe.sg/pages/promotion" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p><strong>📍</strong>&nbsp;<strong>Fusion Spoon</strong>&nbsp;
-<br>Special Festival Menu – Appetizer, Mains, Dessert&nbsp;
-<br>Special Festival Drinks – Served in LED Light Bulb Cups&nbsp;
-<br>
-<br>DIY Lantern Making Corner – Free workshop for kids (limited slots)&nbsp;
-<br>
-<br><strong>Date</strong>: 27 Sep, 4 Oct, 11 Oct&nbsp;
-<br><strong>Time</strong>: 4pm – 6pm&nbsp;
-<br><strong>Capacity</strong>: 10 kids per session&nbsp;
-<br>
-<br>Walk-ins welcome, but booking is strongly encouraged.
-<br>Find out more <a href="https://www.facebook.com/fusionspoon/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;&nbsp;</p>
-<p>
-<br><strong>📍 Starbucks Coffee (Jurong Lake Gardens)&nbsp;</strong>
-<br>Joyous celebrations with family and friends over Starbucks Mooncakes.&nbsp;
-<br>Available in Single and Gift Box (8pcs per box).&nbsp;
-<br>
-<br>STARBUCKS® REWARDS MEMBER EXCUSIVE:&nbsp;
-<br>Enjoy 120 BONUS STARS when you purchase 2 Mooncake Gift Boxes. Get additional
-60 BONUS STARS per box from 3rd box and more.&nbsp;</p>
-<p>While stocks last. T&amp;Cs apply. Find out more <a href="https://www.starbucks.com.sg/menu/food/mid-autumn-moments" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
+</p>

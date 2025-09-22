@@ -1,5 +1,5 @@
 ---
-title: Cloud Pagoda Light Show
+title: "Cloud Pagoda Light Show: Moonlight Crescendo"
 permalink: /cloud-pagoda-light-show/
 variant: tiptap
 description: ""
