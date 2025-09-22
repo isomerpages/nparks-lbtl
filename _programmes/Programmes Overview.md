@@ -11,7 +11,11 @@ to exciting partner programmes, be enchanted this Mid-Autumn Festival at
 Lights by the Lake 2025!</p>
 <p><em>Please note that all activities, unless otherwise stated, are rain or shine.</em>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prog Board/LBTL_2025___Prog_Board.png">
+</div>
+<p><em><a href="/files/LBTL_2025___Prog_Board.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Click here to view and download the LBTL 2025 Progamme Board.</sup></a></em>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/lantern-displays/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lantern displays" src="/images/Lanterns/485857155_1080553877445602_3028540348761698823_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lantern Displays</div><div class="isomer-card-description">Walk amongst scenes of Sun Wukong's tale of loyalty &amp; transformation, unfolding beneath the same moon that guides families together during the Mid-Autumn.</div><div class="isomer-card-link">READ MORE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cultural-showcases-and-music-performances/" class="isomer-card">
 <div class="isomer-card-image">
@@ -53,7 +57,7 @@ Garden. In this guided tour, explore the intricately designed landscapes,
 vibrant flora, and traditional architectural marvels.</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="roving-art-studio-by-national-gallery-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Roving Art Studio by National Gallery Singapore" src="/images/Activities/IMG_9356.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roving Art Studio by National Gallery Singapore</div><div class="isomer-card-description">Inspired by Georgette Chen’s Still Life (Moon Festival Table), visitors will use actual mooncake stamps, similar to the one in the artwork, to stamp on the activity sheets.</div><div class="isomer-card-link">READ MORE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/roving-art-studio-by-national-gallery-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Roving Art Studio by National Gallery Singapore" src="/images/Activities/IMG_9356.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roving Art Studio by National Gallery Singapore</div><div class="isomer-card-description">Inspired by Georgette Chen’s Still Life (Moon Festival Table), visitors will use actual mooncake stamps, similar to the one in the artwork, to stamp on the activity sheets.</div><div class="isomer-card-link">READ MORE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/taman-jurong-passionarts-festival/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
