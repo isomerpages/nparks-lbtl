@@ -95,6 +95,6 @@ Nodes Network.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/02_Official_Radio_Station.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/03_In_Partnership_With_v3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/LBTL_2025___Partners.png">
 </div>
 <p></p>
