@@ -22,19 +22,19 @@ landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p></p>
 <h4><u>Booths</u></h4>
 <p>27 Sep Only</p>
-<p><strong>DIY Shrink Art Keychain </strong>
+<p><strong>DIY Shrink Art Keychain</strong>
 </p>
 <p>Create your very own miniature charms at our DIY shrink art booth. Suitable
 for all and everyone so come by and try it out!</p>
-<p><strong>Doodling </strong>
+<p><strong>Doodling</strong>
 </p>
 <p>Tell us your story by creating your own personalised portrait. Join us
 in putting up together our very own exhibition "Portraits of Self".</p>
-<p><strong>Zine Making </strong>
+<p><strong>Zine Making</strong>
 </p>
 <p>Ever wanted to make your very own zine? Drop by our booth and have a go
 at it. You might just enjoy and start crafting your own right at home!</p>
-<p><strong>Sand Art </strong>
+<p><strong>Sand Art</strong>
 </p>
 <p>Add a splash of colour to your day at our Sand Art Booth! 🎨✨ Everyone
 of all ages can enjoy layering vibrant sand into fun patterns and designs.
@@ -70,14 +70,14 @@ Festival Art booth! Learn how to create textured patterns and designs with
 yarn using a punch needle tool and bring home your own masterpiece!</p>
 <h4><u>Performances</u></h4>
 <p>27 Sep Only</p>
-<p><strong>Lakeside Primary School Guzheng</strong> 
+<p><strong>Lakeside Primary School Guzheng</strong>
 </p>
 <p>Experience the joy of harvest season an enchanting performance featuring
 traditional Chinese melodies! From the serene "Evening Song of the Fishing
 Boat" (渔舟唱晚) to the celebratory "Harvest Song," (丰收之歌) these beloved pieces
 capture the spirit of abundance and community gathering under the autumn
 moon.</p>
-<p><strong>New Gen Wind Symphony </strong>
+<p><strong>New Gen Wind Symphony</strong>
 </p>
 <p>New Gen Wind Symphony began in November 2014 as a gathering of twelve
 passionate young musicians led by Founding President Mr Ethan Peck. Inspired
@@ -88,12 +88,12 @@ Culture Club as an Interest Group. Under current Music Director Mr Vincent
 Lee's guidance, the band continues to inspire young musicians and bring
 music to the community, living by their motto "Forging Friendships Through
 Music".</p>
-<p><strong>Harmon-ee Music </strong>
+<p><strong>Harmon-ee Music</strong>
 </p>
 <p>Harmon-ee Music, founded in 2019 by husband-and-wife duo Jovan and Iveta,
 offers live music for events, private vocal coaching/lessons and piano
 lessons. They also write, produce, and collaborate on original music projects.</p>
-<p><strong>Bad Decision Enjoyers (BDE) </strong>
+<p><strong>Bad Decision Enjoyers (BDE)</strong>
 </p>
 <p>Jesse &amp; Ching Yi are a keyboard-singer duo who met a decade ago in
 Uni Jamband. Today, they have fun busking as 'BDE' and playing at local
