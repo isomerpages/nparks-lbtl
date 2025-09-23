@@ -129,7 +129,9 @@ in the local MandoPop singing competition SPOP! Wave Season 2, where he
 was placed in Team Freshmen and advanced to the semi-finals.&nbsp;</p>
 <p><strong>Yuhua De 4-Strings</strong>  <strong>POP</strong>  <strong>Group</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Yuhua_De_4_Strings_POP_Band.jpg">
+</div>
 <p>The Yuhua De 4-Strings POP Group is a&nbsp;community music group that
 started in 2013 with a simple goal: to share their love of music with the
 Yuhua community. What began as the Yuhua De 4-Strings Ukulele IG, a small
@@ -141,3 +143,4 @@ Yuhua De 4-Strings Guitar Interest Group.</p>
 <p>Today, the Yuhua De 4-Strings POP Group is made up of passionate musicians
 from all over Singapore who meet regularly at the Yuhua Community Club.</p>
 <p>&nbsp;</p>
+<p></p>
