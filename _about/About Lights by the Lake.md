@@ -84,6 +84,27 @@ Singapore Red Cross, Taman Jurong C2E, and Southwest CDC.</p>
 <p>LOVE972 is the official radio station for this year's festival.</p>
 <p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
 Nodes Network.</p>
+<h4><strong>Programme Board</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prog Board/LBTL_2025___Prog_Board.png">
+</div>
+<p><em><a href="/files/LBTL_2025___Prog_Board.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Click here to view and download the LBTL 2025 Progamme Board.</sup></a></em>
+</p>
+<h4><strong>NEAR Mobile App: Your LBTL Guide</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/NEAR_app___JLG_pins.png">
+</div>
+<p><a href="https://near.nparks.gov.sg/" rel="noopener nofollow" target="_blank">Download the NParks Explore A Route (NEAR) app</a> for
+essential event information, including food vendors, points of interest,
+and navigation to car parks and MRT stations, then embark on the exciting
+Lantern Exploration Quest to hunt for five Sun Wukong lanterns throughout
+Lakeside Gardens.</p>
+<p>Snap photos at each location, check in via the app, share your discoveries
+on the community page or social media, then visit any Visitor Services
+counter to scan a QR code and claim your exclusive Jurong Lake Gardens
+pin (whilst stocks last).</p>
+<h4><strong>Frequently Asked Questions</strong></h4>
+<p>Have questions? Read our Frequently Asked Questions <a href="/faqs" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">

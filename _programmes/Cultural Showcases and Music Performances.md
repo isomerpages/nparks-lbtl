@@ -23,6 +23,8 @@ landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p><strong>27 Sep: </strong>Taman Jurong PAssionArts Festival
 <br><strong>28 Sep: </strong>ArtsEverywhere@CDC: Open Score Project
 <br><strong>3 – 5 Oct: </strong>Taman Jurong PAssionArts Festival
+<br><strong>4 Oct</strong>: Yuhua De 4-Strings POP Group
+<br><strong>5 Oct</strong>: Evening Tunes with Leon
 <br><strong>10 Oct: </strong>ART:DIS + Kyla &amp; Yixin
 <br><strong>11 Oct: </strong>ArtsEverywhere@CDC: Asian Cultural Symphony Orchestra
 (ACSO)
@@ -102,7 +104,7 @@ As a skilled keyboardist and vocalist, his soulful renditions resonate
 deeply with passersby. While he's a familiar face in Singapore's neighbourhood
 busking scene, Salleh has also showcased his talent at numerous corporate
 events, captivating audiences with his unique blend of music and heartwarming
-spirit</p>
+spirit.</p>
 <p><strong>Ivni and Wai Yee (Strawberry Story)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -115,4 +117,30 @@ vocalist. Known for their busking experience, StrawberryStory never fails
 to amaze its audiences of all ages with their classical and pop rendition
 of music. Join ART:DIS Singapore in empowering Strawberry Story, as they
 delight us with their rendition of our favourite songs.</p>
+<p><strong>Leon</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Activities/Leon_s_Profile_Picture.jpg">
+</div>
+<p>Leon is a multi-faceted talent with skills spanning across culinary arts,
+vocal performance and event hosting. He is a trained vocalist who has performed
+at community events and weddings since 2013. In late 2021, he participated
+in the local MandoPop singing competition SPOP! Wave Season 2, where he
+was placed in Team Freshmen and advanced to the semi-finals.&nbsp;</p>
+<p><strong>Yuhua De 4-Strings</strong>  <strong>POP</strong>  <strong>Group</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Yuhua_De_4_Strings_POP_Band.jpg">
+</div>
+<p>The Yuhua De 4-Strings POP Group is a&nbsp;community music group that
+started in 2013 with a simple goal: to share their love of music with the
+Yuhua community. What began as the Yuhua De 4-Strings Ukulele IG, a small
+group of residents learning and playing together, has grown into something
+much bigger over the past 12 years.</p>
+<p>In 2016,&nbsp; the Yuhua De 4-Strings POP Band was formed to bring lively
+performances to local events, and in 2022, they expanded to include the
+Yuhua De 4-Strings Guitar Interest Group.</p>
+<p>Today, the Yuhua De 4-Strings POP Group is made up of passionate musicians
+from all over Singapore who meet regularly at the Yuhua Community Club.</p>
 <p>&nbsp;</p>
+<p></p>

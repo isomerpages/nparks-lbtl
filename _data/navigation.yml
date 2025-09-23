@@ -5,7 +5,7 @@ links:
   - title: Programmes
     collection: programmes
   - title: Rockestra®
-    collection: rockestra
+    url: /nparks-concert-series-in-the-park-rockestra/
   - title: F&B Offerings
     collection: fnb-offerings
   - title: Getting Here
@@ -15,4 +15,4 @@ links:
   - title: Notices
     collection: notices
   - title: FAQs
-    collection: faqs
+    url: /faq/
