@@ -20,8 +20,8 @@ creativity and celebrate the Taman Jurong community spirit!</p>
 <br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
 landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p></p>
-<h4><u>Booths</u></h4>
-<p>27 Sep Only</p>
+<h4><strong><u>Booths</u></strong></h4>
+<h4><strong>27 Sep Only</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>DIY Shrink Art Keychain</strong>
@@ -62,41 +62,75 @@ home a bright keepsake.</p>
 </div>
 </details>
 </div>
+<h4><strong>3 Oct only</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Cyanotype Printing</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Cyanotype Printing (3 Oct only)</strong>
-</p>
 <p>Step into the world of cyanotype printing! Using pressed flowers and leaves,
 participants will create their own A6 cyanotype print. Instead of sunlight,
 special UV light will be used to reveal the striking blue-and-white patterns,
 turning nature into art.</p>
-<p><strong>Suncatcher Wind Chime (4 Oct only)</strong>
-</p>
+</div>
+</details>
+</div>
+<h4><strong>4 Oct only</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Suncatcher Wind Chime</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Brighten up your day with our Suncatcher Wind Chime Art Booth! 🌞🎐 Residents
 can paint their own colourful suncatcher design and assemble it with wind
 chime accessories. A playful activity that combines light, colour, and
 sound.</p>
-<p><strong>Linocut Stamping Art (4 and 5 Oct only)</strong>
-</p>
+</div>
+</details>
+</div>
+<h4><strong>4 &amp; 5 Oct only</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Linocut Stamping Art </strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Join artists Desiree and @/stl_archivist<strong> </strong>in exploring
 the world of stamping! 🖋️✨ Featuring @/stl_archivist’s 3D-printed stamps
 and Desiree’s hand-carved linocuts, everyone can experiment with patterns
 and designs before stamping their very own canvas drawstring pouch.</p>
-<p><strong>Screenprinting (27 Sep, 3 and 5 Oct 2025)</strong>
-</p>
+</div>
+</details>
+</div>
+<h4><strong>27 Sep, 3 and 5 Oct 2025</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Screenprinting</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Choose from a set of specially illustrated designs created in-house and
 bring them to life with your own choice of colours. A fun and creative
 way to experiment with screenprinting and take home a unique piece of art.</p>
-<p><strong>Punch Needle (27 Sep, 3, 4, and 5 Oct 2025)</strong>
+</div>
+</details>
+</div>
+<p><strong> 27 Sep, 3, 4 and 5 Oct 2025</strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Punch Needle</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Discover the art of punch needling at our Taman Jurong CACC PAssionArts
 Festival Art booth! Learn how to create textured patterns and designs with
 yarn using a punch needle tool and bring home your own masterpiece!</p>
+</div>
+</details>
+</div>
 <h4><u>Performances</u></h4>
 <p>27 Sep Only</p>
 <p><strong>Lakeside Primary School Guzheng</strong>
