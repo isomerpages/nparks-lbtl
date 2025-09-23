@@ -30,11 +30,11 @@ Kueh • Vadai • XXL BBQ Squid • XXL Fried Chicken Chop X Samyang Noodles
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/dining/starbucks" rel="noopener nofollow" target="_blank">Starbucks (near Lakeside Plaza)</a>
+<p><a href="https://juronglakegardens.nparks.gov.sg/starbucks/" rel="noopener nofollow" target="_blank">Starbucks (near Lakeside Plaza)</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/dining/fusion-spoon" rel="noopener nofollow" target="_blank">Fusion Spoon (near Eco Pond)</a>
+<p><a href="https://juronglakegardens.nparks.gov.sg/fusion-spoon/" rel="noopener nofollow" target="_blank">Fusion Spoon (near Eco Pond)</a>
 </p>
 </li>
 </ul>
