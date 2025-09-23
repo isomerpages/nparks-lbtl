@@ -192,10 +192,3 @@ events. Their aim? To have fun!</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
