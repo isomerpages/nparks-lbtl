@@ -165,18 +165,37 @@ music to the community, living by their motto "Forging Friendships Through
 Music".</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Harmon-ee Music</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Harmonee.jpg">
+</div>
+<p>Harmon-ee Music, founded in 2019 by husband-and-wife duo Jovan and Iveta,
+offers live music for events, private vocal coaching/lessons and piano
+lessons. They also write, produce, and collaborate on original music projects.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Bad Decision Enjoyers (BDE)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/BDE.jpg">
+</div>
+<p>Jesse &amp; Ching Yi are a keyboard-singer duo who met a decade ago in
+Uni Jamband. Today, they have fun busking as 'BDE' and playing at local
+events. Their aim? To have fun!</p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>Harmon-ee Music</strong>
-</p>
-<p>Harmon-ee Music, founded in 2019 by husband-and-wife duo Jovan and Iveta,
-offers live music for events, private vocal coaching/lessons and piano
-lessons. They also write, produce, and collaborate on original music projects.</p>
-<p><strong>Bad Decision Enjoyers (BDE)</strong>
-</p>
-<p>Jesse &amp; Ching Yi are a keyboard-singer duo who met a decade ago in
-Uni Jamband. Today, they have fun busking as 'BDE' and playing at local
-events. Their aim? To have fun!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
