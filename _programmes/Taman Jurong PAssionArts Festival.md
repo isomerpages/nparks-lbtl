@@ -93,7 +93,7 @@ sound.</p>
 <h4><strong>4 &amp; 5 Oct only</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Linocut Stamping Art </strong>
+<summary><strong>Linocut Stamping Art</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -117,7 +117,7 @@ way to experiment with screenprinting and take home a unique piece of art.</p>
 </div>
 </details>
 </div>
-<p><strong> 27 Sep, 3, 4 and 5 Oct 2025</strong>
+<p><strong>27 Sep, 3, 4 and 5 Oct 2025</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -131,17 +131,29 @@ yarn using a punch needle tool and bring home your own masterpiece!</p>
 </div>
 </details>
 </div>
-<h4><u>Performances</u></h4>
-<p>27 Sep Only</p>
-<p><strong>Lakeside Primary School Guzheng</strong>
-</p>
+<h4><u>Performances (27 Sep only)</u></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Lakeside Primary School Guzheng</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Lakeside_Pri.png">
+</div>
 <p>Experience the joy of harvest season an enchanting performance featuring
 traditional Chinese melodies! From the serene "Evening Song of the Fishing
 Boat" (渔舟唱晚) to the celebratory "Harvest Song," (丰收之歌) these beloved pieces
 capture the spirit of abundance and community gathering under the autumn
 moon.</p>
-<p><strong>New Gen Wind Symphony</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>New Gen Wind Symphony</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/New_Gen_Wind.jpg">
+</div>
 <p>New Gen Wind Symphony began in November 2014 as a gathering of twelve
 passionate young musicians led by Founding President Mr Ethan Peck. Inspired
 by Founding Music Director Ms Dorean Tan's enthusiasm, the group grew from
@@ -151,6 +163,13 @@ Culture Club as an Interest Group. Under current Music Director Mr Vincent
 Lee's guidance, the band continues to inspire young musicians and bring
 music to the community, living by their motto "Forging Friendships Through
 Music".</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Harmon-ee Music</strong>
 </p>
 <p>Harmon-ee Music, founded in 2019 by husband-and-wife duo Jovan and Iveta,
