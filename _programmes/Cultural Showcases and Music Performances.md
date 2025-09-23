@@ -120,7 +120,7 @@ delight us with their rendition of our favourite songs.</p>
 <p><strong>Leon</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IMG_20250922_WA0033.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Activities/Leon_s_Profile_Picture.jpg">
 </div>
 <p>Leon is a multi-faceted talent with skills spanning across culinary arts,
 vocal performance and event hosting. He is a trained vocalist who has performed
