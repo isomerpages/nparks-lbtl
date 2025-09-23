@@ -22,24 +22,53 @@ landmark: PAssionWave@Jurong Lake Gardens)</p>
 <p></p>
 <h4><u>Booths</u></h4>
 <p>27 Sep Only</p>
-<p><strong>DIY Shrink Art Keychain</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>DIY Shrink Art Keychain</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Create your very own miniature charms at our DIY shrink art booth. Suitable
 for all and everyone so come by and try it out!</p>
-<p><strong>Doodling</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Doodling</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Tell us your story by creating your own personalised portrait. Join us
 in putting up together our very own exhibition "Portraits of Self".</p>
-<p><strong>Zine Making</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Zine Making</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Ever wanted to make your very own zine? Drop by our booth and have a go
 at it. You might just enjoy and start crafting your own right at home!</p>
-<p><strong>Sand Art</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Sand Art</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Add a splash of colour to your day at our Sand Art Booth! 🎨✨ Everyone
 of all ages can enjoy layering vibrant sand into fun patterns and designs.
 This hands-on activity is a playful way to celebrate creativity while bringing
 home a bright keepsake.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Cyanotype Printing (3 Oct only)</strong>
 </p>
 <p>Step into the world of cyanotype printing! Using pressed flowers and leaves,
