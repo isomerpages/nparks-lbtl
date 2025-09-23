@@ -27,7 +27,9 @@ landmark: PAssionWave@Jurong Lake Gardens)</p>
 <summary><strong>DIY Shrink Art Keychain</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Shrink_Art.jpg">
+</div>
 <p>Create your very own miniature charms at our DIY shrink art booth. Suitable
 for all and everyone so come by and try it out!</p>
 </div>
@@ -36,7 +38,9 @@ for all and everyone so come by and try it out!</p>
 <summary><strong>Doodling</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Doodling.jpg">
+</div>
 <p>Tell us your story by creating your own personalised portrait. Join us
 in putting up together our very own exhibition "Portraits of Self".</p>
 </div>
@@ -45,7 +49,9 @@ in putting up together our very own exhibition "Portraits of Self".</p>
 <summary><strong>Zine Making</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Zine_Making_2.png">
+</div>
 <p>Ever wanted to make your very own zine? Drop by our booth and have a go
 at it. You might just enjoy and start crafting your own right at home!</p>
 </div>
@@ -54,7 +60,9 @@ at it. You might just enjoy and start crafting your own right at home!</p>
 <summary><strong>Sand Art</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Sand_Art.png">
+</div>
 <p>Add a splash of colour to your day at our Sand Art Booth! 🎨✨ Everyone
 of all ages can enjoy layering vibrant sand into fun patterns and designs.
 This hands-on activity is a playful way to celebrate creativity while bringing
@@ -68,7 +76,9 @@ home a bright keepsake.</p>
 <summary><strong>Cyanotype Printing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Cyanotype.jpg">
+</div>
 <p>Step into the world of cyanotype printing! Using pressed flowers and leaves,
 participants will create their own A6 cyanotype print. Instead of sunlight,
 special UV light will be used to reveal the striking blue-and-white patterns,
@@ -82,7 +92,9 @@ turning nature into art.</p>
 <summary><strong>Suncatcher Wind Chime</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Suncatcher.png">
+</div>
 <p>Brighten up your day with our Suncatcher Wind Chime Art Booth! 🌞🎐 Residents
 can paint their own colourful suncatcher design and assemble it with wind
 chime accessories. A playful activity that combines light, colour, and
@@ -96,7 +108,9 @@ sound.</p>
 <summary><strong>Linocut Stamping Art</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Linocut.jpg">
+</div>
 <p>Join artists Desiree and @/stl_archivist<strong> </strong>in exploring
 the world of stamping! 🖋️✨ Featuring @/stl_archivist’s 3D-printed stamps
 and Desiree’s hand-carved linocuts, everyone can experiment with patterns
@@ -110,7 +124,9 @@ and designs before stamping their very own canvas drawstring pouch.</p>
 <summary><strong>Screenprinting</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Screenprinting_2.png">
+</div>
 <p>Choose from a set of specially illustrated designs created in-house and
 bring them to life with your own choice of colours. A fun and creative
 way to experiment with screenprinting and take home a unique piece of art.</p>
@@ -124,14 +140,16 @@ way to experiment with screenprinting and take home a unique piece of art.</p>
 <summary><strong>Punch Needle</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Punch_Needle.png">
+</div>
 <p>Discover the art of punch needling at our Taman Jurong CACC PAssionArts
 Festival Art booth! Learn how to create textured patterns and designs with
 yarn using a punch needle tool and bring home your own masterpiece!</p>
 </div>
 </details>
 </div>
-<h4><u>Performances (27 Sep only)</u></h4>
+<h4><strong><u>Performances (27 Sep only)</u></strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Lakeside Primary School Guzheng</strong>
@@ -181,7 +199,6 @@ lessons. They also write, produce, and collaborate on original music projects.</
 <summary><strong>Bad Decision Enjoyers (BDE)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/BDE.jpg">
 </div>
