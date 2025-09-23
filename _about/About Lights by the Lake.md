@@ -105,7 +105,7 @@ on the community page or social media, then visit any Visitor Services
 counter to scan a QR code and claim your exclusive Jurong Lake Gardens
 pin (whilst stocks last).</p>
 <h4><strong>Frequently Asked Questions</strong></h4>
-<p>Read our Frequently Asked Questions <a href="/faqs" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Read our Frequently Asked Questions <a href="https://lightsbythelake.nparks.gov.sg/faq/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
