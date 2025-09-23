@@ -21,5 +21,7 @@ page, or post your favourite shots on social media to spread the magic.</p>
 <p>Complete the quest, then visit any of our Visitor Services counters to
 scan a QR code and redeem your exclusive Jurong Lake Gardens pin (while
 stocks last)!</p>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/6235580653483706106.jpg">
+</div>
 <p></p>
