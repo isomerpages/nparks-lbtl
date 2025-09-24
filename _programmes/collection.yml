@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Lantern Exploration Quest.md
       - Programmes Overview.md
       - Lantern Displays.md
       - "Cloud Pagoda Light Show: Moonlight Crescendo.md"
@@ -22,3 +21,4 @@ collections:
       - Astronomy Open House by Science Centre Singapore.md
       - "Deliciously Singaporean: An Exhibition by National Heritage Board.md"
       - Programmes at PAssionWave@Jurong Lake Gardens.md
+      - Lantern Exploration Quest.md
