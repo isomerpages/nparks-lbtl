@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Light Shows & Illuminations/Grand Arch Illumination.md
       - "Light Shows & Illuminations/Cloud Pagoda Light Show: Moonlight
         Crescendo.md"
       - Light Shows & Illuminations/.keep
