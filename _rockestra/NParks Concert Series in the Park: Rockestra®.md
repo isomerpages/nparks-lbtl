@@ -22,7 +22,7 @@ in conjunction with SG60.
 <br>
 <br>
 </p>
-<h4><strong>F&amp;B Offerings&nbsp;</strong>&nbsp;<br></h4>
+<h4><strong>F&amp;B Offerings&nbsp;</strong>&nbsp;</h4>
 <p><strong><u>Food Market</u></strong>
 <br>Savour delicious treats under the stars at our vibrant outdoor Food Market!
 With al fresco seating scattered throughout, enjoy a delightful culinary
