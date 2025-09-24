@@ -97,6 +97,6 @@ each evening, then continue your magical journey through our illuminated
 gardens thereafter!</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/nparks-concert-series-in-the-park-rockestra/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rockestra" src="/images/Rockestra/NParks_Rockestra.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NParks Concert Series in the Park: Rockestra®</div><div class="isomer-card-description">The 24th edition of Rockestra® moves to a new venue: Ficus Lawn (Chinese Garden). Themed 'Dancing in the Moonlight', groove to English &amp; Mandarin hits!</div><div class="isomer-card-link">READ MORE</div></div></a>
 </div>
 <p></p>
