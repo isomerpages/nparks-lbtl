@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Light Shows & Illuminations/.keep
       - Programmes Overview.md
       - Lantern Displays.md
       - "Cloud Pagoda Light Show: Moonlight Crescendo.md"
