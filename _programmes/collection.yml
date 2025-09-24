@@ -2,13 +2,13 @@ collections:
   programmes:
     output: true
     order:
-      - "NParks Concert Series in the Park: Rockestra®.md"
       - Programmes Overview.md
       - Lantern Displays.md
       - "Cloud Pagoda Light Show: Moonlight Crescendo.md"
       - Grand Arch Illumination.md
       - Sunken Garden Illumination.md
       - Cultural Showcases and Music Performances.md
+      - "NParks Concert Series in the Park: Rockestra®.md"
       - Lantern Riddles.md
       - Lion Dance Performances.md
       - Guided Tours of Chinese Garden.md
