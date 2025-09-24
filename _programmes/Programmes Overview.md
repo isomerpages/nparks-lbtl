@@ -30,73 +30,73 @@ and vibrant cultural showcases celebrating our community's creativity.</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/cloud-pagoda-light-show/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Light Shows" src="/images/Activities/Light Shows/Cloud_Pagoda_light_show_resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cloud Pagoda Light Show</div><div class="isomer-card-description">A returning crowd favourite: Watch as the Cloud Pagoda transforms into a spectacular canvas of light and mesmerising patterns!</div><div class="isomer-card-link">READ MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/sunken-garden-illumination/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/nparks-concert-series-in-the-park-rockestra/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sunken Garden Illumination" src="/images/Activities/Light Shows/IMG_9597.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Rockestra" src="/images/Rockestra/NParks_Rockestra.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Sunken Garden Illumination</div>
-<div class="isomer-card-description">Descend into a world of vibrant wonder as the Sunken Garden comes alive
-with a stunning multicoloured light display, transforming this architectural
-gem into a glowing amphitheatre of cascading hues.</div>
+<div class="isomer-card-title">NParks Concert Series in the Park: Rockestra®</div>
+<div class="isomer-card-description">The 24th edition of Rockestra® moves to a new venue: Ficus Lawn (Chinese
+Garden). Themed 'Dancing in the Moonlight', groove to English &amp; Mandarin
+hits!</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/lantern-riddles/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lantern Riddles" src="/images/Activities/LBTL_Lantern_Riddle_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lantern Riddles</div><div class="isomer-card-description">Test your wit and wisdom as you unravel the charm of traditional riddles in a joyous gathering of family and friends.</div><div class="isomer-card-link">READ MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/guided-tours-of-chinese-garden/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/sunken-garden-illumination/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sunken Garden Illumination" src="/images/Activities/Light Shows/IMG_9597.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sunken Garden Illumination</div><div class="isomer-card-description">Descend into a world of vibrant wonder as the Sunken Garden comes alive with a stunning multicoloured light display, transforming this architectural gem into a glowing amphitheatre of cascading hues.</div><div class="isomer-card-link">READ MORE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/lantern-riddles/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guided Tours of Chinese Garden" src="/images/Activities/cg_guided_tour___sk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lantern Riddles" src="/images/Activities/LBTL_Lantern_Riddle_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Guided Tours of Chinese Garden</div>
-<div class="isomer-card-description">Immerse yourself in the rich history and serene beauty of the Chinese
-Garden. In this guided tour, explore the intricately designed landscapes,
-vibrant flora, and traditional architectural marvels.</div>
+<div class="isomer-card-title">Lantern Riddles</div>
+<div class="isomer-card-description">Test your wit and wisdom as you unravel the charm of traditional riddles
+in a joyous gathering of family and friends.</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/roving-art-studio-by-national-gallery-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Roving Art Studio by National Gallery Singapore" src="/images/Activities/IMG_9356.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Roving Art Studio by National Gallery Singapore</div><div class="isomer-card-description">Inspired by Georgette Chen’s Still Life (Moon Festival Table), visitors will use actual mooncake stamps, similar to the one in the artwork, to stamp on the activity sheets.</div><div class="isomer-card-link">READ MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/taman-jurong-passionarts-festival/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/guided-tours-of-chinese-garden/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Guided Tours of Chinese Garden" src="/images/Activities/cg_guided_tour___sk.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Guided Tours of Chinese Garden</div><div class="isomer-card-description">Immerse yourself in the rich history and serene beauty of the Chinese Garden. In this guided tour, explore the intricately designed landscapes, vibrant flora, and traditional architectural marvels.</div><div class="isomer-card-link">READ MORE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/roving-art-studio-by-national-gallery-singapore/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Taman Jurong PAssionArts Festival" src="/images/Activities/Doodling.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Roving Art Studio by National Gallery Singapore" src="/images/Activities/IMG_9356.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Taman Jurong PAssionArts Festival</div>
-<div class="isomer-card-description">With activities for all ages, it's the perfect opportunity to explore
-creativity and celebrate the Taman Jurong community spirit!</div>
+<div class="isomer-card-title">Roving Art Studio by National Gallery Singapore</div>
+<div class="isomer-card-description">Inspired by Georgette Chen’s Still Life (Moon Festival Table), visitors
+will use actual mooncake stamps, similar to the one in the artwork, to
+stamp on the activity sheets.</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/theatre-of-moon-by-arts-fission/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处" src="/images/Activities/Theatre_of_Moon_EDM2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处</div><div class="isomer-card-description">Theatre of Moon is a wellness performance that takes place in the Reflection Pond of the serene Japanese Garden. Short episodes of dance magically unfolding along the boardwalks by the water like the footpath of a kabuki stage.</div><div class="isomer-card-link">READ MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/astronomy-open-house-by-science-centre-singapore/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/taman-jurong-passionarts-festival/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Taman Jurong PAssionArts Festival" src="/images/Activities/Doodling.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Taman Jurong PAssionArts Festival</div><div class="isomer-card-description">With activities for all ages, it's the perfect opportunity to explore creativity and celebrate the Taman Jurong community spirit!</div><div class="isomer-card-link">READ MORE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/theatre-of-moon-by-arts-fission/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Astronomy Open House by Science Centre Singapore" src="/images/Activities/Omni_Theatre___Father_and_Boy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处" src="/images/Activities/Theatre_of_Moon_EDM2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Astronomy Open House by Science Centre Singapore</div>
-<div class="isomer-card-description">Step into the Water Lily Pavilion and craft your very own lantern, inspired
-by the dazzling constellations that light up our night sky!</div>
+<div class="isomer-card-title">Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处</div>
+<div class="isomer-card-description">Theatre of Moon is a wellness performance that takes place in the Reflection
+Pond of the serene Japanese Garden. Short episodes of dance magically unfolding
+along the boardwalks by the water like the footpath of a kabuki stage.</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/deliciously-singaporean-an-exhibition-by-national-heritage-board/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Deliciously Singaporean: An Exhibition by National Heritage Board" src="/images/Activities/SFMA1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Deliciously Singaporean: An Exhibition by National Heritage Board</div><div class="isomer-card-description">Discover the incredible journey of Singapore's street food - from humble hawker beginnings to today's world-famous culinary scene!</div><div class="isomer-card-link">READ MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/programmes-at-passionwave-jurong-lake-gardens/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/astronomy-open-house-by-science-centre-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Astronomy Open House by Science Centre Singapore" src="/images/Activities/Omni_Theatre___Father_and_Boy.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Astronomy Open House by Science Centre Singapore</div><div class="isomer-card-description">Step into the Water Lily Pavilion and craft your very own lantern, inspired by the dazzling constellations that light up our night sky!</div><div class="isomer-card-link">READ MORE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/deliciously-singaporean-an-exhibition-by-national-heritage-board/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Programmes at PAssionWave@Jurong Lake Gardens" src="/images/Activities/PAWV___Chinese_calligraphy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Deliciously Singaporean: An Exhibition by National Heritage Board" src="/images/Activities/SFMA1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Programmes at PAssionWave@Jurong Lake Gardens</div>
-<div class="isomer-card-description">Join these exciting activities happening before Lights by the Lake opens
-each evening, then continue your magical journey through our illuminated
-gardens thereafter!</div>
+<div class="isomer-card-title">Deliciously Singaporean: An Exhibition by National Heritage Board</div>
+<div class="isomer-card-description">Discover the incredible journey of Singapore's street food - from humble
+hawker beginnings to today's world-famous culinary scene!</div>
 <div class="isomer-card-link">READ MORE</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/programmes-at-passionwave-jurong-lake-gardens/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Programmes at PAssionWave@Jurong Lake Gardens" src="/images/Activities/PAWV___Chinese_calligraphy.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Programmes at PAssionWave@Jurong Lake Gardens</div><div class="isomer-card-description">Join these exciting activities happening before Lights by the Lake opens each evening, then continue your magical journey through our illuminated gardens thereafter!</div><div class="isomer-card-link">READ MORE</div></div></a>
 </div>
 <p></p>

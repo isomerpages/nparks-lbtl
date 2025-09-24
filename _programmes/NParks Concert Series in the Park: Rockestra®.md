@@ -20,7 +20,6 @@ amphitheatre.&nbsp;</p>
 <br>This edition of NParks Concert Series in the Park: Rockestra® is held
 in conjunction with SG60.
 <br>
-<br>
 </p>
 <h4><strong>F&amp;B Offerings&nbsp;</strong>&nbsp;</h4>
 <p><strong><u>Food Market</u></strong>
@@ -32,6 +31,5 @@ of lanterns and the festive atmosphere of the gardens.&nbsp;
 <br><strong>Date</strong>: 27 Sep – 12 Oct 2025&nbsp;
 <br><strong>Time</strong>: 5pm – 10:30pm&nbsp;
 <br><strong>Location</strong>: Lakeside Field (Lakeside Garden)&nbsp;
-<br>
 <br>
 </p>

@@ -1,20 +1,11 @@
 ---
-title: "NEAR App: Your LBTL Guide"
-permalink: /near-app-your-lbtl-guide/
+title: Lantern Exploration Quest
+permalink: /lantern-exploration-quest/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/NEAR_app.png">
-</div>
-<p>Make the most of your Lights by the Lake experience <strong><a href="https://near.nparks.gov.sg/" rel="noopener nofollow" target="_blank">download the NEAR app</a></strong> now
-and embark on your adventure! Access essential event information including
-points of interest, food vendors, key details, and helpful wayfinding to
-car parks and MRT stations.</p>
-<h4><strong>Lantern Exploration Quest 🔍</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/6235580653483706106.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/NEAR_app___JLG_pins.png">
 </div>
 <p>Find scenes from "Sun Wukong's Journey to the West" lantern displays throughout
 Jurong Lake Gardens during the Lights by the Lake 2025 event, capture memorable
