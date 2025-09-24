@@ -2,17 +2,17 @@ collections:
   programmes:
     output: true
     order:
-      - Grand Arch Illumination.md
-      - "Cloud Pagoda Light Show: Moonlight Crescendo.md"
-      - Sunken Garden Illumination.md
-      - Wings of Light.md
       - Programmes Overview.md
       - Lantern Displays.md
+      - "Cloud Pagoda Light Show: Moonlight Crescendo.md"
       - Cultural Showcases and Music Performances.md
       - "NParks Concert Series in the Park: Rockestra®.md"
+      - Sunken Garden Illumination.md
+      - Grand Arch Illumination.md
       - Lantern Riddles.md
       - Lion Dance Performances.md
       - Guided Tours of Chinese Garden.md
+      - Wings of Light.md
       - Taman Jurong PAssionArts Festival.md
       - Roving Art Studio by National Gallery Singapore.md
       - "Theatre of Moon by Arts Fission 月光剧场之: 灯火阑珊处.md"
