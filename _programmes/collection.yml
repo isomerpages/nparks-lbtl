@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - "NParks Concert Series in the Park: Rockestra®.md"
       - Programmes Overview.md
       - Lantern Displays.md
       - "Cloud Pagoda Light Show: Moonlight Crescendo.md"
