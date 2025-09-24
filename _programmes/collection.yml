@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Grand Arch Illumination.md
       - "Cloud Pagoda Light Show: Moonlight Crescendo.md"
       - Sunken Garden Illumination.md
       - Wings of Light.md
