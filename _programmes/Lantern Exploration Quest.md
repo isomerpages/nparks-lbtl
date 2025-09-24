@@ -33,8 +33,7 @@ app's Community Wall. Complete all five photo quests to be eligible for
 the redemption!</p>
 </li>
 </ul>
-<p><strong><u>Redemption</u></strong>
-</p>
+<h4><strong><u>Redemption</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Upon completing all five photo quests, head over to any of the three designated
@@ -63,5 +62,8 @@ only, available whilst stocks last.</p>
 <br>📆: 27 Sep - 12 Oct 2025
 <br>⏰: 6:30pm to 10pm</p>
 <h4>Download the NEAR app <a href="https://near.nparks.gov.sg/" rel="noopener nofollow" target="_blank">here</a>.</h4>
-<h4></h4>
+<h4><strong><u>Frequently Asked Questions</u></strong></h4>
+<p>Read our Frequently Asked Questions <a href="/files/FAQs___LBTL_Lantern_Exploration_Quest__27_Sep_12_Oct_.pdf" rel="noopener nofollow" target="_blank"><u>here</u></a>.</p>
+<h4><strong><u>Terms &amp; Conditions</u></strong></h4>
+<p>Read the Lantern Exploration Quest <a href="/files/T_Cs___LBTL_Lantern_Exploration_Quest__27_Sep_12_Oct_.pdf" rel="noopener nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
