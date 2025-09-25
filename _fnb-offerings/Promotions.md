@@ -59,7 +59,7 @@ and more.</p>
 <p>Enjoy our signature dishes &amp; spend $60 to redeem an exclusive lantern
 - perfect for kids &amp; family fun!</p>
 <p>Valid from 27 Sep to 12 Oct 2025. Find out more <a href="https://edencafe.sg/pages/promotion" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p><strong>Canopy</strong>
+<p><strong><u>Canopy</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/Chendol_Toast.png">
@@ -67,8 +67,19 @@ and more.</p>
 <p>One complimentary Chendol Toast with a minimum spend of $100 at our outlet</p>
 <p>Valid from 27 Sep to 12 Oct</p>
 <p>Find out more <a href="https://www.canopygardendining.com/event/celebrate-mid-autumn-with-a-treat/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><strong><u>BingXue</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/75f61728_4c46_4673_aac9_41b3bf5ddca2.jpg">
+</div>
+<p>
+<br>Purchase any 2 Lite Milk Tea (Ruby Silk/Oolong) for $6.00 (U.P. $7)</p>
+<p>Valid<em> </em>from 27 Sep to 12 Oct<em> </em>
+</p>
+<p>Find<em> </em>out<em> </em>more<em> </em><a href="https://www.instagram.com/bingxue_singapore/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <h4><strong>Japanese Garden</strong></h4>
-<p><strong>Ice Cream Man and Friends</strong>
+<p><strong><u>Ice Cream Man and Friends</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/WhatsApp_Image_2025_09_15_at_18_26_50.jpg">
