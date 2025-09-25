@@ -70,12 +70,11 @@ and more.</p>
 <p><strong><u>BingXue</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/75f61728_4c46_4673_aac9_41b3bf5ddca2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FnB/bingxue official.jpg">
 </div>
 <p>
 <br>Purchase any 2 Lite Milk Tea (Ruby Silk/Oolong) for $6.00 (U.P. $7)</p>
-<p>Valid<em> </em>from 27 Sep to 12 Oct<em> </em>
-</p>
+<p>Valid<em> </em>from 27 Sep to 12 Oct</p>
 <p>Find<em> </em>out<em> </em>more<em> </em><a href="https://www.instagram.com/bingxue_singapore/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4><strong>Japanese Garden</strong></h4>
