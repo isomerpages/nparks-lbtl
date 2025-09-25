@@ -104,7 +104,7 @@ Lakeside Gardens.</p>
 on the community page or social media, then visit any Visitor Services
 counter to scan a QR code and claim your exclusive Jurong Lake Gardens
 pin (whilst stocks last).</p>
-<p>Read more <a href="/nparks-concert-series-in-the-park-rockestra/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Read more <a href="https://lightsbythelake.nparks.gov.sg/lantern-exploration-quest/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Frequently Asked Questions</strong></h4>
 <p>Read our Frequently Asked Questions <a href="https://lightsbythelake.nparks.gov.sg/faq/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
