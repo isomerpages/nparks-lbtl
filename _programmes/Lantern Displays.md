@@ -20,18 +20,56 @@ own devotion to those we cherish.</p>
 <br>Lakeside Field, Butterfly Field (Lakeside Garden)
 <br>Chinese Garden Entrance, Stoneboat (Chinese Garden)
 <br>Floral Garden, Resthouse Pond (Japanese Garden)</p>
+<h3><strong>Lakeside Garden</strong></h3>
 <h4><strong>Lakeside Field</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Under the Five Elements Mountain (五行山下)</p>
-</li>
-<li>
-<p>Flaming Mountain (火焰山)</p>
-</li>
-<li>
-<p>Three Battles with the White Bone Demon (三打白骨精)</p>
-</li>
-</ul>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Under the Five Elements Mountain (五行山下)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Under_the_Five_Elements_Mountain_______.jpg">
+</div>
+<p>Imprisoned beneath the Five Elements Mountain by the Buddha, the once-rebellious
+Monkey King, Sun Wukong, awaits his destined release. When Tang Sanzang
+(Tripitaka) arrives, their fateful journey toward enlightenment begins.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Flaming Mountain (火焰山)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_9740.jpg">
+</div>
+<p>The pilgrims reach a land ablaze — the fearsome Flaming Mountain. To continue
+their journey, they must retrieve the mystical Palm-Leaf Fan and face the
+formidable Bull Demon King.</p>
+<p></p>
+<p>In the heat of battle, courage and wit light the way. Here, the flames
+reflect not only the obstacles before us, but the passion and perseverance
+within</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Three Battles with the White Bone Demon (三打白骨精)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Under_the_Five_Elements_Mountain_______.jpg">
+</div>
+<p>Some of the hardest battles are not against enemies, but between those
+we care about. The White Bone Demon appears in three disguises, trying
+to steal Tang Sanzang’s soul.</p>
+<p></p>
+<p>Though Sun Wukong sees through each trick and strikes to protect, his
+actions are misunderstood, straining the bond with his master.</p>
+</div>
+</details>
+</div>
 <h4><strong>Butterfly Field</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
