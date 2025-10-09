@@ -146,7 +146,7 @@ or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4><strong><u>Send us your feedback</u></strong></h4>
-<p>For feedback on Lights by the Lake 2025, click <a href="https://go.gov.sg/lbtl2024-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>For feedback on Lights by the Lake 2025, click <a href="https://go.gov.sg/lbtl2025-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>For feedback on NParks Concert Series in the Park: Rockestra®, click
 <a href="https://go.gov.sg/rocksep24-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>For feedback related to parks, greenery, plants or animals, click <a href="https://www.nparks.gov.sg/contact-us#feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
