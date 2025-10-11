@@ -4,7 +4,8 @@ title: Lights by the Lake 2025
 description: Be enchanted this Mid-Autumn Festival at Lights by the Lake!
 image: /images/Key Visuals/LBTL_2025_Final_V2.png
 permalink: /
-notification: ""
+notification: North and South Carparks full. Please park at nearby HDB carparks
+  or Science Centre Singapore.
 sections:
   - hero:
       background: /images/Key Visuals/LBTL_2025_Email_Banner_without_graphics.png
