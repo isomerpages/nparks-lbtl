@@ -6,8 +6,9 @@ agency_name: Jurong Lake Gardens
 contacts:
   - content:
       - phone: ""
-      - email: JurongLakeGardens@nparks.gov.sg
-      - other: We will get back to you within 3 to 5 working days.
-    title: General Enquiries
+      - email: ""
+      - other: <a target="_blank"
+          href="https://www.nparks.gov.sg/contact-us">https://www.nparks.gov.sg/contact-us</a>
+    title: Feedback & Enquiries
 feedback: https://www.nparks.gov.sg/contact-us
 ---
