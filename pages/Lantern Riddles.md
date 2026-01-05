@@ -4,13 +4,15 @@ permalink: /lantern-riddles/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/LBTL_Lantern_Riddle_2.jpg">
 </div>
 <p>Join us for an evening of delightful puzzlement and cultural celebration
 under the soft glow of lanterns. Test your wit and wisdom as you unravel
-the charm of traditional riddles in a joyous gathering of family and friends.</p>
-<p><strong>Date: </strong>9 – 12, 16 – 19 September 2024 (Mon – Thu)
-<br><strong>Time: </strong>7:30pm – 9:30pm
-<br><strong>Location: &nbsp;</strong>Wave Plaza, Jurong Lake Gardens</p>
+the charm of traditional riddles in a joyous gathering of family and friends.
+Listen out for special riddles broadcast on LOVE972 with exciting prizes
+to be won for correct answers!</p>
+<p><strong>Date: </strong>29 Sep – 3 Oct, 6 – 9 Oct 2025 (Mon – Thu)
+<br><strong>Time: </strong>7pm – 9pm
+<br><strong>Location: &nbsp;</strong>Wave Plaza, Lakeside Garden (nearest
+landmark: PAssionWave@Jurong Lake Gardens)</p>
