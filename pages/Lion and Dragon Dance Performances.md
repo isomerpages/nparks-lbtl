@@ -4,13 +4,12 @@ permalink: /lion-and-dragon-dance-performances/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Lion_dance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/IMG_6086.jpg">
 </div>
-<p>Join us in witnessing the awe-inspiring spectacle of these iconic dances,
-symbolizing prosperity, good fortune, and unity.<strong>&nbsp;</strong>
-</p>
-<p><strong>Date: </strong>8, 13 – 15, 17, 20 – 22 September 2024
-<br><strong>Time:</strong> 7:30pm, 8:30pm
+<p>Experience the thunderous energy and vibrant colours of traditional lion
+dance performances, bringing good fortune and festive spirit to Lights
+by the Lake 2025!</p>
+<p><strong>Date: </strong>27 and 28 Sep, 5 and 12 Oct 2025
+<br><strong>Time:</strong> 7:45pm and 8:45pm (two sessions per night)
 <br><strong>Location: &nbsp;</strong>Grand Arch, Chinese Garden</p>
