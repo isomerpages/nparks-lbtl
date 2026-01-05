@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Key Visuals/LBTL_2025_Email_Banner_without_graphics.png
-      button: FIND OUT MORE
+      button: ABOUT
       url: /about/
       variant: center
       title: Lights by the Lake
