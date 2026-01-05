@@ -15,8 +15,14 @@ of the Mid-Autumn Festival.</p>
 <p>Be awed by the larger-than-life lantern displays, cultural showcases and
 music performances, and more in this extraordinary celebration of culture,
 art, and community under the autumn moon at Jurong Lake Gardens!</p>
+<p>Stay tuned for more on 2026's edition.</p>
 <p>Lights by the Lake 2025 is organised by National Parks Board.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
+</div>
+<p></p>
+<h4><strong>Lights by the Lake 2025 Highlights</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/45c5H24iJIc?si=5z7h1M7dYqHHN020"></iframe>
 </div>
 <p></p>
