@@ -1,6 +1,0 @@
-collections:
-  notices:
-    output: true
-    order:
-      - Advisories.md
-      - News & Announcements.md

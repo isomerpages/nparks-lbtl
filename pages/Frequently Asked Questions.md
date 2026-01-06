@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /faq/
+permalink: /frequently-asked-questions/
 variant: tiptap
 description: ""
 ---
@@ -153,6 +153,4 @@ or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
+<p></p>

@@ -1,6 +1,6 @@
 ---
 title: Cycling in Jurong Lake Gardens
-permalink: /cycling-in-jlg/
+permalink: /cycling-in-jurong-lake-gardens/
 variant: tiptap
 description: ""
 ---

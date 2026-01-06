@@ -1,6 +1,6 @@
 ---
-title: Wings of Light
-permalink: /wings-of-light/
+title: Wings of Wonder
+permalink: /wings-of-wonder/
 variant: tiptap
 description: ""
 ---

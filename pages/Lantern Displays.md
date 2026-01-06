@@ -4,150 +4,83 @@ permalink: /lantern-displays/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Lanterns_night_montage.jpg">
-</div>
-<p>Look forward to beautiful lantern displays that showcase the biodiversity
-and iconic buildings of Jurong Lake Gardens! The displays will feature
-lanterns meticulously crafted by professional lantern artisans, as well
-as the ever-popular floating lanterns, and new designs inspired by origami.
-Roving actors will be dressed up in traditional garments too, offering
-visitors many photo-taking opportunities.</p>
-<p><strong>Date:&nbsp;</strong>8 - 22 September 2024
-<br><strong>Time:</strong>&nbsp;6:30pm – 10pm daily
-<br><strong>Location:</strong>&nbsp;Various Locations, Jurong Lake Gardens</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Lantern_locations_FULL.png">
-</div>
-<p>Click on the tabs below to find out more about the lantern displays.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p>This year's immersive lantern displays unite the treasured Chinese tale
+of <em>Journey to the West</em> with the beloved Mid-Autumn Festival tradition.</p>
+<p>Walk amongst glowing scenes of Sun Wukong's tale of loyalty and transformation,
+unfolding beneath the same moon that guides families together during their
+autumn reunions. As you journey through these illuminated installations,
+each step reveals how the Monkey King's path of perseverance mirrors our
+own devotion to those we cherish.</p>
+<p><strong>📆:&nbsp;</strong>27 Sep – 12 Oct 2025
+<br><strong>⏰:</strong>&nbsp;6:30pm – 10:30pm daily
+<br><strong>📍:</strong>&nbsp;
+<br>Lakeside Field, Butterfly Field (Lakeside Garden)
+<br>Chinese Garden Entrance, Stoneboat (Chinese Garden)
+<br>Floral Garden, Resthouse Pond (Japanese Garden)</p>
+<h3><strong>Lakeside Garden</strong></h3>
+<h4><strong>Lakeside Field</strong></h4>
 <details class="isomer-details">
-<summary><strong>Reflections of Twilight (荷塘月夜)</strong>
-</summary>
+<summary>Under the Five Elements Mountain (五行山下)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Relflections_of_Twilight.png">
-</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Legend of the White Snake (白蛇与许仙)</strong>
+<summary><strong>Flaming Mountain (火焰山)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Legend_of_the_White_Snake.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Nezha &amp; the Dragon King (哪叱闹海)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Nezha___the_Dragon_King.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Birds of Wonderland (小小乌儿要回家)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Birds_of_Wonderland.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Whispers of Nature (昆虫乐园)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Whispers_of_Nature.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Chang’e &amp; Her Moon Palace (嫦娥奔月)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Chang_e___Her_Moon_Palace.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Dragon &amp; Phoenix Bridge (龙凤桥)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Dragon___Phoenix_Bridge.png">
-</div>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Chinese Cultural Icons Collection 1</strong>
+<summary><strong>Three Battles with the White Bone Demon (三打白骨精)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Chinese_Cultural_Icons_Collection_1.png">
-</div>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>Chinese Cultural Icons Collection 2</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>Butterfly Field</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Spider Demon Cave (盘丝洞)</p>
+</li>
+<li>
+<p>Returning with the Scriptures (取经归来)</p>
+</li>
+</ul>
+<h4><strong>Chinese Garden Gate</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Path of Harmony (花好月圆)</p>
+</li>
+</ul>
+<h4><strong>White Rainbow Bridge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bridge of Radiance (华灯初上)</p>
+</li>
+</ul>
+<h4><strong>Stoneboat</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chang’e and the Moonlit Garden (嫦娥奔月)</p>
+</li>
+</ul>
+<h4><strong>Floral Garden</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blossoms Beneath the Moon (樱月鹤舞)</p>
+</li>
+</ul>
+<h4><strong>Resthouse Pond</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Lantern Dream of Little Mei (樱栖童渡)</p>
+</li>
+</ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Chinese_Cultural_Icons_Collection_2.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Flower Blossom (百花齐放拱门)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Flower_Blossom.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Fox Origami Lantern</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Fox_Origami_Lantern.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Rabbit Origami Lantern</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Rabbit_Origami_Lantern.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Crane Origami Lantern</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/Crane_Origami_Lantern.png">
-</div>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
+<p><em>Stay tuned for more details!</em>
+</p>
+<p>
+<br>
+</p>

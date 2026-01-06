@@ -1,6 +1,6 @@
 ---
 title: Lion Dance Performances
-permalink: /lion-dance-performances/
+permalink: /lion-and-dragon-dance-performances/
 variant: tiptap
 description: ""
 ---
