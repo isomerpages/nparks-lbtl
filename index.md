@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Lights by the Lake 2025
+title: Lights by the Lake
 description: Be enchanted this Mid-Autumn Festival at Lights by the Lake!
-image: /images/Key Visuals/LBTL_2025_Final_V2.png
+image: /images/Key Visuals/LBTL_2025_Final___Title_only.png
 permalink: /
 notification: ""
 sections:
