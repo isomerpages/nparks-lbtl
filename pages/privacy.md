@@ -47,7 +47,7 @@ the content and privacy practices of these other websites and encourage
 you to consult the privacy notices of those sites.</p>
 </li>
 <li>
-<p>Please contact us via&nbsp;[<a href="http://www.nparks.gov.sg/feedback](https://www.nparks.gov.sg/feedback)" rel="noopener noreferrer nofollow" target="_blank">www.nparks.gov.sg/feedback](https://www.nparks.gov.sg/feedback)</a>&nbsp;if
+<p>Please contact us via&nbsp;<a href="http://www.nparks.gov.sg/feedback](https://www.nparks.gov.sg/feedback)" rel="noopener noreferrer nofollow" target="_blank">www.nparks.gov.sg/feedback</a>&nbsp;if
 you:</p>
 <p>(a) have any enquires or feedback on our data protection policies and
 procedures (including request for user data deletion),</p>
