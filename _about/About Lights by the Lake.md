@@ -4,9 +4,8 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2025_Final___Title_only.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2026_KV_ppt.png">
 </div>
 <h3><strong>LIGHTS BY THE LAKE</strong></h3>
 <p>A signature annual event at Jurong Lake Gardens, Lights by the Lake presents
