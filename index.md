@@ -12,5 +12,5 @@ sections:
       url: /about/
       variant: center
       title: Lights by the Lake
-      subtitle: Stay tuned for 2026's edition!
+      subtitle: 19 to 27 Sep 2026 • 6:30pm to 10:30pm daily • More details coming soon!
 ---
