@@ -2,4 +2,4 @@ collections:
   food-and-beverage-options:
     output: true
     order:
-      - Food & Beverage Options.md
+      - Food & Drink.md
