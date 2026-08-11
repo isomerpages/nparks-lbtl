@@ -7,16 +7,8 @@ links:
         url: /lantern-displays
       - title: Light Shows
         url: /light-shows
-  - title: Lakeside Field Programmes
-    collection: lakeside-field-programmes
-  - title: Chinese Garden Programmes
-    collection: chinese-garden-programmes
-  - title: Wave Plaza Programmes
-    collection: wave-plaza-programmes
-  - title: Japanese Garden Programmes
-    collection: japanese-garden-programmes
-  - title: Tours
-    url: /tours
+  - title: Programmes
+    url: /programmes
   - title: Getting here
     collection: getting-to-lights-by-the-lake
   - title: Advisories
