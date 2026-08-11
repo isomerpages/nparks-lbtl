@@ -1,2 +1,15 @@
 logo: /images/Partners & Logos/JLG_Secondary_Logo.png
-links: []
+links:
+  - title: Lantern Displays & Light Shows
+    url: /lantern-displays/
+    sublinks:
+      - title: Lantern Displays
+        url: /lantern-displays
+      - title: Light Shows
+        url: /light-shows
+  - title: Lakeside Field Programmes
+    collection: lakeside-field-programmes
+  - title: Chinese Garden Programmes
+    collection: chinese-garden-programmes
+  - title: Wave Plaza Programmes
+    collection: wave-plaza-programmes
