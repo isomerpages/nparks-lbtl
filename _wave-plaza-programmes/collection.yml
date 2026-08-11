@@ -1,4 +1,5 @@
 collections:
   wave-plaza-programmes:
     output: true
-    order: []
+    order:
+      - Wave Plaza Programmes.md
