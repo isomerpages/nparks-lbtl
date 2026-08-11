@@ -72,7 +72,9 @@ Lights by the Lake 2026!</p>
 <h4><strong><a href="/exhibitions/" rel="noopener nofollow" target="_blank">Exhibitions</a></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/dont_play_play.png">
+</div>
 </td>
 </tr>
 <tr>
