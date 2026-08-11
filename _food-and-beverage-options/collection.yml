@@ -2,4 +2,4 @@ collections:
   food-and-beverage-options:
     output: true
     order:
-      - F&B Promotions.md
+      - Food & Beverage Options.md
