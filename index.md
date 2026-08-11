@@ -33,8 +33,9 @@ sections:
       title: Programmes
       id: infopic
       description: So many things to do at Lights by the Lake! Be spoilt for choice at
-        the wide range of programmes available for all ages.
+        the wide range of programmes available for everyone.
       button: READ MORE
       url: /programme-overview
-      alt: Image alt text
+      alt: Rockestra concert
+      image: /images/Rockestra/NParks_Rockestra.jpg
 ---
