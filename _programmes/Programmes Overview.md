@@ -49,11 +49,36 @@ Lights by the Lake 2026!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong><a href="/japanese-garden-programmes/" rel="noopener nofollow" target="_blank">Japanese Garden Programmes</a></strong></h4>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/PHOTO_2025_10_06_08_05_22.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong><a href="/around-the-gardens/" rel="noopener nofollow" target="_blank">Around the Gardens</a></strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
