@@ -80,7 +80,9 @@ Lights by the Lake 2026!</p>
 <h4><strong><a href="/tours/" rel="noopener nofollow" target="_blank">Tours</a></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/JLG_Guided_walk.png">
+</div>
 </td>
 </tr>
 </tbody>
