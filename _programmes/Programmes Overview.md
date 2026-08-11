@@ -8,9 +8,40 @@ description: ""
 music performances (including crowd-favourite Rockestra<strong>®</strong>!),
 captivating lantern riddles, a food street featuring delectable F&amp;B
 to exciting partner programmes, be enchanted this Mid-Autumn Festival at
-Lights by the Lake 2025!</p>
+Lights by the Lake 2026!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><em>Please note that all activities, unless otherwise stated, are rain or shine.</em>
 </p>
-<p><em><a href="https://cms.isomer.gov.sg/files/LBTL_2025___Prog_Board.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><sup>Click here to view and download the LBTL 2025 Progamme Board.</sup></u></a></em>
-</p>
+<p></p>
 <p></p>
