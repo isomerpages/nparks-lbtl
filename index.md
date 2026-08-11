@@ -20,4 +20,13 @@ sections:
       url: /lantern-displays
       image: /images/Lanterns/Chang_e_and_the_Moonlit_Garden_______.jpg
       alt: Chang'e lantern at Stoneboat
+  - infopic:
+      title: Light Shows
+      id: infopic
+      description: Descend into a world of vibrant wonder as the Sunken Garden and
+        Cloud Pagoda come alive with a stunning multicoloured light display!
+      button: READ MORE
+      url: /light-shows
+      image: /images/Activities/Light Shows/Cloud_pagoda_lights.jpg
+      alt: Image alt text
 ---
