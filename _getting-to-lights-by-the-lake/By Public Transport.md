@@ -4,11 +4,9 @@ permalink: /by-public-transport/
 variant: tiptap
 description: ""
 ---
-<h1>Getting to Lights by the Lake by Public Transport</h1>
-<p>In conjunction with World Car-Free Day, we encourage eventgoers to walk,
-cycle, or hop on public transport to explore Jurong Lake Gardens to promote
-a greener and healthier lifestyle.</p>
-<h3><strong>Nearest MRT Stations</strong></h3>
+<h3><strong>Getting to Lights by the Lake by Public Transport</strong></h3>
+<p>Walk, cycle, or hop on public transport to Jurong Lake Gardens!</p>
+<h4><strong>Nearest MRT Stations</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Lakeside MRT (EW26)</summary>
@@ -23,7 +21,7 @@ a greener and healthier lifestyle.</p>
 </ul>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="962" width="1912" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ja8JB2vCY80"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="962" width="1912" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ja8JB2vCY80"></iframe>
 </div>
 </div>
 </details>
@@ -54,7 +52,7 @@ a greener and healthier lifestyle.</p>
 </div>
 </details>
 </div>
-<h3><strong>Nearest Bus Stops</strong></h3>
+<h4><strong>Nearest Bus Stops</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Along Yuan Ching Road</summary>
