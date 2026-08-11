@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/LBTL_F_B.jpg">
 </div>
-<h4><strong>Food Market </strong></h4>
+<h4><strong>Food Market</strong></h4>
 <p>📅 19 September – 27 September 2026</p>
 <p>📍Lakeside Field, Lakeside Garden</p>
 <p>⏰6:30pm – 11pm daily</p>
