@@ -9,6 +9,19 @@ links:
         url: /light-shows
   - title: Programmes
     url: /programmes-overview/
+    sublinks:
+      - title: Lakeside Field Programmes
+        url: /lakeside-field-programmes/
+      - title: Chinese Garden Programmes
+        url: /chinese-garden-programmes/
+      - title: Wave Plaza Programmes
+        url: /wave-plaza-programmes/
+      - title: Japanese Garden Programmes
+        url: /japanese-garden-programmes/
+      - title: Tours
+        url: /tours/
+      - title: Exhibitions
+        url: /exhibitions/
   - title: Getting here
     collection: getting-to-lights-by-the-lake
   - title: Advisories
