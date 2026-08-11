@@ -1,4 +1,5 @@
 collections:
   tours:
     output: true
-    order: []
+    order:
+      - Tours.md
