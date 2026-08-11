@@ -1,4 +1,5 @@
 collections:
   chinese-garden-programmes:
     output: true
-    order: []
+    order:
+      - Chinese Garden Programmes.md
