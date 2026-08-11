@@ -1,0 +1,4 @@
+collections:
+  lantern-displays-light-shows:
+    output: true
+    order: []
