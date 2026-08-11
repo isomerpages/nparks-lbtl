@@ -1,4 +1,5 @@
 collections:
   food-and-beverage-promotions:
     output: true
-    order: []
+    order:
+      - F&B Promotions.md
