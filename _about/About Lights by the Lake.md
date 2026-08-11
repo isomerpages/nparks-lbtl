@@ -5,18 +5,17 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/LBTL_2026_KV_ppt.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Visuals/lbtl_2026_web_banner.jpg">
 </div>
 <h3><strong>LIGHTS BY THE LAKE</strong></h3>
 <p>A signature annual event at Jurong Lake Gardens, Lights by the Lake presents
 a captivating gala of lights, music, and cultural delights in celebration
 of the Mid-Autumn Festival.</p>
 <p>Be awed by the larger-than-life lantern displays (19 Sep to 4 Oct), cultural
-showcases and music performances, and more in this extraordinary celebration
-of culture, art, and community under the autumn moon!</p>
+showcases, music performances, tours, exhibitions, family-friendly activities
+and more in this extraordinary celebration of culture, art, and community
+under the autumn moon!</p>
 <p>Lights by the Lake is organised by National Parks Board.</p>
-<p><em>Stay tuned for more on 2026's edition.</em>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
 </div>
