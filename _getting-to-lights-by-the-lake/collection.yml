@@ -2,4 +2,5 @@ collections:
   getting-to-lights-by-the-lake:
     output: true
     order:
+      - By Private Transport.md
       - By Public Transport.md
