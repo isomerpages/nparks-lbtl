@@ -16,7 +16,7 @@ Edibles Garden and discover the fascinating world of fruits and vegetables
 <h4><strong>Night Dragonboat Tours</strong></h4>
 <p>📅 19, 26 September 2026 (Saturdays)</p>
 <p>📍PAssionWave, Lakeside Garden</p>
-<p>⏰7pm – 8pm, 8pm – 9pm, 9pm –10pm (three sessions)</p>
+<p>⏰7pm – 8pm, 8pm – 9pm, 9pm – 10pm (3 sessions)</p>
 <p>🔗 Registration required – opening soon</p>
 <p>See Jurong Lake Gardens like never before! For the first time ever, hop
 aboard a dragon boat and glide across the lake for a unique water's-eye
