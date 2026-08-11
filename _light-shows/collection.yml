@@ -1,4 +1,5 @@
 collections:
   light-shows:
     output: true
-    order: []
+    order:
+      - Light Shows.md
