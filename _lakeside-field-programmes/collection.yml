@@ -1,4 +1,5 @@
 collections:
   lakeside-field-programmes:
     output: true
-    order: []
+    order:
+      - Lakeside Field Programmes.md
