@@ -1,4 +1,5 @@
 collections:
   lantern-displays:
     output: true
-    order: []
+    order:
+      - Lantern Displays.md
