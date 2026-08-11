@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Key Visuals/LBTL_2026_Web_Banner.png
+      background: /images/Key Visuals/lbtl_2026_web_banner.jpg
       button: MORE ABOUT LIGHTS BY THE LAKE
       url: /about/
       variant: center
