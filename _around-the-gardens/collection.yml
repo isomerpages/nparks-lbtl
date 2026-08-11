@@ -1,4 +1,5 @@
 collections:
   around-the-gardens:
     output: true
-    order: []
+    order:
+      - Around the Gardens.md
