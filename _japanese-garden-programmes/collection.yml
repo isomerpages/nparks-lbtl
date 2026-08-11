@@ -1,4 +1,5 @@
 collections:
   japanese-garden-programmes:
     output: true
-    order: []
+    order:
+      - Japanese Garden Programmes.md
