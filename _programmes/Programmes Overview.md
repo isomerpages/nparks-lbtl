@@ -17,10 +17,12 @@ Lights by the Lake 2026!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<h4><strong><a href="/lakeside-field-programmes/" rel="noopener nofollow" target="_blank">Lakeside Field Programmes</a></strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/LBTL_F_B.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -43,5 +45,6 @@ Lights by the Lake 2026!</p>
 </table>
 <p><em>Please note that all activities, unless otherwise stated, are rain or shine.</em>
 </p>
+<p></p>
 <p></p>
 <p></p>
