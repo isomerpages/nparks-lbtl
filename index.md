@@ -11,4 +11,13 @@ sections:
       button: MORE ABOUT LIGHTS BY THE LAKE
       url: /about/
       variant: center
+  - infopic:
+      title: Lantern Displays
+      id: infopic
+      description: Walk amongst glowing scenes of the treasured Chinese tale, Legend
+        of the White Snake, and other Mid-Autumn legends.
+      button: READ MORE
+      url: /lantern-displays
+      image: /images/Lanterns/Chang_e_and_the_Moonlit_Garden_______.jpg
+      alt: Chang'e lantern at Stoneboat
 ---
