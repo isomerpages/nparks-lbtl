@@ -4,6 +4,7 @@ permalink: /lakeside-field-programmes/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <h4><strong>Food Market</strong></h4>
 <p>📅 19 September – 27 September 2026</p>
 <p>📍Lakeside Field, Lakeside Garden</p>
