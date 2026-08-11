@@ -98,9 +98,21 @@ Over here, the Jade Rabbit and its friends have come together to spread
 cheer, hoping to bring joy, luck, abundance, and peace to everyone.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Cloud Pagoda - The Legend of the White Snake (白蛇传)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The enduring tale of Bai Suzhen, Xu Xian, Xiao Qing, and Fa Hai has touched
+countless hearts with its themes of love, sacrifice, and redemption. In
+this reimagined story ending, the four characters are reunited before the
+pagoda, setting aside past grievances to embrace forgiveness and harmony.
+Their reunion symbolises that openness and love can surpass any challenge,
+allowing all to enjoy hope and peace.</p>
+</div>
+</details>
 </div>
 <h4><strong>📍Floral Garden &amp; Resthouse Pond, Japanese Garden</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Floral Garden - Kaguya's Moon Garden</strong>
 </summary>
@@ -109,6 +121,17 @@ cheer, hoping to bring joy, luck, abundance, and peace to everyone.</p>
 and tranquility. Inspired by Japanese folktale, she is surrounded by blooming
 flowers, playful rabbits, and drifting clouds, creating a dreamlike scene
 that celebrates beauty, peace, and the magic of moonlit nights.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Resthouse Pond - Waters of Abundance (锦鲤送福)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Beneath the glow of floating lanterns, colourful koi glide through shimmering
+waters in a graceful dance of light and movement. Admired for their beauty,
+resilience, and calm strength, the koi symbolise prosperity, harmony, and
+the continuous flow of good fortune. This tranquil scene invites you to
+pause, reflect, and embrace the promise of brighter days ahead.</p>
 </div>
 </details>
 </div>
