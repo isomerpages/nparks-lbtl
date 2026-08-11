@@ -18,7 +18,7 @@ sections:
         of the White Snake, and other Mid-Autumn legends.
       button: READ MORE
       url: /lantern-displays
-      image: /images/Lanterns/Chang_e_and_the_Moonlit_Garden_______.jpg
+      image: /images/Lanterns/Image_MAF__2019_.jpg
       alt: Chang'e lantern at Stoneboat
   - infopic:
       title: Light Shows
