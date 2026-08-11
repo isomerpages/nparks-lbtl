@@ -4,15 +4,15 @@ permalink: /by-private-transport/
 variant: tiptap
 description: ""
 ---
-<h1>Getting to Lights by the Lake<strong> </strong>by <strong>Private Transport</strong></h1>
-<h3><strong>⚠️ Notice</strong></h3>
-<h4>Temporary diversions will be in effect during Lights by the Lake.</h4>
-<p>Please refer to the traffic advisory poster <a href="/files/LBTL Traffic Management/LBTL_2025_Traffic_Advisory_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more details.</p>
+<h3><strong>Getting to Lights by the Lake by Private Transport</strong></h3>
 <p></p>
-<hr>
+<blockquote>
+<h4><strong>⚠️ Temporary diversions will be in effect during Lights by the Lake.</strong></h4>
+</blockquote>
+<p>More details will be made available soon.</p>
+<p></p>
 <h3>🅿️ <strong>Parking</strong></h3>
-<h4>Carparks in Jurong Lake Gardens</h4>
+<h4><strong>Jurong Lake Gardens</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>North Carpark</summary>
@@ -20,7 +20,7 @@ more details.</p>
 <h3><strong>North Carpark</strong></h3>
 <h4><strong>📍</strong>104 Yuan Ching Rd, Singapore 618665</h4>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1168.572777268844!2d103.72388665566321!3d1.3392625689550774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0f005063dc43%3A0x1fab928ffc8d911e!2sNorth%20Carpark!5e1!3m2!1sen!2ssg!4v1754472304966!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1168.572777268844!2d103.72388665566321!3d1.3392625689550774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0f005063dc43%3A0x1fab928ffc8d911e!2sNorth%20Carpark!5e1!3m2!1sen!2ssg!4v1754472304966!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
 <h4><strong>Pick-up and Drop-off Point at North Carpark</strong></h4>
@@ -66,7 +66,7 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 <h3><strong>South Carpark</strong></h3>
 <h4><strong>📍 </strong>50 Yuan Ching Rd, Singapore 618661</h4>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1994.3702737450085!2d103.72589450508943!3d1.331786067506568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fac25608e2d%3A0x2967c06a2a23b3c1!2sSouth%20Carpark!5e0!3m2!1sen!2ssg!4v1754472751407!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1994.3702737450085!2d103.72589450508943!3d1.331786067506568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fac25608e2d%3A0x2967c06a2a23b3c1!2sSouth%20Carpark!5e0!3m2!1sen!2ssg!4v1754472751407!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
 <h4><strong>Carpark Details</strong></h4>
@@ -163,11 +163,11 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </div>
 </details>
 </div>
-<p><em>Entry to the carparks will not be allowed once they are full. Please follow the instructions of our personnel onsite</em>
+<p><em>Entry to the carparks will not be allowed once they are full. Please follow the instructions of our onsite personnel.</em>
 </p>
-<h4>Science Centre Singapore</h4>
+<h4><strong>Science Centre Singapore</strong></h4>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7385701245125!2d103.73438897567901!3d1.3330072616282687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da10046a7a1a7d%3A0x7f4ac5dbfff1dd2e!2sScience%20Centre%20Carpark!5e0!3m2!1sen!2ssg!4v1757852985978!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7385701245125!2d103.73438897567901!3d1.3330072616282687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da10046a7a1a7d%3A0x7f4ac5dbfff1dd2e!2sScience%20Centre%20Carpark!5e0!3m2!1sen!2ssg!4v1757852985978!5m2!1sen!2ssg"></iframe>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -255,7 +255,7 @@ hotline number to contact for support.</p>
 </div>
 </details>
 </div>
-<h4>Nearby HDB Multi-Storey Carparks</h4>
+<h4><strong>Nearby HDB Multi-Storey Carparks</strong></h4>
 <p>In the event both North and South Carparks are full, you may park at the
 following HDB multi-storey carparks:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -263,7 +263,7 @@ following HDB multi-storey carparks:</p>
 <summary>Blk 331A Kang Ching Rd</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.59116153320184!2d103.7228155947807!3d1.3387222685523514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0f007275e195%3A0x2842b06ff7145581!2sBlk%20331A%20Kang%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853476767!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.59116153320184!2d103.7228155947807!3d1.3387222685523514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0f007275e195%3A0x2842b06ff7145581!2sBlk%20331A%20Kang%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853476767!5m2!1sen!2ssg"></iframe>
 </div>
 </div>
 </details>
@@ -271,7 +271,7 @@ following HDB multi-storey carparks:</p>
 <summary>Blk 337 Kang Ching Rd</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.59121660387353!2d103.72253262172963!3d1.3384514393703735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fe4851bceaf%3A0xac61d3dc9d0a0ef6!2sBlk%20337%20Kang%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853521705!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.59121660387353!2d103.72253262172963!3d1.3384514393703735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fe4851bceaf%3A0xac61d3dc9d0a0ef6!2sBlk%20337%20Kang%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853521705!5m2!1sen!2ssg"></iframe>
 </div>
 </div>
 </details>
@@ -279,7 +279,7 @@ following HDB multi-storey carparks:</p>
 <summary>Blk 328A Tah Ching Rd</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.1828603558139!2d103.72261965874083!3d1.3374005960903141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fe35997ab8f%3A0xc7479a22d8f04945!2sBlk%20328A%20Tah%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853583047!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.1828603558139!2d103.72261965874083!3d1.3374005960903141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fe35997ab8f%3A0xc7479a22d8f04945!2sBlk%20328A%20Tah%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853583047!5m2!1sen!2ssg"></iframe>
 </div>
 </div>
 </details>
@@ -287,13 +287,10 @@ following HDB multi-storey carparks:</p>
 <summary>Blk 115A Ho Ching Rd</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5923355625183!2d103.72554319454258!3d1.3329366552681294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0ffc67511257%3A0x36ff46e57f474d78!2sBlk%20115A%20Ho%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853722598!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5923355625183!2d103.72554319454258!3d1.3329366552681294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0ffc67511257%3A0x36ff46e57f474d78!2sBlk%20115A%20Ho%20Ching%20Rd!5e0!3m2!1sen!2ssg!4v1757853722598!5m2!1sen!2ssg"></iframe>
 </div>
 </div>
 </details>
 </div>
 <p></p>
-<p></p>
-<p><sup>Last updated: 15 Sep 2025</sup>
-</p>
 <p></p>

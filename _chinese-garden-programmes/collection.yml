@@ -1,0 +1,5 @@
+collections:
+  chinese-garden-programmes:
+    output: true
+    order:
+      - Chinese Garden Programmes.md

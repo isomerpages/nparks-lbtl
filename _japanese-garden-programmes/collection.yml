@@ -1,0 +1,5 @@
+collections:
+  japanese-garden-programmes:
+    output: true
+    order:
+      - Japanese Garden Programmes.md

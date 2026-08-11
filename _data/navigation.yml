@@ -1,2 +1,30 @@
-logo: /images/Partners & Logos/NParks_JLG_logos_2.png
-links: []
+logo: /images/Partners & Logos/JLG_Secondary_Logo.png
+links:
+  - title: Lantern Displays & Light Shows
+    url: /lantern-displays/
+    sublinks:
+      - title: Lantern Displays
+        url: /lantern-displays
+      - title: Light Shows
+        url: /light-shows
+  - title: Programmes
+    url: /programmes-overview/
+    sublinks:
+      - title: Lakeside Field Programmes
+        url: /lakeside-field-programmes/
+      - title: Chinese Garden Programmes
+        url: /chinese-garden-programmes/
+      - title: Wave Plaza Programmes
+        url: /wave-plaza-programmes/
+      - title: Japanese Garden Programmes
+        url: /japanese-garden-programmes/
+      - title: Tours
+        url: /tours/
+      - title: Exhibitions
+        url: /exhibitions/
+  - title: Getting here
+    collection: getting-to-lights-by-the-lake
+  - title: Advisories
+    url: /advisories
+  - title: F&B
+    url: /food-and-drink

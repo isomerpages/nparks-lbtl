@@ -1,0 +1,6 @@
+collections:
+  lantern-displays-light-shows:
+    output: true
+    order:
+      - Lantern Displays.md
+      - Light Shows.md
