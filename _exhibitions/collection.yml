@@ -1,4 +1,5 @@
 collections:
   exhibitions:
     output: true
-    order: []
+    order:
+      - Exhibitions.md
