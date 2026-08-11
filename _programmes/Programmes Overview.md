@@ -27,10 +27,13 @@ Lights by the Lake 2026!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><strong><a href="/chinese-garden-programmes/" rel="noopener nofollow" target="_blank">Chinese Garden Programmes</a></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Rockestra/NParks_Rockestra.jpg">
+</div>
 </td>
 </tr>
 <tr>
