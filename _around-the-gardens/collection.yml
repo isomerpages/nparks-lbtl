@@ -1,0 +1,4 @@
+collections:
+  around-the-gardens:
+    output: true
+    order: []
