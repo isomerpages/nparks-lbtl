@@ -13,3 +13,7 @@ links:
     collection: chinese-garden-programmes
   - title: Wave Plaza Programmes
     collection: wave-plaza-programmes
+  - title: Tours
+    url: /tours
+  - title: Japanese Garden Programmes
+    collection: japanese-garden-programmes
