@@ -1,5 +1,5 @@
 collections:
-  food-and-beverage-options:
+  food-and-drink:
     output: true
     order:
       - Food & Drink.md
