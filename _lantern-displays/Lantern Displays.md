@@ -4,7 +4,7 @@ permalink: /lantern-displays/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Lantern Displays</strong></h4>
+<h3><strong>Lantern Displays</strong></h3>
 <p>📅 19 September – 4 October 2026</p>
 <p>📍Lakeside Field, Lakeside Garden | Cloud Pagoda &amp; Cleansing Biotope
 Ponds, Chinese Garden | Floral Garden &amp; Resthouse Pond, Japanese Garden</p>
