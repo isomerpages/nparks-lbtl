@@ -35,7 +35,7 @@ sections:
       description: So many things to do at Lights by the Lake! Be spoilt for choice at
         the wide range of programmes available for everyone.
       button: READ MORE
-      url: programmes-overview
+      url: /programmes-overview
       alt: Rockestra concert
       image: /images/Rockestra/NParks_Rockestra.jpg
 ---
