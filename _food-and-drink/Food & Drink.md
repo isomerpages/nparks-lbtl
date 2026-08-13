@@ -66,3 +66,15 @@ main dishes and a dessert at just S$59 (U.P. S$68).</p>
 <p>Cool down after a night of lantern-gazing! Buy any 2 large drinks and
 get a free ice cream cone — choose from Original or Matcha. Limited redemptions
 daily (while stocks last)!</p>
+<h4><strong>Starbucks</strong></h4>
+<p><strong>Joyous celebrations with family and friends over Starbucks Assorted Mooncakes.</strong>
+<br>Lotus Paste with Egg Yolk I Osmanthus Oolong I Oolong Yuzu I Pandan Osmanthus
+I Black Sesame Egg Yolk I Caramel Coffee Macadamia</p>
+<p><strong>Single:</strong> $6.90
+<br><strong>Gift Box:</strong> $69.90<em> (8pcs per box)</em>
+</p>
+<p><u>STARBUCKS® REWARDS MEMBER EXCUSIVE:</u>
+<br>Enjoy 120 BONUS STARS when you purchase 2 Mooncake Gift Boxes. Get additional
+60 BONUS STARS per box from 3<sup>rd</sup> box and more.
+<br><em>While stocks last. T&amp;Cs apply.</em>
+</p>
