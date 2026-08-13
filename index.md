@@ -27,15 +27,15 @@ sections:
         Cloud Pagoda come alive with a stunning multicoloured light display!
       button: READ MORE
       url: /light-shows
-      image: /images/Activities/Light Shows/Cloud_pagoda_lights.jpg
-      alt: Image alt text
+      image: /images/Activities/1__Kellin_Yee.jpg
+      alt: Photo Credit Kellin Yee
   - infopic:
       title: Programmes
       id: infopic
       description: So many things to do at Lights by the Lake! Be spoilt for choice at
         the wide range of programmes available for everyone.
       button: READ MORE
-      url: /programme-overview
+      url: /programmes-overview
       alt: Rockestra concert
       image: /images/Rockestra/NParks_Rockestra.jpg
 ---
