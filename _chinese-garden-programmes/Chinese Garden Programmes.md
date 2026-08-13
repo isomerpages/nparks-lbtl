@@ -7,19 +7,10 @@ description: ""
 <h4><strong>LED Lion Dances</strong></h4>
 <p>📅 20 and 27 September 2026 (Sundays)</p>
 <p>📍Grand Arch, Chinese Garden</p>
-<p>⏰ TBC</p>
+<p>⏰ 7:45pm and 8:45pm (Two Sessions)</p>
 <p>Feel the beat, feel the energy! Our dazzling LED lion dance lights up
 the night in a spectacular burst of colour and rhythm, bringing good fortune
 and great vibes to the whole family.&nbsp;</p>
-<h4><strong>Buskers</strong></h4>
-<p>📅 TBC</p>
-<p>📍Pagoda Plaza and Stoneboat, Chinese Garden</p>
-<p>⏰ TBC</p>
-<p>As you wander through the beautiful surrounds of Pagoda Plaza and Stoneboat,
-let the music find you! Our buskers bring a warm, lively soundtrack to
-your evening, filling the air with unexpected moments of joy against the
-backdrop of some of the Chinese Garden's most iconic landmarks. Stop, listen,
-and let yourself be surprised.&nbsp;</p>
 <h4><strong>Programmes by Sun Yat Sen Nanyang Memorial Hall</strong></h4>
 <p>📅 19, 20, 26, 27 September 2026 (Weekends)</p>
 <p>📍Bonsai Garden, Chinese Garden</p>
@@ -107,12 +98,28 @@ gentle moments in a memory-laced bakery, their story moves between ache
 and laughter. Also Andie Chen's directorial debut, written by his wife
 Kate Pang.</p>
 <p>&nbsp;</p>
-<h4><strong>Singapore Chinese Orchestra Concert</strong></h4>
+<h4><strong>Music Oasis by Singapore Chinese Orchestra</strong></h4>
+<h3><strong>绿荫乐鸣系列音乐会@裕廊湖花园</strong></h3>
 <p>📅 26 September 2026</p>
-<p>📍Ficus Lawn, Chinese&nbsp; Garden</p>
+<p>📍Ficus Lawn, Chinese&nbsp;Garden</p>
 <p>⏰ TBC</p>
-<p>More information will be made available soon.</p>
-<p>&nbsp;</p>
+<p>This September, the Singapore Chinese Orchestra returns to Jurong Lake
+Gardens for Music Oasis, celebrating the Mid-Autumn Festival in a picturesque
+lakeside setting.</p>
+<p>Under the baton of associate conductor Lien Boon Hua and in collaboration
+with Mediacorp, SCO presents a special evening featuring beloved local
+artistes Bonnie Loo, Gao Mei Gui and Desmond Ng. Together with the orchestra,
+they will perform familiar favourites including<em> Restart, Brewing Tea Under the Moon, Grandma's Words</em>,
+alongside a selection of Chinese orchestral classics and festive repertoire
+that captures the warmth, nostalgia and joy of the season. Audiences can
+also look forward to the world premiere of a new work by Singaporean composer
+Germaine Goh, inspired by the timeless charm of the Chinese Garden.</p>
+<p>Bring along your picnic mat or foldable chair, gather your family and
+friends, and settle in on the lush green lawns for a memorable evening
+under the moonlight. Surrounded by nature and beautiful lakeside views,
+experience an enchanting celebration where music, culture and community
+come together.</p>
+<p></p>
 <h4><strong>Film Screening</strong></h4>
 <p>📅 27 September 2026</p>
 <p>📍Ficus Lawn, Chinese&nbsp; Garden</p>
