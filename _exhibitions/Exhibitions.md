@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Don't Play Play — The Games That Shape Us by National Heritage Board</strong></h4>
-<p>📅 TBC</p>
+<p>📅 14 – 27 September 2026</p>
 <p>📍Resthouse, Japanese Garden</p>
-<p>⏰ All Day</p>
+<p>⏰ All Day (Stamp Activity only available from 19 Sep, 7pm – 10pm)</p>
 <p>Remember Snakes &amp; Ladders at the void deck? Aeroplane Chess on a lazy
 afternoon? Board games are more than just a pastime — they are part of
 a shared collective memory of growing up in Singapore, bringing people
