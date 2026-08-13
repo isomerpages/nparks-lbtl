@@ -1,0 +1,5 @@
+collections:
+  advisories:
+    output: true
+    order:
+      - Advisories.md

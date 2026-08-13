@@ -21,42 +21,38 @@ to light up your evening stroll. Whether you're in the mood for a full
 meal, a quick snack, or a bit of festive shopping, the food market has
 it all.</p>
 <h4><strong>Other F&amp;B options in Jurong Lake Gardens</strong></h4>
-<p><strong>Lakeside Garden</strong>
+<p>📍<strong>Lakeside Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/starbucks/" rel="noopener nofollow" target="_blank">Starbucks (near Lakeside Plaza)</a>
-</p>
+<p>Starbucks (near Lakeside Plaza)</p>
 </li>
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/fusion-spoon/" rel="noopener nofollow" target="_blank">Fusion Spoon (near Eco Pond)</a>
-</p>
+<p>Fusion Spoon (near Eco Pond)</p>
 </li>
 </ul>
-<p><strong>Chinese Garden</strong>
+<p>📍<strong>Chinese Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/canopy/" rel="noopener nofollow" target="_blank">Canopy (Grand Arch)</a>
-</p>
+<p>Canopy (Grand Arch)</p>
 </li>
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/eden/" rel="noopener nofollow" target="_blank">Eden (Pagoda Plaza)</a>
-</p>
+<p>Eden (Pagoda Plaza)</p>
 </li>
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/bingxue/" rel="noopener nofollow" target="_blank">BingXue (Bonsai Garden)</a>
-</p>
+<p>BingXue (Bonsai Garden)</p>
 </li>
 </ul>
-<p><strong>Japanese Garden</strong>
+<p>📍<strong>Japanese Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/ice-cream-man-and-friends/" rel="noopener nofollow" target="_blank">Ice Cream Man and Friends (Sunken Garden)</a>
-</p>
+<p>Ice Cream Man and Friends (Sunken Garden)</p>
 </li>
 </ul>
+<p>Click <a href="https://juronglakegardens.nparks.gov.sg/dining/" rel="noopener nofollow" target="_blank">here</a> for
+more information on dining options within the Gardens.</p>
 <p>&nbsp;</p>
 <h4><strong>Bouncy Castles and Games by Families for Life</strong></h4>
 <p>📅 19, 20, 26, 27 September 2026 (Weekends)</p>

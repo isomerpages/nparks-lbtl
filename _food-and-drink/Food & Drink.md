@@ -25,39 +25,34 @@ it all.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/starbucks/" rel="noopener nofollow" target="_blank">Starbucks (near Lakeside Plaza)</a>
-</p>
+<p>Starbucks (near Lakeside Plaza)</p>
 </li>
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/fusion-spoon/" rel="noopener nofollow" target="_blank">Fusion Spoon (near Eco Pond)</a>
-</p>
+<p>Fusion Spoon (near Eco Pond)</p>
 </li>
 </ul>
 <p>📍<strong>Chinese Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/canopy/" rel="noopener nofollow" target="_blank">Canopy (Grand Arch)</a>
-</p>
+<p>Canopy (Grand Arch)</p>
 </li>
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/eden/" rel="noopener nofollow" target="_blank">Eden (Pagoda Plaza)</a>
-</p>
+<p>Eden (Pagoda Plaza)</p>
 </li>
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/bingxue/" rel="noopener nofollow" target="_blank">BingXue (Bonsai Garden)</a>
-</p>
+<p>BingXue (Bonsai Garden)</p>
 </li>
 </ul>
 <p>📍<strong>Japanese Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://juronglakegardens.nparks.gov.sg/ice-cream-man-and-friends/" rel="noopener nofollow" target="_blank">Ice Cream Man and Friends (Sunken Garden)</a>
-</p>
+<p>Ice Cream Man and Friends (Sunken Garden)</p>
 </li>
 </ul>
-<p></p>
+<p>Click <a href="https://juronglakegardens.nparks.gov.sg/dining/" rel="noopener nofollow" target="_blank">here</a> for
+more information on dining options within the Gardens.</p>
 <h4><strong>F&amp;B promotions</strong></h4>
 <h4><strong>Eden</strong></h4>
 <p>📅1 September 2026 – 30 September 2026</p>

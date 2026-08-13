@@ -22,9 +22,9 @@ links:
         url: /tours/
       - title: Exhibitions
         url: /exhibitions/
+  - title: F&B
+    url: /food-and-drink
   - title: Getting here
     collection: getting-to-lights-by-the-lake
   - title: Advisories
-    url: /advisories
-  - title: F&B
-    url: /food-and-drink
+    url: /advisories/
