@@ -61,10 +61,10 @@ authors and veteran storytellers bring you on a literary adventure.
 <hr>
 <h3><strong>Ficus Lawn Stage Programmes</strong></h3>
 <h4><strong>NParks Concert Series in the Park: Rockestra®</strong></h4>
-<p>📅 19 September 2026</p>
-<p>📍Ficus Lawn, Chinese&nbsp; Garden</p>
-<p>⏰ 6:30pm onwards</p>
-<p>🎫 Free admission</p>
+<p>📅 19 September 2026
+<br>📍Ficus Lawn, Chinese&nbsp; Garden
+<br>⏰ 6:30pm onwards
+<br>🎫 Free admission</p>
 <p>NParks Concert Series in the Park: Rockestra® is back — and this year,
 we're bringing the music to the glow of Jurong Lake Gardens on 19 September.</p>
 <p>An unforgettable night of Mandopop and English hits through the decades,
@@ -72,9 +72,9 @@ set against the magic of Mid-Autumn. Artist reveals coming soon — watch
 this space!</p>
 <p>&nbsp;</p>
 <h4><strong>DementiaSG Talk and Short Films Screening</strong></h4>
-<p>📅 20 September 2026</p>
-<p>📍Ficus Lawn, Chinese&nbsp; Garden</p>
-<p>⏰ 7:30pm – 10:30pm</p>
+<p>📅 20 September 2026
+<br>📍Ficus Lawn, Chinese&nbsp; Garden
+<br>⏰ 7:30pm – 10:30pm</p>
 <p>On the eve of World Alzheimer's Day, the evening begins with a short sharing
 on dementia by Bernard Lim, Director of Advocacy &amp; Communications,
 before we roll five films that together run approximately 100 minutes.</p>
@@ -121,9 +121,9 @@ Kate Pang.</p>
 <p>&nbsp;</p>
 <h4><strong>Music Oasis by Singapore Chinese Orchestra</strong></h4>
 <h3><strong>绿荫乐鸣系列音乐会@裕廊湖花园</strong></h3>
-<p>📅 26 September 2026</p>
-<p>📍Ficus Lawn, Chinese&nbsp;Garden</p>
-<p>⏰ TBC</p>
+<p>📅 26 September 2026
+<br>📍Ficus Lawn, Chinese&nbsp;Garden
+<br>⏰ 6:30pm – 7:30pm</p>
 <p>This September, the Singapore Chinese Orchestra returns to Jurong Lake
 Gardens for Music Oasis, celebrating the Mid-Autumn Festival in a picturesque
 lakeside setting.</p>
@@ -142,7 +142,7 @@ experience an enchanting celebration where music, culture and community
 come together.</p>
 <p></p>
 <h4><strong>Film Screening</strong></h4>
-<p>📅 27 September 2026</p>
-<p>📍Ficus Lawn, Chinese&nbsp; Garden</p>
-<p>⏰ TBC</p>
+<p>📅 26 and 27 September 2026</p>
+<p>📍Ficus Lawn, Chinese&nbsp;Garden</p>
+<p>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
 <p>More information will be made available soon.</p>
