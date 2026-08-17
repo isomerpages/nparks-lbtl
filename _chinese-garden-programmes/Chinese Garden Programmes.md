@@ -5,38 +5,59 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>LED Lion Dances</strong></h4>
-<p>📅 20 and 27 September 2026 (Sundays)</p>
-<p>📍Grand Arch, Chinese Garden</p>
-<p>⏰ 7:45pm and 8:45pm (Two Sessions)</p>
+<p>📅 20 and 27 September 2026 (Sundays)
+<br>📍Grand Arch, Chinese Garden
+<br>⏰ 7:45pm and 8:45pm (Two Sessions)</p>
 <p>Feel the beat, feel the energy! Our dazzling LED lion dance lights up
 the night in a spectacular burst of colour and rhythm, bringing good fortune
 and great vibes to the whole family.&nbsp;</p>
-<h4><strong>Programmes by Sun Yat Sen Nanyang Memorial Hall</strong></h4>
-<p>📅 19, 20, 26, 27 September 2026 (Weekends)</p>
-<p>📍Bonsai Garden, Chinese Garden</p>
-<p>⏰ TBC</p>
-<p>Make your way to the Bonsai Garden and take your time to soak it all in
-— did you know it's the largest Suzhou style bonsai garden outside of China?
-While you're here, there's plenty to keep the whole family busy!</p>
-<p>Test your wits at our <strong>mini games</strong> — match old photographs
-of iconic Chinese Garden spots to their correct names, sort the elements
-that make up a Chinese Garden, or try your hand at mooncake riddles. Get
-it right and win a prize!</p>
-<p>Feeling creative? Drop in to <strong>make your very own lantern</strong> to
-carry around the gardens, or pick up a FREE activity booklet featuring
-Uncle Ting and discover the legends and customs of the Mid-Autumn Festival
-through fun activities. Limited copies available daily, so grab yours early!</p>
-<p>And if you'd like to dress the part, visit the <strong>Hanfu Rental Booth</strong> to
-get styled in beautiful traditional Chinese attire — perfect for a festive
-photo to remember the night by.&nbsp;</p>
+<h4><strong>Wan Qing Mid-Autumn Festival by Sun Yat Sen Nanyang Memorial Hall</strong></h4>
+<p>📅 19, 20, 25, 26, 27 September 2026
+<br>📍Bonsai Garden, Chinese Garden
+<br>⏰ 6:30pm – 9:30pm</p>
+<p>Come together for a host of fun and exciting activities celebrating Chinese
+arts, culture and heritage at Wan Qing Mid-Autumn Festival 2026 @ Chinese
+Garden!</p>
+<p>Visitors can enjoy a vibrant variety of hands-on activities at the Bonsai
+Garden, including lantern making, hanfu dress-up and photography, heritage
+discovery games, multi-layered stamp printing and more! With experiences
+for all ages, the festival invites everyone to immerse themselves in the
+rich traditions of Mid-Autumn through interactive, family-friendly experiences.</p>
+<p><strong>Lantern Making<br></strong>Time: 6.30pm – 9.30pm, admission every
+30 minutes, last admission at 9pm
+<br>With over 2,000 years of history and rich significance in Chinese festivities,
+lanterns were used to illuminate celebrations and signify new beginnings.
+Make your glowing lanterns at our craft station and enjoy a magical night-time
+stroll around Chinese Garden this Mid-Autumn Festival.</p>
+<p><strong>Hanfu Dress-up &amp; Photo Experience<br></strong><em>(Supported by Murong Hanfu)</em><strong><br></strong>Step
+into the elegance of traditional hanfu at the Bonsai Garden, pose for a
+complimentary photo, and take home a printed keepsake to commemorate your
+visit to the Chinese Garden.</p>
+<p><strong>Heritage Discovery Game Stations<br></strong>Embark on a fun-filled
+journey through the Bonsai Garden with our Heritage Discovery Game Stations.
+With three hands-on games, you'll discover the beauty of Chinese garden
+design, the history of our Chinese Garden, and the cultural stories behind
+mooncakes from different Chinese dialect groups. Perfect for visitors of
+all ages!</p>
+<p><strong>Multi-layered Stamp Printing Fun <br></strong>Drop by our activity
+station and have fun with multi-layered stamp printing! Create and take
+home a multi-layered stamp print postcard featuring a scene from the timeless
+Legend of Madame White Snake or the iconic building of Wan Qing Yuan.</p>
+<p><strong>Let’s Celebrate with Uncle Ting: Mid-Autumn Festival</strong>
+<br>Kids, pick up a free activity booklet to discover more about the Mid-Autumn
+Festival! Join Uncle Ting to learn more about the legend of Chang’e and
+popular customs associated with this festival through a series of fun activities,
+including lantern making! Activity booklets are given out one per child
+on a first-come, first-served basis, while stocks last.</p>
 <h4><strong>Storytelling Sessions</strong></h4>
-<p>📅 19, 20, 26, 27 September 2026 (Weekends)</p>
-<p>📍Tea Pavilion, Chinese Garden</p>
-<p>⏰ TBC</p>
-<p>Be swept away by enthralling tales as local authors and veteran storytellers
-bring the legends and myths behind well-loved Chinese festivals to life
-in a magical literary adventure. Settle in at the Tea Pavilion for an enchanting
-evening the whole family will love.</p>
+<p>📅 20 and 27 September 2026 (Sundays)
+<br>📍Tea Pavilion, Chinese Garden
+<br>⏰ 6:45pm and 7:30pm (Two Sessions)</p>
+<p>Be swept away by enthralling tales in our popular storytelling sessions!
+Discover the legends and myths behind well-loved Chinese festivals as local
+authors and veteran storytellers bring you on a literary adventure.
+<br><em>(Supported by Speak Good English Movement and Speak Mandarin Campaign)</em>
+</p>
 <hr>
 <h3><strong>Ficus Lawn Stage Programmes</strong></h3>
 <h4><strong>NParks Concert Series in the Park: Rockestra®</strong></h4>
