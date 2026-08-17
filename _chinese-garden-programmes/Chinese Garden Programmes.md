@@ -142,7 +142,7 @@ experience an enchanting celebration where music, culture and community
 come together.</p>
 <p></p>
 <h4><strong>Film Screening</strong></h4>
-<p>📅 26 and 27 September 2026</p>
-<p>📍Ficus Lawn, Chinese&nbsp;Garden</p>
-<p>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
+<p>📅 26 and 27 September 2026
+<br>📍Ficus Lawn, Chinese&nbsp;Garden
+<br>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
 <p>More information will be made available soon.</p>
