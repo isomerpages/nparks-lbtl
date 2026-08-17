@@ -4,13 +4,13 @@ permalink: /around-the-gardens/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Sun Yat Sen Nanyang Memorial Hall Stamp Rally</strong></h4>
-<p>📅 19 September – 4 October 2026</p>
-<p>📍Multiple Locations across Chinese Garden</p>
-<p>⏰ All Day</p>
-<p>Join Xiao Qing, Wan Qing Yuan's beloved mascot, on an urgent mission —
-she needs to find Xu Xian and Bai Su Zhen somewhere in the Chinese Garden
-to deliver a very important present! Collect stamps across 5 locations
-throughout the gardens, in any order you like, and watch as each stamp
-reveals a scene from the story — completing into a full comic page when
-you're done! Complete the rally and walk away with a present of your own!</p>
+<h4><strong>Xiao Qing's Special Delivery: Chinese Garden Stamp Rally</strong></h4>
+<p>📅 19 September – 4 October 2026
+<br>📍Various Landmarks in Chinese Garden
+<br>⏰ All Day</p>
+<p>Join Xiao Qing on a stamp rally adventure as she embarks on a special
+delivery mission inspired by the Legend of Madame White Snake. Visit key
+locations of Chinese Gardens and collect landmark stamps as the story unfolds.
+Complete the rally to receive a special keepsake of your own!</p>
+<p><em>Redemption only available on 19, 20, 25, 26 and 27 September 2026 at Bonsai Garden from 6.30pm – 9.30pm.</em>
+</p>
