@@ -64,13 +64,12 @@ more information on dining options within the Gardens.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4><strong>Eden</strong></h4>
-<p><strong>📅1 September 2026 – 30 September 2026</strong>
-</p>
-<p><strong>📍Chinese Garden</strong>
-</p>
+<p><strong>📅1 </strong>September 2026 – 30 September 2026</p>
+<p>📍Chinese Garden</p>
 <p></p>
-<p><strong>Gather your loved ones for a festive feast this Mid-Autumn! Eden's special set for 4 is the perfect way to celebrate the season together — enjoy 4 main dishes and a dessert at just S$59 (U.P. S$68).</strong>
-</p>
+<p>Gather your loved ones for a festive feast this Mid-Autumn! Eden's special
+set for 4 is the perfect way to celebrate the season together — enjoy 4
+main dishes and a dessert at just S$59 (U.P. S$68).</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -97,6 +96,7 @@ daily (while stocks last)!</p>
 <td rowspan="1" colspan="1">
 <h4><strong>Starbucks</strong></h4>
 <p>📍Lakeside Garden</p>
+<p></p>
 <p><strong>Joyous celebrations with family and friends over Starbucks Assorted Mooncakes.</strong>
 <br>Lotus Paste with Egg Yolk I Osmanthus Oolong I Oolong Yuzu I Pandan Osmanthus
 I Black Sesame Egg Yolk I Caramel Coffee Macadamia</p>
@@ -110,7 +110,9 @@ I Black Sesame Egg Yolk I Caramel Coffee Macadamia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="starbucks mooncake set" src="/images/FnB/Starbucks_mooncakes.png">
+</div>
 </td>
 </tr>
 </tbody>
