@@ -9,8 +9,8 @@ description: ""
 </div>
 <h4><strong>Food Market</strong></h4>
 <p>📅 19 September – 27 September 2026</p>
-<p>📍Lakeside Field, Lakeside Garden</p>
-<p>⏰6:30pm – 11pm daily</p>
+<p>📍 Lakeside Field, Lakeside Garden</p>
+<p>⏰ 6:30pm – 11pm daily</p>
 <p>Come hungry! Our festive food market is packed with a spread of local
 favourites and international bites to keep you fuelled all night long.
 From smoky BBQ and Thai delights to pasta, kebabs, and Ramly burgers, there's
