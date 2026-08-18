@@ -77,7 +77,7 @@ on a first-come, first-served basis, while stocks last.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/2__Storytelling_Sessions___Tales_of_Mid_Autumn_Festival__Courtesy_of_Sun_Yat_Sen_Nanyang_Memorial_Hall_.jpg">
 </div>
-<h4><strong>STtelling Sessions</strong></h4>
+<h4><strong>Storytelling Sessions</strong></h4>
 <p>📅 20 and 27 September 2026 (Sundays)
 <br>📍Tea Pavilion, Chinese Garden
 <br>⏰ 6:45pm and 7:30pm (Two Sessions)</p>
@@ -174,4 +174,3 @@ come together.</p>
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
 <br>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
 <p>More information will be made available soon.</p>
-<p></p>
