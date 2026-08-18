@@ -1,5 +1,0 @@
-collections:
-  exhibitions:
-    output: true
-    order:
-      - Exhibitions.md
