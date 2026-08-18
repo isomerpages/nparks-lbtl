@@ -12,8 +12,8 @@ description: ""
 arts, culture and heritage at Wan Qing Mid-Autumn Festival 2026 @ Chinese
 Garden!</p>
 <p>Visitors can enjoy a vibrant variety of hands-on activities at the Bonsai
-Garden, including lantern making, hanfu dress-up and photography, heritage
-discovery games, multi-layered stamp printing and more! With experiences
+Garden and Tea Pavilion, including lantern making, hanfu dress-up and photography,
+heritage discovery games, multi-layered stamp printing and more! With experiences
 for all ages, the festival invites everyone to immerse themselves in the
 rich traditions of Mid-Autumn through interactive, family-friendly experiences.</p>
 <p></p>
