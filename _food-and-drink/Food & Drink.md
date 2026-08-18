@@ -54,82 +54,28 @@ it all.</p>
 <p>Click <a href="https://juronglakegardens.nparks.gov.sg/dining/" rel="noopener nofollow" target="_blank">here</a> for
 more information on dining options within the Gardens.</p>
 <h4><strong>F&amp;B promotions</strong></h4>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <h4><strong>Eden</strong></h4>
-<p><strong>📅1 </strong>September 2026 – 30 September 2026</p>
-<p>📍Chinese Garden</p>
-<p></p>
-<p>Gather your loved ones for a festive feast this Mid-Autumn! Eden's special
-set for 4 is the perfect way to celebrate the season together — enjoy 4
-main dishes and a dessert at just S$59 (U.P. S$68).</p>
-</th>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="picture of the Eden cafe" src="/images/FnB/Eden_Cafe_Image___Landscape_1.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>BingXue</strong></h4>
-<p>📅 25 – 27 September 2026</p>
-<p>📍Chinese Garden</p>
-<p>Cool down after a night of lantern-gazing! Buy any 2 large drinks and
-get a free ice cream cone — choose from Original or Matcha. Limited redemptions
-daily (while stocks last)!</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="image of bingxue outlet at chinese garden" src="/images/FnB/bingxue official.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Starbucks</strong></h4>
-<p>📍Lakeside Garden</p>
-<p></p>
-<p><strong>Joyous celebrations with family and friends over Starbucks Assorted Mooncakes.</strong>
-<br>Lotus Paste with Egg Yolk I Osmanthus Oolong I Oolong Yuzu I Pandan Osmanthus
-I Black Sesame Egg Yolk I Caramel Coffee Macadamia</p>
-<p><strong>Single:</strong> $6.90
-<br><strong>Gift Box:</strong> $69.90<em> (8pcs per box)</em>
-</p>
-<p><u>STARBUCKS® REWARDS MEMBER EXCUSIVE:</u>
-<br>Enjoy 120 BONUS STARS when you purchase 2 Mooncake Gift Boxes. Get additional
-60 BONUS STARS per box from 3<sup>rd</sup> box and more.
-<br><em>While stocks last. T&amp;Cs apply.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="starbucks mooncake set" src="/images/FnB/Starbucks_mooncakes.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Eden</strong></h4>
 <p>📅1 September 2026 – 30 September 2026</p>
 <p>📍Chinese Garden</p>
 <p>Gather your loved ones for a festive feast this Mid-Autumn! Eden's special
 set for 4 is the perfect way to celebrate the season together — enjoy 4
 main dishes and a dessert at just S$59 (U.P. S$68).</p>
 <h4><strong>BingXue</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="image of bingxue outlet at chinese garden" src="/images/FnB/bingxue official.jpg">
+</div>
 <p>📅 25 – 27 September 2026</p>
 <p>📍Chinese Garden</p>
 <p>Cool down after a night of lantern-gazing! Buy any 2 large drinks and
 get a free ice cream cone — choose from Original or Matcha. Limited redemptions
 daily (while stocks last)!</p>
 <h4><strong>Starbucks</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="starbucks mooncake set" src="/images/FnB/Starbucks_mooncakes.png">
+</div>
 <p>📍Lakeside Garden</p>
 <p><strong>Joyous celebrations with family and friends over Starbucks Assorted Mooncakes.</strong>
 <br>Lotus Paste with Egg Yolk I Osmanthus Oolong I Oolong Yuzu I Pandan Osmanthus
