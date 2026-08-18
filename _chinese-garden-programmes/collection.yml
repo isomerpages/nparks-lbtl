@@ -2,6 +2,7 @@ collections:
   chinese-garden-programmes:
     output: true
     order:
+      - Chinese Garden Programmes.md
       - Bonsai Garden Programmes.md
       - Grand Arch Programmes.md
       - Ficus Lawn Stage Programmes.md
