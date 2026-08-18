@@ -4,8 +4,8 @@ permalink: /light-display-show/
 variant: tiptap
 description: ""
 ---
-<p>📅 19 September – 27 September 2026</p>
-<p>📍 Sunken Garden, Japanese Garden | Cloud Pagoda, Chinese Garden</p>
+<p>📅 19 September – 27 September 2026
+<br>📍 Sunken Garden, Japanese Garden | Cloud Pagoda, Chinese Garden</p>
 <h4><strong>Sunken Garden Light Display</strong></h4>
 <p>⏰7:30pm – 10:30pm</p>
 <p>A vibrant wash of multicoloured lights transforms the Sunken Garden into
