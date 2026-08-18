@@ -86,5 +86,4 @@ Discover the legends and myths behind well-loved Chinese festivals as local
 authors and veteran storytellers bring you on a literary adventure.
 <br><em>(Supported by Speak Good English Movement and Speak Mandarin Campaign)</em>
 </p>
-<hr>
 <p></p>
