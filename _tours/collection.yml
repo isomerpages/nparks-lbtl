@@ -1,5 +1,0 @@
-collections:
-  tours:
-    output: true
-    order:
-      - Tours.md
