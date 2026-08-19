@@ -7,6 +7,8 @@ links:
         url: /lantern-displays
       - title: Light Shows
         url: /light-shows
+  - title: Rockestra®
+    url: /nparks-concert-series-in-the-park-rockestra/
   - title: Programmes
     url: /programmes-overview/
     sublinks:
@@ -18,10 +20,6 @@ links:
         url: /wave-plaza-programmes/
       - title: Japanese Garden Programmes
         url: /japanese-garden-programmes/
-      - title: Tours
-        url: /tours/
-      - title: Exhibitions
-        url: /exhibitions/
   - title: F&B
     url: /food-and-drink
   - title: Getting here

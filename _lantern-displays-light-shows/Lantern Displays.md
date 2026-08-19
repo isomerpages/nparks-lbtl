@@ -9,6 +9,16 @@ description: ""
 Ponds, Chinese Garden | Floral Garden &amp; Resthouse Pond, Japanese Garden</p>
 <p>⏰6:30pm – 10:30pm daily</p>
 <h4><strong>📍Lakeside Field, Lakeside Garden</strong></h4>
+<p>Lights by the Lake 2026 takes visitors on a journey through The Legend
+of the White Snake, one of China's most beloved folk tales. Across five
+scenes set along Lakeside Field, the lantern displays trace the story of
+Bai Suzhen — a white snake spirit who takes human form — and her fateful
+romance with the scholar Xu Xian, from their chance meeting on Broken Bridge
+to their eventual separation at the hands of the monk Fa Hai.&nbsp;</p>
+<p>The journey culminates at Cloud Pagoda, where a reimagined ending sees
+all four characters — Bai Suzhen, Xu Xian, Xiao Qing, and Fa Hai — reunited
+in forgiveness and harmony, with a light show that brings this timeless
+tale of love, sacrifice, and redemption to a hopeful close.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Scene 1 - The Spirit Awakens (千年化形)</strong>
@@ -74,6 +84,13 @@ separated.</p>
 </details>
 </div>
 <h4><strong>📍Cloud Pagoda &amp; Cleansing Biotope Ponds, Chinese Garden</strong></h4>
+<p>Tying in with the spirit of the Mid-Autumn Festival, the displays at the
+Cleansing Biotope Ponds centre on Chang'e, the Moon Goddess of Chinese
+legend. One display depicts Chang'e in her celestial home, surrounded by
+lotus flowers, gazing down upon the mortal world — a gentle reminder that
+loved ones remain connected under the same moon. Nearby, the Jade Rabbit
+and its companions bring festive cheer, symbolising joy, luck, and abundance
+for all.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Cleansing Biotope Ponds - Moonlit Reunion (水上嫦娥)</strong>
@@ -97,20 +114,17 @@ Over here, the Jade Rabbit and its friends have come together to spread
 cheer, hoping to bring joy, luck, abundance, and peace to everyone.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>Cloud Pagoda - The Legend of the White Snake (白蛇传)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The enduring tale of Bai Suzhen, Xu Xian, Xiao Qing, and Fa Hai has touched
-countless hearts with its themes of love, sacrifice, and redemption. In
-this reimagined story ending, the four characters are reunited before the
-pagoda, setting aside past grievances to embrace forgiveness and harmony.
-Their reunion symbolises that openness and love can surpass any challenge,
-allowing all to enjoy hope and peace.</p>
-</div>
-</details>
 </div>
 <h4><strong>📍Floral Garden &amp; Resthouse Pond, Japanese Garden</strong></h4>
+<p>At the Floral Garden, the displays pay homage to the Japanese folktale
+of Princess Kaguya, depicting her bathed in moonlight and surrounded by
+blooming flowers, rabbits, and drifting clouds in a dreamlike scene that
+evokes beauty and the quiet magic of moonlit nights.&nbsp;</p>
+<p>
+<br>At Resthouse Pond, colourful koi glide beneath floating lanterns in a
+graceful, shimmering display — drawing on the Japanese and Chinese symbolism
+of koi as emblems of prosperity, resilience, and the steady flow of good
+fortune.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Floral Garden - Kaguya's Moon Garden</strong>

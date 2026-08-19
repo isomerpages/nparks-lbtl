@@ -11,12 +11,22 @@ description: ""
 <br>⏰ 6:30pm onwards
 <br>🎫 Free admission</p>
 <p>NParks Concert Series in the Park: Rockestra® is back — and this year,
-we're bringing the music to the glow of Jurong Lake Gardens on 19 September.
-<br>
-</p>
-<p>An unforgettable night of Mandopop and English hits through the decades,
-set against the magic of Mid-Autumn. Artist reveals coming soon — watch
-this space!</p>
+we're bringing the music to the glow of Jurong Lake Gardens on 19 September,
+from 6.30pm till late at the Ficus Lawn, Chinese Garden.</p>
+<p>Get ready for an unforgettable night of Mandopop and English hits through
+the decades, set against the magic of Mid-Autumn. Whether you're planning
+to sing along under the stars or simply unwind with family and friends,
+we've got the perfect picnic companion for you — Kakee Konvoy will be giving
+away picnic baskets on the night, while stocks last!</p>
+<p>Artist reveals coming soon — watch this space!</p>
+<h4><strong>Mediacorp Lantern Trail and Animation Screening</strong></h4>
+<p>📅20 September 2026</p>
+<p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
+<p>⏰ 6:30pm - 7:30pm</p>
+<p>Light up the night with us! Join Mediacorp for a magical lantern walk
+through the gardens, starting at Wave Plaza. Collect your lantern, follow
+our emcee, and make your way to Ficus Lawn for an evening of festive surprises.</p>
+<p>More information will be made available soon.</p>
 <h4><strong>DementiaSG Talk and Short Films Screening</strong></h4>
 <p>📅 20 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp; Garden
@@ -88,4 +98,11 @@ come together.</p>
 <p>📅 26 and 27 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
 <br>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
-<p>More information will be made available soon.</p>
+<p>Settle in on the Ficus Lawn for two family-friendly screenings. In Migration,
+a family of ducks embarks on a hilarious and chaotic adventure when the
+overprotective dad finally agrees to take the family on a holiday — with
+unexpected detours and new friends along the way. Then in The Wild Robot,
+follow the remarkable journey of a robot stranded on a wild island, who
+must adapt to her surroundings and learn what it means to be a mother.
+Bring your picnic mat, gather the family, and enjoy the magic of the big
+screen in the open air.</p>

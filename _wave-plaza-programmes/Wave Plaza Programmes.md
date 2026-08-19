@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Lantern Riddles</strong></h4>
-<p>📅 21 to 24 September 2026 (Mon – Thu)</p>
+<p>📅 21 to 25 September 2026 (Mon – Fri)</p>
 <p>📍Wave Plaza, Lakeside Garden</p>
 <p>⏰7pm – 9pm</p>
 <p>Gather the family and put your wits to the test! Under the warm glow of
@@ -24,7 +24,7 @@ draw a self-portrait or your own family's special celebration. Then head
 to our <em>Lotus in a Breeze</em> photo spot, where you can "paint" the scene
 just like an artist and see the park's flora through a whole new lens.</p>
 <p>&nbsp;</p>
-<h4><strong>PAssionArts Festival</strong></h4>
+<h4><strong>Taman Jurong CACC PAssion Arts Festival: Slow Threads</strong></h4>
 <p>📅 19 - 20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden</p>
 <p>⏰7pm – 9pm</p>
@@ -81,7 +81,4 @@ renditions of our favourite songs.</p>
 <p>Light up the night with us! Join Mediacorp for a magical lantern walk
 through the gardens, starting at Wave Plaza. Collect your lantern, follow
 our emcee, and make your way to Ficus Lawn for an evening of festive surprises.</p>
-<p>Be among the first to catch the premiere of <em>Lil' Wild</em>, Mediacorp's
-exciting new animation series, screened live on the big stage. Grab your
-goodie bag, and keep your fingers crossed — 1,000 limited edition <em>Lil' Wild</em> plushies
-are up for grabs.</p>
+<p>More information will be made available soon.</p>
