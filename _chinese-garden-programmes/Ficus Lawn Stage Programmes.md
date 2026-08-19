@@ -90,4 +90,11 @@ come together.</p>
 <p>📅 26 and 27 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
 <br>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
-<p>More information will be made available soon.</p>
+<p>Settle in on the Ficus Lawn for two family-friendly screenings. In Migration,
+a family of ducks embarks on a hilarious and chaotic adventure when the
+overprotective dad finally agrees to take the family on a holiday — with
+unexpected detours and new friends along the way. Then in The Wild Robot,
+follow the remarkable journey of a robot stranded on a wild island, who
+must adapt to her surroundings and learn what it means to be a mother.
+Bring your picnic mat, gather the family, and enjoy the magic of the big
+screen in the open air.</p>
