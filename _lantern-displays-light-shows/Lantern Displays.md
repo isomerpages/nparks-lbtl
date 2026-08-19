@@ -119,8 +119,8 @@ cheer, hoping to bring joy, luck, abundance, and peace to everyone.</p>
 <p>At the Floral Garden, the displays pay homage to the Japanese folktale
 of Princess Kaguya, depicting her bathed in moonlight and surrounded by
 blooming flowers, rabbits, and drifting clouds in a dreamlike scene that
-evokes beauty and the quiet magic of moonlit nights.&nbsp;</p>
-<p>At Resthouse Pond, colourful koi glide beneath floating lanterns in a
+evokes beauty and the quiet magic of moonlit nights.&nbsp;
+<br>At Resthouse Pond, colourful koi glide beneath floating lanterns in a
 graceful, shimmering display — drawing on the Japanese and Chinese symbolism
 of koi as emblems of prosperity, resilience, and the steady flow of good
 fortune.</p>
