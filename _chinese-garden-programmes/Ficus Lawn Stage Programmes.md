@@ -11,12 +11,14 @@ description: ""
 <br>⏰ 6:30pm onwards
 <br>🎫 Free admission</p>
 <p>NParks Concert Series in the Park: Rockestra® is back — and this year,
-we're bringing the music to the glow of Jurong Lake Gardens on 19 September.
-<br>
-</p>
-<p>An unforgettable night of Mandopop and English hits through the decades,
-set against the magic of Mid-Autumn. Artist reveals coming soon — watch
-this space!</p>
+we're bringing the music to the glow of Jurong Lake Gardens on 19 September,
+from 6.30pm till late at the Ficus Lawn, Chinese Garden.</p>
+<p>Get ready for an unforgettable night of Mandopop and English hits through
+the decades, set against the magic of Mid-Autumn. Whether you're planning
+to sing along under the stars or simply unwind with family and friends,
+we've got the perfect picnic companion for you — Kakee Konvoy will be giving
+away picnic baskets on the night, while stocks last!</p>
+<p>Artist reveals coming soon — watch this space!</p>
 <h4><strong>DementiaSG Talk and Short Films Screening</strong></h4>
 <p>📅 20 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp; Garden
