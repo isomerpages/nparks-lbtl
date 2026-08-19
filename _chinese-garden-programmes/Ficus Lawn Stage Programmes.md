@@ -19,6 +19,14 @@ to sing along under the stars or simply unwind with family and friends,
 we've got the perfect picnic companion for you — Kakee Konvoy will be giving
 away picnic baskets on the night, while stocks last!</p>
 <p>Artist reveals coming soon — watch this space!</p>
+<h4><strong>Mediacorp Lantern Trail and Animation Screening</strong></h4>
+<p>📅20 September 2026</p>
+<p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
+<p>⏰ 6:30pm - 7:30pm</p>
+<p>Light up the night with us! Join Mediacorp for a magical lantern walk
+through the gardens, starting at Wave Plaza. Collect your lantern, follow
+our emcee, and make your way to Ficus Lawn for an evening of festive surprises.</p>
+<p>More information will be made available soon.</p>
 <h4><strong>DementiaSG Talk and Short Films Screening</strong></h4>
 <p>📅 20 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp; Garden
