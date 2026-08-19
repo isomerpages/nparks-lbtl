@@ -24,7 +24,7 @@ draw a self-portrait or your own family's special celebration. Then head
 to our <em>Lotus in a Breeze</em> photo spot, where you can "paint" the scene
 just like an artist and see the park's flora through a whole new lens.</p>
 <p>&nbsp;</p>
-<h4><strong>PAssionArts Festival</strong></h4>
+<h4><strong>Taman Jurong CACC PAssion Arts Festival: Slow Threads</strong></h4>
 <p>📅 19 - 20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden</p>
 <p>⏰7pm – 9pm</p>
