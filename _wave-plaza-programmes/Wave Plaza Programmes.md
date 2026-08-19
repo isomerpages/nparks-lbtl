@@ -78,4 +78,7 @@ renditions of our favourite songs.</p>
 <p>📅20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
 <p>⏰ TBC</p>
+<p>Light up the night with us! Join Mediacorp for a magical lantern walk
+through the gardens, starting at Wave Plaza. Collect your lantern, follow
+our emcee, and make your way to Ficus Lawn for an evening of festive surprises.</p>
 <p>More information will be made available soon.</p>
