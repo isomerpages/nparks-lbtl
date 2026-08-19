@@ -16,7 +16,7 @@ the decades, set against the magic of Mid-Autumn. Whether you're planning
 to sing along under the stars or simply unwind with family and friends,
 we've got the perfect picnic companion for you — Kakee Konvoy will be giving
 away picnic baskets on the night, while stocks last!</p>
-<p>Artist reveals coming soon — watch this space!</p>
+<p>Artiste reveals coming soon — watch this space!</p>
 <p>
 <br>
 <br>
