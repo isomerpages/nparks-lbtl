@@ -19,21 +19,20 @@ to complete your very own airplane chess board to take home and play!</p>
 <p>📅 25 and 26 September 2026
 <br>📍Water Lily Pavilion, Japanese Garden
 <br>⏰ 6:30pm - 10pm</p>
-<p>This Mid-Autumn Festival, join us for a magical evening where science
-meets culture beneath the stars. Gaze upon Saturn rising in the evening
-sky and take in the beauty of the full moon during our enchanting moon
-viewing and stargazing session. Embark on our Celestial Trail, an educational
-walk that winds between Japanese Garden and Science Centre Singapore, guiding
-you through the wonders of the cosmos at every step. And for one night
-only, experience our electrifying Silent Disco, where lights, music, and
-DJs transform our science galleries into a cosmic dance party — complete
-with a Silent Disco Moonwalk under the stars.</p>
-<p>The festivities don't stop there. Catch a special mid-autumn edition of
-our live dome planetarium show for just $4 and enjoy free popcorn as you
-soak in the atmosphere. Treat yourself to limited edition mid-autumn beverages
-and round off your evening with late-night dining at Science Centre's F&amp;B
-outlets. Whether you're here for science, the culture, or simply a night
-to remember, this is one celebration you won't want to miss.</p>
+<p>This Mid-Autumn Festival, join Science Centre for a magical evening where
+science meets culture beneath the stars. Gaze upon Saturn rising in the
+evening sky and take in the beauty of the full moon during our enchanting
+moon viewing and stargazing session.</p>
+<p>Embark on the Celestial Trail, a self-guided journey from the Kinetic
+Garden at Science Centre to the Breathing Gallery in the Japanese Garden.
+Along the way, discover fascinating facts about not only our Moon, but
+the many moons that orbit other planets in our solar system. Eight planets
+are hidden along the route. Find them all to uncover the secrets of their
+moons. As a reward, participants who complete the Celestial Trail can enjoy
+a special discount on limited-edition Quby pins, while stocks last.</p>
+<p>And for one night only, experience the electrifying Silent Disco, where
+lights, music, and DJs transform our science galleries into a cosmic dance
+party — complete with a Silent Disco Moonwalk under the stars.</p>
 <p>&nbsp;</p>
 <h4><strong>Moonstruck 2026 – Watermarks of the Moon</strong></h4>
 <p>📅 25 and 26 September 2026
