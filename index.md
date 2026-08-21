@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Key Visuals/LBTL_2026_web_banner_06.png
-      button: MORE ABOUT LIGHTS BY THE LAKE
+      button: ABOUT LIGHTS BY THE LAKE
       url: /about/
       variant: center
   - infopic:
@@ -21,16 +21,16 @@ sections:
       image: /images/Lanterns/Image_MAF__2019_.jpg
       alt: Chang'e lantern at Stoneboat
   - infopic:
-      title: Light Shows
+      title: Light Shows & Displays
       id: infopic
       description: Descend into a world of vibrant wonder as the Sunken Garden and
-        Cloud Pagoda come alive with a stunning multicoloured light display!
+        Cloud Pagoda come alive with stunning multicoloured light displays!
       button: READ MORE
       url: /light-shows
       image: /images/Activities/1__Kellin_Yee.jpg
       alt: Photo Credit Kellin Yee
   - infopic:
-      title: Programmes
+      title: Festival Programmes
       id: infopic
       description: So many things to do at Lights by the Lake! Be spoilt for choice at
         the wide range of programmes available for everyone.
