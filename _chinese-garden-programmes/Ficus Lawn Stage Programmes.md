@@ -6,6 +6,10 @@ description: ""
 ---
 <h3><strong>Ficus Lawn Stage Programmes</strong></h3>
 <h4><strong>NParks Concert Series in the Park: Rockestra®</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="concertgoers at NParks Concert Series in the Park: Rockestra" src="/images/Rockestra/IMG_5184.jpg">
+</div>
 <p>📅 19 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp; Garden
 <br>⏰ 6:30pm onwards
