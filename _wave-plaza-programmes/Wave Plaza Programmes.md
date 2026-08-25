@@ -74,11 +74,15 @@ and Wai Yee on vocals — this dynamic duo never fails to captivate. Join
 ART:DIS Singapore in celebrating their talent as they treat us to beloved
 renditions of our favourite songs.</p>
 <p>&nbsp;</p>
-<h4><strong>Mediacorp Lantern Trail and Animation Screening</strong></h4>
+<h4><strong>Mediacorp Lantern Trail and Animation Screening </strong>&nbsp;<br>新传媒灯笼园游会</h4>
 <p>📅20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
-<p>⏰ TBC</p>
-<p>Light up the night with us! Join Mediacorp for a magical lantern walk
-through the gardens, starting at Wave Plaza. Collect your lantern, follow
-our emcee, and make your way to Ficus Lawn for an evening of festive surprises.</p>
-<p>More information will be made available soon.</p>
+<p>⏰ 6:30pm - 7:30pm</p>
+<p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
+celebration that brings together multiple generations to reconnect with
+the rich traditions of Chinese culture. Set against the scenic backdrop
+of Jurong Lake Gardens, the event aims to rekindle the joy of lantern processions
+and preserve a cherished cultural heritage for future generations.</p>
+<p>Participants will embark on a symbolic lantern trail, carrying illuminated
+lanterns through the gardens before gathering at the finale screening area
+for the premiere of Lil Wild and a showcase of short films under the stars.</p>
