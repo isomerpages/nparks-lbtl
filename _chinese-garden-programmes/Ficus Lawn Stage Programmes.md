@@ -7,21 +7,23 @@ description: ""
 <h3><strong>Ficus Lawn Stage Programmes</strong></h3>
 <h4><strong>NParks Concert Series in the Park: Rockestra®</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="concertgoers at NParks Concert Series in the Park: Rockestra" src="/images/Rockestra/IMG_5184.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="poster of the Rockestra concert on 19 Sep 2026 at Chinese Garden" src="/images/Rockestra/2026_Rockestra_KV_5.jpg">
 </div>
 <p>📅 19 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp; Garden
 <br>⏰ 6:30pm onwards
 <br>🎫 Free admission</p>
-<p>NParks Concert Series in the Park: Rockestra® is back — and this year,
-we're bringing the music to the glow of Jurong Lake Gardens on 19 September,
-from 6.30pm till late at the Ficus Lawn, Chinese Garden.</p>
-<p>Get ready for an unforgettable night of Mandopop and English hits through
-the decades, set against the magic of Mid-Autumn. Whether you're planning
-to sing along under the stars or simply unwind with family and friends,
-we've got the perfect picnic companion for you — Kakee Konvoy will be giving
-away picnic baskets on the night, while stocks last!</p>
-<p>Artist reveals coming soon — watch this space!</p>
+<p>Get ready to rock through the decades! Rockestra® is back at Lights by
+the Lake 2026, and opening night on 19 September is set to be one for the
+books.</p>
+<p>Themed <strong>Hits through the Decades</strong>, expect an electrifying
+fusion of your favourite <strong>Mandopop and English hits</strong> brought
+to life by an incredible lineup – <strong>Supersonic</strong>, <strong>Music &amp; Drama Company</strong>, <strong>Shirlyn and the UnXpected</strong>,
+and <strong>ShiLi &amp; Adi </strong>– all on the Ficus Lawn stage.</p>
+<p>Hosting the night are <strong>Power98's JK</strong> and <strong>883JIA's Ben</strong>,
+so you know the energy is going to be through the roof.</p>
+<p>Before you settle in, don't forget to <strong>claim your picnic basket</strong> at
+the <strong>Kakee Konvoy</strong>, while stocks last!</p>
 <h4><strong>Mediacorp Lantern Trail and Animation Screening</strong><br>新传媒灯笼园游会</h4>
 <p>📅20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden ve Plaza</p>
