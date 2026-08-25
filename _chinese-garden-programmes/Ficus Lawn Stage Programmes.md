@@ -25,7 +25,7 @@ so you know the energy is going to be through the roof.</p>
 <p>Before you settle in, don't forget to <strong>claim your picnic basket</strong> at
 the <strong>Kakee Konvoy</strong>, while stocks last!</p>
 <h4><strong>Mediacorp Lantern Trail and Animation Screening</strong><br>新传媒灯笼园游会</h4>
-<p>📅20 September 2026</p>
+<p>📅 20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden ve Plaza</p>
 <p>⏰ 6:30pm - 7:30pm</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
@@ -126,11 +126,13 @@ come together.</p>
 <p>📅 26 and 27 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
 <br>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
-<p>Settle in on the Ficus Lawn for two family-friendly screenings. In Migration,
-a family of ducks embarks on a hilarious and chaotic adventure when the
-overprotective dad finally agrees to take the family on a holiday — with
-unexpected detours and new friends along the way. Then in The Wild Robot,
-follow the remarkable journey of a robot stranded on a wild island, who
-must adapt to her surroundings and learn what it means to be a mother.
-Bring your picnic mat, gather the family, and enjoy the magic of the big
+<p>Settle in on the Ficus Lawn for two family-friendly screenings!</p>
+<p>In <strong>Migration (26 Sep, 8pm)</strong>, a family of ducks embarks
+on a hilarious and chaotic adventure when the overprotective dad finally
+agrees to take the family on a holiday – with unexpected detours and new
+friends along the way.</p>
+<p>Then in <strong>The Wild Robot (27 Sep, 7pm)</strong>, follow the remarkable
+journey of a robot stranded on a wild island, who must adapt to her surroundings
+and learn what it means to be a mother.</p>
+<p>Bring your picnic mat, gather the family, and enjoy the magic of the big
 screen in the open air.</p>
