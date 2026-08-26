@@ -25,7 +25,8 @@ night even more special? JK and Ben are giving away 100 Kakee picnic basket
 sets, each packed with goodies for two — the perfect way to enjoy the show
 under the stars. Head to @jkonthego98 and @883benlee on Instagram to find
 out how to enter. Winners will be notified in advance and invited to collect
-their baskets on the night, so keep an eye on your DMs!</p>
+their baskets on the night, so keep an eye on your DMs! <em>Giveaway begins 30 Aug and ends 6 Sep 2026.</em>
+</p>
 <p>
 <br>
 <br>
