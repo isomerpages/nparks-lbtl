@@ -6,11 +6,12 @@ description: ""
 ---
 <h3><strong>Ficus Lawn Stage Programmes</strong></h3>
 <h4><strong>NParks Concert Series in the Park: Rockestra®</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="poster of the Rockestra concert on 19 Sep 2026 at Chinese Garden" src="/images/Rockestra/2026_Rockestra_KV_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Square_Rockestra_2026.jpg">
 </div>
 <p>📅 19 September 2026
-<br>📍Ficus Lawn, Chinese&nbsp; Garden
+<br>📍Ficus Lawn, Chinese&nbsp;Garden
 <br>⏰ 6:30pm onwards
 <br>🎫 Free admission</p>
 <p>Get ready to rock through the decades! Rockestra® is back at Lights by
@@ -22,8 +23,7 @@ to life by an incredible lineup – <strong>Supersonic</strong>, <strong>Music &
 and <strong>ShiLi &amp; Adi </strong>– all on the Ficus Lawn stage.</p>
 <p>Hosting the night are <strong>Power98's JK</strong> and <strong>883JIA's Ben</strong>,
 so you know the energy is going to be through the roof.</p>
-<p>Before you settle in, don't forget to <strong>claim your picnic basket</strong> at
-the <strong>Kakee Konvoy</strong>, while stocks last!</p>
+<p></p>
 <h4><strong>Mediacorp Lantern Trail and Animation Screening</strong><br>新传媒灯笼园游会</h4>
 <p>📅 20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden ve Plaza</p>
