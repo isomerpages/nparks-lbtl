@@ -4,19 +4,23 @@ permalink: /nparks-concert-series-in-the-park-rockestra/
 variant: tiptap
 description: ""
 ---
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Square_Rockestra_2026.jpg">
+</div>
 <h4><strong>Hits Through the Decades🎶&nbsp;</strong></h4>
 <p><strong>📆</strong>: 19 September 2026 (Saturday)
 <br>⏰: 6:30pm till late
-<br>📍: Ficus Lawn , Chinese Garden (nearest MRT: Chinese Garden)</p>
-<p>NParks Concert Series in the Park: Rockestra® is back — and this year,
-we're bringing the music to the glow of Jurong Lake Gardens on 19 September,
-from 6.30pm till late at the Ficus Lawn, Chinese Garden.</p>
-<p>Get ready for an unforgettable night of Mandopop and English hits through
-the decades, set against the magic of Mid-Autumn. Whether you're planning
-to sing along under the stars or simply unwind with family and friends,
-we've got the perfect picnic companion for you — Kakee Konvoy will be giving
-away picnic baskets on the night, while stocks last!</p>
-<p>Artiste reveals coming soon — watch this space!</p>
+<br>📍: Ficus Lawn, Chinese Garden (nearest MRT: Chinese Garden)</p>
+<p>Get ready to rock through the decades! Rockestra® is back at Lights by
+the Lake 2026, and opening night on 19 September is set to be one for the
+books.</p>
+<p>Themed <strong>Hits through the Decades</strong>, expect an electrifying
+fusion of your favourite <strong>Mandopop and English hits</strong> brought
+to life by an incredible lineup – <strong>Supersonic</strong>, <strong>Music &amp; Drama Company</strong>, <strong>Shirlyn and the UnXpected</strong>,
+and <strong>ShiLi &amp; Adi </strong>– all on the Ficus Lawn stage.</p>
+<p>Hosting the night are <strong>Power98's JK</strong> and <strong>883JIA's Ben</strong>,
+so you know the energy is going to be through the roof.</p>
 <p>
 <br>
 <br>
