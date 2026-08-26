@@ -27,7 +27,8 @@ night even more special? JK and Ben are giving away 100 Kakee picnic basket
 sets, each packed with goodies for two — the perfect way to enjoy the show
 under the stars. Head to @jkonthego98 and @883benlee on Instagram to find
 out how to enter. Winners will be notified in advance and invited to collect
-their baskets on the night, so keep an eye on your DMs!</p>
+their baskets on the night, so keep an eye on your DMs! <em>Giveaway begins 30 Aug and ends 6 Sep 2026. </em>
+</p>
 <h4><strong>Mediacorp Lantern Trail and Animation Screening</strong><br>新传媒灯笼园游会</h4>
 <p>📅 20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden ve Plaza</p>
