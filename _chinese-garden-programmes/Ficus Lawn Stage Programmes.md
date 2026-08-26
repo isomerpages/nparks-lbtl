@@ -122,17 +122,27 @@ friends, and settle in on the lush green lawns for a memorable evening
 under the moonlight. Surrounded by nature and beautiful lakeside views,
 experience an enchanting celebration where music, culture and community
 come together.</p>
-<h4><strong>Film Screening</strong></h4>
+<h4><strong>Movie Screenings: Migration and The Wild Robot</strong></h4>
 <p>📅 26 and 27 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
 <br>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
-<p>Settle in on the Ficus Lawn for two family-friendly screenings!</p>
+<p>Settle in on the Ficus Lawn for two family-friendly screenings (rated
+PG)!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Migration.jpg">
+</div>
 <p>In <strong>Migration (26 Sep, 8pm)</strong>, a family of ducks embarks
 on a hilarious and chaotic adventure when the overprotective dad finally
 agrees to take the family on a holiday – with unexpected detours and new
 friends along the way.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/The_Wild_Robot.jpg">
+</div>
 <p>Then in <strong>The Wild Robot (27 Sep, 7pm)</strong>, follow the remarkable
 journey of a robot stranded on a wild island, who must adapt to her surroundings
 and learn what it means to be a mother.</p>
 <p>Bring your picnic mat, gather the family, and enjoy the magic of the big
 screen in the open air.</p>
+<p>© 2026 United International Pictures (UIP)</p>
