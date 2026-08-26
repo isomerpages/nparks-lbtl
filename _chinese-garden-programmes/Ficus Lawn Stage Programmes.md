@@ -6,24 +6,26 @@ description: ""
 ---
 <h3><strong>Ficus Lawn Stage Programmes</strong></h3>
 <h4><strong>NParks Concert Series in the Park: Rockestra®</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="concertgoers at NParks Concert Series in the Park: Rockestra" src="/images/Rockestra/IMG_5184.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Square_Rockestra_2026.jpg">
 </div>
 <p>📅 19 September 2026
-<br>📍Ficus Lawn, Chinese&nbsp; Garden
+<br>📍Ficus Lawn, Chinese&nbsp;Garden
 <br>⏰ 6:30pm onwards
 <br>🎫 Free admission</p>
-<p>NParks Concert Series in the Park: Rockestra® is back — and this year,
-we're bringing the music to the glow of Jurong Lake Gardens on 19 September,
-from 6.30pm till late at the Ficus Lawn, Chinese Garden.</p>
-<p>Get ready for an unforgettable night of Mandopop and English hits through
-the decades, set against the magic of Mid-Autumn. Whether you're planning
-to sing along under the stars or simply unwind with family and friends,
-we've got the perfect picnic companion for you — Kakee Konvoy will be giving
-away picnic baskets on the night, while stocks last!</p>
-<p>Artist reveals coming soon — watch this space!</p>
+<p>Get ready to rock through the decades! Rockestra® is back at Lights by
+the Lake 2026, and opening night on 19 September is set to be one for the
+books.</p>
+<p>Themed <strong>Hits through the Decades</strong>, expect an electrifying
+fusion of your favourite <strong>Mandopop and English hits</strong> brought
+to life by an incredible lineup – <strong>Supersonic</strong>, <strong>Music &amp; Drama Company</strong>, <strong>Shirlyn and the UnXpected</strong>,
+and <strong>ShiLi &amp; Adi </strong>– all on the Ficus Lawn stage.</p>
+<p>Hosting the night are <strong>Power98's JK</strong> and <strong>883JIA's Ben</strong>,
+so you know the energy is going to be through the roof.</p>
+<p></p>
 <h4><strong>Mediacorp Lantern Trail and Animation Screening</strong><br>新传媒灯笼园游会</h4>
-<p>📅20 September 2026</p>
+<p>📅 20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden ve Plaza</p>
 <p>⏰ 6:30pm - 7:30pm</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
@@ -120,15 +122,27 @@ friends, and settle in on the lush green lawns for a memorable evening
 under the moonlight. Surrounded by nature and beautiful lakeside views,
 experience an enchanting celebration where music, culture and community
 come together.</p>
-<h4><strong>Film Screening</strong></h4>
+<h4><strong>Movie Screenings: Migration and The Wild Robot</strong></h4>
 <p>📅 26 and 27 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
 <br>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
-<p>Settle in on the Ficus Lawn for two family-friendly screenings. In Migration,
-a family of ducks embarks on a hilarious and chaotic adventure when the
-overprotective dad finally agrees to take the family on a holiday — with
-unexpected detours and new friends along the way. Then in The Wild Robot,
-follow the remarkable journey of a robot stranded on a wild island, who
-must adapt to her surroundings and learn what it means to be a mother.
-Bring your picnic mat, gather the family, and enjoy the magic of the big
+<p>Settle in on the Ficus Lawn for two family-friendly screenings (rated
+PG)!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Migration.jpg">
+</div>
+<p>In <strong>Migration (26 Sep, 8pm)</strong>, a family of ducks embarks
+on a hilarious and chaotic adventure when the overprotective dad finally
+agrees to take the family on a holiday – with unexpected detours and new
+friends along the way.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/The_Wild_Robot.jpg">
+</div>
+<p>Then in <strong>The Wild Robot (27 Sep, 7pm)</strong>, follow the remarkable
+journey of a robot stranded on a wild island, who must adapt to her surroundings
+and learn what it means to be a mother.</p>
+<p>Bring your picnic mat, gather the family, and enjoy the magic of the big
 screen in the open air.</p>
+<p>© 2026 United International Pictures (UIP)</p>
