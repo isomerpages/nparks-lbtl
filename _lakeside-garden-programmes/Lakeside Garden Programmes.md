@@ -4,14 +4,15 @@ permalink: /lakeside-garden-programmes/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/4__Goh_En_Xuan.jpg">
+</div>
+<p><sup>Photo: Goh En Xuan</sup>
+</p>
 <p>Get ready for an evening of festive fun, creativity and discovery at Lakeside
-Garden! Gather the family to solve lantern riddles, unleash your inner
-artist at the Roving Art Studio, and groove to vibrant live performances
-from local artistes. Light up the night on the Mediacorp Lantern Trail,
-let the little ones bounce and play to their hearts’ content, or feast
-on irresistible local and international favourites at the Food Market.
-With glowing lanterns, lively music, hands-on experiences and plenty of
-family-friendly thrills, Lakeside Garden is the place to be for an unforgettable
-Mid-Autumn celebration.</p>
+Garden! Gather the family to solve <strong>lantern riddles</strong>, unleash
+your inner artist at <strong>National Gallery Singapore's</strong>  <strong>Roving Art Studio</strong>,
+and groove to vibrant live performances from local artistes from <strong>ArtsEverywhere@CDC</strong> and <strong>ART:DIS</strong>.
+Light up the night on the <strong>Mediacorp Lantern Trail</strong>, let
+the little ones bounce and play to their hearts’ content at <strong>Families for Life's bouncy castles &amp; games</strong>,
+or feast on irresistible local and international favourites at the <strong>Food Market</strong>.</p>
