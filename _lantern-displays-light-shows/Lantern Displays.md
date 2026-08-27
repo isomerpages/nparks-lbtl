@@ -99,13 +99,13 @@ allowing all to enjoy hope and peace.</p>
 <p>Tying in with the spirit of the Mid-Autumn Festival, the displays at the
 Cleansing Biotope Ponds centre on Chang'e, the Moon Goddess of Chinese
 legend. One display depicts Chang'e in her celestial home, surrounded by
-lotus flowers, gazing down upon the mortal world — a gentle reminder that
+lotus flowers, gazing down upon the mortal world – a gentle reminder that
 loved ones remain connected under the same moon. Nearby, the Jade Rabbit
 and its companions bring festive cheer, symbolising joy, luck, and abundance
 for all.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Cleansing Biotope Ponds - Moonlit Reunion (水上嫦娥)</strong>
+<summary><strong>Cleansing Biotope Ponds – Moonlit Reunion (水上嫦娥)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>After ascending to the Moon, Chang’e gazes upon the mortal world from
@@ -117,7 +117,7 @@ for an earlier reunion with those we miss dearly.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Cleansing Biotope Ponds - Whispers of the Jade Rabbit (玉兔送福)</strong>
+<summary><strong>Cleansing Biotope Ponds – Whispers of the Jade Rabbit (玉兔送福)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Legend tells of the Jade Rabbit that faithfully accompanies Chang’e in
@@ -134,12 +134,12 @@ blooming flowers, rabbits, and drifting clouds in a dreamlike scene that
 evokes beauty and the quiet magic of moonlit nights.&nbsp;</p>
 <p>
 <br>At Resthouse Pond, colourful koi glide beneath floating lanterns in a
-graceful, shimmering display — drawing on the Japanese and Chinese symbolism
+graceful, shimmering display – drawing on the Japanese and Chinese symbolism
 of koi as emblems of prosperity, resilience, and the steady flow of good
 fortune.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Floral Garden - Kaguya's Moon Garden</strong>
+<summary><strong>Floral Garden – Kaguya's Moon Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Bathed in the glow of the full moon, Princess Kaguya radiates elegance
@@ -149,7 +149,7 @@ that celebrates beauty, peace, and the magic of moonlit nights.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Resthouse Pond - Waters of Abundance (锦鲤送福)</strong>
+<summary><strong>Resthouse Pond – Waters of Abundance (锦鲤送福)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Beneath the glow of floating lanterns, colourful koi glide through shimmering
