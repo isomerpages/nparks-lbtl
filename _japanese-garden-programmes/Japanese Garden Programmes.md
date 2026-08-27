@@ -4,14 +4,19 @@ permalink: /japanese-garden-programmes/
 variant: tiptap
 description: ""
 ---
-<p>Japanese Garden comes alive with a vibrant line-up of experiences that
-bring together play, culture, science and the arts. Step into Singapore’s
-shared childhood memories with <strong>Don’t Play Play – The Games That Shape Us</strong>,
-explore the wonders of the cosmos through <strong>Celestial Nights: Mid-Autumn Edition</strong>,
-and journey into an immersive lunar world with <strong>Moonstruck 2026 – Watermarks of the Moon</strong>.</p>
-<p>From nostalgic games and moonlit stargazing to mesmerising performance
-and a cosmic silent disco, there’s something for everyone to discover,
-experience and enjoy under the September skies ✨</p>
+<p>Japanese Garden comes alive with a vibrant line-up weaving together play,
+culture, science and the arts!</p>
+<p>Relive Singapore's shared childhood memories at <strong>Don't Play Play – The Games That Shape Us </strong>(Resthouse),
+then turn your gaze skyward at <strong>Celestial Nights: Mid-Autumn Edition</strong> (Water
+Lily Pavilion), where Science Centre Singapore invites you to stargaze,
+hunt for eight hidden planets along the self-guided <strong>Celestial Trail</strong>,
+and dance the night away at a cosmic <strong>Silent Disco</strong> under
+the stars.</p>
+<p>End your evening at the Guesthouse with <strong>Moonstruck 2026 – Watermarks of the Moon</strong>,
+an intimate 30-minute wellness performance that transforms the space into
+a breathtaking lunar chamber through Japanese aesthetics, Asian shadow
+play and an intergenerational cast of dancers.</p>
+<p>There's something for everyone to discover under the September skies ✨</p>
 <hr>
 <h4><strong>Don't Play Play – The Games That Shape Us by National Heritage Board</strong></h4>
 <div class="isomer-image-wrapper">

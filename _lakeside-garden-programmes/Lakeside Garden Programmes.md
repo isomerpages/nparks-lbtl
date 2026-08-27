@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/4__Goh_En_Xuan.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/4__Goh_En_Xuan.jpg">
 </div>
 <p><sup>Photo: Goh En Xuan</sup>
 </p>
@@ -16,3 +16,6 @@ and groove to vibrant live performances from local artistes from <strong>ArtsEve
 Light up the night on the <strong>Mediacorp Lantern Trail</strong>, let
 the little ones bounce and play to their hearts’ content at <strong>Families for Life's bouncy castles &amp; games</strong>,
 or feast on irresistible local and international favourites at the <strong>Food Market</strong>.</p>
+<p>Tap on the menu to find out more about what's going on at <strong>Wave Plaza</strong> and <strong>Lakeside Field</strong>!</p>
+<p></p>
+<p>Check out what's happening</p>
