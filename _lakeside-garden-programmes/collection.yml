@@ -2,5 +2,6 @@ collections:
   lakeside-garden-programmes:
     output: true
     order:
+      - Lakeside Garden Programmes.md
       - Wave Plaza Programmes.md
       - Lakeside Field Programmes.md
