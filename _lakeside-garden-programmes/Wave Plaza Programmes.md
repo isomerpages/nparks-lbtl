@@ -9,8 +9,8 @@ description: ""
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/LBTL_Lantern_Riddle_2.jpg">
 </div>
 <p>📅 21 to 25 September 2026 (Mon – Fri)</p>
-<p>📍Wave Plaza, Lakeside Garden</p>
-<p>⏰7pm – 9pm</p>
+<p>📍 Wave Plaza, Lakeside Garden</p>
+<p>⏰ 7pm – 9pm</p>
 <p>Gather the family and put your wits to the test! Under the warm glow of
 lanterns, unravel traditional riddles for an evening of laughter, friendly
 competition, and festive fun. Can't make it down? Tune in to our official
@@ -97,7 +97,7 @@ renditions of our favourite songs.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Mediacorp_Lantern_KV.jpg">
 </div>
 <p>📅20 September 2026</p>
-<p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
+<p>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
 <p>⏰ 6:30pm - 7:30pm</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
