@@ -37,7 +37,9 @@ just like an artist and see the park's flora through a whole new lens.</p>
 <p>More information will be made available soon.</p>
 <p>&nbsp;</p>
 <h4><strong>ArtsEverywhere@CDC Performances</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/ArtsEverywhere_CDC.jpg">
+</div>
 <p>📅 19, 26 September 2026 (Saturdays)</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
 <p>⏰ 7pm – 9pm</p>
@@ -91,6 +93,9 @@ ART:DIS Singapore in celebrating their talent as they treat us to beloved
 renditions of our favourite songs.</p>
 <p>&nbsp;</p>
 <h4><strong>Mediacorp Lantern Trail and Animation Screening </strong>&nbsp;<br>新传媒灯笼园游会</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Mediacorp_Lantern_KV.jpg">
+</div>
 <p>📅20 September 2026</p>
 <p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
 <p>⏰ 6:30pm - 7:30pm</p>
