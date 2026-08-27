@@ -37,7 +37,7 @@ party — complete with a Silent Disco Moonwalk under the stars.</p>
 <h4><strong>Moonstruck 2026 – Watermarks of the Moon</strong></h4>
 <p>📅 25 and 26 September 2026
 <br>📍Guesthouse, Japanese Garden
-<br>⏰6:30pm, 8pm (2 sessions)</p>
+<br>⏰7:15pm and 8:30pm (2 sessions)</p>
 <p>Step inside the Guesthouse and enter another world. <em>Watermarks of the Moon</em> transforms
 this soaring timber-roofed space into an imagined lunar chamber — where
 a great circle adorns the wall as the moon, cascading cloth strips evoke
