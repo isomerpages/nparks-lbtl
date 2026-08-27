@@ -8,12 +8,15 @@ description: ""
 bring together play, culture, science and the arts. Step into Singapore’s
 shared childhood memories with <strong>Don’t Play Play – The Games That Shape Us</strong>,
 explore the wonders of the cosmos through <strong>Celestial Nights: Mid-Autumn Edition</strong>,
-and journey into an immersive lunar world with <strong>Moonstruck 2026 – Watermarks of the Moon</strong>.
-From nostalgic games and moonlit stargazing to mesmerising performance
+and journey into an immersive lunar world with <strong>Moonstruck 2026 – Watermarks of the Moon</strong>.</p>
+<p>From nostalgic games and moonlit stargazing to mesmerising performance
 and a cosmic silent disco, there’s something for everyone to discover,
-experience and enjoy under the September skies.</p>
-<p></p>
+experience and enjoy under the September skies ✨</p>
+<hr>
 <h4><strong>Don't Play Play – The Games That Shape Us by National Heritage Board</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/NHB_20_06_26_74.jpg">
+</div>
 <p>📅 14 – 27 September 2026
 <br>📍Resthouse, Japanese Garden
 <br>⏰ All Day (Stamp Activity only available from 19 Sep, 7pm – 10pm)</p>
