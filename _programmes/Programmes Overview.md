@@ -17,7 +17,7 @@ Lights by the Lake 2026!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong><a href="/lakeside-field-programmes/" rel="noopener nofollow" target="_blank">Lakeside Field Programmes</a></strong></h4>
+<h4><strong><a href="/lakeside-garden-programmes/" rel="noopener nofollow" target="_blank">Lakeside Garden Programmes</a></strong></h4>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -32,17 +32,6 @@ Lights by the Lake 2026!</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Rockestra/NParks_Rockestra.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong><a href="/wave-plaza-programmes/" rel="noopener nofollow" target="_blank">Wave Plaza Programmes</a></strong></h4>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/LBTL_Lantern_Riddle_2.jpg">
 </div>
 </td>
 </tr>
