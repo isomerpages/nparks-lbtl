@@ -4,9 +4,8 @@ permalink: /grand-arch-programmes/
 variant: tiptap
 description: ""
 ---
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/IMG_6086.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/IMG_6086.jpg">
 </div>
 <h4><strong>LED Lion Dances</strong></h4>
 <p>📅 20 and 27 September 2026 (Sundays)
