@@ -6,7 +6,7 @@ description: ""
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Square_Rockestra_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KV_2026_Rockestra.jpg">
 </div>
 <h4><strong>Hits Through the Decades🎶&nbsp;</strong></h4>
 <p><strong>📆</strong>: 19 September 2026 (Saturday)

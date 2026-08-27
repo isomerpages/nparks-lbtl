@@ -6,9 +6,8 @@ description: ""
 ---
 <h3><strong>Ficus Lawn Stage Programmes</strong></h3>
 <h4><strong>NParks Concert Series in the Park: Rockestra®</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Square_Rockestra_2026.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/KV_2026_Rockestra.jpg">
 </div>
 <p>📅 19 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
@@ -22,16 +21,20 @@ fusion of your favourite <strong>Mandopop and English hits</strong> brought
 to life by an incredible lineup – <strong>Supersonic</strong>, <strong>Music &amp; Drama Company</strong>, <strong>Shirlyn and the UnXpected</strong>,
 and <strong>ShiLi &amp; Adi </strong>– all on the Ficus Lawn stage.</p>
 <p>Hosting the night are <strong>Power98's JK</strong> and <strong>883JIA's Ben</strong>,
-so you know the energy is going to be through the roof. Want to make the
-night even more special? JK and Ben are giving away 100 Kakee picnic basket
-sets, each packed with goodies for two — the perfect way to enjoy the show
-under the stars. Head to @jkonthego98 and @883benlee on Instagram to find
-out how to enter. Winners will be notified in advance and invited to collect
-their baskets on the night, so keep an eye on your DMs! <em>Giveaway begins 30 Aug and ends 6 Sep 2026. </em>
+so you know the energy is going to be through the roof.</p>
+<p>Want to make the night even more special? JK and Ben are giving away 100
+Kakee picnic basket sets, each packed with goodies for two — the perfect
+way to enjoy the show under the stars. Head to @jkonthego98 and @883benlee
+on Instagram to find out how to enter. Winners will be notified in advance
+and invited to collect their baskets on the night, so keep an eye on your
+DMs! <em>Giveaway begins 30 Aug and ends 6 Sep 2026.</em>
 </p>
-<h4><strong>Mediacorp Lantern Trail and Animation Screening</strong><br>新传媒灯笼园游会</h4>
+<h4><strong>Mediacorp Lantern Trail and Animation Screening </strong>新传媒灯笼园游会</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/Mediacorp_Lantern_KV.jpg">
+</div>
 <p>📅 20 September 2026</p>
-<p>📍Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden ve Plaza</p>
+<p>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden ve Plaza</p>
 <p>⏰ 6:30pm - 7:30pm</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
@@ -49,7 +52,7 @@ for the premiere of Lil Wild and a showcase of short films under the stars.</p>
 on dementia by Bernard Lim, Director of Advocacy &amp; Communications,
 before we roll five films that together run approximately 100 minutes.</p>
 <p><em>A Singapore Dementia Story</em> is an anthology presented by Lien Foundation
-and Dementia Singapore, and produced by veteran producer Daniel Yun. Going
+and Dementia Singapore and produced by veteran producer Daniel Yun. Going
 beyond the diagnosis, these five short films celebrate the resilience,
 humour, and unwavering love of caregivers and persons living with dementia
 — spanning romance, comedy, thriller, and animation. In honour of World
@@ -133,17 +136,15 @@ come together.</p>
 <br>⏰ 8pm (26 Sep) and 7pm (27 Sep)</p>
 <p>Settle in on the Ficus Lawn for two family-friendly screenings (rated
 PG)!</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Migration.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Activities/Migration.jpg">
 </div>
 <p>In <strong>Migration (26 Sep, 8pm)</strong>, a family of ducks embarks
 on a hilarious and chaotic adventure when the overprotective dad finally
 agrees to take the family on a holiday – with unexpected detours and new
 friends along the way.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/The_Wild_Robot.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Activities/The_Wild_Robot.jpg">
 </div>
 <p>Then in <strong>The Wild Robot (27 Sep, 7pm)</strong>, follow the remarkable
 journey of a robot stranded on a wild island, who must adapt to her surroundings

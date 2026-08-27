@@ -4,9 +4,8 @@ permalink: /grand-arch-programmes/
 variant: tiptap
 description: ""
 ---
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/IMG_6086.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/IMG_6086.jpg">
 </div>
 <h4><strong>LED Lion Dances</strong></h4>
 <p>📅 20 and 27 September 2026 (Sundays)
@@ -16,6 +15,9 @@ description: ""
 the night in a spectacular burst of colour and rhythm, bringing good fortune
 and great vibes to the whole family.&nbsp;</p>
 <h4><strong>Mid-Autumn Festival: A Taste of Reunion – Travelling Exhibition by Sun Yat Sen Nanyang Memorial Hall</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/8__Mid_Autumn_Festival___A_Taste_of_Reunion_Travelling_Exhibition__Courtesy_of_Sun_Yat_Sen_Nanyang_Memorial_Hall_.jpg">
+</div>
 <p>📅 19 September – 4 October 2026
 <br>📍Grand Arch, Chinese Garden
 <br>⏰ All Day</p>
@@ -26,6 +28,9 @@ mooncake makers of Singapore in this travelling exhibition. Visitors can
 also pick up props available at the exhibition and snap some fun shots
 against the backdrop.</p>
 <h4><strong>Wan Qing Yuan: A Journey Through History and Heritage – Travelling Exhibition by Sun Yat Sen Nanyang Memorial Hall</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/9__Wan_Qing_Yuan___A_Journey_Through_History_And_Heritage_Travelling_Exhibition__Courtesy_of_Sun_Yat_Sen_Nanyang_Memorial_Hall_.jpg">
+</div>
 <p>📅 19 September – 4 October 2026
 <br>📍Grand Arch, Chinese Garden
 <br>⏰ All Day</p>
