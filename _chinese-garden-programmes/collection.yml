@@ -2,8 +2,8 @@ collections:
   chinese-garden-programmes:
     output: true
     order:
-      - Tea Pavilion Programmes.md
       - Chinese Garden Programmes.md
       - Grand Arch Programmes.md
       - Bonsai Garden Programmes.md
+      - Tea Pavilion Programmes.md
       - Ficus Lawn Stage Programmes.md
