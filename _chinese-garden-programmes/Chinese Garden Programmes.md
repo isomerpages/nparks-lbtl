@@ -4,9 +4,8 @@ permalink: /chinese-garden-programmes/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Lui_Yong_Sheng.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/3__Lui_Yong_Sheng.jpg">
 </div>
 <p>Photo credit: Lui Yong Sheng</p>
 <p>Steeped in history and beauty, the Chinese Garden comes alive this Mid-Autumn
