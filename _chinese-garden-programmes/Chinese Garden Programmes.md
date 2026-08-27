@@ -9,9 +9,9 @@ description: ""
 </div>
 <p><sup>Photo credit: Lui Yong Sheng</sup>
 </p>
-<p>Steeped in history and beauty, the Chinese Garden comes alive this Mid-Autumn
-with a rich array of programmes for the whole family. Follow the Legend
-of the White Snake through stunning<strong> lantern displays</strong> and
+<p>Steeped in history and beauty, the Chinese Garden transforms into a wonderland
+of light, culture and family fun!</p>
+<p>Follow the Legend of the White Snake through stunning<strong> lantern displays</strong> and
 a <strong>light show </strong>at the Cloud Pagoda, catch <strong>live performances</strong> at
 the Ficus Lawn, and explore the Bonsai Garden with <strong>hands-on activities</strong> and <strong>Hanfu dress-up and photo experience</strong>.
 Keep an eye out for the dazzling<strong> LED lion dances</strong>, and
