@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/IMG_6086.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/IMG_6086.jpg">
 </div>
 <h4><strong>LED Lion Dances</strong></h4>
 <p>📅 20 and 27 September 2026 (Sundays)
