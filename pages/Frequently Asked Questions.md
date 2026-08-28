@@ -101,12 +101,10 @@ performances at Wave Plaza (Lakeside Garden) and Guesthouse (Japanese Garden).</
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Festival F&amp;B options</u></strong></h4>
-<p>– Food Street at ​Lakeside Field (Muslim-owned stalls available)</p>
+<p>F&amp;B options are available at the Food Market at ​Lakeside Field (Halal
+options available) and dining options within the Gardens.</p>
 <p></p>
-<h4><strong><u>Dining options within the Gardens</u></strong></h4>
-<p>Click <a href="https://juronglakegardens.nparks.gov.sg/dining/" rel="noopener nofollow" target="_blank">here</a> to
-find more about the dining options within the Gardens.</p>
+<p>Find out more <a href="/food-and-drink/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
