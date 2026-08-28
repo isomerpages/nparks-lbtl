@@ -32,6 +32,16 @@ Nodes Network.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/Partners_montage.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/01_Supported_By.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/02_Official_Radio_Station.png">
+</div>
 <h4><strong>Lights by the Lake 2025 Highlights</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/45c5H24iJIc?si=JALrE31LSv3ABPWs"></iframe>
