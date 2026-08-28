@@ -113,11 +113,10 @@ find more about the dining options within the Gardens.</p>
 <h4><strong>Organised/Group Activities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Do I need a permit to conduct group activities during Lights by the Lake 2025?</strong>
+<summary><strong>Do I need a permit to conduct group activities during Lights by the Lake 2026?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Use of the Gardens for Organised/Group Activities</u></strong></h4>
 <p>In the interest of public safety and enhancing visitor experience, please
 note that group activity permits would be required for any organised trips
 (E.g., group activities, learning journeys, tours, pre-school visits etc)
@@ -128,7 +127,7 @@ of set-up, structure, equipment etc. is not permitted without prior approval
 of NParks.&nbsp;Activities promoting a cause or activities which inconvenience
 or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 <p></p>
-<p>Apply for a permit <a href="https://form.gov.sg/685e1f27deb0de5628f6637e" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Apply for a permit <a href="https://go.gov.sg/lbtlgroupactivity" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
@@ -139,9 +138,8 @@ or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>For feedback on Lights by the Lake 2025, click <a href="https://go.gov.sg/lbtl2025-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>For feedback on NParks Concert Series in the Park: Rockestra®, click
-<a href="https://go.gov.sg/rocksep24-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>To give feedback on Lights by the Lake 2026, click here.
+<br>For feedback on NParks Concert Series in the Park: Rockestra®, click here.
 <br>For feedback related to parks, greenery, plants or animals, click <a href="https://www.nparks.gov.sg/contact-us#feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
