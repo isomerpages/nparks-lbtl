@@ -42,6 +42,13 @@ Nodes Network.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/02_Official_Radio_Station.png">
 </div>
+<p>Please note that Jurong Lake Gardens is a <strong>smoke-free Garden</strong>.
+Visitors to Lights by the Lake are reminded that open flames such as candlelit
+lanterns and sparklers are <strong>not </strong>permitted in the Gardens.</p>
+<p>Additionally, visitors are encouraged to go car-lite and travel to the
+garden via <a href="/by-public-transport" rel="noopener nofollow" target="_blank">public transport</a>.
+As large numbers of pedestrians are expected, cyclists are advised to either
+park their bicycles at the designated areas, or dismount and push.</p>
 <h4><strong>Lights by the Lake 2025 Highlights</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/45c5H24iJIc?si=JALrE31LSv3ABPWs"></iframe>
