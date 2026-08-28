@@ -4,7 +4,7 @@ permalink: /grand-arch-programmes/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Guided Tours of Edible Garden </strong></h4>
+<h4><strong>Guided Tours of Edible Garden</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/CG_EG.jpg">
 </div>
