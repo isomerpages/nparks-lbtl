@@ -11,8 +11,7 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Ticketing for Lights by the Lake 2025</u></strong></h4>
-<p>Tickets are not required – admission is free for Lights by the Lake 2025.​</p>
+<p>Tickets are not required – admission is free for Lights by the Lake 2026.​</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -20,23 +19,20 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Festival Duration</u></strong></h4>
-<p>The festival will take place across 16 days: 27 September to 12 October
-2025, with various timings for each programme.</p>
+<p>The festival will take place from 19 September to 27 September 2026 (Lantern
+displays till 4 Oct 2026), with various timings for each programme.</p>
 </div>
 </details>
 </div>
 <h4><strong>Directions</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>How do I get to Lights by the Lake 2025?</strong>
+<summary><strong>How do I get to Lights by the Lake 2026?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Getting to Lights by the Lake 2025</u></strong></h4>
-<p>Walk, cycle, or hop on <a href="https://lightsbythelake.nparks.gov.sg/by-public-transport/" rel="noopener nofollow" target="_blank"><u>public transport</u></a> to
-explore Jurong Lake Gardens! Let’s choose active commutes for a greener
-and healthier lifestyle this World Car-Free Day!</p>
+<p>Walk, cycle, or hop on <a href="/by-public-transport/" rel="noopener nofollow" target="_blank"><u>public transport</u></a> to
+explore Jurong Lake Gardens!</p>
 <p></p>
 <p>Getting here by private transport? Click <a href="/by-private-transport/" rel="noopener nofollow" target="_blank">here</a> for more information.</p>
 </div>
@@ -46,7 +42,6 @@ and healthier lifestyle this World Car-Free Day!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Cruiser Services during Lights by the Lake 2025</u></strong></h4>
 <p>No cruiser services will be available during the festival.​</p>
 </div>
 </details>
@@ -58,7 +53,6 @@ and healthier lifestyle this World Car-Free Day!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Festival Programmes</u></strong></h4>
 <p>Visitors can expect a wide range of activities such as lantern displays,
 guided tours, a Mandopop &amp; English-themed concert, cultural showcases
 and music performances, lantern riddles, light shows, and more!</p>
@@ -69,7 +63,6 @@ and music performances, lantern riddles, light shows, and more!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Kid-friendly/Family-friendly Activities</u></strong></h4>
 <p>Families can look forward to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -94,9 +87,10 @@ and music performances, lantern riddles, light shows, and more!</p>
 <summary><strong>Are there any concerts/performances during this festival?​</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>NParks Concert Series in the Park: Rockestra® will take place on 11 October
+<p></p>
+<p>NParks Concert Series in the Park: Rockestra® will take place on 19 September
 at Ficus Lawn (Chinese Garden), alongside cultural showcases and music
-performances at Wave Plaza.</p>
+performances at Wave Plaza (Lakeside Garden) and Guesthouse (Japanese Garden).</p>
 </div>
 </details>
 </div>
@@ -145,7 +139,6 @@ or cause discomfort to other visitors will not be permitted.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong><u>Send us your feedback</u></strong></h4>
 <p>For feedback on Lights by the Lake 2025, click <a href="https://go.gov.sg/lbtl2025-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>For feedback on NParks Concert Series in the Park: Rockestra®, click
 <a href="https://go.gov.sg/rocksep24-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a>.
