@@ -42,7 +42,7 @@ just like an artist and see the park's flora through a whole new lens.</p>
 </div>
 <p>📅 19, 26 September 2026 (Saturdays)</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 7pm – 9pm</p>
+<p>⏰ 6:30pm – 9pm</p>
 <p>ArtsEverywhere @ CDC brings quality arts performances and experiences
 to the heartlands, making the arts a natural and accessible part of everyday
 neighbourhood life. From large-scale performances by established arts groups
