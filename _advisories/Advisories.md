@@ -28,7 +28,7 @@ expected for Lights by the Lake. For everyone's safety, please:</p>
 <p>Dismount and push bikes in 'No Cycling Zones' and crowded event areas</p>
 </li>
 <li>
-<p>Park bicycles neatly</p>
+<p>Park bicycles neatly at <a href="/files/JLG_Map.pdf" rel="noopener noreferrer nofollow" target="_blank">designated bike parking areas</a>.</p>
 </li>
 <li>
 <p>Keep paths clear and watch out for other visitors</p>
@@ -98,7 +98,7 @@ the health and well-being of all visitors.</p>
 <p>As large numbers of pedestrians are expected, cyclists are advised to
 either park their bicycles at the designated areas, or dismount and push.</p>
 <p></p>
-<p>For more information on designated bike parking areas, click <a href="/cycling-in-jlg" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For more information on designated bike parking areas, click <a href="/files/JLG_Map.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
