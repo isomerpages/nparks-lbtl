@@ -33,7 +33,6 @@ displays till 4 Oct 2026), with various timings for each programme.</p>
 <p></p>
 <p>Walk, cycle, or hop on <a href="/by-public-transport/" rel="noopener nofollow" target="_blank"><u>public transport</u></a> to
 explore Jurong Lake Gardens!</p>
-<p></p>
 <p>Getting here by private transport? Click <a href="/by-private-transport/" rel="noopener nofollow" target="_blank">here</a> for more information.</p>
 </div>
 </details>
@@ -55,7 +54,8 @@ explore Jurong Lake Gardens!</p>
 <p></p>
 <p>Visitors can expect a wide range of activities such as lantern displays,
 guided tours, a Mandopop &amp; English-themed concert, cultural showcases
-and music performances, lantern riddles, light shows, and more!</p>
+and music performances, lantern riddles, light shows, and more! Find out
+more on the <strong><a href="/programmes-overview/" rel="noopener nofollow" target="_blank">Programmes</a></strong> page.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -63,24 +63,8 @@ and music performances, lantern riddles, light shows, and more!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Families can look forward to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Cultural showcases and music performances at Wave Plaza</p>
-</li>
-<li>
-<p>NParks Concert Series in the Park: Rockestra® at Ficus Lawn (Chinese Garden)</p>
-</li>
-<li>
-<p>Programmes by PAssionWave @ Jurong Lake Gardens</p>
-</li>
-<li>
-<p>Roving Art Truck by National Gallery Singapore at Wave Plaza</p>
-</li>
-<li>
-<p>Astronomy Open House by Science Centre Singapore</p>
-</li>
-</ul>
+<p>Yes, there are plenty of family-friendly activities at the festival! Find
+out more on the <strong><a href="/programmes-overview/" rel="noopener nofollow" target="_blank">Programmes</a></strong> page.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -90,7 +74,8 @@ and music performances, lantern riddles, light shows, and more!</p>
 <p></p>
 <p>NParks Concert Series in the Park: Rockestra® will take place on 19 September
 at Ficus Lawn (Chinese Garden), alongside cultural showcases and music
-performances at Wave Plaza (Lakeside Garden) and Guesthouse (Japanese Garden).</p>
+performances at Wave Plaza (Lakeside Garden), Guesthouse (Japanese Garden)
+and Grand Arch (Chinese Garden) on various days. Find out more on the <strong><a href="/programmes-overview/" rel="noopener nofollow" target="_blank">Programmes</a></strong> page.</p>
 </div>
 </details>
 </div>
