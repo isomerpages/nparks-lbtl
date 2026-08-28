@@ -18,4 +18,3 @@ the little ones bounce and play to their hearts’ content at <strong>Families f
 or feast on irresistible local and international favourites at the <strong>Food Market</strong>.</p>
 <p>Tap on the menu to find out more about what's going on at <strong>Wave Plaza</strong> and <strong>Lakeside Field</strong>!</p>
 <p></p>
-<p>Check out what's happening</p>
