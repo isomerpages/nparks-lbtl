@@ -4,10 +4,117 @@ permalink: /grand-arch-programmes/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Guided Tours of Edible Garden </strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/CG_EG.jpg">
+</div>
+<p>📅 19, 20, 26, and 27 September 2026 (Weekends)
+<br>📍 Grand Arch, Chinese Garden
+<br>⏰ 6pm – 7pm
+<br>🔗 Registration required</p>
+<p>Ever wondered where your food comes from? Join our guided tour of the
+Edible Garden and discover the fascinating world of fruits and vegetables
+– from seed to table. A fun and eye-opening experience for the whole family!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date &amp; Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Route &amp; Meeting Point</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Registration Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Sep (Sat), 6pm to 7pm</p>
+</td>
+<td rowspan="4" colspan="1">
+<p><strong>Route:</strong> Edible Garden at Chinese Garden</p>
+<p></p>
+<p><strong>Meeting Point:</strong> Grand Arch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_113/2141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p>&nbsp;</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_114/3141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Sep (Sun), 6pm to 7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_115/3142_Edible-Garden-Tour-Chinese-Garden-20-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p>&nbsp;</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_116/3143_Edible-Garden-Tour-Chinese-Garden-20-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Sep (Sat), 6pm to 7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_117/3144_Edible-Garden-Tour-Chinese-Garden-26-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p>&nbsp;</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_118/3145_Edible-Garden-Tour-Chinese-Garden-26-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Sep (Sun), 6pm to 7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_119/3146_Edible-Garden-Tour-Chinese-Garden-27-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
+</p>
+<p>&nbsp;</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_120/3147_Edible-Garden-Tour-Chinese-Garden-27-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All participants must be registered to join this tour.</p>
+</li>
+<li>
+<p>Please wear comfortable clothes and walking shoes, and bring along a water
+bottle and an umbrella/poncho (in the event of wet weather).</p>
+</li>
+<li>
+<p>In the event of light rain, the tour will still proceed. However, in the
+case of heavy rain, the tour will not proceed.</p>
+</li>
+<li>
+<p>Registration will close 3 days before the tour, or when registration is
+full.</p>
+</li>
+<li>
+<p>Successful applicants will receive a confirmation email at least 3 working
+days before the tour.</p>
+</li>
+</ul>
+<h4><strong>LED Lion Dances</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/IMG_6086.jpg">
 </div>
-<h4><strong>LED Lion Dances</strong></h4>
 <p>📅 20 and 27 September 2026 (Sundays)
 <br>📍Grand Arch, Chinese Garden
 <br>⏰ 7:45pm and 8:45pm (Two sessions)</p>
