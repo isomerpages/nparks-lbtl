@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/4__Goh_En_Xuan.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Activities/4__Goh_En_Xuan.jpg">
 </div>
 <p><sup>Photo: Goh En Xuan</sup>
 </p>
