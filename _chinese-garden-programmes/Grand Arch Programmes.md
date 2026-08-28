@@ -10,7 +10,7 @@ description: ""
 <h4><strong>LED Lion Dances</strong></h4>
 <p>📅 20 and 27 September 2026 (Sundays)
 <br>📍Grand Arch, Chinese Garden
-<br>⏰ 7:45pm and 8:45pm (Two Sessions)</p>
+<br>⏰ 7:45pm and 8:45pm (Two sessions)</p>
 <p>Feel the beat, feel the energy! Our dazzling LED lion dance lights up
 the night in a spectacular burst of colour and rhythm, bringing good fortune
 and great vibes to the whole family.&nbsp;</p>
