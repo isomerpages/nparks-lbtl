@@ -18,11 +18,11 @@ links:
         url: /chinese-garden-programmes/
       - title: Japanese Garden Programmes
         url: /japanese-garden-programmes/
-      - title: Around the Gardens
-        url: /around-the-gardens/
   - title: F&B
     url: /food-and-drink
   - title: Getting here
     collection: getting-to-lights-by-the-lake
   - title: Advisories
     url: /advisories/
+  - title: FAQS
+    url: /frequently-asked-questions/

@@ -1,5 +1,0 @@
-collections:
-  around-the-gardens:
-    output: true
-    order:
-      - Around the Gardens.md

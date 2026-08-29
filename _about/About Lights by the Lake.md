@@ -18,11 +18,37 @@ of the Mid-Autumn Festival.</p>
 showcases, music performances, tours, exhibitions, family-friendly activities
 and more in this extraordinary celebration of culture, art, and community
 under the autumn moon!</p>
-<p>Lights by the Lake is organised by National Parks Board.</p>
+<p>Lights by the Lake 2026 is organised by National Parks Board, with special
+thanks to our partners Arts Fission, DementiaSG, Families for Life, Kakee,
+Mediacorp, Music and Drama Company, Nanyang Inc., National Gallery Singapore,
+National Heritage Board, PAssionArts Festival, People's Association, PAssionWave,
+Science Centre Singapore, Singapore Chinese Orchestra, South West Community
+Development Council, Sun Yat Sen Nanyang Memorial Hall, Taman Jurong C2E
+and Yuhua C2E.</p>
+<p>The Official Radio Station for Lights by the Lake 2026 is LOVE972.</p>
+<p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
+Nodes Network.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/Partners_montage.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/01_Supported_By.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/02_Official_Radio_Station.png">
+</div>
+<p>Please note that Jurong Lake Gardens is a <strong>smoke-free Garden</strong>.
+Visitors to Lights by the Lake are reminded that open flames such as candlelit
+lanterns and sparklers are <strong>not </strong>permitted in the Gardens.</p>
+<p>Additionally, visitors are encouraged to go car-lite and travel to the
+garden via <a href="/by-public-transport" rel="noopener nofollow" target="_blank">public transport</a>.
+As large numbers of pedestrians are expected, cyclists are advised to either
+park their bicycles at the designated areas, or dismount and push.</p>
 <h4><strong>Lights by the Lake 2025 Highlights</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/45c5H24iJIc?si=JALrE31LSv3ABPWs"></iframe>
