@@ -33,8 +33,16 @@ just like an artist and see the park's flora through a whole new lens.</p>
 <h4><strong>Taman Jurong CACC PAssion Arts Festival: Slow Threads</strong></h4>
 <p>📅 19 - 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 7pm – 9pm</p>
-<p>More information will be made available soon.</p>
+<p>⏰ 6:30pm – 9:30pm</p>
+<h4>Arts Activities (TBC)</h4>
+<h4>Performances (20 Sep)</h4>
+<p>As the sun sets over the lake, the stage comes alive. Kick off the evening
+with enchanting puppet storytelling — handcrafted characters weaving tales
+of community and wonder for all ages. Next, the New Gen Wind Symphony takes
+over with a heartfelt, genre-spanning set that's homegrown and full of
+energy. The puppets return for a second showing with a brand new story,
+before a live busker closes the night with an intimate, unhurried set under
+the open sky. The perfect end to an evening of making, magic, and togetherness.</p>
 <p>&nbsp;</p>
 <h4><strong>ArtsEverywhere@CDC Performances</strong></h4>
 <div class="isomer-image-wrapper">

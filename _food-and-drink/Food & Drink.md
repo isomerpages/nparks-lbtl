@@ -88,7 +88,7 @@ I Black Sesame Egg Yolk I Caramel Coffee Macadamia</p>
 60 BONUS STARS per box from 3<sup>rd</sup> box and more.
 <br><em>While stocks last. T&amp;Cs apply.</em>
 </p>
-<h4>Fusion Spoon</h4>
+<h4><strong>Fusion Spoon</strong></h4>
 <p>📅 19 – 30 September 2026
 <br>📍Lakeside Garden</p>
 <p>Celebrate Mid-Autumn in the most delicious way! Whether you're dining
