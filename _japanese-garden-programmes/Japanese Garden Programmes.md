@@ -26,7 +26,7 @@ for an unhurried escape from daily chaos.</p>
 </div>
 <p>📅 14 – 27 September 2026
 <br>📍Resthouse, Japanese Garden
-<br>⏰ All Day (Stamp Activity only available on weekends, 7pm – 10pm)</p>
+<br>⏰ All Day (Stamp Activity available from 19 Sep, 7pm – 10pm)</p>
 <p>Remember Snakes &amp; Ladders at the void deck? Aeroplane Chess on a lazy
 afternoon? Board games are more than just a pastime – they are part of
 a shared collective memory of growing up in Singapore, bringing people
