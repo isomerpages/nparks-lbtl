@@ -56,7 +56,8 @@ a special discount on limited-edition Quby pins, while stocks last.</p>
 lights, music, and DJs transform our science galleries into a cosmic dance
 party –<strong> </strong>complete with a Silent Disco Moonwalk under the
 stars.</p>
-<p>&nbsp;</p>
+<p>Find out more about Science Centre's programmes <a href="https://www.science.edu.sg/whats-on/celestial-nights" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h4><strong>Moonstruck 2026 – Watermarks of the Moon 《水渍月印》</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Watermarks_of_the_Moon___Website.jpg">
