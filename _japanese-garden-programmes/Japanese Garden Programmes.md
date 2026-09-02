@@ -26,7 +26,7 @@ for an unhurried escape from daily chaos.</p>
 </div>
 <p>📅 14 – 27 September 2026
 <br>📍Resthouse, Japanese Garden
-<br>⏰ All Day (Stamp Activity available from 19 Sep, 7pm – 10pm)</p>
+<br>⏰ All day (Stamp activity available from 19 Sep, 7pm – 10pm)</p>
 <p>Remember Snakes &amp; Ladders at the void deck? Aeroplane Chess on a lazy
 afternoon? Board games are more than just a pastime – they are part of
 a shared collective memory of growing up in Singapore, bringing people
@@ -40,7 +40,7 @@ to complete your very own airplane chess board to take home and play!</p>
 </div>
 <p>📅 25 and 26 September 2026
 <br>📍Water Lily Pavilion, Japanese Garden
-<br>⏰ 6:30pm - 10pm</p>
+<br>⏰ 6:30pm – 10pm</p>
 <p>This Mid-Autumn Festival, join Science Centre for a magical evening where
 science meets culture beneath the stars. Gaze upon Saturn rising in the
 evening sky and take in the beauty of the full moon during our enchanting
@@ -63,8 +63,8 @@ stars.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Watermarks_of_the_Moon___Website.jpg">
 </div>
 <p>📅 25 and 26 September 2026
-<br>📍Guesthouse, Japanese Garden
-<br>⏰7:15pm and 8:30pm (2 sessions)</p>
+<br>📍 Guesthouse, Japanese Garden
+<br>⏰ 7:15pm and 8:30pm (2 sessions)</p>
 <p>As twilight falls, enter a quiet realm of reflection and light. <strong><em>Watermarks of the Moon</em> 《水渍月印》</strong> invites
 you into a lunar chamber where time slows to a trickle. Here, you are invited
 to pause upon the traces of a once-shimmering waterfall,&nbsp;discover
