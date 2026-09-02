@@ -127,7 +127,7 @@ and great vibes to the whole family.&nbsp;</p>
 </div>
 <p>📅 19 September – 4 October 2026
 <br>📍Grand Arch, Chinese Garden
-<br>⏰ All Day</p>
+<br>⏰ All day</p>
 <p>"Mid-Autumn Festival: A Taste of Reunion" highlights the spirit of the
 Mid-Autumn Festival and its cultural significance on family reunion and
 kinship love, featuring information about the mooncake moulds and artisanal
@@ -140,7 +140,7 @@ against the backdrop.</p>
 </div>
 <p>📅 19 September – 4 October 2026
 <br>📍Grand Arch, Chinese Garden
-<br>⏰ All Day</p>
+<br>⏰ All day</p>
 <p>Did you know that Wan Qing Yuan was originally known as the Bin Chan House?
 Or did you know that the villa once served as the residence of prominent
 local figures and has witnessed significant historical events? This exhibition
