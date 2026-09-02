@@ -31,13 +31,13 @@ to our <em>Lotus in a Breeze</em> photo spot, where you can "paint" the scene
 just like an artist and see the park's flora through a whole new lens.</p>
 <p>&nbsp;</p>
 <h4><strong>Taman Jurong CACC PAssion Arts Festival: Slow Threads</strong></h4>
-<p>📅 19 - 20 September 2026</p>
+<p>📅 19 – 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
 <p>⏰ 6:30pm – 9:30pm</p>
-<h4>Arts Activities (TBC)</h4>
-<h4>Performances (20 Sep)</h4>
+<h4><strong>Arts Activities (TBC)</strong></h4>
+<h4><strong>Performances (20 Sep)</strong></h4>
 <p>As the sun sets over the lake, the stage comes alive. Kick off the evening
-with enchanting puppet storytelling — handcrafted characters weaving tales
+with enchanting puppet storytelling – handcrafted characters weaving tales
 of community and wonder for all ages. Next, the New Gen Wind Symphony takes
 over with a heartfelt, genre-spanning set that's homegrown and full of
 energy. The puppets return for a second showing with a brand new story,
@@ -104,9 +104,9 @@ renditions of our favourite songs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Mediacorp_Lantern_KV.jpg">
 </div>
-<p>📅20 September 2026</p>
+<p>📅 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
-<p>⏰ 6:30pm - 7:30pm</p>
+<p>⏰ 6:30pm – 7:30pm</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
 the rich traditions of Chinese culture. Set against the scenic backdrop
@@ -129,7 +129,7 @@ keepsake to remember the night by.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Chinese_Calligraphy_1.jpg">
 </div>
 <p>📅 26 and 27 September 2026
-<br>⏰3pm - 6pm
+<br>⏰ 3pm - 6pm
 <br>🔗 Registration required – opening soon</p>
 <p>Discover the beauty of Chinese calligraphy through a hands-on introduction
 to basic brush strokes and techniques. Participants can try their hand
@@ -141,7 +141,7 @@ created by the trainer.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Zentangle_art_2.jpg">
 </div>
 <p>📅 26 September 2026 (Saturday)
-<br>⏰3pm - 5pm
+<br>⏰3pm – 5pm
 <br>🔗 Registration required – opening soon</p>
 <p>Unwind and get creative with the Art of Zentangle, an easy-to-learn and
 relaxing method of drawing using simple, structured patterns. In this 30-minute
@@ -153,7 +153,7 @@ No art experience is required, making it suitable for everyone.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/Clay_Lantern_Keychain_Craft_2.jpg">
 </div>
 <p>📅 26 and 27 September 2026
-<br>⏰3pm - 6pm
+<br>⏰3pm – 6pm
 <br>🔗 Registration required – opening soon</p>
 <p>Celebrate the Mid-Autumn Festival by crafting your very own Clay Lantern
 Keychain! Inspired by the warmth and togetherness of the festival, participants
