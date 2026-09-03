@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong>Lights by the Lake 2026</strong> is organised by the <a href="https://www.nparks.gov.sg/" rel="noopener nofollow" target="_blank">National Parks Board</a>,
-with special thanks to our partners <a href="https://www.artsfission.org/" rel="noopener nofollow" target="_blank">Arts Fission</a>, <a href="https://dementia.org.sg/" rel="noopener nofollow" target="_blank">DementiaSG</a>,
-<a href="https://kakee.sg/" rel="noopener nofollow" target="_blank">Kakee</a>, <a href="https://www.mediacorp.sg/" rel="noopener nofollow" target="_blank">Mediacorp</a>,
-<a href="https://www.familiesforlife.sg/" rel="noopener nofollow" target="_blank">Ministry of Social and Family Development Families for Life</a>, <a href="https://sodrama.sg/" rel="noopener nofollow" target="_blank">Music and Drama Company</a>,
-<a href="https://nanyanginc.com/" rel="noopener nofollow" target="_blank">Nanyang Inc</a>, <a href="https://www.nationalgallery.sg/" rel="noopener nofollow" target="_blank">National Gallery Singapore</a>,
+with special thanks to our partners <a href="https://www.artsfission.org/" rel="noopener nofollow" target="_blank">Arts Fission</a>, <a href="https://www.aux.com.sg/" rel="noopener nofollow" target="_blank">Aux Media Group</a>,
+<a href="https://dementia.org.sg/" rel="noopener nofollow" target="_blank">DementiaSG</a>, <a href="https://kakee.sg/" rel="noopener nofollow" target="_blank">Kakee</a>,
+<a href="https://www.mediacorp.sg/" rel="noopener nofollow" target="_blank">Mediacorp</a>, <a href="https://www.familiesforlife.sg/" rel="noopener nofollow" target="_blank">Ministry of Social and Family Development Families for Life</a>,
+<a href="https://sodrama.sg/" rel="noopener nofollow" target="_blank">Music and Drama Company</a>, <a href="https://nanyanginc.com/" rel="noopener nofollow" target="_blank">Nanyang Inc</a>, <a href="https://www.nationalgallery.sg/" rel="noopener nofollow" target="_blank">National Gallery Singapore</a>,
 <a href="https://www.nhb.gov.sg/" rel="noopener nofollow" target="_blank">National Heritage Board</a>, <a href="https://www.pa.gov.sg/our-network/passion-wave/passionwave-juronglakegardens/" rel="noopener nofollow" target="_blank">PAssion Wave</a>,
 <a href="https://www.pa.gov.sg/our-programmes/community-arts/" rel="noopener nofollow" target="_blank">People's Association</a>, <a href="https://www.science.edu.sg/" rel="noopener nofollow" target="_blank">Science Centre Singapore</a>,
 <a href="https://sco.com.sg/" rel="noopener nofollow" target="_blank">Singapore Chinese Orchestra</a>, <a href="https://southwest.cdc.gov.sg/" rel="noopener nofollow" target="_blank">South West Community Development Council</a>,
@@ -22,7 +22,7 @@ Nodes Network.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/Partners_montage_2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/Partners_montage_3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
