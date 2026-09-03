@@ -57,7 +57,7 @@ more information on dining options within the Gardens.</p>
 <h4><strong>Bouncy Castles and Games by Families for Life</strong></h4>
 <p>📅 19, 20, 26, 27 September 2026 (Weekends)</p>
 <p>📍 Lakeside Field, Lakeside Garden</p>
-<p>⏰ 6:30pm – 10:30pm daily</p>
+<p>⏰ 6:30pm – 10:30pm</p>
 <p>Let the whole family loose! Bounce off some energy in our large and medium
 bouncy castles, then head to our game stations for some friendly competition
 — and walk away with a free temporary tattoo or sticker sheet!</p>
