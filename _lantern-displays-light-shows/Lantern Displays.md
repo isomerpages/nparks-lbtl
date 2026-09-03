@@ -93,7 +93,7 @@ and its companions bring festive cheer, symbolising joy, luck, and abundance
 for all.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Cloud Pagoda –  Scene 6 – Legend of the White Snake: The Reunion (白蛇传: 情归团圆)</strong>
+<summary><strong>Cloud Pagoda – Scene 6 – Legend of the White Snake: The Reunion (白蛇传: 情归团圆)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The enduring tale of Bai Suzhen, Xu Xian, Xiao Qing, and Fa Hai has touched
@@ -127,14 +127,14 @@ cheer, hoping to bring joy, luck, abundance, and peace to everyone.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Chinese Garden Gate –  A Moonlit Reverie (月过中秋)</strong>
+<summary><strong>Chinese Garden Gate – A Moonlit Reverie (月过中秋)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>White Rainbow Bridge –  Blossoms of Prosperity (花开富贵)</strong>
+<summary><strong>White Rainbow Bridge – Blossoms of Prosperity (花开富贵)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
