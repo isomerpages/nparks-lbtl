@@ -21,7 +21,7 @@ under the autumn moon!</p>
 <p>Lights by the Lake 2026 is organised by National Parks Board, with special
 thanks to our partners Arts Fission, DementiaSG, Kakee, Mediacorp, Ministry
 of Social and Family Development Families for Life, Music and Drama Company,
-Nanyang Inc., National Gallery Singapore, National Heritage Board, PAssionWave,
+Nanyang Inc, National Gallery Singapore, National Heritage Board, PAssionWave,
 People's Association, Science Centre Singapore, Singapore Chinese Orchestra,
 South West Community Development Council, Sun Yat Sen Nanyang Memorial
 Hall, Taman Jurong C2E and Yuhua C2E.</p>
