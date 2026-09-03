@@ -19,12 +19,12 @@ showcases, music performances, tours, exhibitions, family-friendly activities
 and more in this extraordinary celebration of culture, art, and community
 under the autumn moon!</p>
 <p>Lights by the Lake 2026 is organised by National Parks Board, with special
-thanks to our partners Arts Fission, DementiaSG, Kakee, Mediacorp, Ministry
-of Social and Family Development Families for Life, Music and Drama Company,
-Nanyang Inc, National Gallery Singapore, National Heritage Board, PAssion
-Wave, People's Association, Science Centre Singapore, Singapore Chinese
-Orchestra, South West Community Development Council, Sun Yat Sen Nanyang
-Memorial Hall, Taman Jurong C2E and Yuhua C2E.</p>
+thanks to our partners Arts Fission, Aux Media Group, DementiaSG, Kakee,
+Mediacorp, Ministry of Social and Family Development Families for Life,
+Music and Drama Company, Nanyang Inc, National Gallery Singapore, National
+Heritage Board, PAssion Wave, People's Association, Science Centre Singapore,
+Singapore Chinese Orchestra, South West Community Development Council,
+Sun Yat Sen Nanyang Memorial Hall, Taman Jurong C2E and Yuhua C2E.</p>
 <p>The Official Radio Station for Lights by the Lake 2026 is LOVE972.</p>
 <p>Jurong Lake Gardens is part of the National Arts Council's Arts and Culture
 Nodes Network.</p>
