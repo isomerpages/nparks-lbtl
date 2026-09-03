@@ -1,5 +1,7 @@
 logo: /images/Partners & Logos/JLG_Secondary_Logo.png
 links:
+  - title: About
+    url: /About
   - title: Lantern Displays & Light Shows
     url: /lantern-displays/
     sublinks:
