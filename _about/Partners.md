@@ -4,8 +4,8 @@ permalink: /partners/
 variant: tiptap
 description: ""
 ---
-<p><strong>Lights by the Lake 2026</strong> is organised by National Parks
-Board, with special thanks to our partners <a href="https://www.artsfission.org/" rel="noopener nofollow" target="_blank">Arts Fission</a>, <a href="https://dementia.org.sg/" rel="noopener nofollow" target="_blank">DementiaSG</a>,
+<p><strong>Lights by the Lake 2026</strong> is organised by the <a href="https://www.nparks.gov.sg/" rel="noopener nofollow" target="_blank">National Parks Board</a>,
+with special thanks to our partners <a href="https://www.artsfission.org/" rel="noopener nofollow" target="_blank">Arts Fission</a>, <a href="https://dementia.org.sg/" rel="noopener nofollow" target="_blank">DementiaSG</a>,
 <a href="https://kakee.sg/" rel="noopener nofollow" target="_blank">Kakee</a>, <a href="https://www.mediacorp.sg/" rel="noopener nofollow" target="_blank">Mediacorp</a>,
 <a href="https://www.familiesforlife.sg/" rel="noopener nofollow" target="_blank">Ministry of Social and Family Development Families for Life</a>, <a href="https://sodrama.sg/" rel="noopener nofollow" target="_blank">Music and Drama Company</a>,
 <a href="https://nanyanginc.com/" rel="noopener nofollow" target="_blank">Nanyang Inc</a>, <a href="https://www.nationalgallery.sg/" rel="noopener nofollow" target="_blank">National Gallery Singapore</a>,
