@@ -115,6 +115,18 @@ and preserve a cherished cultural heritage for future generations.</p>
 <p>Participants will embark on a symbolic lantern trail, carrying illuminated
 lanterns through the gardens before gathering at the finale screening area
 for the premiere of Lil Wild and a showcase of short films under the stars.</p>
+<h4><strong>Night Dragonboat Tours by PAssion Wave @ JLG</strong></h4>
+<p>📅 26 September 2026</p>
+<p>📍PAssionWave, Lakeside Garden</p>
+<p>⏰6pm –10pm (four sessions)</p>
+<p>🔗 Register and find out more <a href="" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p>The Night Dragon Boat Paddling Experience is a new initiative by PAssion
+Wave @ Jurong Lake Gardens, marking the first night dragon boating that
+has been introduced as part of Lights by the Lake at Jurong Lake Gardens.
+Participants can look forward to an exciting paddling experience along
+the lake at night, while also discovering the rich heritage of the Chinese
+Garden.</p>
 <h4><strong>PAssion Wave @ JLG Programmes</strong></h4>
 <p>📍 Viewing Gallery (Level 2), PAssion Wave @ JLG</p>
 <p>Get hands-on this Mid-Autumn with a weekend of creative activities for
@@ -159,3 +171,6 @@ No art experience is required, making it suitable for everyone.</p>
 Keychain! Inspired by the warmth and togetherness of the festival, participants
 will use cheerful shades of yellow, orange and blue to create a charming
 lantern keychain to bring home as a keepsake.</p>
+<p></p>
+<p></p>
+<p></p>
