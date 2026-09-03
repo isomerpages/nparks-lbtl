@@ -83,7 +83,7 @@ separated.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Scene 6 – Legend of the White Snake: The Reunion</strong>
+<summary><strong>Scene 6 – Legend of the White Snake: The Reunion (白蛇传: 情归团圆)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The enduring tale of Bai Suzhen, Xu Xian, Xiao Qing, and Fa Hai has touched
