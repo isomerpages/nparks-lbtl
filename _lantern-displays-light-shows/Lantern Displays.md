@@ -8,7 +8,7 @@ description: ""
 <p>📍 Lakeside Field, Lakeside Garden | Cloud Pagoda &amp; Cleansing Biotope
 Ponds, Chinese Garden | Floral Garden &amp; Resthouse Pond, Japanese Garden</p>
 <p>⏰ 6:30pm – 10:30pm daily</p>
-<h4><strong>📍 Lakeside Field, Lakeside Garden</strong></h4>
+<h4><strong>📍 Lakeside Garden</strong><br><strong>Lakeside Field</strong></h4>
 <p>Lights by the Lake 2026 takes visitors on a journey through The Legend
 of the White Snake, one of China's most beloved folk tales. Across five
 scenes set along Lakeside Field, the lantern displays trace the story of
@@ -82,8 +82,18 @@ for Xu Xian, Bai Suzhen is ultimately defeated, and the couple remains
 separated.</p>
 </div>
 </details>
+</div>
+<h4><strong>📍 Chinese Garden</strong><br><strong>Cloud Pagoda, Cleansing Biotope Ponds, Chinese Garden Gate, White Rainbow Bridge</strong></h4>
+<p>Tying in with the spirit of the Mid-Autumn Festival, the displays at the
+Cleansing Biotope Ponds centre on Chang'e, the Moon Goddess of Chinese
+legend. One display depicts Chang'e in her celestial home, surrounded by
+lotus flowers, gazing down upon the mortal world – a gentle reminder that
+loved ones remain connected under the same moon. Nearby, the Jade Rabbit
+and its companions bring festive cheer, symbolising joy, luck, and abundance
+for all.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Scene 6 – Legend of the White Snake: The Reunion</strong>
+<summary><strong>Cloud Pagoda – Scene 6 – Legend of the White Snake: The Reunion (白蛇传: 情归团圆)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The enduring tale of Bai Suzhen, Xu Xian, Xiao Qing, and Fa Hai has touched
@@ -94,16 +104,6 @@ Their reunion symbolises that openness and love can surpass any challenge,
 allowing all to enjoy hope and peace.</p>
 </div>
 </details>
-</div>
-<h4><strong>📍 Cloud Pagoda &amp; Cleansing Biotope Ponds, Chinese Garden</strong></h4>
-<p>Tying in with the spirit of the Mid-Autumn Festival, the displays at the
-Cleansing Biotope Ponds centre on Chang'e, the Moon Goddess of Chinese
-legend. One display depicts Chang'e in her celestial home, surrounded by
-lotus flowers, gazing down upon the mortal world – a gentle reminder that
-loved ones remain connected under the same moon. Nearby, the Jade Rabbit
-and its companions bring festive cheer, symbolising joy, luck, and abundance
-for all.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Cleansing Biotope Ponds – Moonlit Reunion (水上嫦娥)</strong>
 </summary>
@@ -126,8 +126,22 @@ Over here, the Jade Rabbit and its friends have come together to spread
 cheer, hoping to bring joy, luck, abundance, and peace to everyone.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Chinese Garden Gate – A Moonlit Reverie (月过中秋)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h4><strong>📍 Floral Garden &amp; Resthouse Pond, Japanese Garden</strong></h4>
+</details>
+<details class="isomer-details">
+<summary><strong>White Rainbow Bridge – Blossoms of Prosperity (花开富贵)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h4><strong>📍 Japanese Garden</strong><br><strong>Floral Garden &amp; Resthouse Pond</strong></h4>
 <p>At the Floral Garden, the displays pay homage to the Japanese folktale
 of Princess Kaguya, depicting her bathed in moonlight and surrounded by
 blooming flowers, rabbits, and drifting clouds in a dreamlike scene that
