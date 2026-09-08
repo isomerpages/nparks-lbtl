@@ -11,7 +11,7 @@ description: ""
 </div>
 <p>📅 19 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
-<br>⏰ 6:30pm onwards
+<br>⏰ 6:30pm till late
 <br>🎫 Free admission</p>
 <p>Get ready to rock through the decades! Rockestra® is back at Lights by
 the Lake 2026, and opening night on 19 September is set to be one for the
