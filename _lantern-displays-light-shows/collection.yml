@@ -2,4 +2,4 @@ collections:
   lantern-displays-light-shows:
     output: true
     order:
-      - Lantern Displays.md
+      - Lantern Displays and Light Shows.md
