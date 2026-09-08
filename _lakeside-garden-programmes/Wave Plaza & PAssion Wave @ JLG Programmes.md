@@ -33,8 +33,17 @@ just like an artist and see the park's flora through a whole new lens.</p>
 <h4><strong>Taman Jurong CACC PAssion Arts Festival: Slow Threads</strong></h4>
 <p>📅 19 – 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 6:30pm – 9:30pm</p>
-<h4><strong>Arts Activities (TBC)</strong></h4>
+<p>⏰ 7pm – 9:30pm</p>
+<h4><strong>Arts Activities (19 and 20 Sep)</strong></h4>
+<p>Get hands-on with a range of craft activities across both days! On 19
+and 20 September, collage a personal journal page from everyday scraps
+in Junk Journalling, or hand-stitch your very own stress doll to take home.
+Returning on 20 September are three additional activities — punch-needle
+your way into a bold textile piece, swirl pigments into one-of-a-kind marbled
+paper coasters, or weave a delicate satin ornament to hang from your lantern.
+Every activity is designed to be tactile, meditative, and deeply satisfying.
+No experience needed, just curiosity and a willingness to make something
+with your hands</p>
 <h4><strong>Performances (20 Sep)</strong></h4>
 <p>As the sun sets over the lake, the stage comes alive. Kick off the evening
 with enchanting puppet storytelling – handcrafted characters weaving tales
