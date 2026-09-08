@@ -250,7 +250,15 @@ of Jurong Lake Gardens, the event aims to rekindle the joy of lantern procession
 and preserve a cherished cultural heritage for future generations.</p>
 <p>Participants will embark on a symbolic lantern trail, carrying illuminated
 lanterns through the gardens before gathering at the finale screening area
-for the premiere of Lil Wild and a showcase of short films under the stars.</p>
+for the premiere of Lil Wild.</p>
+<p>Lil Wild in the Big City is a new animated kids’ series by Mediacorp about
+a lovable group of animal friends navigating friendship, big feelings and
+growing up together. In this Moon Lantern Festival episode, Meep stays
+up past his bedtime and turns into one very cranky little tiger, leaving
+his friends to help him calm down before the celebrations go off track.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Come join the Lil Wild gang and watch this special Moon Lantern Festival episode at the Lantern Festival Trail!</strong>
+</p>
 <h4><strong>Night Dragonboat Tours by PAssion Wave @ JLG</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Light_Up_Jurong_Lake___Night_Dragon_Boating_resized.png">
