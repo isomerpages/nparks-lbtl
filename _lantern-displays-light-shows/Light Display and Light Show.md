@@ -4,12 +4,12 @@ permalink: /light-display-show/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Sunken Garden Light Display</strong></h4>
+<h4><strong>Sunken Garden: Lotus in Bloom</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Light Shows/IMG_9601.jpg">
 </div>
 <p>📅 19 September – 27 September 2026
-<br>⏰ 7:30pm – 10:30pm
+<br>⏰ 6:30pm – 10:30pm
 <br>📍 Sunken Garden, Japanese Garden</p>
 <p>A vibrant wash of multicoloured lights transforms the Sunken Garden into
 a magical after-dark spectacle, dotted with delicate lotus lanterns that
