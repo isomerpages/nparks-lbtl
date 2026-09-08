@@ -52,7 +52,31 @@ over with a heartfelt, genre-spanning set that's homegrown and full of
 energy. The puppets return for a second showing with a brand new story,
 before a live busker closes the night with an intimate, unhurried set under
 the open sky. The perfect end to an evening of making, magic, and togetherness.</p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>Puppet Show</strong>
+</p>
+<p>Two delightful performances await the little ones! Sweetheart the Clown
+and Baby Pinky kick things off with a whirlwind of fun — expect laugh-out-loud
+ventriloquism, interactive magic, and balloon sculpting packed into a 30-minute
+show full of audience interaction and delightful surprises. Then, Sweetheart
+returns with Ting Tong the panda, who loves to dance and sing silly songs
+that kids can grooooove to in a mass dance!</p>
+<p><strong>Arpeggiosg</strong>
+</p>
+<p>Introducing Arpeggiosg, where music comes together in harmony. 🎶Founded
+in 2018, Arpeggiosg brings the joy of live music to weddings, events, and
+celebrations — creating heartfelt moments and bringing people together
+through the beauty of music. Follow and tag&nbsp;@arpeggiosg&nbsp;on Instagram
+— we’d love to celebrate and share these special moments with you!</p>
+<p><strong>New Gen Wind Symphony</strong>
+</p>
+<p>New Gen Wind Symphony was founded in November 2014 by twelve passionate
+youths, led by Ethan Peck. What began as informal jam sessions grew into
+a full community band, driven by the enthusiasm of founding Music Director
+Dorean Tan. In January 2017, the band officially joined Taman Jurong Community
+Arts and Culture Club as an Interest Group. Today, under the direction
+of Vincent Lee, the band is dedicated to inspiring young musicians and
+bringing music to the community — guided by their motto, "Forging Friendships
+Through Music."</p>
 <h4><strong>ArtsEverywhere@CDC Performances</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/ArtsEverywhere_CDC.jpg">
