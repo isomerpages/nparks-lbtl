@@ -35,7 +35,7 @@ DMs! <em>Giveaway begins 30 Aug and ends 6 Sep 2026.</em>
 </div>
 <p>📅 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden &amp; Ficus Lawn, Chinese Garden</p>
-<p>⏰ 6:30pm - 7:30pm</p>
+<p>⏰ 6pm - 7:30pm</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
 the rich traditions of Chinese culture. Set against the scenic backdrop
