@@ -83,7 +83,7 @@ I Black Sesame Egg Yolk I Caramel Coffee Macadamia</p>
 <p><strong>Single:</strong> $6.90
 <br><strong>Gift Box:</strong> $69.90<em> (8pcs per box)</em>
 </p>
-<p><u>STARBUCKS® REWARDS MEMBER EXCUSIVE:</u>
+<p><u>STARBUCKS® REWARDS MEMBER EXCLUSIVE:</u>
 <br>Enjoy 120 BONUS STARS when you purchase 2 Mooncake Gift Boxes. Get additional
 60 BONUS STARS per box from 3<sup>rd</sup> box and more.
 <br><em>While stocks last. T&amp;Cs apply.</em>
