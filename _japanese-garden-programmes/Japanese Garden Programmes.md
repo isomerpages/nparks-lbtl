@@ -34,6 +34,8 @@ of all backgrounds together.</p>
 <p>Explore how games arrived in Singapore, the games we grew up with, and
 the homegrown titles that are uniquely ours. Then collect all the stamps
 to complete your very own airplane chess board to take home and play!</p>
+<p><em>Stamp activity will be suspended in event of haze, for the safety of the senior volunteers.</em>
+</p>
 <h4><strong>Celestial Nights: Mid-Autumn Edition by Science Centre Singapore</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Picture1.jpg">

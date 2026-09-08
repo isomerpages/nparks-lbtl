@@ -11,7 +11,7 @@ description: ""
 </div>
 <p>📅 19 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
-<br>⏰ 6:30pm onwards
+<br>⏰ 6:30pm till late
 <br>🎫 Free admission</p>
 <p>Get ready to rock through the decades! Rockestra® is back at Lights by
 the Lake 2026, and opening night on 19 September is set to be one for the
@@ -35,7 +35,9 @@ DMs! <em>Giveaway begins 30 Aug and ends 6 Sep 2026.</em>
 </div>
 <p>📅 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden &amp; Ficus Lawn, Chinese Garden</p>
-<p>⏰ 6:30pm - 7:30pm</p>
+<p>⏰ 6pm - 7:30pm</p>
+<p>🔗 Find out more <a href="https://mediacorpevents.sg/mediacorpevents/mediacorp-lantern-trail-2026" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
 the rich traditions of Chinese culture. Set against the scenic backdrop
@@ -43,7 +45,12 @@ of Jurong Lake Gardens, the event aims to rekindle the joy of lantern procession
 and preserve a cherished cultural heritage for future generations.</p>
 <p>Participants will embark on a symbolic lantern trail, carrying illuminated
 lanterns through the gardens before gathering at the finale screening area
-for the premiere of Lil Wild and a showcase of short films under the stars.</p>
+for the premiere of Lil Wild.</p>
+<p>Lil Wild in the Big City is a new animated kids’ series by Mediacorp about
+a lovable group of animal friends navigating friendship, big feelings and
+growing up together. In this Moon Lantern Festival episode, Meep stays
+up past his bedtime and turns into one very cranky little tiger, leaving
+his friends to help him calm down before the celebrations go off track.&nbsp;</p>
 <h4><strong>DementiaSG Talk and Short Films Screening</strong></h4>
 <p>📅 20 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp; Garden

@@ -8,9 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/LBTL_Lantern_Riddle_2.jpg">
 </div>
-<p>📅 21 to 25 September 2026 (Mon – Fri)</p>
-<p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 7pm – 9pm</p>
+<p>📅 21 to 25 September 2026 (Mon – Fri)
+<br>📍 Wave Plaza, Lakeside Garden
+<br>⏰ 7pm – 9pm</p>
 <p>Gather the family and put your wits to the test! Under the warm glow of
 lanterns, unravel traditional riddles for an evening of laughter, friendly
 competition, and festive fun. Can't make it down? Tune in to our official
@@ -21,9 +21,9 @@ radio station Love 97.2 to catch the riddles on air — and win prizes (till
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/NGS_Roving_Art_Truck.jpg">
 </div>
-<p>📅 19, 20, 26, 27 September 2026 (Weekends)</p>
-<p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 6:30pm – 10:30pm</p>
+<p>📅 19, 20, 26, 27 September 2026 (Weekends)
+<br>📍 Wave Plaza, Lakeside Garden
+<br>⏰ 6:30pm – 10:30pm</p>
 <p>The Roving Art Studio transforms the festival grounds into a living gallery,
 showcasing nature-inspired masterpieces from the National Collection.</p>
 <p>Get hands-on with an activity inspired by Georgette Chen's <em>Still Life (Moon Festival Table)</em> —
@@ -32,10 +32,12 @@ to our <em>Lotus in a Breeze</em> photo spot, where you can "paint" the scene
 just like an artist and see the park's flora through a whole new lens.</p>
 <p>&nbsp;</p>
 <h4><strong>Taman Jurong CACC PAssion Arts Festival: Slow Threads</strong></h4>
-<p>📅 19 – 20 September 2026</p>
-<p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 7pm – 9:30pm</p>
+<p>📅 19 – 20 September 2026
+<br>📍 Wave Plaza, Lakeside Garden
+<br>⏰ 7pm – 9:30pm</p>
+<blockquote>
 <h4><strong>Arts Activities (19 and 20 Sep)</strong></h4>
+</blockquote>
 <p>Get hands-on with a range of craft activities across both days! On 19
 and 20 September, collage a personal journal page from everyday scraps
 in Junk Journalling, or hand-stitch your very own stress doll to take home.
@@ -45,7 +47,9 @@ paper coasters, or weave a delicate satin ornament to hang from your lantern.
 Every activity is designed to be tactile, meditative, and deeply satisfying.
 No experience needed, just curiosity and a willingness to make something
 with your hands</p>
+<blockquote>
 <h4><strong>Performances (20 Sep)</strong></h4>
+</blockquote>
 <p>As the sun sets over the lake, the stage comes alive. Kick off the evening
 with enchanting puppet storytelling – handcrafted characters weaving tales
 of community and wonder for all ages. Next, the New Gen Wind Symphony takes
@@ -53,23 +57,34 @@ over with a heartfelt, genre-spanning set that's homegrown and full of
 energy. The puppets return for a second showing with a brand new story,
 before a live busker closes the night with an intimate, unhurried set under
 the open sky. The perfect end to an evening of making, magic, and togetherness.</p>
-<p>&nbsp;<strong>Puppet Show</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Puppet Show</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Two delightful performances await the little ones! Sweetheart the Clown
 and Baby Pinky kick things off with a whirlwind of fun — expect laugh-out-loud
 ventriloquism, interactive magic, and balloon sculpting packed into a 30-minute
 show full of audience interaction and delightful surprises. Then, Sweetheart
 returns with Ting Tong the panda, who loves to dance and sing silly songs
 that kids can grooooove to in a mass dance!</p>
-<p><strong>Arpeggiosg</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Arpeggiosg</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Introducing Arpeggiosg, where music comes together in harmony. 🎶Founded
 in 2018, Arpeggiosg brings the joy of live music to weddings, events, and
 celebrations — creating heartfelt moments and bringing people together
 through the beauty of music. Follow and tag&nbsp;@arpeggiosg&nbsp;on Instagram
 — we’d love to celebrate and share these special moments with you!</p>
-<p><strong>New Gen Wind Symphony</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>New Gen Wind Symphony</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>New Gen Wind Symphony was founded in November 2014 by twelve passionate
 youths, led by Ethan Peck. What began as informal jam sessions grew into
 a full community band, driven by the enthusiasm of founding Music Director
@@ -78,20 +93,25 @@ Arts and Culture Club as an Interest Group. Today, under the direction
 of Vincent Lee, the band is dedicated to inspiring young musicians and
 bringing music to the community — guided by their motto, "Forging Friendships
 Through Music."</p>
+</div>
+</details>
+</div>
 <h4><strong>ArtsEverywhere@CDC Performances</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/ArtsEverywhere_CDC.jpg">
 </div>
-<p>📅 19, 26 September 2026 (Saturdays)</p>
-<p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 6:30pm – 9pm</p>
+<p>📅 19, 26 September 2026 (Saturdays)
+<br>📍 Wave Plaza, Lakeside Garden
+<br>⏰ 6:30pm – 9pm</p>
 <p>ArtsEverywhere @ CDC brings quality arts performances and experiences
 to the heartlands, making the arts a natural and accessible part of everyday
 neighbourhood life. From large-scale performances by established arts groups
 to intimate street performances by local artists, there is something for
 everyone regardless of age, background or familiarity with the arts.</p>
+<blockquote>
 <p>&nbsp;<strong>19 Sep Programme</strong>
 </p>
+</blockquote>
 <p>Two exciting performances await at Jurong Lake Gardens on 19 September.
 Open Score Project opens the evening with The People's Orchestra — weaving
 music from various cultures that shapes our multifaceted identity, from
@@ -103,8 +123,10 @@ neighbourhood into a communal ballroom with Tea Dance: As We Cha Cha &amp;
 Jive — taking its cue from the beloved 90s community song "As We Walk to
 the Right", inviting residents to move together as they learn Cha Cha and
 Jive.</p>
+<blockquote>
 <p><strong>26 Sep Programme</strong>
 </p>
+</blockquote>
 <p>Two exciting performances await at Jurong Lake Gardens on 26 September.
 Kenchana Jazz, led by crooner Rudy Djoe, presents Wayang Mobil: Moonlight
 Romance — a warm and elegant journey through timeless melodies, familiar
@@ -118,15 +140,19 @@ responds to other art forms, bringing together two exciting pairings —
 Breaking x Silat by Sean &amp; Hafeez, and Hip Hop x Beatboxing by Aryll
 &amp; Terence — before wrapping up with a community jam for everyone, led
 by emcee Alif.</p>
+<blockquote>
 <p><strong>FRINGE ACTIVITY: Communal Graphic Score by PLAY!</strong>
 </p>
+</blockquote>
 <p>Music is as much visual and physical as it is auditory. We take everyday
 objects that remind us of home (chairs, tables, lamps) and turn them into
 graphic scores. Placed around JLG with paints and markers next to them,
 people are invited to respond to the music/dance of the event and create
 their own communal score.</p>
+<blockquote>
 <p><strong>COLLECT: South West Limited Edition Collectible by South West CDC</strong>
 </p>
+</blockquote>
 <p>The South West Limited Edition Collectible is a collaboration with local
 artist Elisa Liu. At each ArtsEverywhere @ CDC event, we will distribute
 one unique card. There are six collectible cards inspired by recognisable
@@ -138,8 +164,11 @@ featured cards are the Cloud Pagoda (19 Sept) and Rasau Walk (26 Sept).
 Head over to the booth to collect yours! Remember to follow @southwest.cdc
 on Instagram to find out when and where the next ArtsEverywhere @ CDC event
 will be held.</p>
-<p><strong>About Open Score Project</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About Open Score Project</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Open Score Project (OSP), founded by Gildon Choo in 2018, is a syncretic
 music ensemble comprising musicians from different cultural backgrounds
 and musical influences. OSP aims to pioneer sound that reflects Singapore's
@@ -152,8 +181,12 @@ by the Esplanade, "Palindrome", a highlight of A Date with Tradition in
 conjunction with Singapore Night Festival, and featured as a main act in
 Chingay Parade from 2023 to 2025. OSP has represented Singapore in arts
 festivals in countries such as Uzbekistan, Vietnam, and China.</p>
-<p><strong>About The DanceSport Academy</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About The DanceSport Academy</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Recognised for its specialised training in Latin and Standard Ballroom,
 The DanceSport Academy (TDA) is one of Singapore's established DanceSport
 academies, dedicated to developing dancers through quality training, strong
@@ -163,8 +196,12 @@ dancers of all levels can build confidence, express their creativity and
 discover their potential. With a commitment to excellence, artistry and
 the joy of dance, TDA continues to inspire dancers to learn, perform and
 grow.</p>
-<p><strong>About Kenchana Jazz</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About Kenchana Jazz</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Kenchana Jazz is a Singapore-based ensemble dedicated to celebrating timeless
 melodies through Jazz, Latin and Bossa Nova influences, while showcasing
 the rich musical heritage of the Malay Archipelago. The group is known
@@ -178,8 +215,12 @@ from across Asia and the Nusantara. Joining him is a featured songbird
 vocalist, adding further warmth, charm and variety to the programme. Together
 with a classy ensemble of accomplished musicians, they create an engaging
 musical journey that is both refined and enjoyable.</p>
-<p><strong>About ScRach MarcS</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About ScRach MarcS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>ScRach MarcS hopes to constantly innovate and push artistic boundaries
 through works that are a celebration of movement and expression, reflecting
 the here and now. As active practitioners who engage in an extensive range
@@ -192,10 +233,13 @@ Festival (USA), Street Jam (KR), Street Dance of China (CN), Japan Dance
 Delight (JP) to the Singaporean landscape; Singapore International Festival
 of the Arts (SIFA), Dan:s Festival (Esplanade), Night Festival, F1 Singapore
 Grand Prix, Contact Festival and various commissioned works.</p>
+</div>
+</details>
+</div>
 <h4><strong>Music Performances by ART:DIS Artistes</strong></h4>
-<p>📅 27 September 2026</p>
-<p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 7pm – 9pm</p>
+<p>📅 27 September 2026
+<br>📍 Wave Plaza, Lakeside Garden
+<br>⏰ 7pm – 9pm</p>
 <p>Celebrate the magic of inclusive arts with an evening of live music by
 three talented ART:DIS artistes. Come early, stay a while, and let the
 music move you!</p>
@@ -239,10 +283,10 @@ renditions of our favourite songs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Mediacorp_Lantern_KV.jpg">
 </div>
-<p>📅 20 September 2026</p>
-<p>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
-<p>⏰ 6:30pm – 7:30pm</p>
-<p>🔗 Find out more <a href="https://mediacorpevents.sg/mediacorpevents/mediacorp-lantern-trail-2026" rel="noopener nofollow" target="_blank">here</a>
+<p>📅 20 September 2026
+<br>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden
+<br>⏰ 6pm – 7:30pm
+<br>🔗 Find out more <a href="https://mediacorpevents.sg/mediacorpevents/mediacorp-lantern-trail-2026" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
@@ -263,10 +307,10 @@ episode at the Lantern Festival Trail!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Light_Up_Jurong_Lake___Night_Dragon_Boating_resized.png">
 </div>
-<p>📅 26 September 2026</p>
-<p>📍PAssion Wave @ Jurong Lake Gardens, Lakeside Garden</p>
-<p>⏰6pm –10pm (four sessions)</p>
-<p>🔗 Register and find out more <a href="https://www.onepa.gov.sg/events/pwjlg-light-up-jurong-lake-night-dragon-boat-paddling-experience-e44018107" rel="noopener nofollow" target="_blank">here</a>
+<p>📅 26 September 2026
+<br>📍PAssion Wave @ Jurong Lake Gardens, Lakeside Garden
+<br>⏰6pm –10pm (four sessions)
+<br>🔗 Register and find out more <a href="https://www.onepa.gov.sg/events/pwjlg-light-up-jurong-lake-night-dragon-boat-paddling-experience-e44018107" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>The Night Dragon Boat Paddling Experience is a new initiative by PAssion
 Wave @ Jurong Lake Gardens, marking the first night dragon boating that
