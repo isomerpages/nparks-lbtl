@@ -241,7 +241,7 @@ renditions of our favourite songs.</p>
 <p>📅 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
 <p>⏰ 6:30pm – 7:30pm</p>
-<p>🔗 Find out more <a href="mediacorplanterntrail.sg" rel="noopener nofollow" target="_blank">here</a>
+<p>🔗 Find out more <a href="www.mediacorplanterntrail.sg" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
@@ -252,6 +252,9 @@ and preserve a cherished cultural heritage for future generations.</p>
 lanterns through the gardens before gathering at the finale screening area
 for the premiere of Lil Wild and a showcase of short films under the stars.</p>
 <h4><strong>Night Dragonboat Tours by PAssion Wave @ JLG</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Light_Up_Jurong_Lake___Night_Dragon_Boating_resized.png">
+</div>
 <p>📅 26 September 2026</p>
 <p>📍PAssionWave, Lakeside Garden</p>
 <p>⏰6pm –10pm (four sessions)</p>
