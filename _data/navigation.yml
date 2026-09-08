@@ -2,6 +2,8 @@ logo: /images/Partners & Logos/JLG_Secondary_Logo.png
 links:
   - title: About
     url: /about/
+  - title: Event Map
+    url: /event-map/
   - title: Lantern Displays & Light Shows
     url: /lantern-displays/
     sublinks:
@@ -22,8 +24,6 @@ links:
         url: /japanese-garden-programmes/
   - title: F&B
     url: /food-and-drink
-  - title: Event Map
-    url: /event-map/
   - title: Getting here
     collection: getting-to-lights-by-the-lake
   - title: Advisories
