@@ -11,7 +11,7 @@ description: ""
 <p>📅 19, 20, 26, and 27 September 2026 (Weekends)
 <br>📍 Grand Arch, Chinese Garden
 <br>⏰ 6pm – 7pm
-<br>🔗 Registration required</p>
+<br>🔗 Registration required (see below)</p>
 <p>Ever wondered where your food comes from? Join our guided tour of the
 Edible Garden and discover the fascinating world of fruits and vegetables
 – from seed to table. A fun and eye-opening experience for the whole family!</p>
@@ -30,7 +30,7 @@ Edible Garden and discover the fascinating world of fruits and vegetables
 <p>Route &amp; Meeting Point</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Registration Link</p>
+<p>Registration Link (2 sessions each timing)</p>
 </th>
 </tr>
 <tr>
