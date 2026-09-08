@@ -12,23 +12,14 @@ sections:
       url: /about/
       variant: center
   - infopic:
-      title: Lantern Displays
+      title: Lantern Displays & Light Shows
       id: infopic
       description: Walk amongst glowing scenes of the treasured Chinese tale, Legend
         of the White Snake, and other Mid-Autumn legends.
       button: READ MORE
-      url: /lantern-displays
+      url: /lantern-displays/
       image: /images/Lanterns/Image_MAF__2019_.jpg
       alt: Chang'e lantern at Stoneboat
-  - infopic:
-      title: Light Shows & Displays
-      id: infopic
-      description: Descend into a world of vibrant wonder as the Sunken Garden and
-        Cloud Pagoda come alive with stunning multicoloured light displays!
-      button: READ MORE
-      url: /light-shows
-      image: /images/Activities/1__Kellin_Yee.jpg
-      alt: Photo Credit Kellin Yee
   - infopic:
       title: Festival Programmes
       id: infopic
