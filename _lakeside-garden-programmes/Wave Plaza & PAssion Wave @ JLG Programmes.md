@@ -264,7 +264,7 @@ episode at the Lantern Festival Trail!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Light_Up_Jurong_Lake___Night_Dragon_Boating_resized.png">
 </div>
 <p>📅 26 September 2026</p>
-<p>📍PAssionWave, Lakeside Garden</p>
+<p>📍PAssion Wave @ Jurong Lake Gardens, Lakeside Garden</p>
 <p>⏰6pm –10pm (four sessions)</p>
 <p>🔗 Register and find out more <a href="https://www.onepa.gov.sg/events/pwjlg-light-up-jurong-lake-night-dragon-boat-paddling-experience-e44018107" rel="noopener nofollow" target="_blank">here</a>
 </p>
