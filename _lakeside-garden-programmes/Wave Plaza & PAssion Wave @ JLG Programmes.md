@@ -14,7 +14,8 @@ description: ""
 <p>Gather the family and put your wits to the test! Under the warm glow of
 lanterns, unravel traditional riddles for an evening of laughter, friendly
 competition, and festive fun. Can't make it down? Tune in to our official
-radio station Love 97.2 to catch the riddles on air — and win prizes!</p>
+radio station Love 97.2 to catch the riddles on air — and win prizes (till
+18 Sep only)!</p>
 <p>&nbsp;</p>
 <h4><strong>Roving Art Studio by National Gallery Singapore</strong></h4>
 <div class="isomer-image-wrapper">
@@ -241,7 +242,7 @@ renditions of our favourite songs.</p>
 <p>📅 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
 <p>⏰ 6:30pm – 7:30pm</p>
-<p>🔗 Find out more <a href="www.mediacorplanterntrail.sg" rel="noopener nofollow" target="_blank">here</a>
+<p>🔗 Find out more <a href="https://mediacorpevents.sg/mediacorpevents/mediacorp-lantern-trail-2026" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
@@ -250,7 +251,14 @@ of Jurong Lake Gardens, the event aims to rekindle the joy of lantern procession
 and preserve a cherished cultural heritage for future generations.</p>
 <p>Participants will embark on a symbolic lantern trail, carrying illuminated
 lanterns through the gardens before gathering at the finale screening area
-for the premiere of Lil Wild and a showcase of short films under the stars.</p>
+for the premiere of Lil Wild.</p>
+<p>Lil Wild in the Big City is a new animated kids’ series by Mediacorp about
+a lovable group of animal friends navigating friendship, big feelings and
+growing up together. In this Moon Lantern Festival episode, Meep stays
+up past his bedtime and turns into one very cranky little tiger, leaving
+his friends to help him calm down before the celebrations go off track.&nbsp;</p>
+<p>Come join the Lil Wild gang and watch this special Moon Lantern Festival
+episode at the Lantern Festival Trail!</p>
 <h4><strong>Night Dragonboat Tours by PAssion Wave @ JLG</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Light_Up_Jurong_Lake___Night_Dragon_Boating_resized.png">
@@ -281,7 +289,8 @@ keepsake to remember the night by.</p>
 </div>
 <p>📅 26 and 27 September 2026
 <br>⏰ 3pm - 6pm
-<br>🔗 Registration required – opening soon</p>
+<br>🔗 Register <a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2026-land-activities-on-26-27-september-2026-e39106950" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p>Discover the beauty of Chinese calligraphy through a hands-on introduction
 to basic brush strokes and techniques. Participants can try their hand
 at this traditional art form and bring home a special piece of calligraphy
@@ -293,7 +302,8 @@ created by the trainer.</p>
 </div>
 <p>📅 26 September 2026 (Saturday)
 <br>⏰3pm – 5pm
-<br>🔗 Registration required – opening soon</p>
+<br>🔗 Register <a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2026-land-activities-on-26-27-september-2026-e39106950" rel="noopener nofollow" target="_blank"><u>here</u></a>
+</p>
 <p>Unwind and get creative with the Art of Zentangle, an easy-to-learn and
 relaxing method of drawing using simple, structured patterns. In this 30-minute
 guided session, participants will create Mid-Autumn Festival-inspired designs.
@@ -305,10 +315,10 @@ No art experience is required, making it suitable for everyone.</p>
 </div>
 <p>📅 26 and 27 September 2026
 <br>⏰3pm – 6pm
-<br>🔗 Registration required – opening soon</p>
+<br>🔗 Register <a href="https://www.onepa.gov.sg/events/pwjlg-x-nparks-lights-by-the-lake-2026-land-activities-on-26-27-september-2026-e39106950" rel="noopener nofollow" target="_blank"><u>here</u></a>
+</p>
 <p>Celebrate the Mid-Autumn Festival by crafting your very own Clay Lantern
 Keychain! Inspired by the warmth and togetherness of the festival, participants
 will use cheerful shades of yellow, orange and blue to create a charming
 lantern keychain to bring home as a keepsake.</p>
-<p></p>
 <p></p>
