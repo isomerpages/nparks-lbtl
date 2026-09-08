@@ -53,23 +53,34 @@ over with a heartfelt, genre-spanning set that's homegrown and full of
 energy. The puppets return for a second showing with a brand new story,
 before a live busker closes the night with an intimate, unhurried set under
 the open sky. The perfect end to an evening of making, magic, and togetherness.</p>
-<p>&nbsp;<strong>Puppet Show</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Puppet Show</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Two delightful performances await the little ones! Sweetheart the Clown
 and Baby Pinky kick things off with a whirlwind of fun — expect laugh-out-loud
 ventriloquism, interactive magic, and balloon sculpting packed into a 30-minute
 show full of audience interaction and delightful surprises. Then, Sweetheart
 returns with Ting Tong the panda, who loves to dance and sing silly songs
 that kids can grooooove to in a mass dance!</p>
-<p><strong>Arpeggiosg</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Arpeggiosg</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Introducing Arpeggiosg, where music comes together in harmony. 🎶Founded
 in 2018, Arpeggiosg brings the joy of live music to weddings, events, and
 celebrations — creating heartfelt moments and bringing people together
 through the beauty of music. Follow and tag&nbsp;@arpeggiosg&nbsp;on Instagram
 — we’d love to celebrate and share these special moments with you!</p>
-<p><strong>New Gen Wind Symphony</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>New Gen Wind Symphony</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>New Gen Wind Symphony was founded in November 2014 by twelve passionate
 youths, led by Ethan Peck. What began as informal jam sessions grew into
 a full community band, driven by the enthusiasm of founding Music Director
@@ -78,6 +89,9 @@ Arts and Culture Club as an Interest Group. Today, under the direction
 of Vincent Lee, the band is dedicated to inspiring young musicians and
 bringing music to the community — guided by their motto, "Forging Friendships
 Through Music."</p>
+</div>
+</details>
+</div>
 <h4><strong>ArtsEverywhere@CDC Performances</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/ArtsEverywhere_CDC.jpg">
@@ -138,8 +152,11 @@ featured cards are the Cloud Pagoda (19 Sept) and Rasau Walk (26 Sept).
 Head over to the booth to collect yours! Remember to follow @southwest.cdc
 on Instagram to find out when and where the next ArtsEverywhere @ CDC event
 will be held.</p>
-<p><strong>About Open Score Project</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About Open Score Project</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Open Score Project (OSP), founded by Gildon Choo in 2018, is a syncretic
 music ensemble comprising musicians from different cultural backgrounds
 and musical influences. OSP aims to pioneer sound that reflects Singapore's
@@ -152,8 +169,12 @@ by the Esplanade, "Palindrome", a highlight of A Date with Tradition in
 conjunction with Singapore Night Festival, and featured as a main act in
 Chingay Parade from 2023 to 2025. OSP has represented Singapore in arts
 festivals in countries such as Uzbekistan, Vietnam, and China.</p>
-<p><strong>About The DanceSport Academy</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About The DanceSport Academy</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Recognised for its specialised training in Latin and Standard Ballroom,
 The DanceSport Academy (TDA) is one of Singapore's established DanceSport
 academies, dedicated to developing dancers through quality training, strong
@@ -163,8 +184,12 @@ dancers of all levels can build confidence, express their creativity and
 discover their potential. With a commitment to excellence, artistry and
 the joy of dance, TDA continues to inspire dancers to learn, perform and
 grow.</p>
-<p><strong>About Kenchana Jazz</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About Kenchana Jazz</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Kenchana Jazz is a Singapore-based ensemble dedicated to celebrating timeless
 melodies through Jazz, Latin and Bossa Nova influences, while showcasing
 the rich musical heritage of the Malay Archipelago. The group is known
@@ -178,8 +203,12 @@ from across Asia and the Nusantara. Joining him is a featured songbird
 vocalist, adding further warmth, charm and variety to the programme. Together
 with a classy ensemble of accomplished musicians, they create an engaging
 musical journey that is both refined and enjoyable.</p>
-<p><strong>About ScRach MarcS</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About ScRach MarcS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>ScRach MarcS hopes to constantly innovate and push artistic boundaries
 through works that are a celebration of movement and expression, reflecting
 the here and now. As active practitioners who engage in an extensive range
@@ -192,6 +221,9 @@ Festival (USA), Street Jam (KR), Street Dance of China (CN), Japan Dance
 Delight (JP) to the Singaporean landscape; Singapore International Festival
 of the Arts (SIFA), Dan:s Festival (Esplanade), Night Festival, F1 Singapore
 Grand Prix, Contact Festival and various commissioned works.</p>
+</div>
+</details>
+</div>
 <h4><strong>Music Performances by ART:DIS Artistes</strong></h4>
 <p>📅 27 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
