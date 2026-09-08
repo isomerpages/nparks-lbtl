@@ -160,5 +160,26 @@ sparklers, etc.) are not allowed within our Garden premises.</p>
 </div>
 </details>
 </div>
+<h4><strong>First aid</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>First aid details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A paramedic and first aid staff are stationed at the Entrance Pavilion
+(Lakeside Garden) throughout the event.</p>
 <p></p>
+<p>Additional first aid posts (FAP) are available at <strong>Pagoda Plaza (Chinese Garden)</strong> and <strong>Water Lily Pavilion (Japanese Garden)</strong> on
+the following dates, from <strong>6.30pm – 10.30pm</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>19, 20, 25, 26, 27 Sep</p>
+</li>
+</ul>
+<p></p>
+<p>Outside these dates and timings, please head to the Entrance Pavilion
+for first aid assistance. For medical emergencies, please call <strong>995</strong> immediately
+or approach the nearest on-site staff.</p>
+</div>
+</details>
+</div>
 <p></p>
