@@ -256,7 +256,6 @@ a lovable group of animal friends navigating friendship, big feelings and
 growing up together. In this Moon Lantern Festival episode, Meep stays
 up past his bedtime and turns into one very cranky little tiger, leaving
 his friends to help him calm down before the celebrations go off track.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Come join the Lil Wild gang and watch this special Moon Lantern Festival episode at the Lantern Festival Trail!</strong>
 </p>
 <h4><strong>Night Dragonboat Tours by PAssion Wave @ JLG</strong></h4>
@@ -318,5 +317,4 @@ No art experience is required, making it suitable for everyone.</p>
 Keychain! Inspired by the warmth and togetherness of the festival, participants
 will use cheerful shades of yellow, orange and blue to create a charming
 lantern keychain to bring home as a keepsake.</p>
-<p></p>
 <p></p>
