@@ -33,8 +33,17 @@ just like an artist and see the park's flora through a whole new lens.</p>
 <h4><strong>Taman Jurong CACC PAssion Arts Festival: Slow Threads</strong></h4>
 <p>📅 19 – 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
-<p>⏰ 6:30pm – 9:30pm</p>
-<h4><strong>Arts Activities (TBC)</strong></h4>
+<p>⏰ 7pm – 9:30pm</p>
+<h4><strong>Arts Activities (19 and 20 Sep)</strong></h4>
+<p>Get hands-on with a range of craft activities across both days! On 19
+and 20 September, collage a personal journal page from everyday scraps
+in Junk Journalling, or hand-stitch your very own stress doll to take home.
+Returning on 20 September are three additional activities — punch-needle
+your way into a bold textile piece, swirl pigments into one-of-a-kind marbled
+paper coasters, or weave a delicate satin ornament to hang from your lantern.
+Every activity is designed to be tactile, meditative, and deeply satisfying.
+No experience needed, just curiosity and a willingness to make something
+with your hands</p>
 <h4><strong>Performances (20 Sep)</strong></h4>
 <p>As the sun sets over the lake, the stage comes alive. Kick off the evening
 with enchanting puppet storytelling – handcrafted characters weaving tales
@@ -43,7 +52,31 @@ over with a heartfelt, genre-spanning set that's homegrown and full of
 energy. The puppets return for a second showing with a brand new story,
 before a live busker closes the night with an intimate, unhurried set under
 the open sky. The perfect end to an evening of making, magic, and togetherness.</p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>Puppet Show</strong>
+</p>
+<p>Two delightful performances await the little ones! Sweetheart the Clown
+and Baby Pinky kick things off with a whirlwind of fun — expect laugh-out-loud
+ventriloquism, interactive magic, and balloon sculpting packed into a 30-minute
+show full of audience interaction and delightful surprises. Then, Sweetheart
+returns with Ting Tong the panda, who loves to dance and sing silly songs
+that kids can grooooove to in a mass dance!</p>
+<p><strong>Arpeggiosg</strong>
+</p>
+<p>Introducing Arpeggiosg, where music comes together in harmony. 🎶Founded
+in 2018, Arpeggiosg brings the joy of live music to weddings, events, and
+celebrations — creating heartfelt moments and bringing people together
+through the beauty of music. Follow and tag&nbsp;@arpeggiosg&nbsp;on Instagram
+— we’d love to celebrate and share these special moments with you!</p>
+<p><strong>New Gen Wind Symphony</strong>
+</p>
+<p>New Gen Wind Symphony was founded in November 2014 by twelve passionate
+youths, led by Ethan Peck. What began as informal jam sessions grew into
+a full community band, driven by the enthusiasm of founding Music Director
+Dorean Tan. In January 2017, the band officially joined Taman Jurong Community
+Arts and Culture Club as an Interest Group. Today, under the direction
+of Vincent Lee, the band is dedicated to inspiring young musicians and
+bringing music to the community — guided by their motto, "Forging Friendships
+Through Music."</p>
 <h4><strong>ArtsEverywhere@CDC Performances</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/ArtsEverywhere_CDC.jpg">
@@ -56,7 +89,108 @@ to the heartlands, making the arts a natural and accessible part of everyday
 neighbourhood life. From large-scale performances by established arts groups
 to intimate street performances by local artists, there is something for
 everyone regardless of age, background or familiarity with the arts.</p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>19 Sep Programme</strong>
+</p>
+<p>Two exciting performances await at Jurong Lake Gardens on 19 September.
+Open Score Project opens the evening with The People's Orchestra — weaving
+music from various cultures that shapes our multifaceted identity, from
+the Chinese erhu to the oud and wooden flutes, as Eastern folk instruments
+and Western strings resonate congruently with one another in a celebration
+of unity within diversity for Mid-Autumn Festival, a season of reunion
+and renewal. Later in the evening, The DanceSport Academy transforms the
+neighbourhood into a communal ballroom with Tea Dance: As We Cha Cha &amp;
+Jive — taking its cue from the beloved 90s community song "As We Walk to
+the Right", inviting residents to move together as they learn Cha Cha and
+Jive.</p>
+<p><strong>26 Sep Programme</strong>
+</p>
+<p>Two exciting performances await at Jurong Lake Gardens on 26 September.
+Kenchana Jazz, led by crooner Rudy Djoe, presents Wayang Mobil: Moonlight
+Romance — a warm and elegant journey through timeless melodies, familiar
+favourites and songs of romance. With the spirit of "LAST TIME or DULU-DULU,"
+the performance revisits songs that have endured through the years, blending
+jazz and Latin rhythms with Malay, English and Chinese songs alongside
+beloved regional classics, bringing together music across cultures and
+generations in a relaxed and heartfelt celebration. Later in the evening,
+ScRach MarcS takes over with an interactive showcase exploring how movement
+responds to other art forms, bringing together two exciting pairings —
+Breaking x Silat by Sean &amp; Hafeez, and Hip Hop x Beatboxing by Aryll
+&amp; Terence — before wrapping up with a community jam for everyone, led
+by emcee Alif.</p>
+<p><strong>FRINGE ACTIVITY: Communal Graphic Score by PLAY!</strong>
+</p>
+<p>Music is as much visual and physical as it is auditory. We take everyday
+objects that remind us of home (chairs, tables, lamps) and turn them into
+graphic scores. Placed around JLG with paints and markers next to them,
+people are invited to respond to the music/dance of the event and create
+their own communal score.</p>
+<p><strong>COLLECT: South West Limited Edition Collectible by South West CDC</strong>
+</p>
+<p>The South West Limited Edition Collectible is a collaboration with local
+artist Elisa Liu. At each ArtsEverywhere @ CDC event, we will distribute
+one unique card. There are six collectible cards inspired by recognisable
+landmarks and cultural icons across the South West District. Once you've
+collected all six cards, share a photo of your completed collection on
+Instagram and use the hashtags #SWIcons, #SouthWestCDC and #ArtsEverywhereCDC
+for a chance to receive a mystery gift. Terms and conditions apply. Today's
+featured cards are the Cloud Pagoda (19 Sept) and Rasau Walk (26 Sept).
+Head over to the booth to collect yours! Remember to follow @southwest.cdc
+on Instagram to find out when and where the next ArtsEverywhere @ CDC event
+will be held.</p>
+<p><strong>About Open Score Project</strong>
+</p>
+<p>Open Score Project (OSP), founded by Gildon Choo in 2018, is a syncretic
+music ensemble comprising musicians from different cultural backgrounds
+and musical influences. OSP aims to pioneer sound that reflects Singapore's
+identity and cultural diversity, drawing inspiration upon the various musical
+traditions of Singapore in its original works and arrangements. OSP believes
+in bringing people together through music-making, and advocates for bridging
+people of different cultural landscapes through artistic exchanges and
+collaboration. OSP's most recent works include "A Sea of Stories", a commission
+by the Esplanade, "Palindrome", a highlight of A Date with Tradition in
+conjunction with Singapore Night Festival, and featured as a main act in
+Chingay Parade from 2023 to 2025. OSP has represented Singapore in arts
+festivals in countries such as Uzbekistan, Vietnam, and China.</p>
+<p><strong>About The DanceSport Academy</strong>
+</p>
+<p>Recognised for its specialised training in Latin and Standard Ballroom,
+The DanceSport Academy (TDA) is one of Singapore's established DanceSport
+academies, dedicated to developing dancers through quality training, strong
+techniques and a passion for performance. Led by National DanceSport Champions
+Melvin and Sharon, TDA offers a vibrant and progressive environment where
+dancers of all levels can build confidence, express their creativity and
+discover their potential. With a commitment to excellence, artistry and
+the joy of dance, TDA continues to inspire dancers to learn, perform and
+grow.</p>
+<p><strong>About Kenchana Jazz</strong>
+</p>
+<p>Kenchana Jazz is a Singapore-based ensemble dedicated to celebrating timeless
+melodies through Jazz, Latin and Bossa Nova influences, while showcasing
+the rich musical heritage of the Malay Archipelago. The group is known
+for presenting familiar classics in elegant and accessible arrangements
+that appeal to audiences of diverse backgrounds. Led by crooner Rudy Djoe,
+a versatile vocalist known for his warm, soulful voice and performances
+across Singapore's Malay and English entertainment scene, Kenchana Jazz
+presents a tasteful and sophisticated musical experience featuring a blend
+of Jazz, Latin and Bossa Nova favourites alongside beloved regional classics
+from across Asia and the Nusantara. Joining him is a featured songbird
+vocalist, adding further warmth, charm and variety to the programme. Together
+with a classy ensemble of accomplished musicians, they create an engaging
+musical journey that is both refined and enjoyable.</p>
+<p><strong>About ScRach MarcS</strong>
+</p>
+<p>ScRach MarcS hopes to constantly innovate and push artistic boundaries
+through works that are a celebration of movement and expression, reflecting
+the here and now. As active practitioners who engage in an extensive range
+of performance formats, they blend their knowledge of relevancy with a
+deeper reflection — where the viscerality of movements contain the rich
+embodied knowledge. Their works are constantly in conversation between
+the vernacular perspective and the critical provocation of hierarchy, challenging
+how power shifts across various spheres — from San Francisco Hip Hop International
+Festival (USA), Street Jam (KR), Street Dance of China (CN), Japan Dance
+Delight (JP) to the Singaporean landscape; Singapore International Festival
+of the Arts (SIFA), Dan:s Festival (Esplanade), Night Festival, F1 Singapore
+Grand Prix, Contact Festival and various commissioned works.</p>
 <h4><strong>Music Performances by ART:DIS Artistes</strong></h4>
 <p>📅 27 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
@@ -107,7 +241,7 @@ renditions of our favourite songs.</p>
 <p>📅 20 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden</p>
 <p>⏰ 6:30pm – 7:30pm</p>
-<p>🔗 Find out more <a href="mediacorplanterntrail.sg" rel="noopener nofollow" target="_blank">here</a>
+<p>🔗 Find out more <a href="www.mediacorplanterntrail.sg" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
@@ -118,6 +252,9 @@ and preserve a cherished cultural heritage for future generations.</p>
 lanterns through the gardens before gathering at the finale screening area
 for the premiere of Lil Wild and a showcase of short films under the stars.</p>
 <h4><strong>Night Dragonboat Tours by PAssion Wave @ JLG</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Light_Up_Jurong_Lake___Night_Dragon_Boating_resized.png">
+</div>
 <p>📅 26 September 2026</p>
 <p>📍PAssionWave, Lakeside Garden</p>
 <p>⏰6pm –10pm (four sessions)</p>
