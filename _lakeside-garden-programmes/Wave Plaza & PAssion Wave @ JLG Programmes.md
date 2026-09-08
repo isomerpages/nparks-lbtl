@@ -89,7 +89,108 @@ to the heartlands, making the arts a natural and accessible part of everyday
 neighbourhood life. From large-scale performances by established arts groups
 to intimate street performances by local artists, there is something for
 everyone regardless of age, background or familiarity with the arts.</p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>19 Sep Programme</strong>
+</p>
+<p>Two exciting performances await at Jurong Lake Gardens on 19 September.
+Open Score Project opens the evening with The People's Orchestra — weaving
+music from various cultures that shapes our multifaceted identity, from
+the Chinese erhu to the oud and wooden flutes, as Eastern folk instruments
+and Western strings resonate congruently with one another in a celebration
+of unity within diversity for Mid-Autumn Festival, a season of reunion
+and renewal. Later in the evening, The DanceSport Academy transforms the
+neighbourhood into a communal ballroom with Tea Dance: As We Cha Cha &amp;
+Jive — taking its cue from the beloved 90s community song "As We Walk to
+the Right", inviting residents to move together as they learn Cha Cha and
+Jive.</p>
+<p><strong>26 Sep Programme</strong>
+</p>
+<p>Two exciting performances await at Jurong Lake Gardens on 26 September.
+Kenchana Jazz, led by crooner Rudy Djoe, presents Wayang Mobil: Moonlight
+Romance — a warm and elegant journey through timeless melodies, familiar
+favourites and songs of romance. With the spirit of "LAST TIME or DULU-DULU,"
+the performance revisits songs that have endured through the years, blending
+jazz and Latin rhythms with Malay, English and Chinese songs alongside
+beloved regional classics, bringing together music across cultures and
+generations in a relaxed and heartfelt celebration. Later in the evening,
+ScRach MarcS takes over with an interactive showcase exploring how movement
+responds to other art forms, bringing together two exciting pairings —
+Breaking x Silat by Sean &amp; Hafeez, and Hip Hop x Beatboxing by Aryll
+&amp; Terence — before wrapping up with a community jam for everyone, led
+by emcee Alif.</p>
+<p><strong>FRINGE ACTIVITY: Communal Graphic Score by PLAY!</strong>
+</p>
+<p>Music is as much visual and physical as it is auditory. We take everyday
+objects that remind us of home (chairs, tables, lamps) and turn them into
+graphic scores. Placed around JLG with paints and markers next to them,
+people are invited to respond to the music/dance of the event and create
+their own communal score.</p>
+<p><strong>COLLECT: South West Limited Edition Collectible by South West CDC</strong>
+</p>
+<p>The South West Limited Edition Collectible is a collaboration with local
+artist Elisa Liu. At each ArtsEverywhere @ CDC event, we will distribute
+one unique card. There are six collectible cards inspired by recognisable
+landmarks and cultural icons across the South West District. Once you've
+collected all six cards, share a photo of your completed collection on
+Instagram and use the hashtags #SWIcons, #SouthWestCDC and #ArtsEverywhereCDC
+for a chance to receive a mystery gift. Terms and conditions apply. Today's
+featured cards are the Cloud Pagoda (19 Sept) and Rasau Walk (26 Sept).
+Head over to the booth to collect yours! Remember to follow @southwest.cdc
+on Instagram to find out when and where the next ArtsEverywhere @ CDC event
+will be held.</p>
+<p><strong>About Open Score Project</strong>
+</p>
+<p>Open Score Project (OSP), founded by Gildon Choo in 2018, is a syncretic
+music ensemble comprising musicians from different cultural backgrounds
+and musical influences. OSP aims to pioneer sound that reflects Singapore's
+identity and cultural diversity, drawing inspiration upon the various musical
+traditions of Singapore in its original works and arrangements. OSP believes
+in bringing people together through music-making, and advocates for bridging
+people of different cultural landscapes through artistic exchanges and
+collaboration. OSP's most recent works include "A Sea of Stories", a commission
+by the Esplanade, "Palindrome", a highlight of A Date with Tradition in
+conjunction with Singapore Night Festival, and featured as a main act in
+Chingay Parade from 2023 to 2025. OSP has represented Singapore in arts
+festivals in countries such as Uzbekistan, Vietnam, and China.</p>
+<p><strong>About The DanceSport Academy</strong>
+</p>
+<p>Recognised for its specialised training in Latin and Standard Ballroom,
+The DanceSport Academy (TDA) is one of Singapore's established DanceSport
+academies, dedicated to developing dancers through quality training, strong
+techniques and a passion for performance. Led by National DanceSport Champions
+Melvin and Sharon, TDA offers a vibrant and progressive environment where
+dancers of all levels can build confidence, express their creativity and
+discover their potential. With a commitment to excellence, artistry and
+the joy of dance, TDA continues to inspire dancers to learn, perform and
+grow.</p>
+<p><strong>About Kenchana Jazz</strong>
+</p>
+<p>Kenchana Jazz is a Singapore-based ensemble dedicated to celebrating timeless
+melodies through Jazz, Latin and Bossa Nova influences, while showcasing
+the rich musical heritage of the Malay Archipelago. The group is known
+for presenting familiar classics in elegant and accessible arrangements
+that appeal to audiences of diverse backgrounds. Led by crooner Rudy Djoe,
+a versatile vocalist known for his warm, soulful voice and performances
+across Singapore's Malay and English entertainment scene, Kenchana Jazz
+presents a tasteful and sophisticated musical experience featuring a blend
+of Jazz, Latin and Bossa Nova favourites alongside beloved regional classics
+from across Asia and the Nusantara. Joining him is a featured songbird
+vocalist, adding further warmth, charm and variety to the programme. Together
+with a classy ensemble of accomplished musicians, they create an engaging
+musical journey that is both refined and enjoyable.</p>
+<p><strong>About ScRach MarcS</strong>
+</p>
+<p>ScRach MarcS hopes to constantly innovate and push artistic boundaries
+through works that are a celebration of movement and expression, reflecting
+the here and now. As active practitioners who engage in an extensive range
+of performance formats, they blend their knowledge of relevancy with a
+deeper reflection — where the viscerality of movements contain the rich
+embodied knowledge. Their works are constantly in conversation between
+the vernacular perspective and the critical provocation of hierarchy, challenging
+how power shifts across various spheres — from San Francisco Hip Hop International
+Festival (USA), Street Jam (KR), Street Dance of China (CN), Japan Dance
+Delight (JP) to the Singaporean landscape; Singapore International Festival
+of the Arts (SIFA), Dan:s Festival (Esplanade), Night Festival, F1 Singapore
+Grand Prix, Contact Festival and various commissioned works.</p>
 <h4><strong>Music Performances by ART:DIS Artistes</strong></h4>
 <p>📅 27 September 2026</p>
 <p>📍 Wave Plaza, Lakeside Garden</p>
