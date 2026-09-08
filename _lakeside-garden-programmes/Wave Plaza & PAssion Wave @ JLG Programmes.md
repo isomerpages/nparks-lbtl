@@ -121,7 +121,7 @@ for the premiere of Lil Wild and a showcase of short films under the stars.</p>
 <p>📅 26 September 2026</p>
 <p>📍PAssionWave, Lakeside Garden</p>
 <p>⏰6pm –10pm (four sessions)</p>
-<p>🔗 Register and find out more <a href="" rel="noopener nofollow" target="_blank">here</a>
+<p>🔗 Register and find out more <a href="https://www.onepa.gov.sg/events/pwjlg-light-up-jurong-lake-night-dragon-boat-paddling-experience-e44018107" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>The Night Dragon Boat Paddling Experience is a new initiative by PAssion
 Wave @ Jurong Lake Gardens, marking the first night dragon boating that
