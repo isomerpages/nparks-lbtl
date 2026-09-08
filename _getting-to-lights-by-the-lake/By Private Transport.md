@@ -60,7 +60,7 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 <p>Stage Performances at Wave Plaza</p>
 </li>
 <li>
-<p>Food Street</p>
+<p>Food Market</p>
 </li>
 <li>
 <p>Chinese Garden</p>
@@ -231,9 +231,9 @@ the directions to coach bay and follow the instructions of personnel onsite.</p>
 </table>
 <p></p>
 <p>^New parking session starts after 6pm.</p>
-<p>*Grace period is given to vehicles to help help facilitate passenger(s)
-drop-offs/pick-up for events and activities. Note that vehicles exceeding
-the grace period will be charged for parking accordingly.</p>
+<p>*Grace period is given to vehicles to facilitate passenger(s) drop-offs/pick-up
+for events and activities. Note that vehicles exceeding the grace period
+will be charged for parking accordingly.</p>
 <p></p>
 </div>
 </details>
