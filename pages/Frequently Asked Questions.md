@@ -23,6 +23,28 @@ description: ""
 displays till 4 Oct 2026), with various timings for each programme.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Is there a map of the festival grounds?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes! Check out our <a href="https://www.google.com/maps/d/u/1/edit?mid=1sNDFSTFbsrO6Htg7AMc176ks4fs4EcI&amp;usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Event Map</a> to
+find key locations across the festival, including carparks, information
+booths, and first aid posts.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What if I need first aid during the event?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A paramedic and first aid staff are stationed at the Entrance Pavilion
+(Lakeside Garden) throughout the event. Additional first aid posts at Pagoda
+Plaza (Chinese Garden) and Water Lily Pavilion (Japanese Garden) are available
+on 19, 20, 25, 26 and 27 Sep, from 6.30pm to 10.30pm. Outside these dates
+and timings, please head to the Entrance Pavilion for first aid assistance.
+For medical emergencies, please call <strong>995</strong> immediately or
+approach the nearest on-site staff.</p>
+</div>
+</details>
 </div>
 <h4><strong>Directions</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
