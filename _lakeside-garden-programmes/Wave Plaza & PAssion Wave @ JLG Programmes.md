@@ -256,8 +256,8 @@ a lovable group of animal friends navigating friendship, big feelings and
 growing up together. In this Moon Lantern Festival episode, Meep stays
 up past his bedtime and turns into one very cranky little tiger, leaving
 his friends to help him calm down before the celebrations go off track.&nbsp;</p>
-<p><strong>Come join the Lil Wild gang and watch this special Moon Lantern Festival episode at the Lantern Festival Trail!</strong>
-</p>
+<p>Come join the Lil Wild gang and watch this special Moon Lantern Festival
+episode at the Lantern Festival Trail!</p>
 <h4><strong>Night Dragonboat Tours by PAssion Wave @ JLG</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/Light_Up_Jurong_Lake___Night_Dragon_Boating_resized.png">
