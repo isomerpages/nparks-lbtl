@@ -108,8 +108,8 @@ dishes when visiting Canopy during the event period.</p>
 <p></p>
 <h4><strong>Ice Cream Man &amp; Friends</strong></h4>
 <p>📅 25 – 27 September 2026
-<br>📍 Japanese Garden</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Soft-serve ice cream at $3 (usual price $4)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Free lanterns to be given out to children age
-12 and below, with any purchases from 25 to 27 September 2026, 7pm to 9pm.
-Limited to 50 lanterns per day, while stocks last.</p>
+<br>📍 Japanese GardenCelebrate the Mid-Autumn Festival with us! From 25 to
+27 September 2026, between 7pm and 9pm, any purchase gets your little ones
+a free lantern to light up the night — available for children aged 12 and
+below, so don't miss out! We have 50 lanterns to give away each day, so
+come early while stocks last.</p>
