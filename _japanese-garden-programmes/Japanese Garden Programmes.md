@@ -26,7 +26,8 @@ for an unhurried escape from daily chaos.</p>
 </div>
 <p>📅 14 – 27 September 2026
 <br>📍Resthouse, Japanese Garden
-<br>⏰ All day (Stamp activity available from 19 Sep, 7pm – 10pm)</p>
+<br>⏰ All day (Stamp activity available on 19, 20, 25, 26 and 27 Sep, from
+7pm to 10pm)</p>
 <p>Remember Snakes &amp; Ladders at the void deck? Aeroplane Chess on a lazy
 afternoon? Board games are more than just a pastime – they are part of
 a shared collective memory of growing up in Singapore, bringing people
@@ -34,7 +35,7 @@ of all backgrounds together.</p>
 <p>Explore how games arrived in Singapore, the games we grew up with, and
 the homegrown titles that are uniquely ours. Then collect all the stamps
 to complete your very own airplane chess board to take home and play!</p>
-<p><em>Stamp activity will be suspended in event of haze, for the safety of the senior volunteers.</em>
+<p><em>Stamping activity will be available 19, 20, 25, 26 and 27 Sep from 7pm to 10pm. <br>From 21 to 24 Sep, the activity is subject to suspension in the event of haze for the safety of senior volunteer guides.</em>
 </p>
 <h4><strong>Celestial Nights: Mid-Autumn Edition by Science Centre Singapore</strong></h4>
 <div class="isomer-image-wrapper">
