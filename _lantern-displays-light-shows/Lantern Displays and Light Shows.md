@@ -157,6 +157,8 @@ of projection, music and lantern light, the Cloud Pagoda transforms into
 a world of memory, longing and hope. As the barriers of time finally give
 way, Bai Suzhen and Xu Xian are reunited in this reimagined ending, and
 the Garden glows with a radiant celebration of love, family and new beginnings.</p>
+<p>On <strong>19 September</strong>, the light show will be suspended during
+Rockestra<strong>®</strong> and will resume at 9:30pm.</p>
 <p>On <strong>21 September</strong>, the Cloud Pagoda will glow in yellow
 and purple in honour of <strong>World Alzheimer's Day</strong>.</p>
 <h4><strong>📍 Japanese Garden</strong><br><strong>Floral Garden &amp; Resthouse Pond</strong></h4>
