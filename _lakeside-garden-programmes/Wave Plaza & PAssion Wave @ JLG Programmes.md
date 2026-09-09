@@ -32,6 +32,10 @@ to our <em>Lotus in a Breeze</em> photo spot, where you can "paint" the scene
 just like an artist and see the park's flora through a whole new lens.</p>
 <p>&nbsp;</p>
 <h4><strong>Taman Jurong CACC PAssion Arts Festival: Slow Threads</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/20251005_Aux_Npark_JurongLake_0080.jpg">
+</div>
 <p>📅 19 – 20 September 2026
 <br>📍 Wave Plaza, Lakeside Garden
 <br>⏰ 7pm – 9:30pm</p>
