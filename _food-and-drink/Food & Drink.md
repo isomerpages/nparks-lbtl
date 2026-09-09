@@ -99,3 +99,15 @@ on our fragrant <strong>Golden Lantern Truffle Fries</strong> ($5.90). Sip
 on the dreamy <strong>Butterfly Moonlight Float</strong> ($7.90) and let
 the magic of the season wash over you. Better yet, bundle it all with our <strong>Moonlight Lantern Set</strong> ($29.80)
 for the ultimate festive feast!</p>
+<p>From 19 September to 4 October 2026, receive a complimentary lantern with
+dine-in purchases of minimum spend of $50, while stocks last. Guests can
+also enjoy our selection of Asian-inspired dishes when visiting Canopy
+during the event period.</p>
+<p><strong>Terms and conditions:</strong>
+</p>
+<p>Limited redemptions, while stocks last.</p>
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Soft-serve ice cream at $3 (usual price $4)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Free lanterns to be given out to children age
+12 and below, with any purchases from 25 to 27 September 2026, 7pm to 9pm.
+Limited to 50 lanterns per day, while stocks last.</p>
