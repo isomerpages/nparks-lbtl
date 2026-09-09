@@ -31,7 +31,6 @@ sections:
       image: /images/Activities/IMG_6086.jpg
   - infopic:
       title: "NParks Concert Series in the Park: Rockestra®"
-      subtitle: Add an image and text
       id: infopic
       description: Get ready for a night of great music and good vibes! Gather your
         family and friends and sing along to familiar favourites performed live
