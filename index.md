@@ -28,7 +28,18 @@ sections:
       button: READ MORE
       url: /programmes-overview
       alt: Rockestra concert
-      image: /images/Rockestra/NParks_Rockestra.jpg
+      image: /images/Activities/IMG_6086.jpg
+  - infopic:
+      title: "NParks Concert Series in the Park: Rockestra®"
+      subtitle: Add an image and text
+      id: infopic
+      description: Get ready for a night of great music and good vibes! Gather your
+        family and friends and sing along to familiar favourites performed live
+        under the stars.
+      button: Read More
+      url: /rockestra/
+      image: /images/Rockestra/HY_27_resized.jpg
+      alt: Image alt text
   - infobar:
       title: We would love to hear from you!
       id: infobar
