@@ -168,7 +168,7 @@ sparklers, etc.) are not allowed within our Garden premises.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A paramedic is stationed at the Entrance Pavilion (Lakeside Garden) throughout
-the event.</p>
+the event (19 - 27 Sep)</p>
 <p></p>
 <p>Additional first aid posts (FAP) are available at <strong>Pagoda Plaza (Chinese Garden)</strong> and <strong>Water Lily Pavilion (Japanese Garden)</strong> on
 the following dates, from <strong>6.30pm – 10.30pm</strong>:</p>
