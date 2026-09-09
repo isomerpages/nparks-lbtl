@@ -29,4 +29,10 @@ sections:
       url: /programmes-overview
       alt: Rockestra concert
       image: /images/Rockestra/NParks_Rockestra.jpg
+  - infobar:
+      title: We would love to hear from you!
+      id: infobar
+      description: Share your feedback with us.
+      button: Click here
+      url: go.gov.sg/lbtl26feedback
 ---

@@ -6,7 +6,7 @@ description: ""
 ---
 <p>From spectacular lantern displays, electrifying cultural showcases &amp;
 music performances (including crowd-favourite Rockestra<strong>®</strong>!),
-captivating lantern riddles, a food street featuring delectable F&amp;B
+captivating lantern riddles, a food market featuring delectable F&amp;B
 to exciting partner programmes, be enchanted this Mid-Autumn Festival at
 Lights by the Lake 2026!</p>
 <table style="minWidth: 50px">
