@@ -54,6 +54,10 @@ it all.</p>
 <p>Click <a href="https://juronglakegardens.nparks.gov.sg/dining/" rel="noopener nofollow" target="_blank">here</a> for
 more information on dining options within the Gardens.</p>
 <p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/130725_ARTS_JLG_299.jpg">
+</div>
 <h4><strong>Bouncy Castles and Games by Families for Life</strong></h4>
 <p>📅 19, 20, 26, 27 September 2026 (Weekends)</p>
 <p>📍 Lakeside Field, Lakeside Garden</p>
