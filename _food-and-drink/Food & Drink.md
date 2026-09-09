@@ -99,3 +99,26 @@ on our fragrant <strong>Golden Lantern Truffle Fries</strong> ($5.90). Sip
 on the dreamy <strong>Butterfly Moonlight Float</strong> ($7.90) and let
 the magic of the season wash over you. Better yet, bundle it all with our <strong>Moonlight Lantern Set</strong> ($29.80)
 for the ultimate festive feast!</p>
+<h4><strong>Canopy</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/canopy.jpg">
+</div>
+<p>📅 19 September - 4 October 2026
+<br>📍 Chinese Garden</p>
+<p>Receive a complimentary lantern with dine-in purchases of minimum spend
+of $50, while stocks last. Guests can also enjoy our selection of Asian-inspired
+dishes when visiting Canopy during the event period.</p>
+<p></p>
+<h4><strong>Ice Cream Man &amp; Friends</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/icmaf.jpg">
+</div>
+<p>📅 25 – 27 September 2026
+<br>📍 Japanese Garden</p>
+<p>Celebrate the Mid-Autumn Festival with us! From 25 to 27 September 2026,
+between 7pm and 9pm, any purchase gets your little ones a free lantern
+to light up the night — available for children aged 12 and below, so don't
+miss out! We have 50 lanterns to give away each day, so come early while
+stocks last.</p>
