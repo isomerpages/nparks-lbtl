@@ -32,3 +32,13 @@ locations of Chinese Garden and collect landmark stamps as the story unfolds.
 Complete the rally to receive a special keepsake of your own!</p>
 <p><em>Redemption only available on 19, 20, 25, 26 and 27 September 2026 at Bonsai Garden from 6.30pm – 9.30pm.</em>
 </p>
+<h4><strong>Busking</strong></h4>
+<p>📅 21 – 27 September 2026
+<br>📍 Pagoda Plaza (Weekdays), Outdoor Kitchen (near Grand Arch, Weekend)
+<br>⏰ 7pm – 10pm</p>
+<p>As you wander through the beautiful surroundings of Pagoda Plaza and Outdoor
+Kitchen, let the music find you! Our buskers bring a warm, lively soundtrack
+to your evening, filling the air with unexpected moments of joy against
+the backdrop of the Chinese Garden's most iconic landmarks. Stop, listen,
+and let yourself be surprised.</p>
+<p></p>

@@ -54,7 +54,7 @@ his friends to help him calm down before the celebrations go off track.&nbsp;</p
 <h4><strong>DementiaSG Talk and Short Films Screening</strong></h4>
 <p>📅 20 September 2026
 <br>📍Ficus Lawn, Chinese&nbsp;Garden
-<br>⏰ 7:40pm – 10:30pm</p>
+<br>⏰ 7:40pm – 9:30pm</p>
 <p>On the eve of World Alzheimer's Day, the evening begins with a short sharing
 on dementia by Bernard Lim, Director of Advocacy &amp; Communications,
 before we roll five films that together run approximately 100 minutes.</p>

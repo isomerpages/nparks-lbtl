@@ -20,6 +20,96 @@ sweet potato balls, Thai desserts, and more.</p>
 to light up your evening stroll. Whether you're in the mood for a full
 meal, a quick snack, or a bit of festive shopping, the food market has
 it all.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Vendors</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><em>All options available are understood to be Halal-certified/No Pork No Lard/Muslim-owned unless otherwise stated. Visitors are advised to verify Halal certification or preparation details directly with the vendor, in accordance with their own religious requirements and comfort.</em>
+</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ah Ben Chicken Chop</p>
+</li>
+<li>
+<p>Ah Boy Tako</p>
+</li>
+<li>
+<p>Ah Moi Thai Tea</p>
+</li>
+<li>
+<p>Ahaee Thai Food (non-Halal)</p>
+</li>
+<li>
+<p>BBQ Chef</p>
+</li>
+<li>
+<p>BTHL</p>
+</li>
+<li>
+<p>Food Kartel</p>
+</li>
+<li>
+<p>Juzdrink</p>
+</li>
+<li>
+<p>Krazy Corndog</p>
+</li>
+<li>
+<p>Ministry of Spuds</p>
+</li>
+<li>
+<p>Mizo Kebab</p>
+</li>
+<li>
+<p>Noah Bazaar</p>
+</li>
+<li>
+<p>Nosh</p>
+</li>
+<li>
+<p>Original Vadai</p>
+</li>
+<li>
+<p>Pasta Lab</p>
+</li>
+<li>
+<p>Quicky</p>
+</li>
+<li>
+<p>Ramly Burger</p>
+</li>
+<li>
+<p>Siam THai</p>
+</li>
+<li>
+<p>Skuqa</p>
+</li>
+<li>
+<p>SOHTT</p>
+</li>
+<li>
+<p>Sugarmamalah</p>
+</li>
+<li>
+<p>Taiwan Street Food (non-Halal)</p>
+</li>
+<li>
+<p>Teochew Oyster Pancake (non-Halal)</p>
+</li>
+<li>
+<p>Thai Dessert House</p>
+</li>
+<li>
+<p>Xiao Shao Ye</p>
+</li>
+<li>
+<p>Yatai Taiyaki x Sweet Potato Balls</p>
+</li>
+</ol>
+</div>
+</details>
+</div>
 <h4><strong>Other F&amp;B options in Jurong Lake Gardens</strong></h4>
 <p>📍<strong>Lakeside Garden</strong>
 </p>
@@ -100,7 +190,6 @@ on the dreamy <strong>Butterfly Moonlight Float</strong> ($7.90) and let
 the magic of the season wash over you. Better yet, bundle it all with our <strong>Moonlight Lantern Set</strong> ($29.80)
 for the ultimate festive feast!</p>
 <h4><strong>Canopy</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/canopy.jpg">
 </div>
@@ -111,7 +200,6 @@ of $50, while stocks last. Guests can also enjoy our selection of Asian-inspired
 dishes when visiting Canopy during the event period.</p>
 <p></p>
 <h4><strong>Ice Cream Man &amp; Friends</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/icmaf.jpg">
 </div>
