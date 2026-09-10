@@ -22,13 +22,9 @@ to life by an incredible lineup – <strong>Supersonic</strong>, <strong>Music &
 and <strong>ShiLi &amp; Adi </strong>– all on the Ficus Lawn stage.</p>
 <p>Hosting the night are <strong>Power98's JK</strong> and <strong>883JIA's Ben</strong>,
 so you know the energy is going to be through the roof.</p>
-<p>Want to make the night even more special? JK and Ben are giving away 100
-Kakee picnic basket sets, each packed with goodies for two — the perfect
-way to enjoy the show under the stars. Head to @jkonthego98 and @883benlee
-on Instagram to find out how to enter. Winners will be notified in advance
-and invited to collect their baskets on the night, so keep an eye on your
-DMs! <em>Giveaway begins 30 Aug and ends 6 Sep 2026.</em>
-</p>
+<p>The Instagram giveaway of Kakee picnic basket sets has ended. Winners
+will be notified via Instagram Direct Messages (DMs) and the prizes can
+be collected from the Kakee Konvoy truck at Rockestra® on 19 Sep!</p>
 <h4><strong>Mediacorp Lantern Trail and Animation Screening </strong>新传媒灯笼园游会</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Activities/Mediacorp_Lantern_KV.jpg">
