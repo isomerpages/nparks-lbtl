@@ -290,8 +290,8 @@ renditions of our favourite songs.</p>
 <p>📅 20 September 2026
 <br>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden
 <br>⏰ 6pm – 7:30pm
-<br>🔗 Find out more <a href="https://mediacorpevents.sg/mediacorpevents/mediacorp-lantern-trail-2026" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<br>🔗 Find out more <a href="https://mediacorpevents.sg/mediacorpevents/mediacorp-lantern-trail-2026" rel="noopener nofollow" target="_blank">here</a> [Fully
+Registered]</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
 the rich traditions of Chinese culture. Set against the scenic backdrop
