@@ -190,7 +190,6 @@ on the dreamy <strong>Butterfly Moonlight Float</strong> ($7.90) and let
 the magic of the season wash over you. Better yet, bundle it all with our <strong>Moonlight Lantern Set</strong> ($29.80)
 for the ultimate festive feast!</p>
 <h4><strong>Canopy</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/canopy.jpg">
 </div>
@@ -201,7 +200,6 @@ of $50, while stocks last. Guests can also enjoy our selection of Asian-inspired
 dishes when visiting Canopy during the event period.</p>
 <p></p>
 <h4><strong>Ice Cream Man &amp; Friends</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/icmaf.jpg">
 </div>
