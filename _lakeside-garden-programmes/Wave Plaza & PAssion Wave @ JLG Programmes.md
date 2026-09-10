@@ -14,8 +14,8 @@ description: ""
 <p>Gather the family and put your wits to the test! Under the warm glow of
 lanterns, unravel traditional riddles for an evening of laughter, friendly
 competition, and festive fun. Can't make it down? Tune in to our official
-radio station Love 97.2 to catch the riddles on air — and win prizes (till
-18 Sep only)!</p>
+radio station Love 97.2 to catch the riddles on air — and win prizes (14
+- 18 Sep only)!</p>
 <p>&nbsp;</p>
 <h4><strong>Roving Art Studio by National Gallery Singapore</strong></h4>
 <div class="isomer-image-wrapper">
