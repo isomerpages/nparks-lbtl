@@ -14,8 +14,8 @@ description: ""
 <p>Gather the family and put your wits to the test! Under the warm glow of
 lanterns, unravel traditional riddles for an evening of laughter, friendly
 competition, and festive fun. Can't make it down? Tune in to our official
-radio station Love 97.2 to catch the riddles on air — and win prizes (till
-18 Sep only)!</p>
+radio station Love 97.2 to catch the riddles on air — and win prizes (14
+- 18 Sep only)!</p>
 <p>&nbsp;</p>
 <h4><strong>Roving Art Studio by National Gallery Singapore</strong></h4>
 <div class="isomer-image-wrapper">
@@ -290,8 +290,8 @@ renditions of our favourite songs.</p>
 <p>📅 20 September 2026
 <br>📍 Wave Plaza, Lakeside Garden and Ficus Lawn, Chinese Garden
 <br>⏰ 6pm – 7:30pm
-<br>🔗 Find out more <a href="https://mediacorpevents.sg/mediacorpevents/mediacorp-lantern-trail-2026" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<br>🔗 Find out more <a href="https://mediacorpevents.sg/mediacorpevents/mediacorp-lantern-trail-2026" rel="noopener nofollow" target="_blank">here</a> [Fully
+Registered]</p>
 <p>Mediacorp Lantern Trail 新传媒灯笼园游会 is a family-centric Mid-Autumn Festival
 celebration that brings together multiple generations to reconnect with
 the rich traditions of Chinese culture. Set against the scenic backdrop
