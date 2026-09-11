@@ -48,7 +48,7 @@ to complete your very own airplane chess board to take home and play!</p>
 <br><strong>📅 </strong>25 and 26 September
 <br>📍Water Lily Pavilion, Japanese Garden
 <br>⏰ 6:30pm – 10pm</p>
-<p>MOONBEATS: AFTERDARK Silent Disco
+<p><strong>MOONBEATS: AFTERDARK Silent Disco </strong>
 <br><strong>📅</strong> 26 September
 <br>📍Science Centre Singapore and Japanese Garden
 <br>⏰ 7pm till late</p>
