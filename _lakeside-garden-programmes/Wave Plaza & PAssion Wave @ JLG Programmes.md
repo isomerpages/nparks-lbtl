@@ -50,7 +50,7 @@ your way into a bold textile piece, swirl pigments into one-of-a-kind marbled
 paper coasters, or weave a delicate satin ornament to hang from your lantern.
 Every activity is designed to be tactile, meditative, and deeply satisfying.
 No experience needed, just curiosity and a willingness to make something
-with your hands</p>
+with your hands.</p>
 <blockquote>
 <h4><strong>Performances (20 Sep)</strong></h4>
 </blockquote>
