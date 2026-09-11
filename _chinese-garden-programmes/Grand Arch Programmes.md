@@ -45,7 +45,7 @@ Edible Garden and discover the fascinating world of fruits and vegetables
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_113/2141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_114/3141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_114/3141_Edible-Garden-Tour-Chinese-Garden-19-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2 1</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ Edible Garden and discover the fascinating world of fruits and vegetables
 <p>26 Sep (Sat), 6pm to 7pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_117/3144_Edible-Garden-Tour-Chinese-Garden-26-Sep-Session-1" rel="noopener nofollow" target="_blank">Session </a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_117/3144_Edible-Garden-Tour-Chinese-Garden-26-Sep-Session-1" rel="noopener nofollow" target="_blank">Session 1</a>
 </p>
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/JLG_118/3145_Edible-Garden-Tour-Chinese-Garden-26-Sep-Session-2" rel="noopener nofollow" target="_blank">Session 2</a>
 </p>
