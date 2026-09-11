@@ -140,6 +140,18 @@ immediately after bad weather. <a href="https://www.weather.gov.sg/home/" rel="n
 visiting.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>During haze</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In light of the current haze situation in Singapore, visitors are advised
+to check the latest air quality readings prior to their visit, keep well-hydrated,
+and seek medical attention should they feel unwell. Should PSI levels rise,
+certain outdoor programmes may be subject to suspension or cancellation.
+For the latest updates on haze conditions at Jurong Lake Gardens and any
+changes to the Lights by the Lake programme, please visit our website.</p>
+</div>
+</details>
 </div>
 <h4><strong>Organised/Group activities</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">

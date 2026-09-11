@@ -100,7 +100,7 @@ Through Music."</p>
 </div>
 </details>
 </div>
-<h4><strong>ArtsEverywhere@CDC Performances</strong></h4>
+<h4><strong>ArtsEverywhere @ CDC Performances</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/ArtsEverywhere_CDC.jpg">
 </div>
