@@ -41,9 +41,17 @@ to complete your very own airplane chess board to take home and play!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Picture1.jpg">
 </div>
-<p>📅 25 and 26 September 2026
+<p><strong>Celestial Trail</strong>
+<br><strong>📅 </strong>19 - 27 September<strong> </strong>
+<br>📍 Science Centre Singapore and Japanese Garden</p>
+<p><strong>Stargazing and Moon Viewing</strong>
+<br><strong>📅 </strong>25 and 26 September
 <br>📍Water Lily Pavilion, Japanese Garden
 <br>⏰ 6:30pm – 10pm</p>
+<p><strong>MOONBEATS: AFTERDARK Silent Disco </strong>
+<br><strong>📅</strong> 26 September
+<br>📍Science Centre Singapore and Japanese Garden
+<br>⏰ 7pm till late</p>
 <p>This Mid-Autumn Festival, join Science Centre for a magical evening where
 science meets culture beneath the stars. Gaze upon Saturn rising in the
 evening sky and take in the beauty of the full moon during our enchanting
