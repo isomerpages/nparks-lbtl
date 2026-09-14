@@ -12,4 +12,5 @@ information booths, so you can plan your visit and get around with ease.</p>
 </div>
 <p><strong>Tip:</strong> Click on a marker to find out more, or zoom in to
 explore Lakeside Garden, Chinese Garden, and Japanese Garden in detail.</p>
-<p>More information can be found <a href="https://www.google.com/maps/d/u/1/edit?mid=1sNDFSTFbsrO6Htg7AMc176ks4fs4EcI&amp;usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>If the above does not load, please click <a href="https://www.google.com/maps/d/u/1/edit?mid=1sNDFSTFbsrO6Htg7AMc176ks4fs4EcI&amp;usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>You may also download the map of JLG <a href="/files/JLG_Map.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
