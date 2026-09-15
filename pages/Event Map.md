@@ -4,7 +4,7 @@ permalink: /event-map/
 variant: tiptap
 description: ""
 ---
-<h3>Everything you need to plan your visit, all in one place.</h3>
+<h3>Everything you need, all in one place.</h3>
 <p>Use the interactive map to navigate the festival grounds, and browse the
 programme board for the full event schedule, carpark locations, and information
 booths.</p>
