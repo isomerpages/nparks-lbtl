@@ -18,7 +18,7 @@ sections:
         of the White Snake, and other Mid-Autumn legends.
       button: READ MORE
       url: /lantern-displays/
-      image: /images/Lanterns/Image_MAF__2019_.jpg
+      image: /images/LBTL_lantern___light_display.png
       alt: Chang'e lantern at Stoneboat
   - infopic:
       title: Festival Programmes
@@ -37,7 +37,7 @@ sections:
         under the stars.
       button: Read More
       url: /rockestra/
-      image: /images/Rockestra/HY_27_resized.jpg
+      image: /images/Rockestra/20181027_Emcee___stage___crowd_5_cropped.jpg
       alt: Image alt text
   - infobar:
       title: We would love to hear from you!
