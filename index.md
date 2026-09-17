@@ -11,6 +11,16 @@ sections:
       button: ABOUT LIGHTS BY THE LAKE
       url: /about/
       variant: center
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Haze Conditions and Programme Update
+          date: 17 September 2026
+          announcement: Stay in the know — check here for haze conditions and programme
+            updates.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Lantern Displays & Light Shows
       id: infopic
