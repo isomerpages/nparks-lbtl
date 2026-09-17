@@ -45,4 +45,14 @@ sections:
       description: Share your feedback with us.
       button: Click here
       url: go.gov.sg/lbtl26feedback
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Haze Conditions and Programme Update
+          date: 17 September 2026
+          announcement: Stay in the know — check here for haze conditions and programme
+            updates.
+          link_text: ""
+          link_url: ""
 ---
