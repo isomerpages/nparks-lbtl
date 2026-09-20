@@ -62,5 +62,5 @@ sections:
       id: infobar
       description: Share your feedback with us.
       button: Click here
-      url: go.gov.sg/lbtl26feedback
+      url: https://go.gov.sg/lbtl26feedback
 ---
