@@ -111,7 +111,7 @@ it all.</p>
 </details>
 </div>
 <h4><strong>Other F&amp;B options in Jurong Lake Gardens</strong></h4>
-<p>📍<strong>Lakeside Garden</strong>
+<p>📍 <strong>Lakeside Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -121,7 +121,7 @@ it all.</p>
 <p>Fusion Spoon (near Eco Pond)</p>
 </li>
 </ul>
-<p>📍<strong>Chinese Garden</strong>
+<p>📍 <strong>Chinese Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -134,7 +134,7 @@ it all.</p>
 <p>BingXue (Bonsai Garden)</p>
 </li>
 </ul>
-<p>📍<strong>Japanese Garden</strong>
+<p>📍 <strong>Japanese Garden</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -148,8 +148,8 @@ more information on dining options within the Gardens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="picture of the Eden cafe" src="/images/FnB/Eden_Cafe_Image___Landscape_1.jpg">
 </div>
-<p>📅1 September 2026 – 30 September 2026
-<br>📍Chinese Garden</p>
+<p>📅 1 September 2026 – 30 September 2026
+<br>📍 Chinese Garden</p>
 <p>Gather your loved ones for a festive feast this Mid-Autumn! Eden's special
 set for 4 is the perfect way to celebrate the season together — enjoy 4
 main dishes and a dessert at just S$59 (U.P. S$68).</p>
@@ -158,7 +158,9 @@ main dishes and a dessert at just S$59 (U.P. S$68).</p>
 <img style="width: 50%;" height="auto" width="100%" alt="image of bingxue outlet at chinese garden" src="/images/FnB/bingxue official.jpg">
 </div>
 <p>📅 25 – 27 September 2026
-<br>📍Chinese Garden</p>
+<br>📍 Chinese Garden
+<br>⏰ 11am – 9pm (Mon – Thu), 11am – 10pm (Fri), 10am – 10pm (Sat – Sun) [<strong>Extended operating hours] </strong>
+</p>
 <p>Cool down after a night of lantern-gazing! Buy any 2 large drinks and
 get a free ice cream cone — choose from Original or Matcha. Limited redemptions
 daily (while stocks last)!</p>
@@ -166,7 +168,7 @@ daily (while stocks last)!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="starbucks mooncake set" src="/images/FnB/Starbucks_mooncakes.png">
 </div>
-<p>📍Lakeside Garden</p>
+<p>📍 Lakeside Garden</p>
 <p><strong>Joyous celebrations with family and friends over Starbucks Assorted Mooncakes.</strong>
 <br>Lotus Paste with Egg Yolk I Osmanthus Oolong I Oolong Yuzu I Pandan Osmanthus
 I Black Sesame Egg Yolk I Caramel Coffee Macadamia</p>
@@ -180,7 +182,7 @@ I Black Sesame Egg Yolk I Caramel Coffee Macadamia</p>
 </p>
 <h4><strong>Fusion Spoon</strong></h4>
 <p>📅 19 – 30 September 2026
-<br>📍Lakeside Garden</p>
+<br>📍 Lakeside Garden</p>
 <p>Celebrate Mid-Autumn in the most delicious way! Whether you're dining
 solo or sharing with loved ones, our festive menu is crafted to make every
 moment shine. Treat yourself to our signature <strong>Moonlight Festive Beef Burger</strong> ($18.90)
@@ -191,7 +193,7 @@ the magic of the season wash over you. Better yet, bundle it all with our <stron
 for the ultimate festive feast!</p>
 <h4><strong>Canopy</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/canopy.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/canopy.jpg">
 </div>
 <p>📅 19 September - 4 October 2026
 <br>📍 Chinese Garden</p>
@@ -201,7 +203,7 @@ dishes when visiting Canopy during the event period.</p>
 <p></p>
 <h4><strong>Ice Cream Man &amp; Friends</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/icmaf.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Activities/icmaf.jpg">
 </div>
 <p>📅 25 – 27 September 2026
 <br>📍 Japanese Garden</p>
