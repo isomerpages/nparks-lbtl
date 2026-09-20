@@ -60,7 +60,6 @@ sections:
   - infobar:
       title: We would love to hear from you!
       id: infobar
-      description: Share your feedback with us.
-      button: Click here
+      button: Share your feedback with us
       url: https://go.gov.sg/lbtl26feedback
 ---
