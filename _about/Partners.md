@@ -21,10 +21,10 @@ Nodes Network.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/00_Organised_By.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/Partners_montage_3.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/LBTL_partners_logo_montage.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Partners &amp; Logos/01_Supported_By.png">
 </div>
