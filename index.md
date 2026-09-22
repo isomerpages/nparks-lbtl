@@ -22,7 +22,7 @@ sections:
           link_text: ""
           link_url: ""
         - title: New Announcement
-          date: 21 September 2026
+          date: 22 September 2026
           announcement: Lights by the Lake 2026 at Jurong Lake Gardens is proceeding as
             scheduled. Visitors are encouraged to check the latest air-quality
             readings before travelling, stay hydrated and seek medical attention
