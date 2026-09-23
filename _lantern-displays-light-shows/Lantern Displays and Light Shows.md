@@ -25,6 +25,10 @@ tale of love, sacrifice, and redemption to a hopeful close.</p>
 <summary><strong>Scene 1 </strong>– <strong>The Spirit Awakens (千年化形)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7352.jpg">
+</div>
 <p>After a thousand years of cultivation, the white snake spirit Bai Suzhen
 finally gains a human form. Together with her companion Xiao Qing, she
 leaves the mountains to explore the human world. A powerful spirit Bai
@@ -38,6 +42,10 @@ her destiny forever.</p>
 <summary><strong>Scene 2 </strong>–<strong> Fateful Encounter on the Bridge (断桥情缘)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7351.jpg">
+</div>
 <p>On a rainy day, Bai Suzhen meets Xu Xian, a humble scholar, at Broken
 Bridge in Hangzhou, and he offers to share his umbrella with her. This
 small act of kindness sparks off a bond between the two – Xu Xian is drawn
@@ -50,6 +58,10 @@ their lives together.</p>
 <summary><strong>Scene 3 </strong>–<strong> A Mortal Life Together (人间相守)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7353.jpg">
+</div>
 <p>Bai Suzhen and Xu Xian marry and settle into a peaceful life in Hangzhou.
 They start a small medicine shop and help the sick, enjoying their days
 together. This period marks the peak of their happiness, underlined by
@@ -62,6 +74,10 @@ ordinary and extraordinary at the same time.</p>
 <summary><strong>Scene 4 </strong>–<strong> The Realgar Wine Revelation (雄黄现形)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7354.jpg">
+</div>
 <p>During the Dragon Boat Festival, the head abbot of Jinshan Temple, Fa
 Hai, warns Xu Xian that Bai Suzhen is not human. The confused and anxious
 Xu Xian gives her realgar wine, which is believed to make a spirit revert
@@ -75,6 +91,10 @@ into fear and dismay.</p>
 <summary><strong>Scene 5 </strong>–<strong> The Battle at Jinshan Temple (金山寺之战)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7358.jpg">
+</div>
 <p>Desperate to reunite with Xu Xian, Bai Suzhen confronts Fa Hai at Jinshan
 Temple. In this fierce battle, she unleashes her great powers, summoning
 waters to engulf the temple. However, Fa Hai manages to overcome her using
@@ -97,6 +117,10 @@ for all.</p>
 <summary><strong>Cloud Pagoda – Scene 6 – Legend of the White Snake: The Reunion (白蛇传: 情归团圆)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7421.jpg">
+</div>
 <p>The enduring tale of Bai Suzhen, Xu Xian, Xiao Qing, and Fa Hai has touched
 countless hearts with its themes of love, sacrifice, and redemption. In
 this reimagined ending, the four characters are finally reunited before
@@ -109,6 +133,10 @@ allowing all to enjoy hope and peace.</p>
 <summary><strong>Cleansing Biotope Ponds – Moonlit Reunion (水上嫦娥)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7384.jpg">
+</div>
 <p>After ascending to the Moon, Chang’e gazes upon the mortal world from
 her celestial home. On this tranquil night, she stands quietly, surrounded
 by blooming lotus flowers that symbolise purity and hope. Her gentle presence
@@ -121,6 +149,10 @@ for an earlier reunion with those we miss dearly.</p>
 <summary><strong>Cleansing Biotope Ponds – Whispers of the Jade Rabbit (玉兔送福)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7388.jpg">
+</div>
 <p>Legend tells of the Jade Rabbit that faithfully accompanies Chang’e in
 the palace on the Moon, where she spends eternity preparing celestial elixirs.
 Over here, the Jade Rabbit and its friends have come together to spread
@@ -132,6 +164,9 @@ cheer, hoping to bring joy, luck, abundance, and peace to everyone.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/PHOTO_2026_09_13_19_36_22.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -139,15 +174,16 @@ cheer, hoping to bring joy, luck, abundance, and peace to everyone.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7380.jpg">
+</div>
 </div>
 </details>
 </div>
 <h4><strong>Cloud Pagoda Light Show: A Love That Endures Time</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Light Shows/17__Jeffrey_Loek.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7405.jpg">
 </div>
-<p><sup>Photo: Jeffrey Leok</sup>
-</p>
 <p>📅 19 September – 27 September 2026
 <br>⏰ 7:30pm – 10pm, every 30 minutes (last show at 10pm)
 <br>📍 Cloud Pagoda, Chinese Garden</p>
@@ -165,8 +201,8 @@ and purple in honour of <strong>World Alzheimer's Day</strong>.</p>
 <p>At the Floral Garden, the displays pay homage to the Japanese folktale
 of Princess Kaguya, depicting her bathed in moonlight and surrounded by
 blooming flowers, rabbits, and drifting clouds in a dreamlike scene that
-evokes beauty and the quiet magic of moonlit nights.&nbsp;</p>
-<p>
+evokes beauty and the quiet magic of moonlit nights.&nbsp;
+<br>
 <br>At Resthouse Pond, colourful koi glide beneath floating lanterns in a
 graceful, shimmering display – drawing on the Japanese and Chinese symbolism
 of koi as emblems of prosperity, resilience, and the steady flow of good
@@ -176,6 +212,10 @@ fortune.</p>
 <summary><strong>Floral Garden – Kaguya's Moon Garden</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7362.jpg">
+</div>
 <p>Bathed in the glow of the full moon, Princess Kaguya radiates elegance
 and tranquility. Inspired by Japanese folktale, she is surrounded by blooming
 flowers, playful rabbits, and drifting clouds, creating a dreamlike scene
@@ -186,6 +226,10 @@ that celebrates beauty, peace, and the magic of moonlit nights.</p>
 <summary><strong>Resthouse Pond – Waters of Abundance (锦鲤送福)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7368.jpg">
+</div>
 <p>Beneath the glow of floating lanterns, colourful koi glide through shimmering
 waters in a graceful dance of light and movement. Admired for their beauty,
 resilience, and calm strength, the koi symbolise prosperity, harmony, and
@@ -196,7 +240,7 @@ pause, reflect, and embrace the promise of brighter days ahead.</p>
 </div>
 <h4><strong>Sunken Garden: Lotus in Bloom</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Activities/Light Shows/IMG_9601.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Lanterns/IMG_7365.jpg">
 </div>
 <p>📅 19 September – 27 September 2026
 <br>⏰ 6:30pm – 10:30pm
