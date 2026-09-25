@@ -16,7 +16,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Haze Conditions and Programme Update
-          date: 22 September 2026
+          date: 26 September 2026
           announcement: Lights by the Lake 2026 at Jurong Lake Gardens is proceeding as
             scheduled. Visitors are encouraged to check the latest air-quality
             readings before travelling, stay hydrated and seek medical attention
