@@ -28,10 +28,8 @@ venues in Chinese Garden!</p>
 <br>⏰ All day</p>
 <p>Join Xiao Qing on a stamp rally adventure as she embarks on a special
 delivery mission inspired by the Legend of Madame White Snake. Visit key
-locations of Chinese Garden and collect landmark stamps as the story unfolds.
-Complete the rally to receive a special keepsake of your own!</p>
-<p><em>Redemption only available on 19, 20, 25, 26 and 27 September 2026 at Bonsai Garden from 6.30pm – 9.30pm.</em>
-</p>
+locations of Chinese Garden and collect landmark stamps as the story unfolds
+— just remember to come prepared with your own paper!</p>
 <h4><strong>Busking</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Activities/IMG_6931_JPG.jpg">
